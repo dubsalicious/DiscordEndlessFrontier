@@ -1,4 +1,4 @@
-.acr "!unitskill frostdemon2" {"plaintext":"%user% typed `!unitskill frostdemon2`", "title":"FrostDemon2","description":"?????? | Ground Unit | :ap::uo::un::hn: Gen 9","footer":{"text":"See !pet bamba | !unit frostdemon2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599730125996043/UI_UNIT_ICONS0173.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+.acr "!unitskill frost demon" {"plaintext":"%user% typed `!unitskill frost demon`", "title":"Frost Demon","description":"★★★★★★ | Ground Unit | :ap::uo::un::hn: Gen 9","footer":{"text":"See !pet bamba | !unit frost demon | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/306907144521777152/365115512843272193/frostdemon-senior-icon.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
 Lv.50 Tribe's Atk Power +27%
 Lv.100 Own Crit Rate +2%
 Lv.200 Tribe's Move Speed +3%
