@@ -1,4 +1,4 @@
-.acr "!unitskill saintorc2" {"plaintext":"%user% typed `!unitskill saintorc2`", "title":"SaintOrc2","description":"?????? | Ground Unit | :am::uh::um::ta::hn: Gen 9","footer":{"text":"See !pet bernard | !unit saintorc2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599732927660034/UI_UNIT_ICONS0167.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+.acr "!unitskill cleric" {"plaintext":"%user% typed `!unitskill cleric`", "title":"Cleric","description":"★★★★★★ | Ground Unit | :am::uh::um::ta::hn: Gen 9","footer":{"text":"See !pet bernard | !unit cleric | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/306907144521777152/365115512163663882/cleric-senior-icon.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
 Lv.50 Tribe's HP +100%
 Lv.100 Tribe's Move Speed +3%
 Lv.200 Tribe's Crit DMG +70%

@@ -1,4 +1,4 @@
-.acr "!unitskill elfmaster2" {"plaintext":"%user% typed `!unitskill elfmaster2`", "title":"ElfMaster2","description":"?????? | Ground Unit | :ap::ue::um::ta::dc::hn: Gen 9","footer":{"text":"See !pet chichi | !unit elfmaster2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599736237228032/UI_UNIT_ICONS0169.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's HP +50%
+.acr "!unitskill elementalist" {"plaintext":"%user% typed `!unitskill elementalist`", "title":"Elementalist","description":"★★★★★★ | Ground Unit | :ap::ue::um::ta::dc::hn: Gen 9","footer":{"text":"See !pet chichi | !unit elementalist | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/306907144521777152/365115510095872001/elementalist-senior-icon.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's HP +50%
 Lv.50 Tribe's Atk Power +27%
 Lv.100 Tribe's Atk Power +27%
 Lv.200 Tribe's Move Speed +3%
