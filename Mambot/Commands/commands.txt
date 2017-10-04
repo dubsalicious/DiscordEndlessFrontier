@@ -15,6 +15,7 @@
 `!guildguide`
 `!guildraid`
 `!honorunit`
+`!links` External Guides
 `!petcombos`
 `!petguide`
 `!petlink`
