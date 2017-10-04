@@ -1,0 +1,5 @@
+.acr "!unit dark ninja" {"plaintext":"%user% typed `!unit dark ninja`", "title":"Senior Dark Ninja","description":"★★★★★★ | Ground Unit | :ap::uu::um::dc::hn: Gen 2","footer":{"text":"See !pet sleepy | !unitskill dark ninja | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386093348782080/UI_UNIT_ICONS0109.png","fields":[{"name":"Abilities","value":"```+ General Attack : Attacks eight times in a row at a fast speed. It may change targets, teleport to the enemy at once and attack.
++ Skill Attack : Pull a distant enemy(including an air unit) towards oneself by using a rake and strike at a fast speed 
++ Special Ability 1 : increase the basic speed of the game and moving speed of all units by 5%
++ Special Ability 2 : Operates a shield, which lets only 1% damage penetrate at a regular rate when attacked
++ Special Ability 3 : Immune to stun```"},],"color":15843890}

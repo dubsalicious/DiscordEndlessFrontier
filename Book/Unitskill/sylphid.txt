@@ -1,0 +1,18 @@
+.acr "!unitskill sylphid" {"plaintext":"%user% typed `!unitskill sylphid`", "title":"Senior Sylphid","description":"?????? | Floating Unit | :ap::ue::uf::ta::hn: Gen 6","footer":{"text":"See !pet windy | !unit sylphid | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386271086739458/UI_UNIT_ICONS0137.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +95%
+Lv.50 Own Atk Power +31%
+Lv.100 Own Atk Range +2%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 A chance to avoid ranged attack increased +5%
+Lv.500 Ranged Move Speed +3%
+Lv.700 Own Atk Power +31%
+Lv.900 Tribe's Atk Power +27%
+Lv.1100 Tribe's Atk Speed +2%
+Lv.1200 Own Crit Rate +4%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.2a%
+Lv.1500 Ranged Crit DMG +4.4a%
+Lv.1600 Tribe's Crit DMG +25a%
+Lv.1700 Ranged Atk Power +244a%
+Lv.1800 Tribe's Crit DMG +460a%
+Lv.1900 Tribe's Crit DMG +800a%
+Lv.2000 Tribe's Atk Power +4.2b%```"}],"color":15843890}

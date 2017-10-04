@@ -1,0 +1,18 @@
+.acr "!unitskill darkelf2" {"plaintext":"%user% typed `!unitskill darkelf2`", "title":"DarkElf2","description":"?????? | Ground Unit | :ap::uu::uf::hn: Gen 9","footer":{"text":"See !pet chesher | !unit darkelf2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599739164852225/UI_UNIT_ICONS0171.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's Crit DMG +70%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Crit DMG +70%
+Lv.300 Tribe's Move Speed +3%
+Lv.500 Own Atk Speed +10%
+Lv.700 Tribe's Crit DMG +95%
+Lv.900 Tribe's Atk Speed +2%
+Lv.1100 Tribe's Crit Rate +2%
+Lv.1200 All Atk Range +1%
+Lv.1300 Melee Crit DMG +600%
+Lv.1400 Melee Crit DMG +1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Melee Atk Power +45a%
+Lv.1700 Melee Crit DMG +290a%
+Lv.1800 Tribe's Crit DMG +740a%
+Lv.1900 Melee Crit DMG +900a%
+Lv.2000 Tribe's Crit DMG +5.4b%```"}],"color":15843890}

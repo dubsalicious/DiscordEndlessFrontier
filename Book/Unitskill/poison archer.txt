@@ -1,0 +1,16 @@
+.acr "!unitskill poison archer" {"plaintext":"%user% typed `!unitskill poison archer`", "title":"Senior Poison Archer","description":"???? | Ground Unit | :am::ue::um::ta:","footer":{"text":"See !unit poison archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385687008935936/UI_UNIT_ICONS0026.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +70%
+Lv.50 Gold Gain during the battle +24%
+Lv.100 A chance to avoid ranged attack increased +6%
+Lv.200 Own Atk Power +23%
+Lv.300 Quest Gold +24%
+Lv.500 Own Crit DMG +70%
+Lv.700 Own Atk Range +5%
+Lv.900 Own Crit Rate +3%
+Lv.1100 Own Crit DMG +100%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Atk Power +300%
+Lv.1500 Own Crit DMG +1a%
+Lv.1600 Ranged Atk Power +2a%
+Lv.1700 Tribe's Atk Power +2.4a%
+```"}],"color":15843890}

@@ -1,0 +1,16 @@
+.acr "!unitskill high elf archer" {"plaintext":"%user% typed `!unitskill high elf archer`", "title":"Senior High Elf Archer","description":"???? | Ground Unit | :am::ue::uf::ta::dc:","footer":{"text":"See !unit high elf archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385694181064706/UI_UNIT_ICONS0028.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +23%
+Lv.50 Own Atk Range +5%
+Lv.100 Quest Gold +24%
+Lv.200 A chance to avoid ranged attack increased +6%
+Lv.300 Tribe's Move Speed +2%
+Lv.500 Own Crit Rate +3%
+Lv.700 Own Atk Power +23%
+Lv.900 Own Crit DMG +70%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +300%
+Lv.1400 Own Crit DMG +400%
+Lv.1500 Ranged Atk Power +400%
+Lv.1600 Ranged Crit DMG +2a%
+Lv.1700 Ranged Atk Power +3a%
+```"}],"color":15843890}

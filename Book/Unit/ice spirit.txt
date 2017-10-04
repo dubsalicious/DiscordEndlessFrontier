@@ -1,0 +1,8 @@
+.acr "!unit ice spirit" {"plaintext":"%user% typed `!unit ice spirit`", "title":"Senior Ice Spirit","description":"★★★★★★ | Floating Unit | :am::uo::un::ta::hn: Gen 7","footer":{"text":"See !pet juda | !unitskill ice spirit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386324249673728/UI_UNIT_ICONS0149.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Throws ice fragments to freeze nearby enemies.
++ Skill Attack: Distorts space to inflict damage on enemies, and transports them backwards.
+(Transports units with lower ranks at a very high percentage, and units of the same rank at a low chance. When having the same rank (6 stars), higher possibility to transport enemy to the rear when Transcend is higher.)
++ Special Ability 1: Temporarily freezes nearby enemies when killed.
++ Special Ability 2: Raises the basic speed of game by 8%.
++ Special Ability 3: Increases movement speed and attack range of orc units by 6%.
++ Special Ability 4: Immune to paralysis.
++ Innervate: Reduces raid skill cool-time by 3%. (Innervate can be stacked, but cannot exceed 40%. Also applies when units are in Time Shop.)```"},],"color":15843890}

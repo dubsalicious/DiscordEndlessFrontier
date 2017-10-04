@@ -1,0 +1,3 @@
+.acr "!unit orc fighter" {"plaintext":"%user% typed `!unit orc fighter`", "title":"Senior Orc Fighter","description":"★★ | Ground Unit | :am::uo::um:","footer":{"text":"See !unitskill orc fighter | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385819427307522/UI_UNIT_ICONS0062.png","fields":[{"name":"Abilities","value":"```+General Attack : Melee Magical Attack
++Skill Attack : Strike enemies with 2.5 times enhanced attack power and blow them away slightly 
++Special Ability : None```"},],"color":15843890}

@@ -1,0 +1,3 @@
+.acr "!unit orc hunter" {"plaintext":"%user% typed `!unit orc hunter`", "title":"Senior Orc Hunter","description":"★★★ | Ground Unit | :ap::uo::um:","footer":{"text":"See !unitskill orc hunter | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385828008722432/UI_UNIT_ICONS0064.png","fields":[{"name":"Abilities","value":"```+General Attack : Make 2 consecutive short distance physical attacks
++Skill Attack : Teleport to ranged units from a distance and attack them. At this moment, cast a ranged dodging buff to increase the dodging rate against ranged attacks for a certain amount of time
++Special Ability : None```"},],"color":15843890}

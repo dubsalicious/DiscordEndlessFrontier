@@ -1,0 +1,7 @@
+.acr "!unit wyvern rider" {"plaintext":"%user% typed `!unit wyvern rider`", "title":"Senior Wyvern Rider","description":"★★★★★★ | Air Unit | :am::uo::um::ta::dc::hn: Gen 5","footer":{"text":"See !pet wakong | !unitskill wyvern rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386253730578433/UI_UNIT_ICONS0131.png","fields":[{"name":"Abilities","value":"```+ General Attack : Deals damage to enemy units and has a chance to freeze them by throwing frozen magical daggers.
++ Skill Attack : Deals damage to enemy units and has a chance to freeze them with a number of frozen daggers.
++ Special Ability 1 : Makes its body invisible (cloaking), then advances stealthily and destroyed the enemy units' base. ( But, if hit once by an enemy unit which can detect cloaking, the cloaking is lifted. ) 
++ Special Ability 2 : Increases the basic speed of the game by 5%. ( If double speed is applied, the game speed increases by 2.1x cumulatively )
++ Special Ability 3 : Increases the movement and attack speed of all units by 5%.
++ Special Ability 4:  First attack is dodged 100% by taking a step back. (Cloak will be removed) 
++ Spirit Awakening : Maximum level-up increases by 10 for all units. ( [Spirit Awakening] is cumulative, but the maximum level-up for units cannot increase more than +100. Can also be activated in the Time Shop. )```"},],"color":15843890}

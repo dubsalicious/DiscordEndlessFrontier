@@ -1,0 +1,3 @@
+.acr "!unit high elf archer" {"plaintext":"%user% typed `!unit high elf archer`", "title":"Senior High Elf Archer","description":"★★★★ | Ground Unit | :am::ue::uf::ta::dc:","footer":{"text":"See !unitskill high elf archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385694181064706/UI_UNIT_ICONS0028.png","fields":[{"name":"Abilities","value":"```+General Attack : Attack enemies with magical arrows which will push them back
++Skill Attack : Fire 6 magical arrows in a row which will push enemies back
++Special Ability : None```"},],"color":15843890}

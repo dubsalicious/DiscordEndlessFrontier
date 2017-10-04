@@ -1,0 +1,3 @@
+.acr "!unit frost mage" {"plaintext":"%user% typed `!unit frost mage`", "title":"Senior Frost Mage","description":"★★★★ | Ground Unit | :am::uo::uf::ta::dc:","footer":{"text":"See !unitskill frost mage | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385837949354006/UI_UNIT_ICONS0066.png","fields":[{"name":"Abilities","value":"```+General Attack : Ranged Magical Attack
++Skill Attack : By using frosty ice arrow, attack enemies and freeze them on the spot
++Special Ability : None```"},],"color":15843890}

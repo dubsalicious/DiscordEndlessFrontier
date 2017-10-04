@@ -1,0 +1,18 @@
+.acr "!unitskill wolf rider" {"plaintext":"%user% typed `!unitskill wolf rider`", "title":"Senior Wolf Rider","description":"?????? | Ground Unit | :ap::uo::um:","footer":{"text":"See !pet woola | !unit wolf rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385940684767232/UI_UNIT_ICONS0078.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +85%
+Lv.50 Own Atk Power +28%
+Lv.100 Gold Gain during the battle +27%
+Lv.200 Own Atk Power +28%
+Lv.300 Own Crit Rate +4%
+Lv.500 Tribe's Move Speed +5%
+Lv.700 Own HP +56%
+Lv.900 All Atk Speed +5%
+Lv.1100 All Crit DMG +100%
+Lv.1200 Tribe's Atk Power +300%
+Lv.1300 Melee Atk Power +600%
+Lv.1400 Melee Crit DMG +900%
+Lv.1500 Tribe's Atk Power +4a%
+Lv.1600 Melee Crit DMG +24a%
+Lv.1700 Tribe's Atk Power +130a%
+Lv.1800 Melee Crit DMG +210a%
+Lv.1900 Melee Atk Power +1.1b%
+Lv.2000 Melee Crit DMG +1.8b%```"}],"color":15843890}

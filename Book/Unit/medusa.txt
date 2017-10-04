@@ -1,0 +1,5 @@
+.acr "!unit medusa" {"plaintext":"%user% typed `!unit medusa`", "title":"Senior Medusa","description":"★★★★★★ | Ground Unit | :ap::uu::uf::ta::hn: Gen 6","footer":{"text":"See !pet dark snake | !unitskill medusa | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386280381186048/UI_UNIT_ICONS0139.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Attack enemies with multiple snake arrows. When hit by a snake arrow, enemies are slowed, suffer lower accuracy, and cannot be healed.
++ Skill Attack: Attacks enemies with many snake arrows. When hit by a snake arrow, enemies are slowed, suffer lower accuracy, and cannot be healed.
++ Special Ability 1: Increases movement and attack speed of Orc and Undead by 6%
++ Special Ability 2: Increases the basic speed of the game by 5%.
++ Inner Passion: Increases all abilities (attack/defense/HP) of units by 5 levels. ([Inner passion] can only be used in stages. [Inner passion] is accrued when applied, but the unit abilities cannot increase to more than +100 level. This is activated even when units are in the Time Shop.)```"},],"color":15843890}

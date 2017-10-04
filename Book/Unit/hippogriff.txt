@@ -1,0 +1,7 @@
+.acr "!unit hippogriff" {"plaintext":"%user% typed `!unit hippogriff`", "title":"Senior Hippogriff","description":"★★★★★★ | Air Unit | :ap::ue::um::ta::hn: Gen 8","footer":{"text":"See !pet hippong | !unitskill hippogriff | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/341269525553086486/UI_UNIT_ICONS0161.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Throws spear that slows enemies.
++ Skill Attack: Launch barrage of feathers to slow and knock-back enemies.
++ Special Ability 1: Increases the basic speed of game by 8%.
++ Special Ability 2: Increases elf unit movement speed by 6% and attack range by 7%.
++ Special Ability 3: Not affected by terrain attacks above Stage 10,000. 
++ Special Ability 4: When included in team, elf's secret skill chance increases by 5%. (However, the increase by Hippogriffs cannot exceed 30%.)
++ Legend of Ancient Forest: When elf's secret skill is cast, this has a chance to pass 2 stages at a time. (This chance increases by 2% for each 5-star and 5% for each 6-star, but this only applies when they are included in the team. (Not applied when in Time Shop and cannot exceed 50%.)```"},],"color":15843890}

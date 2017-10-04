@@ -1,0 +1,18 @@
+.acr "!unitskill valkyrie" {"plaintext":"%user% typed `!unitskill valkyrie`", "title":"Senior Valkyrie","description":"?????? | Ground Unit | :ap::uh::uf::ta::dc::hn: Gen 7","footer":{"text":"See !pet sarah | !unit valkyrie | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386297171247106/UI_UNIT_ICONS0143.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's Crit DMG +70%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Crit DMG +70%
+Lv.300 Tribe's Move Speed +3%
+Lv.500 Own Atk Range +3%
+Lv.700 Tribe's Crit DMG +70%
+Lv.900 Tribe's Crit Rate +2%
+Lv.1100 Tribe's Crit DMG +70%
+Lv.1200 All Atk Range +1%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Crit DMG +28a%
+Lv.1700 Tribe's Crit DMG +430a%
+Lv.1800 Tribe's Crit DMG +670a%
+Lv.1900 Tribe's Atk Power +1.3b%
+Lv.2000 Tribe's Crit DMG +4.5b%```"}],"color":15843890}

@@ -1,0 +1,3 @@
+.acr "!unit fire bird" {"plaintext":"%user% typed `!unit fire bird`", "title":"Senior Fire Bird","description":"★★★★ | Air Unit | :am::uh::un::ta::dc:","footer":{"text":"See !unitskill fire bird | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385622404202496/UI_UNIT_ICONS0006.png","fields":[{"name":"Abilities","value":"```+General Attack : Ranged Magical Attack
++Skill Attack : Strike enemies with 3.5 times enhanced attack power and stun enemies for a certain amount of time
++Special Ability : Only attack ranged units (+ Disregard air-agro skill of melee unit that makes air units attack himself)```"},],"color":15843890}

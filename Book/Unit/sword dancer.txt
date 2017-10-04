@@ -1,0 +1,7 @@
+.acr "!unit sword dancer" {"plaintext":"%user% typed `!unit sword dancer`", "title":"Senior Sword Dancer","description":"★★★★★★ | Ground Unit | :am::ue::uf::hn: Gen 7","footer":{"text":"See !pet oscar | !unitskill sword dancer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386307497623552/UI_UNIT_ICONS0145.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Attacks nearby enemies with a powerful stroke, and throws two auras of swords to attack far-away enemies. Restores HP slightly when attacking.
++ Skill Attack: Moves quickly (dash) towards enemy lines and attacks multiple enemies.
++ Special Ability 1: Raises the basic speed of game by 8%.
++ Special Ability 2: Increases movement speed and attack range of elf units by 6%
++ Special Ability 3: Move quickly (dash) to the first attack target.
++ Special Ability 4: Immune to stun and paralysis.
++ Innervate: Reduces raid skill cool-time by 3%. (Innervate can be stacked, but cannot exceed 40%. Also applies when units are in Time Shop.)```"},],"color":15843890}

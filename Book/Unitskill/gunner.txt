@@ -1,0 +1,18 @@
+.acr "!unitskill gunner" {"plaintext":"%user% typed `!unitskill gunner`", "title":"Senior Gunner","description":"?????? | Ground Unit | :am::uh::um::ta::dc:","footer":{"text":"See !pet potang | !unit gunner | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385668075978755/UI_UNIT_ICONS0018.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +28%
+Lv.50 Gold Gain during the battle +27%
+Lv.100 Tribe's Atk Power +10%
+Lv.200 Own Atk Power +28%
+Lv.300 Own Crit DMG +85%
+Lv.500 Quest Gold +26%
+Lv.700 Own Crit Rate +4%
+Lv.900 Own Crit Rate +4%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own Atk Power +200%
+Lv.1300 Ranged Atk Power +600%
+Lv.1400 Ranged Atk Power +1.2a%
+Lv.1500 Ranged Crit DMG +4.8a%
+Lv.1600 Tribe's Atk Power +40a%
+Lv.1700 Ranged Atk Power +126a%
+Lv.1800 Ranged Atk Power +380a%
+Lv.1900 Ranged Crit DMG +600a%
+Lv.2000 Ranged Atk Power +3.4b%```"}],"color":15843890}

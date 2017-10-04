@@ -1,0 +1,16 @@
+.acr "!unitskill orc hammer unit" {"plaintext":"%user% typed `!unitskill orc hammer unit`", "title":"Senior Orc Hammer Unit","description":"???? | Ground Unit | :ap::uo::um:","footer":{"text":"See !unit orc hammer unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385866839851008/UI_UNIT_ICONS0072.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +23%
+Lv.50 Own Atk Power +23%
+Lv.100 Quest Gold +24%
+Lv.200 Own Atk Power +23%
+Lv.300 Own Crit DMG +70%
+Lv.500 Own Crit DMG +70%
+Lv.700 A chance to block melee attack increased +5%
+Lv.900 Own Crit Rate +3%
+Lv.1100 Own Atk Power +100%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Crit DMG +400%
+Lv.1500 Own HP +3.2a%
+Lv.1600 Own Crit DMG +2.5a%
+Lv.1700 Tribe's Atk Power +3a%
+```"}],"color":15843890}

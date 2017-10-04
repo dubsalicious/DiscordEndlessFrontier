@@ -1,0 +1,18 @@
+.acr "!unitskill raptor rider" {"plaintext":"%user% typed `!unitskill raptor rider`", "title":"Senior Raptor Rider","description":"?????? | Ground Unit | :ap::uo::um::ta::hn: Gen 4","footer":{"text":"See !pet rapty | !unit raptor rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386163620282370/UI_UNIT_ICONS0123.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Atk Power +31%
+Lv.100 Own Crit Rate +4%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Own Atk Power +31%
+Lv.500 Ranged Move Speed +3%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Ranged Atk Speed +2%
+Lv.1200 Own Crit DMG +200%
+Lv.1300 Tribe's Atk Power +500%
+Lv.1400 Tribe's Crit DMG +1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Ranged Crit DMG +24a%
+Lv.1700 Ranged Atk Power +125a%
+Lv.1800 Tribe's Crit DMG +230a%
+Lv.1900 Tribe's Crit DMG +730a%
+Lv.2000 Tribe's Crit DMG +3.3b%```"}],"color":15843890}

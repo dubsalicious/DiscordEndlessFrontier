@@ -1,0 +1,16 @@
+.acr "!unitskill great hammer unit" {"plaintext":"%user% typed `!unitskill great hammer unit`", "title":"Senior Great Hammer Unit","description":"???? | Ground Unit | :ap::uu::um:","footer":{"text":"See !unit great hammer unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385772673531904/UI_UNIT_ICONS0050.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +46%
+Lv.50 Own Atk Power +23%
+Lv.100 Own Atk Power +23%
+Lv.200 Mid-air units attack yourself100%
+Lv.300 Own Crit Rate +3%
+Lv.500 Own Crit DMG +70%
+Lv.700 Own Crit DMG +70%
+Lv.900 Own Crit Rate +3%
+Lv.1100 Own Atk Power +100%
+Lv.1200 Own Crit DMG +200%
+Lv.1300 Melee Atk Power +50%
+Lv.1400 Own Crit DMG +400%
+Lv.1500 Tribe's Atk Power +2a%
+Lv.1600 Melee Crit DMG +2a%
+Lv.1700 Tribe's Atk Power +3a%
+```"}],"color":15843890}

@@ -1,0 +1,4 @@
+.acr "!unit druid" {"plaintext":"%user% typed `!unit druid`", "title":"Senior Druid","description":"★★★★★★ | Ground Unit | :am::ue::uf::ta::hn: Gen 2","footer":{"text":"See !pet squirrel | !unitskill druid | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386083140108289/UI_UNIT_ICONS0107.png","fields":[{"name":"Abilities","value":"```+ General Attack : Slows down many enemies and summons vines that deal damage. ( Four-footed units become slower than two-footed units. )  
++ Skill Attack : Damages and knocks back the enemy in front by creating a wind drill
++ Special Ability 1 : increase the basic speed of the game by 5% ( If double speed applied, the game speed increases by 2.1 times, Cumulative )
++ Special Ability 2 : The accompanying eagle attacks an enemy. Knocks back and stuns the enemy for a certain amount of time.```"},],"color":15843890}

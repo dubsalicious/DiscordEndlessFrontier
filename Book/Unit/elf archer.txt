@@ -1,0 +1,3 @@
+.acr "!unit elf archer" {"plaintext":"%user% typed `!unit elf archer`", "title":"Senior Elf Archer","description":"★★ | Ground Unit | :ap::ue::uf::ta::dc:","footer":{"text":"See !unitskill elf archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385674728013826/UI_UNIT_ICONS0022.png","fields":[{"name":"Abilities","value":"```+General Attack : Ranged Physical Attack
++Skill Attack : Damage up to 5 enemies with 5 arrows fired at once
++Special Ability : None```"},],"color":15843890}

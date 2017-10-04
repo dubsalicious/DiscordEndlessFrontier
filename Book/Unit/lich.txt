@@ -1,0 +1,6 @@
+.acr "!unit lich" {"plaintext":"%user% typed `!unit lich`", "title":"Senior Lich","description":"★★★★★★ | Ground Unit | :am::uu::um::ta::dc::hn: Gen 5","footer":{"text":"See !pet cora | !unitskill lich | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386244302045205/UI_UNIT_ICONS0129.png","fields":[{"name":"Abilities","value":"```+ General Attack : Attacks up to 4 enemy units at once and paralyzes them for a certain period of time with a lightning-infused magic chain.
++ Skill Attack : Deals a great amount of damage to ground units and blows them away in the air by summoning a terrifying chain from the sky. ( Blow attack )
++ Special Ability 1 : Since the body is floating slightly above the ground, it is unaffected by the vine attack of druids who attack from the ground. 
++ Special Ability 2 : Increases the basic speed of the game by 5%. ( If double speed is applied, the game speed increases by 2.1x cumulatively )
++ Special Ability 3 : Increases the critical damage and critical hit rate of all units by 5%. 
++ Spirit Awakening : Maximum level-up increases by 10 for all units. ( [Spirit Awakening] is cumulative, but the maximum level-up for units cannot increase more than +100. Can also be activated in the Time Shop. )```"},],"color":15843890}

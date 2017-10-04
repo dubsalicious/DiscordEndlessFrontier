@@ -1,0 +1,18 @@
+.acr "!unitskill hot-blooded xuanzang" {"plaintext":"%user% typed `!unitskill hot-blooded xuanzang`", "title":"Senior Hot-Blooded Xuanzang","description":"?????? | Ground Unit | :ap::uh::um::ta::hn: Gen 4","footer":{"text":"See !pet mir | !unit hot-blooded xuanzang | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386137657540609/UI_UNIT_ICONS0117.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own HP +61%
+Lv.100 Own Crit DMG +95%
+Lv.200 Own Crit Rate +4%
+Lv.300 Tribe's Move Speed +6%
+Lv.500 Own Atk Power +31%
+Lv.700 Tribe's Atk Speed +2%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Tribe's HP +200%
+Lv.1200 Tribe's Crit DMG +100%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +900%
+Lv.1500 Tribe's Atk Power +4.2a%
+Lv.1600 Tribe's Crit DMG +23a%
+Lv.1700 Tribe's Atk Power +130a%
+Lv.1800 Tribe's Atk Power +430a%
+Lv.1900 Tribe's Crit DMG +700a%
+Lv.2000 Tribe's Atk Power +4.1b%```"}],"color":15843890}
