@@ -1,0 +1,26 @@
+.acr "!artifact" %user% you used the command `!artifact`.
+
+__**Artifact Availability**__
+
+**Artifact Shop Only**
+All 1\*, 2\*, 3\*, 4\* artifacts, 18 5\* artifacts.
+You need at least a 1-star artifact upgraded to +10 for 2-star artifacts to appear in the shop.
+Please see the `A.List Tab` on the Datasheet <http://bit.ly/efsheet> for more details.
+
+**Guild Shop Only**
+Two 5-star artifact are Guild Shop only (Secret Book 2 & Assassin's Boots).
+
+**Honor Shop**
+The remaining 5-star and all 6-star artifacts can be obtained from the Honor Chest (5,000 <:hc:232967258769457152>).
+*5-star Artifacts from the Artifact Shop __can't appear__ in Honor Chests.*
+
+**Guild Shop Artifact Rotation**
+Every week (Monday @ 00:00 UTC), there is a new set of 6-star and 5-star artifacts.
+Each 6-star artifact cost 11,000 <:gc:233662366905008129>  and 5-star costs 4,000 <:gc:233662366905008129> 
+Please see the `Guild Shop Tab` on the 2nd sheet <http://bit.ly/efsheet2> for more specific information.
+
+__**Artifact Transing**__
+5\* and 6\* artifacts can be transcended to improve their stats greatly. Once you have access to 20 artifacts of the specified level the option becomes available. It is a very expensive process and produces a random artifact of the requested level. See `!artifacttrans` for more information.
+
+__**Artifact Builds and Info**__
+Magic#7761 has provided a useful spreadsheet here - <https://docs.google.com/spreadsheets/d/17EdXkvzCgwsFmRekMTDCdF-S_4oSKsCEV3owkzcqoQQ/>

@@ -1,0 +1,18 @@
+.acr "!orcbuilds" You used the command `!orcbuilds`. This page contains some example builds that have provded successful for other players.
+
+**Example Builds (No Race Pets)**
+
+Orc is general considered inferior without Wakong and Seahorse, these are sample builds just in case.
+```
+Ice Spirit    Naga     Ice Spirit/Naga     Priest (4)
+Wyvern        Naga     Naga (6)            Priest (4)
+```
+**Example Builds (Requires Wakong, Seahorse, Tinkey and Icy 5\* Minimum)**
+```
+Wyvern        Naga     Fairy       Naga (5)     Hippogriff (4) 
+```
+Once Hippong reaches 5\*:
+```
+Wyvern        Naga     Fairy (2)   Naga (8)    
+```
+__Updated : 04/09/2017__

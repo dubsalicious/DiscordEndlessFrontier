@@ -1,0 +1,53 @@
+.acr !artifacttrans %user% typed `!artifacttrans`. This is an advanced guide that requires some understanding.
+
+Artifact Transcendence significantly increases the power of 5\*/6\* artifacts. The long term goal is to transcend most (likely all) 6\* artifacts.
+
+Generally 5\* artifacts will be a waste in the long run and are not covered by this guide.
+
+You need 20 artifacts of the relevant level to begin transcending and a random one you own will be transcended.
+
+__**6\* Ingredients**__
+
+Requires 3 units, can be changed for 100 :ef_hc: (random):
+
+6\* Unit (Past honor unit, seniored)
+5\* Unit (Past honor unit)
+5\* Unit (Past non-honor unit, seniored 4\* unit)
+
+__**Units List**__
+
+A list of how many of each unit is required to max their passive skills, both basic and the advanced versions with pet. In some cases it isn't vital to maximise these skills (e.g. Aladdin).
+
+```scheme
+[Unit]           [NoPet]     [Pet]  [PetNote]
+Ninja Darkness   ----------------------------
+Druid            | 
+Forest Guardian  | Basically fodder, keep some
+Griffin Rider    | but the rest can be used. 
+Succubus         |
+BMW, WM, CK, OAU ----------------------------
+
+Steam Punk       --------------
+Sylphid          | 10 of each |
+Medusa           | 60 total   |
+Naga             --------------
+
+Pilot            --------------
+Alchemist        | 5 of each  |
+Lich             |            |
+Wyvern Rider     --------------
+
+HBX              5
+Goku             5
+DAd              5
+Raptor Rider     5
+
+Sorcerer                     18     450 Total (5* 10, 6* 25)
+Aladdin                      18     90% Total (5* 2%, 6* 5%)
+Priest           4-6         12     30% Total (5* 1%, 6* 2.5%)
+Fairy                        20         
+Dark Archer      12          24     60% Total (5* 1%, 6* 2.5%)
+Battle Drummer               Many      
+[Unit]           [NoPet]     [Pet]  [PetNote]
+```
+*Note, some numbers above don't match game descriptions. The game ones are sometimes wrong.*

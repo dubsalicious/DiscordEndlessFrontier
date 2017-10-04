@@ -1,0 +1,25 @@
+.acr "!gemguide" You typed `!gemguide`. This provides a rough guide to how to spend gems in the early game.
+
+__**New Player**__
+
+- Time Shop (Shop > Premium - 10 gems)
+- Max Medal Buff (Shop > Premium 15,000 gems total)
+- **DON'T** buy units for gems (even if its a Priest or similar)
+- **DON'T** Refresh Unit Shop (except perhaps if a unit refresh event is on)
+- **DON'T** Senior/Transcend 4* / 5* units (too early)
+
+__**After Stage 1,000**__
+
+- Senior Core Units (If max gold level reached)
+- Max out Elf Skill (Shop --> Premium 2,800 :ef_gem: total)
+- Senior a Skeleton Warrior (3\*) and maybe Orc Hunter (2\*). Trans only if needed.
+- Unlock Artifact slots
+- Unlock Unit slots (only if you have support units you want to put on your team)
+
+__**After Stage 2,000**__
+
+- Transcend Core Units (If max gold level reached)
+- Unlock Revival Team (If a few drummers/Dark Archers to put in it)
+- Senior Support units (Priest first, do not trans)
+- Additional Spirit Highlands Tickets (If good pets to farm, see `!petguide`)
+- Additional ToT units (If needed, see `!tot`)

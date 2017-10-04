@@ -1,0 +1,27 @@
+.acr "!revivalteam" You typed `!revivalteam`. This guide provides a list of recommendations for the revival team.
+
+The revival team allows a different squad to be used to provide revival buffs. This squad does *NOT* replace the main team in anyway, it is just used for those buffs. 
+
+__**When to Unlock**__
+
+Initially the units mentioned in this guide can be in the main team. Once stronger supports have been found, the revival team should be unlocked to move units like Dark Archers out of the main team.
+
+__**Priorities**__ *Highest priority first*
+
+This is a very simple guide aimed to just give some idea of what units are generally prioritized. All units should be seniored at least. Generally trans level is ignored for simplicity in this guide. 
+
+`Dark Archer       - `Start at 5% of stage revived at. If any spare trans tickets :t_trans:, may be worth going to T1.
+`T2/T3 6* Units    - `For additional Medal Bonus, likely only the Core 2 units in early game
+`Battle Drummer    - `Provide a higher medal buff than standard 6* units.
+`Guild Instructors - `Provide a higher medal buff than standard 6* units (DAd, Raptor Rider, Goku, HBX)
+
+A more detailed list can be found on the 2nd Datasheet Revival Team tab <http://bit.ly/efsheet2>.
+
+__**Very Late Game**__ *Only included for reference*
+
+Moon and Boom Boom at 5* change the revival team meta. With 24 Sr Dark Archers in the time shop, the revival team benefits most from Battle Drummers.
+
+__**Additional References**__
+
+ - 2nd Datasheet, Revival Team tab -  <http://bit.ly/efsheet2>.
+ - Reddit Guide - <https://www.reddit.com/r/EndlessFrontier/comments/5c5bc3/revival_team_setup_guide>

@@ -1,0 +1,10 @@
+.acr "!unitlevels" You typed `!unitlevels`. This provides a simple screenshot detailing what the different levels against a unit mean.
+
+`Purple Square - `Trans Level (Max of 3)
+`Red Square    - `Medal Level (No maximum)
+`Blue Square   - `Gold Level (Limited by trans level, Spirit Awakening Skill and Pet Points, more details here <http://bit.ly/efgoldlevel>
+`Green Square  - `Inner Passion (Max 100, increased by Inner Passion Units.
+
+To see what units provide Spirit Awakening and Inner Passion please see `!honorunit`.
+
+http://i.imgur.com/omeQdyz.png

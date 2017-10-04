@@ -1,0 +1,18 @@
+.greetdmmsg Hello, %user%, welcome to the Endless Frontier discord server! 
+
+__**Server Rules**__
+
+1. Be friendly, polite and respect each other. We have younger members so keep language clean.
+2. Don't talk about cheats, hacks, exploits or ways to bypass ads. 
+3. In the guild recruitment channels only 1 message, per guild, per day.
+
+__**Server Usage Guide**__
+
+*Want to chat to other players?*
+If it's about the game use `#ef_general`, anything else can go in `#offtopic`. 
+
+*After some help?* 
+Ask any questions you have in `#ask_anything`, someone is normally around to help. We've also got a bunch of guides, type `!commands` in `#commands` for a full list.
+
+*Looking for a guild or help with the Tower of Trials?*
+Grant yourself a server role using `.iam Server #` in `#commands`. This will make some server specific channels for your server appear.

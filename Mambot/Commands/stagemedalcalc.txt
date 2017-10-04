@@ -1,0 +1,10 @@
+.acr "!stagemedalcalc" %user% typed `!stagemedalcalc`. This is a basic guide to working out your total medal gain for a revival.
+
+You need to know 2 pieces of information:
+
+ - The `MedalReward` for the stage you're reviving on, see`!stagemedal1`, `!stagemedal2` and `!stagemedal3` for this.
+ - Your MedalBonus from artifact sets, trans units and such. This is displayed on the revival screen as a percentage in blue writing.
+
+Plug these into this formula  `MedalReward + (MedalReward * (MedalBonus/100))`
+
+For example, reviving at Stage 2000 with a 800% buff `50100 + (50100 * 8) = 450900`

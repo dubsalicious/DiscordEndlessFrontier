@@ -1,0 +1,7 @@
+.acr "!help" %user% typed `!help`. For a full list of available commands use `!commands`, you can also see descriptions of the commands in the #about channel.
+
+We recommend first adding a server role (`.iam Server #`) and a stage role (`.iam Stage #000`). This gives you access to a few extra channels.
+
+For help about the game in general, including understanding any of the content of the commands here, head over to #ef_ask_anything.
+
+Enjoy!

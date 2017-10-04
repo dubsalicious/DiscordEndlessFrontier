@@ -1,0 +1,51 @@
+.acr "!guildguide" %user% typed `!guildguide`. This is a basic overview of the guild system.
+
+__**Guild Barracks**__
+
+The guild barracks provides supporting units for guild battls. Initially only the 1\* units are available. Higher tier units can be permanently unlocked by an one time gem payment.
+```
+Race    Instructor        Tier 1       Tier 2          Tier 3         Tier 4
+--------------------------------------------------------------------------------------
+Human   Hot-Blooded Xuan  Infantry     Heavy Infantry  Fire Bird      Musketeer
+Elf     Hoyden Goku       Elf Archer   Elf Warrior     Poison Archer  High Elf Archer
+Undead  Dark Admiral      Skeleton     Warlock         Ghost          Skeleton Warrior
+Orc     Raptor Rider      Orc Fighter  Orc Hunter      Frost Mage     Orc Wing
+```
+**Training**
+
+Instructors allow support units to train to higher levels. Additional tiers are unlocked by the highest trans level instructor available:
+```
+Basic   5\* Instructor
+Sr      6\* Sr Instructor
+Sr+     6\* Sr Instructor T1
+Sr++    6\* Sr Instructor T2
+Sr+++   6\* Sr Instructor T3
+Sr++++  6\* Sr Instructor T3 + 5\* Instructor Pet
+```
+Additional instructors improve the rate at which units are trained.
+
+__**Guild Battles**__
+
+**Guild Wars**
+
+2 wars are opened daily at 09:00 and 21:00 UTC. These stay open for 24 hours. Members have 2 tickets to attack per war. In the event of a draw the weaker guild wins.
+
+When defending the lowest available group of 40 support units will be used. If 40 units are not available a higher tier unit will be used.
+
+**Guild Raids**
+
+There are 2 Guild Raids, both have 5 stages. Each stage has 4 battles as a part of it. It is possible to open up to 3 raids per day, a maximum of 2 for any single raid.
+
+Winning a battle gives every member some pet fragments: 
+
+Ancient Ruins - Skole, Harping, Gnome, Belial
+Burning Earth - Lavark, Furion, Hellyme, Bahat 
+
+Additionally members receive one of :ef_gc:, :ef_hc:, :ef_gem: and Raid Coins. Later stages provide higher rewards.
+
+*Wihtout fire resistance, Burning Earth is almost impossible**
+
+**Additional Guides**
+
+Guild Raid <https://www.reddit.com/r/EndlessFrontier/comments/5xl93g/a_guide_to_boss_raids>
+Guilds Generally <<https://www.reddit.com/r/EndlessFrontier/comments/50c8q1/how_to_guild_a_beginners_guide/>

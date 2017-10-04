@@ -1,0 +1,13 @@
+.acr "!humanbuilds" You used the command !humanbuilds. This page contains some example builds that have provded successful for other players.
+
+__**These are currently not updated for Honor rotation 7 onwards**__
+
+**Example Core 2 Builds**
+
+First 2 units are core, followed by supports.
+```
+Steam Punk    Valkyrie        Valkyrie (6)                                  Priest (4)
+Steam Punk    Pilot           Valkyrie/Steam Punk (Mixed)                   Priest (4)
+Steam Punk    Valkyrie        Hot-Blooded Xuan (1800 Gold)   Valkyrie (5)   Priest (4)
+Fire Mage     Griffon Rider   Valkyrie (6)                                  Priest (4)
+```

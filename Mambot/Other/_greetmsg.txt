@@ -1,0 +1,1 @@
+.greetmsg Welcome to the Endless Frontier server, %user%! Please check your private message from Mambot for more information about the server.

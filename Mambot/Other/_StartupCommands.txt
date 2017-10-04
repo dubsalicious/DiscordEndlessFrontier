@@ -1,0 +1,2 @@
+.scadd .logserver enable 
+.scadd .log UserPresence

@@ -1,0 +1,42 @@
+.acr "!orc" %user% typed `!orc`. This provides a basic overview of the Orc units and early game prioritisation for core/support units.
+
+**Orc Units [Magical]** Ordered by most recently released
+```
+Ice Spirit (7)       Ground   Ranged   TargetAir   MultiHit?             CloakDetection
+Wyvern Rider (5)     Air      Ranged   TargetAir   MultiHit?   Cloaked   CloakDetection
+Sorcerer (3)         Ground   Ranged   TargetAir                         CloakDetection
+Ice Wizard           Ground   Ranged               MultiHit?
+Big Foot             Ground   Ranged               MultiHit?
+```
+**Orc Units [Physical]** Ordered by most recently released
+```
+Frost Demon (9)      Only available in Korea
+Blade Master (8)     Ground                        MultiHit
+Naga (6)             Ground   Ranged   TargetAir   MultiHit   Cloaked    CloakDetection
+Raptor Rider (4)     Ground   Ranged   TargetAir   MultiHit
+Battle Drummer       Ground   None     TargetAir
+Wolf Rider           Ground   Melee                MultiHit?
+```
+__**Build Priorities - Ordered by importance**__
+
+**Magical Core**
+```
+Ice Spirit
+Wyvern Rider
+Ice Wizard
+```
+**Physical Core**
+```
+Naga
+Raptor Rider
+```
+**Support Units**
+```
+Priest (4) 
+Ice Spirit (6)
+Naga (Many as needed)
+Drummer (Filler) 
+Aladdin (Filler)
+Fairy (Filler)
+```
+For more detailed builds please see !orcbuilds

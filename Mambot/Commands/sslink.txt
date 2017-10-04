@@ -1,0 +1,40 @@
+.acr "!sslink" %user type `!sslink`. This is a list of the main datasheets available.
+
+**Hogwarts Medal Sheet** <http://bit.ly/efmedalsheet> 
+
+ - Medal Gains per Stage (post 10k) and growth curve.
+ - Unit Medal Upgrade Costs.
+ - Damage required for specific knight levels.
+
+**General Datasheet** <http://bit.ly/efsheet> *Slightly Out of Date* 
+:green_book: Unit Skills (6-star) `U.Skills`
+:green_book: Unit list `U.List`
+:t_trans: Unit Transcend Material List `U.Trans`
+:orange_book: Unit Specifications `U.Spec`
+:green_book: Artifact list `A.List`
+:orange_book: Artifact Specifications `A.Spec`
+:green_book: `Pet List`
+:orange_book: Pet & Spirit Highlands Specifications `Pet Specs`
+:map: Spirit Highlands Map `S.High`
+:closed_book: Bonus Breakdown (Quest bonuses) `B.B`
+:green_book: Scenario Stage Enemy Tribe `S.T`
+:t_dun: Dungeon & Materials `Dun&Mats`
+:tokyo_tower: Tower of Trial Rewards `ToT.R`
+:ef_gem: Premium Shop Upgrades `Gem Upgrades & Unlocks`
+
+**Event Sheet** <http://bit.ly/efsheet2> *Out of Date*
+
+:confetti_ball: Events
+:european_castle: Guild Shop Rotation
+:wheel_of_dharma: Daily roulette
+:u_da: Revival Team
+:ledger: App versions
+:tribe_elf: Elf Skill Efficiency
+
+**Calculator Sheet** <http://bit.ly/efchecker> - *Offline due to permissions issues*
+
+:ef_medal: Medal Calculator
+:medal: Team Medal Checker
+:pray: x5 Buff Efficiency Calculator
+:ef_gold: Gold Revenue Calculator
+:tribe_undead: :tribe_orc: :tribe_human: :tribe_elf: Unit Upgrade Cost Calculator 

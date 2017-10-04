@@ -1,0 +1,46 @@
+.acr "!undead" %user% typed `!undead`. This provides an overview of the Undead units and early game options for core/support units.
+
+**Undead Units [Magical]**
+```
+Dark Spirit (8)    Flying  Ranged  TargetAir  MultiHit   CloakDetection
+Incubus (7)        Float   Ranged  TargetAir  MultiHit
+Lich (5)           Float   Ranged  TargetAir  MultiHit   CloakDetection
+Succubus (3)       Flying  Ranged        
+Dark Archer (1)    Ground  Ranged  TargetAir  DoubleHit
+Death Knight       Ground  Melee              RangedAoE
+```
+**Undead Units [Physical]** 
+```
+Dark Elf (9)       Only available in Korea
+Medusa (6)         Ground  Ranged  TargetAir  MultiHit
+Dark Admiral (4)   Ground  Ranged  TargetAir  MultiHit
+Ninja Darkness (2) Ground  Melee                         CloakDetection
+Bomb Unit          Ground  Ranged  TargetAir  AoE        CloakDetection
+Hands of Death     Ground  Melee   Tank
+```
+__**Build Priorities**__ - Ordered by importance
+
+**Magical Core**
+```
+Lich
+Incubus
+```
+**Physical Core**
+```
+Dark Admiral
+Medusa
+Bomb Unit
+```
+**Support Units**
+```
+Priest (4) 
+Medusa (1)
+Lich (1/2)
+Succubus (3/4)
+Dark Admiral
+Incubus
+Fairy (Filler)
+Drummer (Filler) 
+Aladdin (Filler)
+```
+For example builds see !undeadbuilds.

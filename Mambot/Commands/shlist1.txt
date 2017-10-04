@@ -1,0 +1,43 @@
+.acr !shlist1 %user% typed `!shlist1`. This contains a list of the Spirit Highlands levels from 1-05 to 9-20. For other levels type `!shlist2` and `!shlist3`.
+
+For information on what pets to farm, please see `!petguide`.
+```
+KL   Stage  Pet          Unit Pair
+----------------------------------------
+2    1-05   Mambo        Golem
+4    1-10   Joe          Ent
+6    1-15   Mummy        Hands of Death
+8    1-20   Piggy        Big Foot
+10   2-05   Potang       Gunner
+12   2-10   Mambo        Golem
+14   2-15   Uni          Unicorn Knight
+16   2-20   Joe          Ent
+18   3-05   Joker        Bomb Unit
+20   3-10   Mummy        Hands of Death
+22   3-15   Snork        Ice Wizard
+24   3-20   Piggy        Big Foot
+26   4-05   Phoenic      Fire Mage
+28   4-10   Potang       Gunner
+30   4-15   Indy         Wolf Warrior
+32   4-20   Uni          Unicorn Knight
+34   5-05   Grim Reaper  Death Knight
+36   5-10   Joker Bomb   Unit
+38   5-15   Woola        Wolf Rider
+40   5-20   Snork        Ice Wizard
+42   6-05   Magic Lamp   Aladdin
+44   6-10   Phoenic      Fire Mage
+46   6-15   Tinkey       Fairy
+48   6-20   Indy         Wolf Warrior
+50   7-05   Sleepy       NoD
+52   7-10   Grim Reaper  Death Knight
+54   7-15   Totem        Sorceror
+56   7-20   Woola        Wolf Rider
+58   8-05   Icy          Priest
+60   8-10   Magic Lamp   Aladdin
+62   8-15   Squirrel     Druid
+64   8-20   Tinkey       Fairy
+66   9-05   Moon         Dark Archer
+68   9-10   Sleepy       NoD
+70   9-15   Boom Boom    Battle Drummer
+72   9-20   Totem        Sorceror
+```

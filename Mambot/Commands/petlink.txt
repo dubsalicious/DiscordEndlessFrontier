@@ -1,0 +1,6 @@
+.acr !petlink You typed `!petlink`. This provides some basic links to resources related to pets. For a more complete guide please see `!petguide`.
+
+<http://bit.ly/efsheet> EF Data Sheet
+<http://bit.ly/efpetguide1> Recent guide on pets to farm
+<http://bit.ly/efpetguide2> Older guide to Spirit Highlands
+<http://bit.ly/efpetguide3> Recent guide from high level player

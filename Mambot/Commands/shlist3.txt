@@ -1,0 +1,17 @@
+.acr !shlist3 %user% typed `!shlist3`. This contains a list of the Spirit Highlands levels from 19-05 to 21-10. For other levels type `!shlist1` and `!shlist2`. There are currently no levels beyond this (correct as of 09/06/2017).
+
+For information on what pets to farm, please see `!petguide`.
+```
+KL   Stage  Pet          Unit Pair
+----------------------------------------
+146  19-05  Juda         Ice Spirit
+148  19-10  Seahorse     Naga
+150  19-15  Rena         Flame Spirit
+152  19-20  Sarah        Valkyrie
+154  20-05  Hippong      Hippogriff
+156  20-10  Oscar        Sword Dancer
+158  20-15  Osma         Dark Spirit
+160  20-20  Black        Incubus
+162  21-05  Saul         Blade Master
+164  21-10  Juda         Ice Spirit
+```

@@ -1,0 +1,49 @@
+.acr !petguide %user% typed `!petguide`. A basic overview of pets in the game.
+
+**Note** All pet skills are always active. "Main Pet" has its skills doubled. "Revival Pet" skills are doubled at revival.
+
+Prioritize Late Game, then Mid Game, then Early Game. Within each section, better pets are generally listed first. The numbers after the name are the KLVL required to farm.
+
+**Early Game** Get one to 5\*, farm if no mid/late game pets open
+
+`Snork     22, 40` Provides good gold buff
+`Mambo      2, 12` Provides basic gold buff
+`Piggy      8, 24` Provides basic gold buff
+`Indy      30, 48` Useful for Elf core, strengthens Wolf Warrior.
+
+**Mid Game**
+
+`Sleepy    50, 68` Increases strength of NoD, gold buff.
+`Icy       58, 76` Allows Priests 5x skill from the time shop, and trigger if stage ##10 skipped.
+`Tinkey    46, 64` Adds fairy speed buff and allows skip chance to trigger from time shop.
+`Totem     54, 72` Improves power of damage skills.
+`Lamp      42, 60` Increases power and chance of triggering human skill. Auto opens gold chests.
+`Squirrel  62, 80` Increases strength of Druid.
+
+**Late Game**
+
+`Moon      66, 84` Dark Archers activate from time shop.
+`Boom Boom 70, 88` Increases medal buff of Battle Drummer in the revival team.
+
+**Guild Raid Damage**
+
+A few pets offer additional guild raid damage, the efpetguide1 below lists these.
+
+**Spirit Awakening / Inner Passion Pets**
+
+Start appearing from SH stage 13-15, very late game.
+
+**Pet Shop**
+
+The pet shop is an expensive method of acquiring late game pets. Early game it should perhaps be avoided, however as spare currency is built up, it is worth considering.
+
+**Additional References**
+
+`!shlist1`, `!shlist2`, `!shlist3` - List of Spirit Highlands stages
+`!petcombos` - Units required to maximise pet skills.
+
+**Additional Links**
+
+<http://bit.ly/efsheet> EF Data Sheet
+<http://bit.ly/efpetguide1> Basic Pet Guide
+<http://bit.ly/efpetguide2> Older SH guide

@@ -1,0 +1,49 @@
+.acr "!tot" You typed `!tot`. This provides a rough overview of which units to transcend for use in the Tower of Trials and Spirit Highlands. 
+
+The Tower of Trials resets every 3 days and contains 32 stages providing a total of 500 gems and 1290 honor coins if completed. Each server has a different ToT.
+
+__**Recommend Units**__
+
+The below 2 sections cover which units are most useful to senior/transcend to help clear the ToT. All \* levels are AFTER being seniored. If stuck refer to this list to find good units to Transcend
+
+**4\* Units and Below** - Strongest units higher in each list
+
+*Essential*
+```
+Skeleton Warrior
+Orc Hunter
+Hammer Knight
+Great Hammer Unit
+```
+*Often Useful*
+```
+Orc Fighter
+Heavy Infantry
+Warlock
+```
+*Sometimes handy*
+```
+Orc Wing OR Fire Bird
+Frost Mage
+Orc Hammer Unit
+Elf Warrior
+Infantry
+Poison Archer
+```
+**5\* Units and Above**
+
+5\* Units Allowed - If struggling, a transcended unit at 4\* will be as powerful, if not more so, than vanilla 5\* units.
+6\* Units Allowed - Generally use the most powerful core/support units available, however a Senior Golem (and to a lesser extend Big Foot) can be useful.
+
+__**Additional Help**__
+
+**Discussion on Current ToT**
+
+Assign your server role in #commands to gain access to a dedicated channel for your server's Tower of Trials.
+
+The also subreddit provides solutions discussion, this page will provide links to the most current ones - <http://bit.ly/eftotreddit>
+
+**Additional Links** 
+
+<https://www.reddit.com/r/EndlessFrontier/comments/51b8yk/new_to_the_tower_of_trial>
+<https://www.reddit.com/r/EndlessFrontier/comments/57i5sg/guide_to_run_tower_of_trial>

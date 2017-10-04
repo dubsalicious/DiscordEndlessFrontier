@@ -1,0 +1,43 @@
+.acr !shlist2 %user% typed `!shlist2`. This contains a list of the Spirit Highlands levels from 10-05 to 18-20. For other levels type `!shlist1` and `!shlist3`.
+
+For information on what pets to farm, please see `!petguide`.
+```
+KL   Stage  Pet          Unit Pair
+----------------------------------------
+74   10-05  Leo          Forest Guardian
+76   10-10  Icy          Priest
+78   10-15  Devil        Succubus
+80   10-20  Squirrel     Druid
+82   11-05  Griffy       Griffin Rider
+84   11-10  Moon         Dark Archer
+86   11-15  Mir          HBX
+88   11-20  Boom Boom    Battle Drummer
+90   12-05  Nimbus       Goku
+92   12-10  Leo          Forest Guardian
+94   12-15  Jingger      Dark Admiral
+96   12-20  Devil        Succubus
+98   13-05  Rapty        Raptor Rider
+100  13-10  Griffy       Griffin Rider
+102  13-15  Winky        Pilot
+104  13-20  Mir          HBX
+106  14-05  Bunny        Alchemist
+108  14-10  Nimbus       Goku
+110  14-15  Cora         Lich
+112  14-20  Jingger      Dark Admiral
+114  15-05  Wakong       Wyvern Rider
+116  15-10  Rapty        Raptor Rider
+118  15-15  E-77         Steam Punk
+120  15-20  Winky        Pilot
+122  16-05  Windy        Sylphid
+124  16-10  Bunny        Alchemist
+126  16-15  Dark Snake   Medusa
+128  16-20  Cora         Lich
+130  17-05  Seahorse     Naga
+132  17-10  Wakong       Wyvern Rider
+134  17-15  Sarah        Valkyrie
+136  17-20  E-77         Steam Punk
+138  18-05  Oscar        Sword Dancer
+140  18-10  Windy        Sylphid
+142  18-15  Black        Incubus
+144  18-20  Dark Snake   Medusa
+```

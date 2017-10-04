@@ -1,0 +1,47 @@
+.acr "!elf" %user% typed `!elf`. This provides a basic overview of the Elf units and early game prioritisation for core/support units.
+
+**Elf Units [Magical]** Ordered by most recently released
+```
+Sword Dancer (7)    Ground   Melee                MultiHit
+Alchemist (5)       Ground   Ranged   TargetAir                CloakDetection
+Forest Guardian (3) Ground   Ranged   TargetAir   MultiHit
+Druid (2)           Ground   Ranged   TargetAir   AoEWave
+Fairy (1)           Fly      Ranged   TargetAir                Heal, SpeedBuff
+```
+**Elf Units [Physical]** Ordered by most recently released
+```
+Elementalist (9)    Only available in Korea
+Hippogriff (8)      Air       Ranged   TargetAir  MultiHit 
+Sylphid (6)         Ground    Ranged   TargetAir  MultiHit 
+Hoyden Goku (4)     Ground    Ranged              AoEWave
+Unicorn Knight      Ground    Ranged   TargetAir  MultiHit     CloakDetection
+Wolf Warrior        Ground    Melee 
+Ent                 Ground    Melee    Tank       AoEMelee
+```
+__**Build Priorities**__ - Ordered by importance
+
+**Magical Core**
+```
+Druid
+Sword Dancer
+Forest Guardian 
+```
+**Physical Core**
+```
+Hippogriff
+Wolf Warrior (only with 5* Indy Pet)
+Sylphid 
+Hoyden Goku 
+Unicorn Knight
+```
+**Support Units**
+```
+Priest (4) 
+Hippogriff
+Goku (If Sword Dancer Core) 
+Sylphid/Alchemist (6 Total, Mixed)
+Fairy (Filler)
+Drummer (Filler) 
+Aladdin (Filler)
+```
+For more detailed builds please see !elfbuilds.

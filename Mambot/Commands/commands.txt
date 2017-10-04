@@ -1,0 +1,47 @@
+.acr "!commands" %user% typed `!commands`. This is a list of available commands, more detailed descriptions of the commands can be found in #about.
+
+**Role Commands**
+
+`.iam Server #` Replace hash with your server, 1 to 14 for international, or korea for korea
+`.iam Stage #000`
+`.iamnot Stage #000`
+
+**General Help Guides** 
+
+`!artifact`
+`!artifacttrans`
+`!commands`
+`!gemguide`
+`!guildguide`
+`!guildraid`
+`!honorunit`
+`!petcombos`
+`!petguide`
+`!petlink`
+`!revivalteam`
+`!shlist1`, `!shlist2`, `!shlist3`
+`!sslink`
+`!tot`
+`!unit`
+`!unitlist`
+`!unitlevels`
+
+**Basic Team Setup Guides**
+
+`!undead`, `!undeadbuilds`
+`!elf`, `!elfbuilds`
+`!orc`, `!orcbuilds`
+`!human`, `!humanbuilds`
+
+**Revival Medals per Stage**
+
+`!stagemedal1` Stage 100 to 4000
+`!stagemedal2` Stage 4000 to 8000
+`!stagemedal3` Stage 8000 to 12000
+`!stagemedalcalc` Basic Guide to calculating your total medal gain when reviving
+
+**Medal Enhancement Costs**
+
+`!medallevel1` Stage 100 to 4000
+`!medallevel2` Stage 4000 to 8000
+`!medallevel3` Stage 8000 to 12000

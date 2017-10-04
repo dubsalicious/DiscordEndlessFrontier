@@ -1,0 +1,38 @@
+.acr "!petcombos" %user% typed `!petcombos`. This provides a basic overview of the units required to maximise certain pet 5\* skills.
+
+**General **
+```scheme
+[Pet]         [Unit]       [Description]     [5*]   6*]     [Max]
+Tinkey        Fairy        Skip Rate         1%     2.5%    30%
+Combines with fairies in team for up to 100% skip
+			 
+Icy           Priest       5x Speed          1%     2.5%    30%
+Often only 20%/25% often needed to keep 5x
+			 
+Magic Lamp    Aladdin      10x Gold          2%     5%      90%
+Magic Lamp    Aladdin      Click Gold Chest  2%     5%      90%
+Skills have basic 10%, so reach 100%
+			  
+Moon          Dark Archer  Revive at Floor   1%     2.5%    60%
+```
+**Spirit Awakening**
+```
+Winky         Pilot        | Each Senior unit increases  |
+Bunny         Alchemist    | spirit awakening max by 5   |
+Cora          Lich         | to a maximum of 25 for each |
+Wakong        Wyvern Rider | pet/unit combo              |
+```
+Once all 4 pets are unlocked you require 5 senior of each unit.
+This increases the maximum to +200, and reaches that maximum.
+
+**Inner Passion**
+```
+E-77          Steam Punk    | Each Senior unit increases  |
+Windy         Sylphid       | inner passion max by 5 to a |
+Dark Snake    Medusa        | maximum of 50 for each      |
+Sea Horse     Naga          | pet/unit combo              |
+```
+Once all 4 pets are unlocked you require 10 senior of
+each unit to increase the maximum of your inner passion to +300.
+To reach that maximum you additionally any 20 inner passion units 
+seniored (e.g. 10 SP, 10 Sylphid, 15 Naga, 25 Medusa).

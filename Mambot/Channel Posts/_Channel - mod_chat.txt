@@ -1,0 +1,25 @@
+When referencing a user either use their full discord username  or right click on their name click copy ID and use that. Examples below:
+
+`@dubs#6542`
+`196732975763685387`
+
+__**Commands**__
+
+**Warnings**
+```
+.warn USERNAME REASON   | Warn user, REMEMBER A REASON (Update the speadsheet!)
+.warnlog USERNAME       | Check warnlog for user
+.warnclear USERNAME     | Clear all warnings from user (Update the spreadsheet!)
+```
+Warnings result, in order, with - Mute 30min, Mute 60min, Mute 240min, Mute 1day, Ban.
+
+Spreadsheet <https://docs.google.com/spreadsheets/d/109dAaR-TkHEAgIokN1Itrnmpyx8xIf0c8tzYVQsbSv0/edit#gid=0>
+
+**Other**
+```
+.userinfo USERNAME      | Show user information
+.prune USERNAME X       | Delete X messages from user
+.clear USERNAME X       | Delete X messages from user
+.lsar                   | List assignable roles
+.lfw                    | List words in NSFW filter.
+```

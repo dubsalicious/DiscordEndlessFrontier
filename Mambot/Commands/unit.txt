@@ -1,0 +1,43 @@
+.acr "!unit" %user% typed `!unit`. This provides an overview of how to purchase all units.
+
+Most units can be bought with :ef_medal:, the __**exceptions**__ are the 12 following units:
+
+Released in Korea, unavailable in International at this time.
+```
+Cleric       Human   Magical    [Buffs Orc as well   ]
+Shaman       Elf     Physical   [Buffs Human as well ]
+Dark Elf     Undead  Physical   [Buffs Elf as well   ]
+Frost Demon  Orc     Physical   [Buffs Undead as well]
+```
+Available from __Honor Shop__ for :ef_hc: 4400 (released 07/06/2017)
+```
+Fire Spirit    Human   Magical
+Hippogryph     Elf     Physical
+Dark Spirit    Undead  Magical
+Blade Master   Orc     Physical
+```
+Available from __Unit Shop__  for :ef_gem: 5700
+```
+Valkyrie       Human,  Physical
+Sword Dancer   Elf     Magical
+Incubus        Undead  Magical
+Ice Spirit     Orc     Magical
+```
+
+When the next units are released they will be in the honor shop. The current honor units become available for gems and the current gem units become available for medals.
+
+**Any 5-star unit without exception can appear in 5-star Voucher**
+
+Additionally the guide shop provides some units on a monthly cycle (Updated September 2017):
+
+Available from __Guild Shop__ for :ef_gc: 4400
+```
+Pilot         Human   Physical    
+Sylphid       Elf     Physical  
+Dark Admiral  Undead  Physical   
+Naga          Orc     Physical
+```
+
+For more detailed information on all the honor units, see !honorunit
+
+__Updated : 01/09/2017__

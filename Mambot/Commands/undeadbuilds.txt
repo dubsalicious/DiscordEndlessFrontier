@@ -1,0 +1,17 @@
+.acr "!undeadbuilds" You used the command `!undeadbuilds`. This page contains some example builds that have provded successful for other players.
+
+__**These are currently not updated for Honor rotation 7 onwards**__
+
+**Example Core 2 Builds**
+First 2 units are core, followed by supports.
+
+The standard Undead builds are very much based around a similar setup, so the current examples reflect that. A core 2 with the standard 4 priests, a medusa, a few succubus and liches.
+```
+Lich      Dark Admiral    Medusa    Succubus (3)  Lich (2)   Priest (4)
+Incubus   Dark Admiral    Medusa    Succubus (4)  Lich       Priest (4)
+```
+**Notes**
+
+ - Supports should have a minority of medals, aim for good breakpoints.
+ - Please see this page on reddit for more information on breakpoints - <http://bit.ly/2lvOGKK>
+ - More detailed builds can be found using !undeadbuildold1, however these aren't recently updated.
