@@ -1,0 +1,102 @@
+﻿.acr "!unitbook" {
+  "plaintext": "%user% typed `!unitbook`",
+  "title": "List of unit commands",
+  "description": "`!unit unitname` and `!unitskill unitname`",
+  "footer": {
+    "text": "You typed !unitbook"
+  },
+  "fields": [
+    {
+      "name": "Human Units",
+      "value": "```scheme
+infantry
+heavy infantry
+fire bird
+musketeer
+hammer knight
+cavalry knight
+[★★★★★★]
+golem
+fire mage
+gunner
+priest
+aladdin
+griffin rider
+hot-blooded xuanzang
+pilot
+steam punk
+valkyrie
+flame spirit
+```"
+    },
+    {
+      "name": "Elf Units",
+      "value": "```scheme
+elf archer
+elf warrior
+poison archer
+high elf archer
+green eagle
+wind mage
+[★★★★★★]
+ent
+wolf warrior
+unicorn knight
+fairy
+druid
+forest guardian
+hoyden goku
+alchemist
+sylphid
+sword dancer
+hippogriff
+```"
+    },
+    {
+      "name": "Undead Units",
+      "value": "```scheme
+skeleton unit
+warlock
+ghost
+skeleton warrior
+great hammer unit
+black magic wizard
+[★★★★★★]
+hands of death
+bomb unit
+death knight
+dark archer
+dark ninja
+succubus
+dark admiral
+lich
+medusa
+incubus
+dark spirit
+```"
+    },
+    {
+      "name": "Orc Units",
+      "value": "```scheme
+orc fighter
+orc hunter
+frost mage
+orc wing
+orc ax unit
+orc hammer unit
+[★★★★★★]
+big foot
+ice wizard
+wolf rider
+sorcerer
+battle drummer
+raptor rider
+wyvern rider
+naga
+ice spirit
+blade master
+```"
+    }
+  ],
+  "color": 15843890
+}

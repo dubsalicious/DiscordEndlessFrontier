@@ -1,0 +1,77 @@
+.acr "!petbook" {
+"plaintext": "%user% typed `!petbook`",
+"title": "List of pet commands",
+"description": "`!pet petname` (or `!pet unitname` Spirit Highlands pets)",
+"footer": {
+"text": "You typed !petbook"
+},
+"fields": [
+{
+"name": "================== Spirit Highlands =================",
+"value": "```scheme
+[Human]     [Elf]       [Undead]    [Orc]
+mambo       joe         mummy       piggy
+potang      uni         Joker       snork
+phoenic     indy        grim reaper woola
+magic lamp  tinkey      sleepy      totem
+icy         squirrel    moon        boom boom
+griffy      leo         devil
+mir         nimbus      jingger     rapty
+winky       bunny       cora        wakong
+e-77        windy       dark snake  seahorse
+sarah       oscar       black       juda
+rena        hippong     osma        saul
+bernard     chichi      chesher     bamba```",
+"inline": false
+},
+{
+"name": "============== Guild Raid ===============",
+"value": "```scheme
+[Guild Raid]
+skole       harping     gnome       bellial
+senior skole
+senior harping
+senior gnome
+senior bellial
+lavark      hellyme     furion      bahat
+tarad       neru        gorgon      beel```",
+"inline": false
+},
+{
+"name": "=========== Event & Package ============",
+"value": "```scheme
+[Events]
+spring      summer      autumn      winter
+celeste
+[Package]
+hallokin
+nills       rudolph
+lime```",
+"inline": false
+},
+{
+"name": "============ Shop ============",
+"value": "```scheme
+[Pet Shop]
+cookoo            flame sorceress   forest sorceress
+[Secret Pet Shop]
+black tortoise    phoenix           blue dragon
+white tiger       gold dragon
+human guardian    elf guardian
+undead guardian   orc guardian
+cleo
+```",
+"inline": false
+},
+{
+"name": "========== Greek Pet ==========",
+"value": "```scheme
+dionysus    zeus        aphrodite   ares
+athena      artemis     apollo      demeter
+poseidon    hephaistos  hermes      hera
+```",
+"inline": false
+}
+],
+"color": 10554123
+}

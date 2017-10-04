@@ -1,0 +1,1280 @@
+.acr "!unitskill infantry" {"plaintext":"%user% typed `!unitskill infantry`", "title":"Senior Infantry","description":"★★ | Ground Unit | :ap::uh::um:","footer":{"text":"See !unit infantry | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385608545959938/UI_UNIT_ICONS0002.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +40%
+Lv.50 Own Def Power +24%
+Lv.100 Tribe's Move Speed +2%
+Lv.200 Own Atk Power +20%
+Lv.300 Own HP +40%
+Lv.500 Own HP +40%
+Lv.700 Own Def Power +24%
+Lv.900 Own HP +40%
+Lv.1100 Own HP +200%
+Lv.1200 Own Def Power +200%
+Lv.1300 Own HP +300%
+Lv.1400 Own Def Power +400%
+Lv.1500 Tribe's HP +2a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill heavy infantry" {"plaintext":"%user% typed `!unitskill heavy infantry`", "title":"Senior Heavy Infantry","description":"★★★ | Ground Unit | :ap::uh::um:","footer":{"text":"See !unit heavy infantry | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385615819145216/UI_UNIT_ICONS0004.png","fields":[{"name":"Skills","value":"```Lv.25 Own Def Power +26%
+Lv.50 Gold Gain during the battle +23%
+Lv.100 Own HP +43%
+Lv.200 Own Def Power +26%
+Lv.300 Quest Gold +23%
+Lv.500 Melee Def Power +10%
+Lv.700 A chance to block melee attack increased +4%
+Lv.900 Own HP +43%
+Lv.1100 Own Def Power +200%
+Lv.1200 Own HP +300%
+Lv.1300 Melee Def Power +200%
+Lv.1400 Own HP +500%
+Lv.1500 Own HP +3a%
+Lv.1600 Melee Def Power +2a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill fire bird" {"plaintext":"%user% typed `!unitskill fire bird`", "title":"Senior Fire Bird","description":"★★★★ | Air Unit | :am::uh::un::ta::dc:","footer":{"text":"See !unit fire bird | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385622404202496/UI_UNIT_ICONS0006.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +23%
+Lv.50 Quest Gold +24%
+Lv.100 Own HP +46%
+Lv.200 Own Atk Power +23%
+Lv.300 Own Atk Range +5%
+Lv.500 A chance to avoid ranged attack increased +6%
+Lv.700 Own Crit DMG +70%
+Lv.900 Own Crit DMG +70%
+Lv.1100 Own Crit DMG +100%
+Lv.1200 Own Crit Rate +3%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Crit DMG +400%
+Lv.1500 Own Atk Power +1a%
+Lv.1600 Ranged Atk Power +1.5a%
+Lv.1700 Ranged Crit DMG +3a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill musketeer" {"plaintext":"%user% typed `!unitskill musketeer`", "title":"Senior Musketeer","description":"★★★★ | Ground Unit | :ap::uh::um::ta::dc:","footer":{"text":"See !unit musketeer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385628544532480/UI_UNIT_ICONS0008.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +46%
+Lv.50 Own Atk Power +23%
+Lv.100 Quest Gold +24%
+Lv.200 Own Def Power +28%
+Lv.300 Own Crit Rate +3%
+Lv.500 Own Move Speed +5%
+Lv.700 A chance to avoid ranged attack increased +6%
+Lv.900 Own Atk Power +23%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Ranged Atk Power +50%
+Lv.1400 Ranged Crit DMG +300%
+Lv.1500 Ranged Atk Power +400%
+Lv.1600 Tribe's Atk Speed +1%
+Lv.1700 Tribe's Atk Power +2.5a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill hammer knight" {"plaintext":"%user% typed `!unitskill hammer knight`", "title":"Senior Hammer Knight","description":"★★★★ | Ground Unit | :am::uh::um:","footer":{"text":"See !unit hammer knight | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385636165582848/UI_UNIT_ICONS0010.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +23%
+Lv.50 Gold Gain during the battle +24%
+Lv.100 Own HP +46%
+Lv.200 Melee Atk Power +3%
+Lv.300 Own Atk Power +23%
+Lv.500 Own Crit Rate +3%
+Lv.700 Own Crit DMG +70%
+Lv.900 Own Def Power +28%
+Lv.1100 Own HP +300%
+Lv.1200 Own Def Power +200%
+Lv.1300 Melee Atk Power +50%
+Lv.1400 Melee Atk Power +300%```"}],"color":15843890}
+OOOO
+.acr "!unitskill cavalry knight" {"plaintext":"%user% typed `!unitskill cavalry knight`", "title":"Senior Cavalry Knight","description":"★★★★★ | Ground Unit | :ap::uh::um:","footer":{"text":"See !unit cavalry knight | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385645913145344/UI_UNIT_ICONS0012.png","fields":[{"name":"Skills","value":"```Lv.25 Quest Gold +26%
+Lv.50 Own Crit Rate +4%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Own Atk Power +26%
+Lv.300 Own Def Power +32%
+Lv.500 Melee Atk Power +4%
+Lv.700 Own HP +53%
+Lv.900 Tribe's Crit DMG +20%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own HP +300%
+Lv.1300 Melee Atk Power +100%
+Lv.1400 Tribe's Crit DMG +100%
+Lv.1500 Melee Crit DMG +1a%
+Lv.1600 Tribe's Atk Power +3a%
+Lv.1700 Tribe's Atk Speed +2%
+Lv.1800 Melee Crit DMG +4.5a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill golem" {"plaintext":"%user% typed `!unitskill golem`", "title":"Senior Golem","description":"★★★★★★ | Ground Unit | :ap::uh::un:","footer":{"text":"See !pet mambo | !unit golem | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385654398222336/UI_UNIT_ICONS0014.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 Gold Gain during the battle +28%
+Lv.100 Mid-air units attack yourself100%
+Lv.200 Own Def Power +37%
+Lv.300 Own Atk Power +31%
+Lv.500 Own Crit DMG +95%
+Lv.700 A chance to block melee attack increased +9%
+Lv.900 Own HP +61%
+Lv.1100 Own Def Power +300%
+Lv.1200 Own HP +1a%
+Lv.1300 All Def Power +500%
+Lv.1400 All HP +6a%
+Lv.1500 All HP +20a%
+Lv.1600 Tribe's HP +300a%
+Lv.1700 Melee Atk Power +120a%
+Lv.1800 Melee Def Power +240a%
+Lv.1900 All HP +5.4b%
+Lv.2000 Tribe's Atk Power +4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill fire mage" {"plaintext":"%user% typed `!unitskill fire mage`", "title":"Senior Fire Mage","description":"★★★★★★ | Ground Unit | :am::uh::uf:","footer":{"text":"See !pet phoenic | !unit fire mage | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385661457104913/UI_UNIT_ICONS0016.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Range +9%
+Lv.50 Quest Gold +28%
+Lv.100 Own Crit Rate +4%
+Lv.200 Own Atk Power +31%
+Lv.300 Own Crit DMG +95%
+Lv.500 Own Crit Rate +4%
+Lv.700 Own Atk Power +31%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Tribe's Atk Power +100%
+Lv.1200 Own Atk Power +300%
+Lv.1300 Tribe's Crit DMG +700%
+Lv.1400 Ranged Atk Power +800%
+Lv.1500 Tribe's Atk Power +3a%
+Lv.1600 Tribe's Crit DMG +20a%
+Lv.1700 Tribe's Atk Power +147a%
+Lv.1800 Ranged Crit DMG +210a%
+Lv.1900 Tribe's Atk Power +1.1b%
+Lv.2000 Tribe's Crit DMG +2.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill gunner" {"plaintext":"%user% typed `!unitskill gunner`", "title":"Senior Gunner","description":"★★★★★★ | Ground Unit | :am::uh::um::ta::dc:","footer":{"text":"See !pet potang | !unit gunner | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385668075978755/UI_UNIT_ICONS0018.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +28%
+Lv.50 Gold Gain during the battle +27%
+Lv.100 Tribe's Atk Power +10%
+Lv.200 Own Atk Power +28%
+Lv.300 Own Crit DMG +85%
+Lv.500 Quest Gold +26%
+Lv.700 Own Crit Rate +4%
+Lv.900 Own Crit Rate +4%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own Atk Power +200%
+Lv.1300 Ranged Atk Power +600%
+Lv.1400 Ranged Atk Power +1.2a%
+Lv.1500 Ranged Crit DMG +4.8a%
+Lv.1600 Tribe's Atk Power +40a%
+Lv.1700 Ranged Atk Power +126a%
+Lv.1800 Ranged Atk Power +380a%
+Lv.1900 Ranged Crit DMG +600a%
+Lv.2000 Ranged Atk Power +3.4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill elf archer" {"plaintext":"%user% typed `!unitskill elf archer`", "title":"Senior Elf Archer","description":"★★ | Ground Unit | :ap::ue::uf::ta::dc:","footer":{"text":"See !unit elf archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385674728013826/UI_UNIT_ICONS0022.png","fields":[{"name":"Skills","value":"```Lv.25 A chance to avoid ranged attack increased +4%
+Lv.50 Gold Gain during the battle +22%
+Lv.100 A chance to avoid ranged attack increased +4%
+Lv.200 Own Atk Power +20%
+Lv.300 Own Crit DMG +60%
+Lv.500 Own HP +40%
+Lv.700 Own Atk Range +3%
+Lv.900 Own Atk Power +20%
+Lv.1100 Own Crit DMG +100%
+Lv.1200 Own HP +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Crit Rate +2%
+Lv.1500 Own Crit DMG +800%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill elf warrior" {"plaintext":"%user% typed `!unitskill elf warrior`", "title":"Senior Elf Warrior","description":"★★★ | Ground Unit | :ap::ue::um:","footer":{"text":"See !unit elf warrior | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385680952229889/UI_UNIT_ICONS0024.png","fields":[{"name":"Skills","value":"```Lv.25 Own Def Power +26%
+Lv.50 Quest Gold +23%
+Lv.100 Own HP +43%
+Lv.200 Own Def Power +26%
+Lv.300 Melee Def Power +10%
+Lv.500 A chance to avoid ranged attack increased +5%
+Lv.700 Own Atk Power +21%
+Lv.900 Own HP +43%
+Lv.1100 Own HP +43%
+Lv.1200 Own HP +200%
+Lv.1300 Own Def Power +200%
+Lv.1400 Own Def Power +400%
+Lv.1500 Own HP +3a%
+Lv.1600 Melee Def Power +2a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill poison archer" {"plaintext":"%user% typed `!unitskill poison archer`", "title":"Senior Poison Archer","description":"★★★★ | Ground Unit | :am::ue::um::ta:","footer":{"text":"See !unit poison archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385687008935936/UI_UNIT_ICONS0026.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +70%
+Lv.50 Gold Gain during the battle +24%
+Lv.100 A chance to avoid ranged attack increased +6%
+Lv.200 Own Atk Power +23%
+Lv.300 Quest Gold +24%
+Lv.500 Own Crit DMG +70%
+Lv.700 Own Atk Range +5%
+Lv.900 Own Crit Rate +3%
+Lv.1100 Own Crit DMG +100%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Atk Power +300%
+Lv.1500 Own Crit DMG +1a%
+Lv.1600 Ranged Atk Power +2a%
+Lv.1700 Tribe's Atk Power +2.4a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill high elf archer" {"plaintext":"%user% typed `!unitskill high elf archer`", "title":"Senior High Elf Archer","description":"★★★★ | Ground Unit | :am::ue::uf::ta::dc:","footer":{"text":"See !unit high elf archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385694181064706/UI_UNIT_ICONS0028.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +23%
+Lv.50 Own Atk Range +5%
+Lv.100 Quest Gold +24%
+Lv.200 A chance to avoid ranged attack increased +6%
+Lv.300 Tribe's Move Speed +2%
+Lv.500 Own Crit Rate +3%
+Lv.700 Own Atk Power +23%
+Lv.900 Own Crit DMG +70%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +300%
+Lv.1400 Own Crit DMG +400%
+Lv.1500 Ranged Atk Power +400%
+Lv.1600 Ranged Crit DMG +2a%
+Lv.1700 Ranged Atk Power +3a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill green eagle" {"plaintext":"%user% typed `!unitskill green eagle`", "title":"Senior Green Eagle","description":"★★★★ | Air Unit | :ap::ue::un::ta:","footer":{"text":"See !unit green eagle | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385700938350595/UI_UNIT_ICONS0030.png","fields":[{"name":"Skills","value":"```Lv.25 A chance to avoid ranged attack increased +6%
+Lv.50 Own Atk Power +23%
+Lv.100 Gold Gain during the battle +24%
+Lv.200 Own Crit DMG +70%
+Lv.300 Own Atk Range +5%
+Lv.500 Own Atk Power +23%
+Lv.700 Own Crit Rate +3%
+Lv.900 A chance to avoid ranged attack increased +6%
+Lv.1100 Ranged Atk Power +50%
+Lv.1200 Own Atk Power +200%
+Lv.1300 Own Move Speed +5%
+Lv.1400 Ranged Crit DMG +300%
+Lv.1500 Tribe's Atk Power +800%
+Lv.1600 Ranged Atk Speed +2%
+Lv.1700 Ranged Crit DMG +2.8a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill wind mage" {"plaintext":"%user% typed `!unitskill wind mage`", "title":"Senior Wind Mage","description":"★★★★★ | Ground Unit | :am::ue::uf::ta:","footer":{"text":"See !unit wind mage | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385708492161024/UI_UNIT_ICONS0032.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +26%
+Lv.50 A chance to avoid ranged attack increased +8%
+Lv.100 Quest Gold +26%
+Lv.200 Own Crit Rate +4%
+Lv.300 Ranged Crit Rate +4%
+Lv.500 Own Atk Power +26%
+Lv.700 Tribe's Move Speed +2%
+Lv.900 Own Crit DMG +80%
+Lv.1100 Own Crit DMG +100%
+Lv.1200 Ranged Crit DMG +100%
+Lv.1300 Ranged Atk Power +200%
+Lv.1400 Ranged Atk Speed +2%
+Lv.1500 Ranged Atk Power +1a%
+Lv.1600 Tribe's Atk Power +3a%
+Lv.1700 Tribe's Crit DMG +2.5a%
+Lv.1800 Tribe's Move Speed +2%```"}],"color":15843890}
+OOOO
+.acr "!unitskill ent" {"plaintext":"%user% typed `!unitskill ent`", "title":"Senior Ent","description":"★★★★★★ | Ground Unit | :ap::ue::un:","footer":{"text":"See !pet joe | !unit ent | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385715064635392/UI_UNIT_ICONS0034.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 Quest Gold +28%
+Lv.100 Own Atk Power +31%
+Lv.200 Own Def Power +37%
+Lv.300 Own HP +61%
+Lv.500 A chance to block melee attack increased +9%
+Lv.700 Own Atk Power +31%
+Lv.900 Own Crit DMG +95%
+Lv.1100 All Def Power +100%
+Lv.1200 Own Def Power +500%
+Lv.1300 All HP +2a%
+Lv.1400 Tribe's Crit DMG +800%
+Lv.1500 All Def Power +4a%
+Lv.1600 Tribe's Def Power +35a%
+Lv.1700 All HP +600a%
+Lv.1800 Tribe's Crit DMG +210a%
+Lv.1900 All Def Power +540a%
+Lv.2000 Tribe's Crit DMG +2.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill wolf warrior" {"plaintext":"%user% typed `!unitskill wolf warrior`", "title":"Senior Wolf Warrior","description":"★★★★★★ | Ground Unit | :ap::ue::un:","footer":{"text":"See !pet indy | !unit wolf warrior | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385721175867394/UI_UNIT_ICONS0036.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Gold Gain during the battle +28%
+Lv.100 Own Crit Rate +4%
+Lv.200 Own Atk Power +31%
+Lv.300 Quest Gold +28%
+Lv.500 Own Crit DMG +95%
+Lv.700 A chance to avoid ranged attack increased +10%
+Lv.900 Own Atk Speed +10%
+Lv.1100 Own Atk Power +300%
+Lv.1200 All Move Speed +2%
+Lv.1300 Tribe's Move Speed +3%
+Lv.1400 All Atk Speed +2%
+Lv.1500 All Crit DMG +2.3a%
+Lv.1600 Tribe's Atk Power +44a%
+Lv.1700 Tribe's Crit DMG +76a%
+Lv.1800 Melee Atk Speed +2%
+Lv.1900 Melee Crit DMG +640a%
+Lv.2000 Melee Crit DMG +1.8b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill unicorn knight" {"plaintext":"%user% typed `!unitskill unicorn knight`", "title":"Senior Unicorn Knight","description":"★★★★★★ | Ground Unit | :ap::ue::un::ta::dc:","footer":{"text":"See !pet uni | !unit unicorn knight | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385728490602496/UI_UNIT_ICONS0038.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +56%
+Lv.50 Gold Gain during the battle +27%
+Lv.100 Own Atk Power +28%
+Lv.200 Quest Gold +27%
+Lv.300 Own Crit Rate +4%
+Lv.500 Own Atk Power +28%
+Lv.700 Own Crit DMG +85%
+Lv.900 Ranged Atk Power +20%
+Lv.1100 Ranged Atk Power +100%
+Lv.1200 All Atk Power +100%
+Lv.1300 Ranged Def Power +600%
+Lv.1400 Ranged Crit DMG +1.2a%
+Lv.1500 Ranged Atk Power +5a%
+Lv.1600 Tribe's Crit DMG +24a%
+Lv.1700 Ranged Atk Speed +2%
+Lv.1800 Tribe's Crit DMG +230a%
+Lv.1900 Ranged Atk Power +1.1b%
+Lv.2000 Tribe's Crit DMG +2.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill skeleton unit" {"plaintext":"%user% typed `!unitskill skeleton unit`", "title":"Senior Skeleton Unit","description":"★★ | Ground Unit | :ap::uu::um:","footer":{"text":"See !unit skeleton unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385735826309120/UI_UNIT_ICONS0042.png","fields":[{"name":"Skills","value":"```Lv.25 Own Revival Time  -4%
+Lv.50 Gold Gain during the battle +22%
+Lv.100 Own HP +40%
+Lv.200 Own HP +40%
+Lv.300 Own Def Power +24%
+Lv.500 Own Atk Power +20%
+Lv.700 Own Def Power +24%
+Lv.900 Own HP +40%
+Lv.1100 Own Def Power +200%
+Lv.1200 Own HP +200%
+Lv.1300 Own Def Power +300%
+Lv.1400 Tribe's HP +400%
+Lv.1500 Tribe's Def Power +1a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill warlock" {"plaintext":"%user% typed `!unitskill warlock`", "title":"Senior Warlock","description":"★★★ | Ground Unit | :am::uu::um::ta::dc:","footer":{"text":"See !unit warlock | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385745536253961/UI_UNIT_ICONS0044.png","fields":[{"name":"Skills","value":"```Lv.25 Own Revival Time  -5%
+Lv.50 Own Atk Power +21%
+Lv.100 Gold Gain during the battle +23%
+Lv.200 Own Def Power +26%
+Lv.300 Quest Gold +23%
+Lv.500 Own Atk Range +4%
+Lv.700 A chance to avoid ranged attack increased +5%
+Lv.900 Own Atk Power +21%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own Crit Rate +3%
+Lv.1300 Own Crit DMG +100%
+Lv.1400 Own Atk Power +300%
+Lv.1500 Tribe's Atk Power +600%
+Lv.1600 Ranged Atk Power +1.5a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill ghost" {"plaintext":"%user% typed `!unitskill ghost`", "title":"Senior Ghost","description":"★★★★ | Air Unit | :ap::uu::un::ta:","footer":{"text":"See !unit ghost | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385754872643584/UI_UNIT_ICONS0046.png","fields":[{"name":"Skills","value":"```Lv.25 Gold Gain during the battle +24%
+Lv.50 Own Atk Power +23%
+Lv.100 Own Revival Time  -6%
+Lv.200 Own Atk Range +5%
+Lv.300 Own Crit DMG +70%
+Lv.500 Own Crit Rate +3%
+Lv.700 Own Atk Power +23%
+Lv.900 Tribe's Atk Power +20%
+Lv.1100 Own Crit DMG +100%
+Lv.1200 Tribe's Revival Time  -3%
+Lv.1300 Tribe's Atk Power +200%
+Lv.1400 Tribe's Crit DMG +200%
+Lv.1500 A chance to avoid ranged attack increased +5%
+Lv.1600 Tribe's Atk Power +2a%
+Lv.1700 Tribe's Atk Power +2.5a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill skeleton warrior" {"plaintext":"%user% typed `!unitskill skeleton warrior`", "title":"Senior Skeleton Warrior","description":"★★★★ | Ground Unit | :ap::uu::um:","footer":{"text":"See !unit skeleton warrior | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385764750491659/UI_UNIT_ICONS0048.png","fields":[{"name":"Skills","value":"```Lv.25 Own Def Power +28%
+Lv.50 Own Revival Time  -6%
+Lv.100 Gold Gain during the battle +24%
+Lv.200 Own HP +46%
+Lv.300 Own Def Power +28%
+Lv.500 Own HP +46%
+Lv.700 A chance to block melee attack increased +5%
+Lv.900 Own Def Power +28%
+Lv.1100 Own Def Power +100%
+Lv.1200 Own Def Power +200%
+Lv.1300 Own HP +300%
+Lv.1400 Own Def Power +400%
+Lv.1500 Own HP +3a%
+Lv.1600 Melee Def Power +2a%
+Lv.1700 Melee Crit DMG +2.9a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill great hammer unit" {"plaintext":"%user% typed `!unitskill great hammer unit`", "title":"Senior Great Hammer Unit","description":"★★★★ | Ground Unit | :ap::uu::um:","footer":{"text":"See !unit great hammer unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385772673531904/UI_UNIT_ICONS0050.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +46%
+Lv.50 Own Atk Power +23%
+Lv.100 Own Atk Power +23%
+Lv.200 Mid-air units attack yourself100%
+Lv.300 Own Crit Rate +3%
+Lv.500 Own Crit DMG +70%
+Lv.700 Own Crit DMG +70%
+Lv.900 Own Crit Rate +3%
+Lv.1100 Own Atk Power +100%
+Lv.1200 Own Crit DMG +200%
+Lv.1300 Melee Atk Power +50%
+Lv.1400 Own Crit DMG +400%
+Lv.1500 Tribe's Atk Power +2a%
+Lv.1600 Melee Crit DMG +2a%
+Lv.1700 Tribe's Atk Power +3a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill black magic wizard" {"plaintext":"%user% typed `!unitskill black magic wizard`", "title":"Senior Black Magic Wizard","description":"★★★★★ | Ground Unit | :am::uu::uf::ta::dc:","footer":{"text":"See !unit black magic wizard | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385782328688641/UI_UNIT_ICONS0052.png","fields":[{"name":"Skills","value":"```Lv.25 Quest Gold +26%
+Lv.50 Own Atk Range +7%
+Lv.100 Own Atk Power +26%
+Lv.200 Own Crit Rate +3%
+Lv.300 Tribe's Move Speed +2%
+Lv.500 Own Crit DMG +80%
+Lv.700 A chance to avoid ranged attack increased +8%
+Lv.900 Own Atk Power +26%
+Lv.1100 Own Atk Power +200%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Atk Power +300%
+Lv.1500 Tribe's Atk Power +2a%
+Lv.1600 Tribe's Atk Speed +2%
+Lv.1700 Tribe's Crit DMG +2.5a%
+Lv.1800 Tribe's Crit DMG +6a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill hands of death" {"plaintext":"%user% typed `!unitskill hands of death`", "title":"Senior Hands of Death","description":"★★★★★★ | Ground Unit | :ap::uu::um:","footer":{"text":"See !pet mummy | !unit hands of death | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385790088019971/UI_UNIT_ICONS0054.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 Own Atk Power +31%
+Lv.100 Quest Gold +28%
+Lv.200 Own Atk Power +31%
+Lv.300 Own Crit Rate +4%
+Lv.500 Own Atk Power +31%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own HP +61%
+Lv.1100 Own Atk Power +300%
+Lv.1200 Own HP +1a%
+Lv.1300 Tribe's Atk Power +700%
+Lv.1400 Tribe's Atk Power +1.4a%
+Lv.1500 Tribe's HP +20a%
+Lv.1600 Tribe's Atk Power +40a%
+Lv.1700 Tribe's Crit DMG +84a%
+Lv.1800 Tribe's Atk Power +450a%
+Lv.1900 Tribe's HP +8b%
+Lv.2000 Tribe's Atk Power +4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill bomb unit" {"plaintext":"%user% typed `!unitskill bomb unit`", "title":"Senior Bomb Unit","description":"★★★★★★ | Ground Unit | :ap::uu::um::ta::dc:","footer":{"text":"See !pet joker | !unit bomb unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385801534275585/UI_UNIT_ICONS0056.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Crit DMG +95%
+Lv.100 Own Atk Power +31%
+Lv.200 Quest Gold +28%
+Lv.300 Own Crit Rate +4%
+Lv.500 Own Atk Range +9%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own Crit Rate +4%
+Lv.1100 Own Atk Power +300%
+Lv.1200 Ranged Atk Power +200%
+Lv.1300 Own Atk Range +15%
+Lv.1400 All Crit DMG +800%
+Lv.1500 All Crit DMG +3a%
+Lv.1600 Ranged Atk Power +50a%
+Lv.1700 All Crit DMG +54a%
+Lv.1800 All Crit DMG +162a%
+Lv.1900 All Atk Power +467a%
+Lv.2000 All Crit DMG +1.4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill death knight" {"plaintext":"%user% typed `!unitskill death knight`", "title":"Senior Death Knight","description":"★★★★★★ | Ground Unit | :am::uu::um:","footer":{"text":"See !pet grim reaper | !unit death knight | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385810363547650/UI_UNIT_ICONS0058.png","fields":[{"name":"Skills","value":"```Lv.25 Own Def Power +34%
+Lv.50 Own HP +56%
+Lv.100 Quest Gold +27%
+Lv.200 Tribe's Def Power +20%
+Lv.300 Own Atk Power +28%
+Lv.500 Tribe's Atk Power +20%
+Lv.700 Tribe's Move Speed +3%
+Lv.900 Tribe's Crit DMG +20%
+Lv.1100 All HP +200%
+Lv.1200 Melee Atk Power +200%
+Lv.1300 Tribe's Move Speed +3%
+Lv.1400 Tribe's Atk Speed +5%
+Lv.1500 Tribe's Atk Power +6a%
+Lv.1600 Tribe's Crit DMG +28a%
+Lv.1700 Melee Atk Power +128a%
+Lv.1800 Tribe's Atk Power +400a%
+Lv.1900 Tribe's Crit DMG +700a%
+Lv.2000 Tribe's Crit DMG +2.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill orc fighter" {"plaintext":"%user% typed `!unitskill orc fighter`", "title":"Senior Orc Fighter","description":"★★ | Ground Unit | :am::uo::um:","footer":{"text":"See !unit orc fighter | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385819427307522/UI_UNIT_ICONS0062.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +40%
+Lv.50 Own HP +40%
+Lv.100 Gold Gain during the battle +22%
+Lv.200 Own Atk Power +20%
+Lv.300 Own Def Power +24%
+Lv.500 Own Def Power +24%
+Lv.700 A chance to block melee attack increased +3%
+Lv.900 Own HP +40%
+Lv.1100 Own Def Power +24%
+Lv.1200 Own HP +200%
+Lv.1300 Own HP +300%
+Lv.1400 Melee Def Power +300%
+Lv.1500 Own Atk Power +800%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill orc hunter" {"plaintext":"%user% typed `!unitskill orc hunter`", "title":"Senior Orc Hunter","description":"★★★ | Ground Unit | :ap::uo::um:","footer":{"text":"See !unit orc hunter | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385828008722432/UI_UNIT_ICONS0064.png","fields":[{"name":"Skills","value":"```Lv.25 Own Move Speed +5%
+Lv.50 Gold Gain during the battle +24%
+Lv.100 Own Atk Power +23%
+Lv.200 Own Move Speed +5%
+Lv.300 Own Crit DMG +70%
+Lv.500 A chance to avoid ranged attack increased +6%
+Lv.700 Own Crit DMG +70%
+Lv.900 Own Atk Power +23%
+Lv.1100 Own Atk Power +23%
+Lv.1200 Own Atk Power +100%
+Lv.1300 Own Crit DMG +100%
+Lv.1400 Own Atk Power +200%
+Lv.1500 Own Crit Rate +2%
+Lv.1600 Own Crit DMG +2a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill frost mage" {"plaintext":"%user% typed `!unitskill frost mage`", "title":"Senior Frost Mage","description":"★★★★ | Ground Unit | :am::uo::uf::ta::dc:","footer":{"text":"See !unit frost mage | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385837949354006/UI_UNIT_ICONS0066.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Range +4%
+Lv.50 Quest Gold +23%
+Lv.100 Own Atk Power +21%
+Lv.200 Own HP +43%
+Lv.300 A chance to avoid ranged attack increased +5%
+Lv.500 Own Crit Rate +4%
+Lv.700 Own Def Power +26%
+Lv.900 Own Crit DMG +65%
+Lv.1100 Own Def Power +100%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Crit DMG +200%
+Lv.1500 Own Crit DMG +500%
+Lv.1600 Tribe's Atk Speed +2%
+Lv.1700 Tribe's Atk Power +2.4a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill orc wing" {"plaintext":"%user% typed `!unitskill orc wing`", "title":"Senior Orc Wing","description":"★★★★ | Air Unit | :am::uo::un::ta::dc:","footer":{"text":"See !unit orc wing | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385847646453771/UI_UNIT_ICONS0068.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +46%
+Lv.50 Own HP +46%
+Lv.100 Own Atk Power +23%
+Lv.200 Tribe's Move Speed +2%
+Lv.300 Own Atk Range +5%
+Lv.500 A chance to avoid ranged attack increased +6%
+Lv.700 Own Atk Power +23%
+Lv.900 Own Crit DMG +70%
+Lv.1100 Own HP +100%
+Lv.1200 Own Def Power +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own HP +400%
+Lv.1500 Own Def Power +2a%
+Lv.1600 Tribe's Atk Power +1.8a%
+Lv.1700 Tribe's Atk Speed +3%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill orc ax unit" {"plaintext":"%user% typed `!unitskill orc ax unit`", "title":"Senior Orc Ax Unit","description":"★★★★★ | Ground Unit | :ap::uo::um:","footer":{"text":"See !unit orc ax unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385856186056715/UI_UNIT_ICONS0070.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +70%
+Lv.50 Own Atk Power +26%
+Lv.100 Tribe's Move Speed +2%
+Lv.200 Own Crit Rate +3%
+Lv.300 Own Atk Power +26%
+Lv.500 Own Crit DMG +70%
+Lv.700 Own HP +53%
+Lv.900 Tribe's Crit Rate +4%
+Lv.1100 Own Crit DMG +100%
+Lv.1200 Own Atk Power +200%
+Lv.1300 Own Crit DMG +100%
+Lv.1400 Own Crit DMG +200%
+Lv.1500 Own Atk Power +3a%
+Lv.1600 Tribe's Atk Power +2.5a%
+Lv.1700 Tribe's Crit DMG +2.7a%
+Lv.1800 Tribe's Atk Power +8a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill orc hammer unit" {"plaintext":"%user% typed `!unitskill orc hammer unit`", "title":"Senior Orc Hammer Unit","description":"★★★★ | Ground Unit | :ap::uo::um:","footer":{"text":"See !unit orc hammer unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385866839851008/UI_UNIT_ICONS0072.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +23%
+Lv.50 Own Atk Power +23%
+Lv.100 Quest Gold +24%
+Lv.200 Own Atk Power +23%
+Lv.300 Own Crit DMG +70%
+Lv.500 Own Crit DMG +70%
+Lv.700 A chance to block melee attack increased +5%
+Lv.900 Own Crit Rate +3%
+Lv.1100 Own Atk Power +100%
+Lv.1200 Own Crit DMG +100%
+Lv.1300 Own Atk Power +200%
+Lv.1400 Own Crit DMG +400%
+Lv.1500 Own HP +3.2a%
+Lv.1600 Own Crit DMG +2.5a%
+Lv.1700 Tribe's Atk Power +3a%
+```"}],"color":15843890}
+OOOO
+.acr "!unitskill big foot" {"plaintext":"%user% typed `!unitskill big foot`", "title":"Senior Big Foot","description":"★★★★★★ | Ground Unit | :am::uo::um:","footer":{"text":"See !pet piggy | !unit big foot | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385878596354048/UI_UNIT_ICONS0074.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 Own Def Power +37%
+Lv.100 Gold Gain during the battle +28%
+Lv.200 Own HP +61%
+Lv.300 Own Atk Power +31%
+Lv.500 Own Atk Power +31%
+Lv.700 Own HP +61%
+Lv.900 Own Atk Power +31%
+Lv.1100 Own HP +400%
+Lv.1200 Own Atk Power +400%
+Lv.1300 Tribe's HP +3a%
+Lv.1400 Tribe's Atk Power +600%
+Lv.1500 Tribe's HP +20a%
+Lv.1600 All HP +200a%
+Lv.1700 Tribe's HP +900a%
+Lv.1800 Tribe's Atk Power +440a%
+Lv.1900 Tribe's HP +8.1b%
+Lv.2000 Tribe's Atk Power +3.9b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill ice wizard" {"plaintext":"%user% typed `!unitskill ice wizard`", "title":"Senior Ice Wizard","description":"★★★★★★ | Ground Unit | :am::uo::uf:","footer":{"text":"See !pet snork | !unit ice wizard | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385889006616576/UI_UNIT_ICONS0076.png","fields":[{"name":"Skills","value":"```Lv.25 A chance to avoid ranged attack increased +10%
+Lv.50 Own HP +61%
+Lv.100 Quest Gold +28%
+Lv.200 Own Def Power +37%
+Lv.300 Own Atk Power +31%
+Lv.500 A chance to avoid ranged attack increased +10%
+Lv.700 Own Crit Rate +4%
+Lv.900 Own Atk Power +31%
+Lv.1100 All Def Power +100%
+Lv.1200 Ranged Atk Power +200%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Ranged Atk Speed +2%
+Lv.1500 Tribe's Def Power +3.5a%
+Lv.1600 Tribe's Crit DMG +24a%
+Lv.1700 Tribe's Atk Power +120a%
+Lv.1800 Tribe's Move Speed +2%
+Lv.1900 Tribe's Crit DMG +600a%
+Lv.2000 Tribe's Atk Power +4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill wolf rider" {"plaintext":"%user% typed `!unitskill wolf rider`", "title":"Senior Wolf Rider","description":"★★★★★★ | Ground Unit | :ap::uo::um:","footer":{"text":"See !pet woola | !unit wolf rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385940684767232/UI_UNIT_ICONS0078.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +85%
+Lv.50 Own Atk Power +28%
+Lv.100 Gold Gain during the battle +27%
+Lv.200 Own Atk Power +28%
+Lv.300 Own Crit Rate +4%
+Lv.500 Tribe's Move Speed +5%
+Lv.700 Own HP +56%
+Lv.900 All Atk Speed +5%
+Lv.1100 All Crit DMG +100%
+Lv.1200 Tribe's Atk Power +300%
+Lv.1300 Melee Atk Power +600%
+Lv.1400 Melee Crit DMG +900%
+Lv.1500 Tribe's Atk Power +4a%
+Lv.1600 Melee Crit DMG +24a%
+Lv.1700 Tribe's Atk Power +130a%
+Lv.1800 Melee Crit DMG +210a%
+Lv.1900 Melee Atk Power +1.1b%
+Lv.2000 Melee Crit DMG +1.8b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill priest" {"plaintext":"%user% typed `!unitskill priest`", "title":"Senior Priest","description":"★★★★★★ | Ground Unit | :am::uh::uf::ta::hn: Gen 1","footer":{"text":"See !pet icy | !unit priest | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386023757021185/UI_UNIT_ICONS0095.png","fields":[{"name":"Skills","value":"```Lv.25 Quest Gold +28%
+Lv.50 A chance to avoid ranged attack increased +5%
+Lv.100 Own HP +61%
+Lv.200 Own Def Power +37%
+Lv.300 All Move Speed +2%
+Lv.500 All HP +20%
+Lv.700 Own Atk Power +23%
+Lv.900 A chance to avoid ranged attack increased +5%
+Lv.1100 All Def Power +100%
+Lv.1200 All HP +100%
+Lv.1300 All Def Power +400%
+Lv.1400 Tribe's Def Power +800%
+Lv.1500 Tribe's HP +20a%
+Lv.1600 Tribe's Def Power +40a%
+Lv.1700 Tribe's HP +800a%
+Lv.1800 Tribe's Def Power +350a%
+Lv.1900 All Def Power +500a%
+Lv.2000 Tribe's HP +24b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill fairy" {"plaintext":"%user% typed `!unitskill fairy`", "title":"Senior Fairy","description":"★★★★★★ | Air Unit | :am::ue::uf::ta::dc::hn: Gen 1","footer":{"text":"See !pet tinkey | !unit fairy | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386033428955136/UI_UNIT_ICONS0097.png","fields":[{"name":"Skills","value":"```Lv.25 A chance to avoid ranged attack increased +5%
+Lv.50 Quest Gold +28%
+Lv.100 Own HP +61%
+Lv.200 Own Def Power +37%
+Lv.300 All Def Power +10%
+Lv.500 Own HP +61%
+Lv.700 Own Def Power +37%
+Lv.900 Own Atk Power +23%
+Lv.1100 Ranged Atk Power +100%
+Lv.1200 Tribe's Atk Power +300%
+Lv.1300 All Move Speed +2%
+Lv.1400 Tribe's Atk Power +600%
+Lv.1500 All Crit DMG +2a%
+Lv.1600 Tribe's Atk Power +45a%
+Lv.1700 Ranged Atk Power +120a%
+Lv.1800 All Crit DMG +155a%
+Lv.1900 All Atk Power +680a%
+Lv.2000 Tribe's Atk Power +3.5b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill dark archer" {"plaintext":"%user% typed `!unitskill dark archer`", "title":"Senior Dark Archer","description":"★★★★★★ | Ground Unit | :am::uu::uf::ta::hn: Gen 1","footer":{"text":"See !pet moon | !unit dark archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386042048512001/UI_UNIT_ICONS0099.png","fields":[{"name":"Skills","value":"```Lv.25 Quest Gold +28%
+Lv.50 Own Atk Power +23%
+Lv.100 Own Crit Rate +4%
+Lv.200 Own HP +56%
+Lv.300 Own Atk Range +9%
+Lv.500 A chance to avoid ranged attack increased +5%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Own Atk Power +300%
+Lv.1200 Tribe's Atk Power +300%
+Lv.1300 Tribe's Move Speed +3%
+Lv.1400 Tribe's Atk Power +1a%
+Lv.1500 Tribe's Crit DMG +5a%
+Lv.1600 Tribe's Atk Power +42a%
+Lv.1700 Tribe's Atk Speed +2%
+Lv.1800 Tribe's Atk Power +450a%
+Lv.1900 Tribe's Crit DMG +580a%
+Lv.2000 Ranged Atk Power +3.4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill sorcerer" {"plaintext":"%user% typed `!unitskill sorcerer`", "title":"Senior Sorcerer","description":"★★★★★★ | Ground Unit | :am::uo::uf::ta::dc::hn: Gen 3","footer":{"text":"See !pet totem | !unit sorcerer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386051384770570/UI_UNIT_ICONS0101.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Move Speed +2%
+Lv.50 Tribe's Def Power +37%
+Lv.100 Quest Gold +28%
+Lv.200 A chance to avoid ranged attack increased +5%
+Lv.300 Tribe's Def Power +37%
+Lv.500 All Def Power +20%
+Lv.700 Tribe's HP +61%
+Lv.900 Tribe's Atk Speed +2%
+Lv.1100 All HP +200%
+Lv.1200 Ranged Atk Power +200%
+Lv.1300 Tribe's Move Speed +2%
+Lv.1400 All Def Power +3a%
+Lv.1500 Tribe's Def Power +4.5a%
+Lv.1600 Tribe's HP +200a%
+Lv.1700 Tribe's Def Power +120a%
+Lv.1800 Tribe's HP +2.4b%
+Lv.1900 All Def Power +490a%
+Lv.2000 Tribe's HP +24b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill battle drummer" {"plaintext":"%user% typed `!unitskill battle drummer`", "title":"Senior Battle Drummer","description":"★★★★★★ | Ground Unit | :ap::uo::um::ta::hn: Gen 2","footer":{"text":"See !pet boom boom | !unit battle drummer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386061509820416/UI_UNIT_ICONS0103.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 All Atk Power +20%
+Lv.100 All Def Power +30%
+Lv.200 All HP +40%
+Lv.300 All Atk Speed +2%
+Lv.500 All Crit DMG +20%
+Lv.700 All Move Speed +2%
+Lv.900 All Atk Range +2%
+Lv.1100 All Crit DMG +100%
+Lv.1200 Melee Atk Power +300%
+Lv.1300 All Atk Power +400%
+Lv.1400 All HP +3a%
+Lv.1500 All Def Power +3a%
+Lv.1600 All Atk Power +30a%
+Lv.1700 All Move Speed +2%
+Lv.1800 All Crit DMG +205a%
+Lv.1900 All Atk Power +680a%
+Lv.2000 All Crit DMG +1.4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill aladdin" {"plaintext":"%user% typed `!unitskill aladdin`", "title":"Senior Aladdin","description":"★★★★★★ | Floating Unit | :ap::uh::um::ta::hn: Gen 2","footer":{"text":"See !pet magic lamp | !unit aladdin | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386072733908993/UI_UNIT_ICONS0105.png","fields":[{"name":"Skills","value":"```Lv.25 Quest Gold +600%
+Lv.50 Decrease the unit upgrade cost +200%
+Lv.100 Quest Gold +600%
+Lv.200 Decrease the quest upgrade cost +200%
+Lv.300 Quest Gold +600%
+Lv.500 Reduce the quest time +100%
+Lv.700 Quest Gold +600%
+Lv.900 Decrease the quest upgrade cost +300%
+Lv.1100 Quest Gold +600%
+Lv.1200 Decrease the unit upgrade cost +300%
+Lv.1300 Quest Gold +2a%
+Lv.1400 Quest Gold +2.5a%
+Lv.1500 Quest Gold +3a%
+Lv.1600 Quest Gold +10a%
+Lv.1700 Quest Gold +30a%
+Lv.1800 Decrease the unit upgrade cost +3a%
+Lv.1900 Quest Gold +300a%
+Lv.2000 Quest Gold +900a%```"}],"color":15843890}
+OOOO
+.acr "!unitskill druid" {"plaintext":"%user% typed `!unitskill druid`", "title":"Senior Druid","description":"★★★★★★ | Ground Unit | :am::ue::uf::ta::hn: Gen 2","footer":{"text":"See !pet squirrel | !unit druid | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386083140108289/UI_UNIT_ICONS0107.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Quest Gold +28%
+Lv.100 Own HP +61%
+Lv.200 Own Crit DMG +95%
+Lv.300 Tribe's Move Speed +4%
+Lv.500 Own Atk Power +31%
+Lv.700 Tribe's Atk Speed +2%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Tribe's HP +200%
+Lv.1200 Tribe's Crit DMG +100%
+Lv.1300 Tribe's Crit DMG +500%
+Lv.1400 Tribe's Atk Power +800%
+Lv.1500 Tribe's Atk Power +4a%
+Lv.1600 Tribe's Atk Power +43a%
+Lv.1700 Tribe's Crit DMG +80a%
+Lv.1800 Own Crit Rate +30%
+Lv.1900 Tribe's Crit DMG +740a%
+Lv.2000 Tribe's Atk Power +4.1b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill dark ninja" {"plaintext":"%user% typed `!unitskill dark ninja`", "title":"Senior Dark Ninja","description":"★★★★★★ | Ground Unit | :ap::uu::um::dc::hn: Gen 2","footer":{"text":"See !pet sleepy | !unit dark ninja | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386093348782080/UI_UNIT_ICONS0109.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Atk Power +31%
+Lv.100 Own Crit Rate +4%
+Lv.200 Own Crit DMG +95%
+Lv.300 Own Atk Power +31%
+Lv.500 Melee Move Speed +4%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Own Atk Power +300%
+Lv.1200 Own Crit DMG +200%
+Lv.1300 Tribe's Atk Power +500%
+Lv.1400 Tribe's Crit DMG +900%
+Lv.1500 Melee Crit DMG +4.8a%
+Lv.1600 Tribe's Atk Power +46a%
+Lv.1700 Melee Atk Speed +2%
+Lv.1800 Melee Atk Power +380a%
+Lv.1900 Melee Crit DMG +620a%
+Lv.2000 Tribe's Atk Power +4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill griffin rider" {"plaintext":"%user% typed `!unitskill griffin rider`", "title":"Senior Griffin Rider","description":"★★★★★★ | Air Unit | :ap::uh::um::ta::hn: Gen 3","footer":{"text":"See !pet griffy | !unit griffin rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386102513336325/UI_UNIT_ICONS0111.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own HP +61%
+Lv.100 Tribe's Move Speed +2%
+Lv.200 Own Atk Power +31%
+Lv.300 Own Atk Range +3%
+Lv.500 Tribe's Move Speed +2%
+Lv.700 A chance to avoid ranged attack increased +5%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Own Crit DMG +200%
+Lv.1200 Own Crit Rate +4%
+Lv.1300 Tribe's Atk Speed +2%
+Lv.1400 Tribe's Crit DMG +1a%
+Lv.1500 Tribe's Atk Power +4a%
+Lv.1600 Ranged Atk Power +42a%
+Lv.1700 Ranged Crit DMG +70a%
+Lv.1800 Tribe's Crit DMG +210a%
+Lv.1900 Tribe's Atk Power +1.1b%
+Lv.2000 Tribe's Crit DMG +3.3b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill forest guardian" {"plaintext":"%user% typed `!unitskill forest guardian`", "title":"Senior Forest Guardian","description":"★★★★★★ | Ground Unit | :am::ue::uf::ta::hn: Gen 3","footer":{"text":"See !pet leo | !unit forest guardian | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386113502543872/UI_UNIT_ICONS0113.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Crit DMG +95%
+Lv.100 Quest Gold +28%
+Lv.200 Ranged Move Speed +2%
+Lv.300 Own Crit DMG +95%
+Lv.500 Own Atk Power +31%
+Lv.700 Tribe's Move Speed +2%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Own Crit Rate +4%
+Lv.1200 Ranged Atk Speed +2%
+Lv.1300 Ranged Crit DMG +500%
+Lv.1400 Ranged Atk Power +1a%
+Lv.1500 Tribe's Crit DMG +4.8a%
+Lv.1600 Tribe's Atk Power +44a%
+Lv.1700 Ranged Atk Power +130a%
+Lv.1800 Ranged Crit DMG +200a%
+Lv.1900 Ranged Atk Power +1.1b%
+Lv.2000 Tribe's Atk Power +6b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill succubus" {"plaintext":"%user% typed `!unitskill succubus`", "title":"Senior Succubus","description":"★★★★★★ | Air Unit | :am::uu::uf::ta::hn: Gen 3","footer":{"text":"See !pet devil | !unit succubus | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386125204652032/UI_UNIT_ICONS0115.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 Quest Gold +28%
+Lv.100 Own Atk Power +31%
+Lv.200 A chance to avoid ranged attack increased +5%
+Lv.300 Own Crit DMG +95%
+Lv.500 Tribe's Move Speed +2%
+Lv.700 Tribe's Atk Speed +2%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Ranged Atk Speed +2%
+Lv.1200 Own Atk Range +6%
+Lv.1300 Tribe's Move Speed +2%
+Lv.1400 Ranged Atk Power +1a%
+Lv.1500 Ranged Crit DMG +4.8a%
+Lv.1600 Ranged Atk Power +44a%
+Lv.1700 Ranged Atk Power +126a%
+Lv.1800 Ranged Atk Power +380a%
+Lv.1900 Ranged Atk Power +1.1b%
+Lv.2000 Ranged Atk Power +3.4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill hot-blooded xuanzang" {"plaintext":"%user% typed `!unitskill hot-blooded xuanzang`", "title":"Senior Hot-Blooded Xuanzang","description":"★★★★★★ | Ground Unit | :ap::uh::um::ta::hn: Gen 4","footer":{"text":"See !pet mir | !unit hot-blooded xuanzang | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386137657540609/UI_UNIT_ICONS0117.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own HP +61%
+Lv.100 Own Crit DMG +95%
+Lv.200 Own Crit Rate +4%
+Lv.300 Tribe's Move Speed +6%
+Lv.500 Own Atk Power +31%
+Lv.700 Tribe's Atk Speed +2%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Tribe's HP +200%
+Lv.1200 Tribe's Crit DMG +100%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +900%
+Lv.1500 Tribe's Atk Power +4.2a%
+Lv.1600 Tribe's Crit DMG +23a%
+Lv.1700 Tribe's Atk Power +130a%
+Lv.1800 Tribe's Atk Power +430a%
+Lv.1900 Tribe's Crit DMG +700a%
+Lv.2000 Tribe's Atk Power +4.1b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill hoyden goku" {"plaintext":"%user% typed `!unitskill hoyden goku`", "title":"Senior Hoyden Goku","description":"★★★★★★ | Ground Unit | :ap::ue::uf::hn: Gen 4","footer":{"text":"See !pet nimbus | !unit hoyden goku | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386147027484676/UI_UNIT_ICONS0119.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +95%
+Lv.50 Own Atk Power +23%
+Lv.100 Own Crit Rate +4%
+Lv.200 Own Crit DMG +95%
+Lv.300 Own Crit DMG +95%
+Lv.500 A chance to avoid ranged attack increased +5%
+Lv.700 Own Atk Range +3%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Own Atk Power +300%
+Lv.1200 Tribe's Atk Power +300%
+Lv.1300 Tribe's Move Speed +6%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Atk Power +48a%
+Lv.1700 Tribe's Atk Speed +2%
+Lv.1800 Tribe's Crit DMG +220a%
+Lv.1900 Tribe's Atk Power +1.1b%
+Lv.2000 Tribe's Crit DMG +2.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill dark admiral" {"plaintext":"%user% typed `!unitskill dark admiral`", "title":"Senior Dark Admiral","description":"★★★★★★ | Ground Unit | :ap::uu::um::ta::hn: Gen 4","footer":{"text":"See !pet jingger | !unit dark admiral | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386155936186378/UI_UNIT_ICONS0121.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Crit DMG +95%
+Lv.100 Own Atk Range +3%
+Lv.200 Ranged Move Speed +3%
+Lv.300 Own Crit DMG +95%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Own Atk Power +31%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Own Crit Rate +4%
+Lv.1200 Ranged Atk Speed +2%
+Lv.1300 Ranged Crit DMG +500%
+Lv.1400 Ranged Atk Power +1a%
+Lv.1500 Tribe's Crit DMG +4.8a%
+Lv.1600 Tribe's Atk Power +47a%
+Lv.1700 Ranged Crit DMG +70a%
+Lv.1800 Tribe's Crit DMG +210a%
+Lv.1900 Tribe's Atk Power +1.1b%
+Lv.2000 Tribe's Crit DMG +3.3b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill raptor rider" {"plaintext":"%user% typed `!unitskill raptor rider`", "title":"Senior Raptor Rider","description":"★★★★★★ | Ground Unit | :ap::uo::um::ta::hn: Gen 4","footer":{"text":"See !pet rapty | !unit raptor rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386163620282370/UI_UNIT_ICONS0123.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Atk Power +31%
+Lv.100 Own Crit Rate +4%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Own Atk Power +31%
+Lv.500 Ranged Move Speed +3%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own Crit DMG +95%
+Lv.1100 Ranged Atk Speed +2%
+Lv.1200 Own Crit DMG +200%
+Lv.1300 Tribe's Atk Power +500%
+Lv.1400 Tribe's Crit DMG +1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Ranged Crit DMG +24a%
+Lv.1700 Ranged Atk Power +125a%
+Lv.1800 Tribe's Crit DMG +230a%
+Lv.1900 Tribe's Crit DMG +730a%
+Lv.2000 Tribe's Crit DMG +3.3b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill pilot" {"plaintext":"%user% typed `!unitskill pilot`", "title":"Senior Pilot","description":"★★★★★★ | Air Unit | :ap::uh::um::ta::dc::hn: Gen 5","footer":{"text":"See !pet winky | !unit pilot | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386228002979840/UI_UNIT_ICONS0125.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +95%
+Lv.50 Own Crit DMG +95%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Own Atk Range +4%
+Lv.300 Ranged Move Speed +3%
+Lv.500 Ranged Atk Speed +2%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own Crit Rate +4%
+Lv.1100 A chance to avoid ranged attack increased +5%
+Lv.1200 Tribe's Crit DMG +100%
+Lv.1300 Ranged Crit DMG +500%
+Lv.1400 Ranged Atk Power +1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Ranged Crit DMG +24a%
+Lv.1700 Ranged Atk Power +128a%
+Lv.1800 Tribe's Crit DMG +220a%
+Lv.1900 Tribe's Crit DMG +740a%
+Lv.2000 Tribe's Crit DMG +2.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill alchemist" {"plaintext":"%user% typed `!unitskill alchemist`", "title":"Senior Alchemist","description":"★★★★★★ | Ground Unit | :am::ue::um::ta::dc::hn: Gen 5","footer":{"text":"See !pet bunny | !unit alchemist | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386236077015040/UI_UNIT_ICONS0127.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Def Power +37%
+Lv.50 Own Atk Power +23%
+Lv.100 A chance to avoid ranged attack increased +5%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Tribe's Atk Power +23%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Own HP +61%
+Lv.900 Tribe's Crit DMG +95%
+Lv.1100 Tribe's Crit Rate +2%
+Lv.1200 Own Atk Range +3%
+Lv.1300 Tribe's Atk Power +600%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Atk Power +50a%
+Lv.1700 Ranged Atk Speed +2%
+Lv.1800 Tribe's Atk Power +450a%
+Lv.1900 Tribe's Atk Power +1.2b%
+Lv.2000 Tribe's Atk Power +4.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill lich" {"plaintext":"%user% typed `!unitskill lich`", "title":"Senior Lich","description":"★★★★★★ | Ground Unit | :am::uu::um::ta::dc::hn: Gen 5","footer":{"text":"See !pet cora | !unit lich | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386244302045205/UI_UNIT_ICONS0129.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's HP +50%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Crit DMG +70%
+Lv.300 Tribe's Atk Range +2%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Tribe's Def Power +30%
+Lv.900 Tribe's Atk Power +27%
+Lv.1100 Tribe's Crit DMG +70%
+Lv.1200 Own Atk Range +2%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Crit DMG +1.1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Crit DMG +27a%
+Lv.1700 Tribe's Atk Speed +2%
+Lv.1800 Tribe's Atk Power +440a%
+Lv.1900 Tribe's Atk Power +1.1b%
+Lv.2000 Tribe's Atk Power +4.1b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill wyvern rider" {"plaintext":"%user% typed `!unitskill wyvern rider`", "title":"Senior Wyvern Rider","description":"★★★★★★ | Air Unit | :am::uo::um::ta::dc::hn: Gen 5","footer":{"text":"See !pet wakong | !unit wyvern rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386253730578433/UI_UNIT_ICONS0131.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Crit DMG +95%
+Lv.100 Tribe's Move Speed +2%
+Lv.200 Own Atk Range +3%
+Lv.300 Own Crit Rate +4%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Tribe's Atk Speed +2%
+Lv.900 Own Atk Power +31%
+Lv.1100 Own Crit DMG +200%
+Lv.1200 Ranged Atk Power +200%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Crit DMG +1a%
+Lv.1500 Tribe's Atk Power +4.2a%
+Lv.1600 Ranged Crit DMG +24a%
+Lv.1700 Tribe's Crit DMG +80a%
+Lv.1800 Tribe's Crit DMG +230a%
+Lv.1900 Tribe's Atk Power +1.1b%
+Lv.2000 Tribe's Crit DMG +2.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill steam punk" {"plaintext":"%user% typed `!unitskill steam punk`", "title":"Senior Steam Punk","description":"★★★★★★ | Ground Unit | :am::uh::un::ta::hn: Gen 6","footer":{"text":"See !pet e-77 | !unit steam punk | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386261037187072/UI_UNIT_ICONS0135.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 Own Atk Power +31%
+Lv.100 Own Crit DMG +95%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Own HP +61%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Own Crit DMG +95%
+Lv.900 Tribe's Atk Speed +2%
+Lv.1100 Own Atk Range +2%
+Lv.1200 Ranged Atk Speed +2%
+Lv.1300 Tribe's Atk Power +600%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Ranged Crit DMG +4.7a%
+Lv.1600 Tribe's Atk Power +52a%
+Lv.1700 Tribe's Crit DMG +176a%
+Lv.1800 Tribe's Crit DMG +480a%
+Lv.1900 Ranged Crit DMG +720a%
+Lv.2000 Tribe's Atk Power +4.3b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill sylphid" {"plaintext":"%user% typed `!unitskill sylphid`", "title":"Senior Sylphid","description":"★★★★★★ | Floating Unit | :ap::ue::uf::ta::hn: Gen 6","footer":{"text":"See !pet windy | !unit sylphid | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386271086739458/UI_UNIT_ICONS0137.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +95%
+Lv.50 Own Atk Power +31%
+Lv.100 Own Atk Range +2%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 A chance to avoid ranged attack increased +5%
+Lv.500 Ranged Move Speed +3%
+Lv.700 Own Atk Power +31%
+Lv.900 Tribe's Atk Power +27%
+Lv.1100 Tribe's Atk Speed +2%
+Lv.1200 Own Crit Rate +4%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.2a%
+Lv.1500 Ranged Crit DMG +4.4a%
+Lv.1600 Tribe's Crit DMG +25a%
+Lv.1700 Ranged Atk Power +244a%
+Lv.1800 Tribe's Crit DMG +460a%
+Lv.1900 Tribe's Crit DMG +800a%
+Lv.2000 Tribe's Atk Power +4.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill medusa" {"plaintext":"%user% typed `!unitskill medusa`", "title":"Senior Medusa","description":"★★★★★★ | Ground Unit | :ap::uu::uf::ta::hn: Gen 6","footer":{"text":"See !pet dark snake | !unit medusa | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386280381186048/UI_UNIT_ICONS0139.png","fields":[{"name":"Skills","value":"```Lv.25 Own Atk Power +31%
+Lv.50 Own Crit DMG +95%
+Lv.100 Ranged Move Speed +3%
+Lv.200 Own Atk Power +31%
+Lv.300 Own Crit Rate +4%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Own Crit DMG +95%
+Lv.900 Own Atk Range +2%
+Lv.1100 Ranged Atk Speed +2%
+Lv.1200 Own Crit DMG +200%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Tribe's Atk Power +4.2a%
+Lv.1600 Ranged Atk Power +45a%
+Lv.1700 Tribe's Crit DMG +170a%
+Lv.1800 Tribe's Crit DMG +420a%
+Lv.1900 Ranged Atk Power +1.2b%
+Lv.2000 Tribe's Atk Power +4.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill naga" {"plaintext":"%user% typed `!unitskill naga`", "title":"Senior Naga","description":"★★★★★★ | Ground Unit | :ap::uo::uf::ta::dc::hn: Gen 6","footer":{"text":"See !pet seahorse | !unit naga | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386289080172545/UI_UNIT_ICONS0141.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's HP +50%
+Lv.50 Tribe's Atk Power +27%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Crit DMG +70%
+Lv.300 Tribe's Move Speed +3%
+Lv.500 Own Atk Range +2%
+Lv.700 Tribe's Atk Power +27%
+Lv.900 A chance to avoid ranged attack increased +5%
+Lv.1100 Tribe's Crit Rate +2%
+Lv.1200 All Atk Range +1%
+Lv.1300 Tribe's Atk Power +600%
+Lv.1400 Tribe's Crit DMG +1.1a%
+Lv.1500 Tribe's Atk Power +4a%
+Lv.1600 Tribe's Crit DMG +28a%
+Lv.1700 Tribe's Crit DMG +425a%
+Lv.1800 Tribe's Crit DMG +650a%
+Lv.1900 Tribe's Crit DMG +940a%
+Lv.2000 Tribe's Atk Power +4.3b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill valkyrie" {"plaintext":"%user% typed `!unitskill valkyrie`", "title":"Senior Valkyrie","description":"★★★★★★ | Ground Unit | :ap::uh::uf::ta::dc::hn: Gen 7","footer":{"text":"See !pet sarah | !unit valkyrie | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386297171247106/UI_UNIT_ICONS0143.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's Crit DMG +70%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Crit DMG +70%
+Lv.300 Tribe's Move Speed +3%
+Lv.500 Own Atk Range +3%
+Lv.700 Tribe's Crit DMG +70%
+Lv.900 Tribe's Crit Rate +2%
+Lv.1100 Tribe's Crit DMG +70%
+Lv.1200 All Atk Range +1%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Crit DMG +28a%
+Lv.1700 Tribe's Crit DMG +430a%
+Lv.1800 Tribe's Crit DMG +670a%
+Lv.1900 Tribe's Atk Power +1.3b%
+Lv.2000 Tribe's Crit DMG +4.5b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill sword dancer" {"plaintext":"%user% typed `!unitskill sword dancer`", "title":"Senior Sword Dancer","description":"★★★★★★ | Ground Unit | :am::ue::uf::hn: Gen 7","footer":{"text":"See !pet oscar | !unit sword dancer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386307497623552/UI_UNIT_ICONS0145.png","fields":[{"name":"Skills","value":"```Lv.25 Own HP +61%
+Lv.50 Own Atk Power +31%
+Lv.100 Own Atk Speed +10%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Own Crit Rate +4%
+Lv.500 Melee Move Speed +3%
+Lv.700 Own Crit DMG +95%
+Lv.900 Melee Atk Power +20%
+Lv.1100 Melee Atk Speed +2%
+Lv.1200 Tribe's Atk Power +300%
+Lv.1300 Tribe's Atk Power +600%
+Lv.1400 Melee Crit DMG +900%
+Lv.1500 Tribe's Atk Power +5.4a%
+Lv.1600 Melee Crit DMG +25a%
+Lv.1700 Tribe's Crit DMG +172a%
+Lv.1800 Tribe's Atk Power +450a%
+Lv.1900 Tribe's Crit DMG +740a%
+Lv.2000 Tribe's Atk Power +7.5b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill incubus" {"plaintext":"%user% typed `!unitskill incubus`", "title":"Senior Incubus","description":"★★★★★★ | Floating Unit | :am::uu::um::ta::hn: Gen 7","footer":{"text":"See !pet black | !unit incubus | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386316385091586/UI_UNIT_ICONS0147.png","fields":[{"name":"Skills","value":"```Lv.25 Own Crit DMG +95%
+Lv.50 Own HP +61%
+Lv.100 Own Atk Range +2%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Own Crit DMG +95%
+Lv.500 Ranged Move Speed +3%
+Lv.700 Own Atk Power +31%
+Lv.900 A chance to avoid ranged attack increased +5%
+Lv.1100 Own Crit Rate +4%
+Lv.1200 Own Crit DMG +200%
+Lv.1300 Ranged Crit DMG +500%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Atk Power +52a%
+Lv.1700 Tribe's Crit DMG +222a%
+Lv.1800 Tribe's Atk Power +450a%
+Lv.1900 Tribe's Atk Power +1.1b%
+Lv.2000 Tribe's Crit DMG +4.5b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill ice spirit" {"plaintext":"%user% typed `!unitskill ice spirit`", "title":"Senior Ice Spirit","description":"★★★★★★ | Floating Unit | :am::uo::un::ta::hn: Gen 7","footer":{"text":"See !pet juda | !unit ice spirit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386324249673728/UI_UNIT_ICONS0149.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's HP +50%
+Lv.50 Tribe's Crit DMG +70%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Atk Power +27%
+Lv.300 Tribe's Move Speed +3%
+Lv.500 Tribe's Atk Speed +2%
+Lv.700 A chance to avoid ranged attack increased +5%
+Lv.900 Tribe's Atk Power +27%
+Lv.1100 Ranged Atk Speed +2%
+Lv.1200 Tribe's Crit DMG +100%
+Lv.1300 Tribe's Atk Power +600%
+Lv.1400 Tribe's Atk Power +1.1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Atk Power +52a%
+Lv.1700 Tribe's Crit DMG +420a%
+Lv.1800 Tribe's Crit DMG +660a%
+Lv.1900 Tribe's Crit DMG +950a%
+Lv.2000 Tribe's Atk Power +8.1b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill flame spirit" {"plaintext":"%user% typed `!unitskill flame spirit`", "title":"Senior Flame Spirit","description":"★★★★★★ | Floating Unit | :am::uh::uf::ta::hn: Gen 8","footer":{"text":"See !pet rena | !unit flame spirit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/341269522122276867/UI_UNIT_ICONS0159.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's HP +50%
+Lv.50 Tribe's Atk Power +27%
+Lv.100 Tribe's Crit DMG +70%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Tribe's Crit DMG +70%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Tribe's Atk Power +27%
+Lv.900 Own Crit Rate +4%
+Lv.1100 All Atk Range +1%
+Lv.1200 Ranged Atk Speed +2%
+Lv.1300 Tribe's Atk Power +800%
+Lv.1400 Tribe's Atk Power +1.2a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Atk Power +52a%
+Lv.1700 Tribe's Atk Speed +2%
+Lv.1800 Tribe's Atk Power +460a%
+Lv.1900 Tribe's Crit DMG +1.1b%
+Lv.2000 Tribe's Crit DMG +4.9b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill hippogriff" {"plaintext":"%user% typed `!unitskill hippogriff`", "title":"Senior Hippogriff","description":"★★★★★★ | Air Unit | :ap::ue::um::ta::hn: Gen 8","footer":{"text":"See !pet hippong | !unit hippogriff | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/341269525553086486/UI_UNIT_ICONS0161.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's Crit DMG +70%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Own Atk Range +2%
+Lv.300 A chance to avoid ranged attack increased +5%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Own Atk Speed +10%
+Lv.900 Tribe's Crit DMG +95%
+Lv.1100 Tribe's Crit Rate +2%
+Lv.1200 Tribe's Atk Range +2%
+Lv.1300 Ranged Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.2a%
+Lv.1500 Tribe's Atk Power +5.8a%
+Lv.1600 Ranged Atk Power +45a%
+Lv.1700 Ranged Crit DMG +250a%
+Lv.1800 Tribe's Crit DMG +660a%
+Lv.1900 Ranged Atk Power +1.3b%
+Lv.2000 Tribe's Crit DMG +4.9b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill dark spirit" {"plaintext":"%user% typed `!unitskill dark spirit`", "title":"Senior Dark Spirit","description":"★★★★★★ | Air Unit | :am::uu::un::ta::dc::hn: Gen 8","footer":{"text":"See !pet osma | !unit dark spirit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/341269527381803009/UI_UNIT_ICONS0163.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's HP +50%
+Lv.50 Tribe's Crit DMG +70%
+Lv.100 Tribe's Atk Power +27%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Tribe's Crit DMG +70%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Own Atk Range +2%
+Lv.900 Tribe's Crit Rate +2%
+Lv.1100 Tribe's Atk Speed +2%
+Lv.1200 Tribe's Atk Range +2%
+Lv.1300 Ranged Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.2a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Tribe's Atk Power +51a%
+Lv.1700 Tribe's Crit DMG +230a%
+Lv.1800 Ranged Atk Power +420a%
+Lv.1900 Ranged Crit DMG +800a%
+Lv.2000 Tribe's Crit DMG +5b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill blade master" {"plaintext":"%user% typed `!unitskill blade master`", "title":"Senior Blade Master","description":"★★★★★★ | Ground Unit | :ap::uo::um::hn: Gen 8","footer":{"text":"See !pet saul | !unit blade master | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/341269530560954368/UI_UNIT_ICONS0165.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Crit DMG +70%
+Lv.50 Tribe's Atk Power +27%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Own Atk Speed +10%
+Lv.300 Own Crit Rate +4%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Tribe's Crit DMG +70%
+Lv.900 Melee Crit DMG +90%
+Lv.1100 Melee Crit DMG +90%
+Lv.1200 Tribe's Crit DMG +200%
+Lv.1300 Tribe's Atk Power +800%
+Lv.1400 Melee Crit DMG +1a%
+Lv.1500 Tribe's Atk Power +5.8a%
+Lv.1600 Tribe's Crit DMG +28a%
+Lv.1700 Melee Atk Speed +2%
+Lv.1800 Tribe's Atk Power +480a%
+Lv.1900 Tribe's Crit DMG +950a%
+Lv.2000 Tribe's Crit DMG +4.9b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill saintorc2" {"plaintext":"%user% typed `!unitskill saintorc2`", "title":"SaintOrc2","description":"★★★★★★ | Ground Unit | :am::uh::um::ta::hn: Gen 9","footer":{"text":"See !pet bernard | !unit saintorc2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599732927660034/UI_UNIT_ICONS0167.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's HP +100%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Crit DMG +70%
+Lv.300 Tribe's Move Speed +3%
+Lv.500 Own Atk Range +2%
+Lv.700 Tribe's HP +100%
+Lv.900 Tribe's Atk Range +2%
+Lv.1100 Tribe's Crit Rate +2%
+Lv.1200 Tribe's Atk Speed +2%
+Lv.1300 Tribe's Atk Power +800%
+Lv.1400 Tribe's Crit DMG +1a%
+Lv.1500 Tribe's Atk Power +6a%
+Lv.1600 Tribe's Crit DMG +32a%
+Lv.1700 Tribe's Atk Power +460a%
+Lv.1800 Tribe's Crit DMG +770a%
+Lv.1900 Tribe's Atk Power +1.5b%
+Lv.2000 Tribe's Crit DMG +5.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill elfmaster2" {"plaintext":"%user% typed `!unitskill elfmaster2`", "title":"ElfMaster2","description":"★★★★★★ | Ground Unit | :ap::ue::um::ta::dc::hn: Gen 9","footer":{"text":"See !pet chichi | !unit elfmaster2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599736237228032/UI_UNIT_ICONS0169.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's HP +50%
+Lv.50 Tribe's Atk Power +27%
+Lv.100 Tribe's Atk Power +27%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Tribe's Crit DMG +70%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Tribe's Crit DMG +70%
+Lv.900 Own Atk Speed +10%
+Lv.1100 All Atk Range +1%
+Lv.1200 Tribe's Crit Rate +2%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Atk Power +1.2a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Ranged Atk Speed +2%
+Lv.1700 Ranged Atk Power +360a%
+Lv.1800 Ranged Atk Power +560a%
+Lv.1900 Tribe's Crit DMG +1.2b%
+Lv.2000 Tribe's Crit DMG +5.2b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill darkelf2" {"plaintext":"%user% typed `!unitskill darkelf2`", "title":"DarkElf2","description":"★★★★★★ | Ground Unit | :ap::uu::uf::hn: Gen 9","footer":{"text":"See !pet chesher | !unit darkelf2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599739164852225/UI_UNIT_ICONS0171.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's Crit DMG +70%
+Lv.100 Tribe's Move Speed +3%
+Lv.200 Tribe's Crit DMG +70%
+Lv.300 Tribe's Move Speed +3%
+Lv.500 Own Atk Speed +10%
+Lv.700 Tribe's Crit DMG +95%
+Lv.900 Tribe's Atk Speed +2%
+Lv.1100 Tribe's Crit Rate +2%
+Lv.1200 All Atk Range +1%
+Lv.1300 Melee Crit DMG +600%
+Lv.1400 Melee Crit DMG +1a%
+Lv.1500 Tribe's Crit DMG +5.2a%
+Lv.1600 Melee Atk Power +45a%
+Lv.1700 Melee Crit DMG +290a%
+Lv.1800 Tribe's Crit DMG +740a%
+Lv.1900 Melee Crit DMG +900a%
+Lv.2000 Tribe's Crit DMG +5.4b%```"}],"color":15843890}
+OOOO
+.acr "!unitskill frostdemon2" {"plaintext":"%user% typed `!unitskill frostdemon2`", "title":"FrostDemon2","description":"★★★★★★ | Ground Unit | :ap::uo::un::hn: Gen 9","footer":{"text":"See !pet bamba | !unit frostdemon2 | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/350599730125996043/UI_UNIT_ICONS0173.png","fields":[{"name":"Skills","value":"```Lv.25 Tribe's Atk Power +27%
+Lv.50 Tribe's Atk Power +27%
+Lv.100 Own Crit Rate +2%
+Lv.200 Tribe's Move Speed +3%
+Lv.300 Tribe's Crit DMG +70%
+Lv.500 Tribe's Move Speed +3%
+Lv.700 Tribe's Crit DMG +95%
+Lv.900 Melee Crit DMG +90%
+Lv.1100 Tribe's Atk Speed +2%
+Lv.1200 All Atk Range +1%
+Lv.1300 Tribe's Crit DMG +600%
+Lv.1400 Tribe's Crit DMG +1a%
+Lv.1500 Melee Crit DMG +1a%
+Lv.1600 Melee Crit DMG +27a%
+Lv.1700 Melee Crit Rate +1%
+Lv.1800 Tribe's Crit DMG +720a%
+Lv.1900 Melee Atk Power +1.3b%
+Lv.2000 Tribe's Crit DMG +5.2b%```"}],"color":15843890}
