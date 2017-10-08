@@ -1,0 +1,41 @@
+.acr !artifactbuilds %user% typed `!artifactbuilds`. This covers a selection of the most common artifact builds people use. It relies on having the full 27 slots and all 6\* artifacts so is aimed at MidGame.
+
+The guide will reference upgrading certain artifacts. These are recommendation for upgrading to their maximum level using honor coins (+50 for 6\*, +70 for 6\* T1, +90 for 6\* T2).
+
+__**6\* / 6\* T1 Builds**__
+```
+6  | Can be any tribe units, but Orc and
+6  | Elf are probably recommended.
+4  King of Beasts
+4  Ancient Outland Beasts
+4  Legacy of Abundance
+3  The Ruler of Darkness
+```
+**Recommended Upgrade Order**
+One each of Quest Upgrade Cost and Quest Open Gold Reduction. One of Quest Gold Acquisition is also helpful.
+
+These should ideally be from Legacy of Abundance or your primary race for attack power and other buffs. Alternatively Frost Knight is an excellent choice as it is a powerful lategame race.
+ 
+ __**6\* T2 Guilds**__
+``` 
+6  | Can be any tribe units, but Orc, 
+6  | Elf and one other are probably
+6  | recommended.
+4  King of Beasts
+4  Legacy of Abundance
+1  Ancient Outland Beast's Blunt Force
+ ```
+**Recommended Upgrade Order**
+ - Ancient Outland Beast's Blunt Force
+ - Additional Quest Upgrade Cost, Quest Open Gold Reduction and Quest Gold Acquisition. One of which should also boost your primary Tribe's attack power.
+ - Additional Tribe Attack Power
+
+ __**Upgrade Costs :ef_hc:**__
+ 
+20 -> 50 = 11,200
+50 -> 70 = 14,400
+70 -> 90 = 14,400
+
+__**Additional Builds**__
+
+A much more comprehensive list of artifact builds, including possibilities for beyond KLVL 180, can be found here http://bit.ly/efmagicarts

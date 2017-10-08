@@ -18,14 +18,16 @@ __**Units List**__
 
 A list of how many of each unit is required to max their passive skills, both basic and the advanced versions with pet. In some cases it isn't vital to maximise these skills (e.g. Aladdin).
 
+Additionally this spreadsheet will do most of the working for you <http://bit.ly/dubspassiveskills>
+
 ```scheme
 [Unit]           [NoPet]     [Pet]  [PetNote]
-Ninja Darkness   ----------------------------
-Druid            | 
-Forest Guardian  | Basically fodder, keep some
-Griffin Rider    | but the rest can be used. 
-Succubus         |
-BMW, WM, CK, OAU ----------------------------
+Ninja Darkness   --------------
+Druid            |            |
+Forest Guardian  | Fodder     |
+Griffin Rider    |            |
+Succubus         |            |
+BMW, WM, CK, OAU --------------
 
 Steam Punk       --------------
 Sylphid          | 10 of each |
@@ -50,4 +52,3 @@ Dark Archer      12          24     60% Total (5* 1%, 6* 2.5%)
 Battle Drummer               Many      
 [Unit]           [NoPet]     [Pet]  [PetNote]
 ```
-*Note, some numbers above don't match game descriptions. The game ones are sometimes wrong.*
