@@ -11,10 +11,10 @@ __**6\* / 6\* T1 Builds**__
 4  Legacy of Abundance
 3  The Ruler of Darkness
 ```
-**Recommended Upgrade Order**
-One each of Quest Upgrade Cost and Quest Open Gold Reduction. One of Quest Gold Acquisition is also helpful.
+**Recommended Upgrade**
+One each of Quest Upgrade Cost and Quest Open Gold Reduction should be enough. Additionally a Quest Gold Acquisition if needed.
 
-These should ideally be from Legacy of Abundance or your primary race for attack power and other buffs. Alternatively Frost Knight is an excellent choice as it is a powerful lategame race.
+These should ideally be from Frost Knight set because currently Orc is the most commonly used race late game. Elf is also a good choice.
  
  __**6\* T2 Guilds**__
 ``` 
@@ -29,13 +29,15 @@ These should ideally be from Legacy of Abundance or your primary race for attack
  - Ancient Outland Beast's Blunt Force
  - Additional Quest Upgrade Cost, Quest Open Gold Reduction and Quest Gold Acquisition. One of which should also boost your primary Tribe's attack power.
  - Additional Tribe Attack Power
+ - Additional Economy artifacts as needed. Probably Quest Upgrade Cost, Quest Open Gold then Quest Gold ACquisition.
 
  __**Upgrade Costs :ef_hc:**__
  
-20 -> 50 = 11,200
+20 -> 50 = 11,200 
 50 -> 70 = 14,400
 70 -> 90 = 14,400
+90 -> 120 = 45,000 (Requires Raid 3 Pets)
 
 __**Additional Builds**__
 
-A much more comprehensive list of artifact builds, including possibilities for beyond KLVL 180, can be found here http://bit.ly/efmagicarts
+A much more comprehensive list of artifact builds, including possibilities for beyond KLVL 180, can be found here <http://bit.ly/efmagicarts>
