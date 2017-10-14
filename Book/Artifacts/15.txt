@@ -1,0 +1,17 @@
+.acr "!art 15" {  "plaintext":"%user% typed `!art 15`", 
+  "title": "#15 : Watchmen's Steel Hammer",
+  "description": "Artifact Grade : ★★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Undead units
+`Base: 60%`, `+20: 180%`, `+50: 360%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

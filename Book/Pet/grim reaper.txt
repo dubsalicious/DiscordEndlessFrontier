@@ -1,0 +1,42 @@
+.acr "!pet grim reaper" {
+  "plaintext":"%user% typed `!pet grim reaper`", 
+  "title": "Grim Reaper",
+  "description": "Senior Death Knight's Pet",
+  "footer": {
+    "text": "See !unit death knight | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/356577706843963393/UI_PET11.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "PvP: Undead A.Speed +`0.5`, `1`, `1.5`, `2`, `2.5`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Undead Atk +`10.8`, `14.4`, `18`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Death Knight's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Quickly moves (dashes) to first target and casts a barrier that defends against 99% of damage for a period of time.\r\n- Upon first appearing, casts a magic barrier to protect all the allies from magic attack and restores HP by 10%.\r\n- When HP falls under 50%, becomes immune to stun.\r\n- Increases ally unit attack power by 10% and movement speed by 5%.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`3-11 KLV 22`\r\n`5-5 KLV 34`\r\n`7-10 KLV 52`\r\n`14-6 KLV 108`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

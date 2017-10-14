@@ -1,0 +1,23 @@
+.acr "!art 155" {  "plaintext":"%user% typed `!art 155`", 
+  "title": "#155 : Gaia's Rage",
+  "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "footer": {
+    "text": "See !pet forest sorceress | !artset 41 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

@@ -1,0 +1,32 @@
+.acr "!pet coby" {
+  "plaintext":"%user% typed `!pet coby`", 
+  "title": "Coby",
+  "description": "Senior Heavy Infantry's Pet",
+  "footer": {
+    "text": "See !unit heavy infantry | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307203014677233666/UI_PET61.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Guild Raid: Human Dodge Rate vs Melee +`0.3`, `0.6`, `0.9`, `1.2`, `1.5`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Human HP +`6`, `8`, `10`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (x2 if Main/Revive)",
+      "value": "Medal Buff  +10%",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

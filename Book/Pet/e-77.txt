@@ -1,0 +1,42 @@
+.acr "!pet e-77" {
+  "plaintext":"%user% typed `!pet e-77`", 
+  "title": "E-77",
+  "description": "Senior Steam Punk's Pet",
+  "footer": {
+    "text": "See !unit steam punk | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202936986140673/UI_PET48.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Unit Cost Reduction +`3000`, `6000`, `12000`, `24000`, `48000`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "PvP: Human HP +`5`, `10`, `20`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Steam Punk's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- When first appearing, movement speed and attack speed of allies increase significantly for a certain period of time.\r\n- Basic game speed increases by 4%.\r\n- Unit's attack range and movement speed increases by 5%, and attack power, critical hit rate, and critical damage of all units increase by 5%.\r\n- Significantly increases normal attack power and skill attack speed.\r\n- Upon dying, stuns/paralyzes nearby enemies and inflicts major damage.\r\n- Immune to stun and is not interrupted by enemy attacks.\r\n- Inner Passion limit break: Inner passion max increases by 5 per Senior Steam Punk. (However, this value cannot exceed 50.)",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`8-16 KLV 64`\r\n`15-15 KLV 118`\r\n`17-20 KLV 136`\r\n`19-11 KLV 150`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`4`, `8`, `12`, `16`, `20`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

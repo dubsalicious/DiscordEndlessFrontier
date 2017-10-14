@@ -1,0 +1,42 @@
+.acr "!pet nimbus" {
+  "plaintext":"%user% typed `!pet nimbus`", 
+  "title": "Nimbus",
+  "description": "Senior Hoyden Goku's Pet",
+  "footer": {
+    "text": "See !unit hoyden goku | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202875073757184/UI_PET37.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Guild War: Air units A.Speed +`0.6`, `1.2`, `1.8`, `2.4`, `3`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Air units Atk +`12.6`, `16.8`, `21`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Hoyden Goku's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Increases wind wave attack range and attacks more enemies.\r\n- Restores more HP during skill attacks. Once attack ends, casts a shield to block 99% of damage for a short period.\r\n- Appears quickly to cast a shield to make all friendly units immune to physical attacks for a short period.\r\n- Attack speed increases by 4% and critical damage increases by 6% for all units.\r\n- Upgrades elf units from guild barrack by 1. (Regular, evolved, evolved +, evolved ++, evolved +++) ==> (evolved, evolved +, evolved ++, evolved +++, evolved ++++ )",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`7-1 KLV 50`\r\n`12-5 KLV 90`\r\n`14-10 KLV 108`\r\n`17-16 KLV 136`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`3`, `6`, `9`, `12`, `15`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

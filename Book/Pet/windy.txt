@@ -1,0 +1,42 @@
+.acr "!pet windy" {
+  "plaintext":"%user% typed `!pet windy`", 
+  "title": "Windy",
+  "description": "Senior Sylphid's Pet",
+  "footer": {
+    "text": "See !unit sylphid | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202944002949120/UI_PET49.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Unit Cost Reduction +`3000`, `6000`, `12000`, `24000`, `48000`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "PvP: Elf HP +`5`, `10`, `20`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Sylphid's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- When first appearing, movement speed and attack speed of allies increase significantly for a certain period of time. This also delays enemy skill casting.\r\n- Basic game speed increases by 4%.\r\n- Unit's attack range and movement speed increases by 5%, and attack power, attack range, and critical hit rate of all units increase by 5%.\r\n- Does not freeze due to cold attacks.\r\n- Normal attacks paralyze enemies for a longer time, and they ricochet to attack more enemies.\r\n- Increases skill attack duration.\r\n- Inner Passion limit break: Inner passion max increases by 5 per Senior Sylphid. (However, this value cannot exceed 50.)",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`9-1 KLV 66`\r\n`16-5 KLV 122`\r\n`18-10 KLV 140`\r\n`19-16 KLV 152`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`4`, `8`, `12`, `16`, `20`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

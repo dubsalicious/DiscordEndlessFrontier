@@ -1,0 +1,37 @@
+.acr "!pet chesher" {
+  "plaintext":"%user% typed `!pet chesher`", 
+  "title": "Chesher",
+  "description": "DarkElf2's Pet",
+  "footer": {
+    "text": "See !unit darkelf2 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599823877079051/UI_PET114.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Medal Buff  +`5`, `10`, `10`, `10`, `10`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "??? ???? ??? ??? ??? ???? +`12`, `16`, `21`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (DarkElf2's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "Hidden Skill Description not available in Korea",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +?`, `T1 +?`, `T2 +?`, `T3 +?`",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`4`, `8`, `12`, `16`, `20`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

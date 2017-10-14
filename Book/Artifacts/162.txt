@@ -1,0 +1,23 @@
+.acr "!art 162" {  "plaintext":"%user% typed `!art 162`", 
+  "title": "#162 : Trident of Poseidon",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Authority Set",
+  "footer": {
+    "text": "See !pet poseidon | !artset 42 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

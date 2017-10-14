@@ -1,0 +1,17 @@
+.acr "!art 3" {  "plaintext":"%user% typed `!art 3`", 
+  "title": "#3 : Mercenary's Hammer",
+  "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "footer": {
+    "text": "See !artset 30 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 10%`, `+20: 70%`, `+50: 160%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

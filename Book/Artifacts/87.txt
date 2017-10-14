@@ -1,0 +1,31 @@
+.acr "!art 87" {  "plaintext":"%user% typed `!art 87`", 
+  "title": "#87 : Golden Ring of Abundance",
+  "description": "Artifact Grade : ★★★★★★ | Legacy of Abundance Set",
+  "footer": {
+    "text": "See !artset 12 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human and Elf units
+`Base: 9.6a%`, `+20: 29a%`, `+50: 58.2a%`
+Trans 1
+`Base: 810a%`, `+20: 10.2b%`, `+50: 24.3b%`, `+70: 72.9b%`
+Trans 2
+`Base: 72b%`, `+20: 6.5c%`, `+50: 16.2c%`, `+70: 48.7c%`, `+90: 1.4d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

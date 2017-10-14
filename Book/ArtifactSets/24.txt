@@ -1,0 +1,28 @@
+.acr "!artset 24" {  "plaintext":"%user% typed `!artset 24`", 
+  "title": "#24: Great General's Arms Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (3/3)",
+      "value": "Increase attack speed of all units
+`Base: 5%`, `T1: 6%`, `T2: 7%`
+Increase the critical damage of All units
+`Base: 496%`, `T1: 3a%`, `T2: 870a%`
+Increase additional medal
+`Base: 30%`, `T1: 90%`, `T2: 180%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#41` Great General's Enhanced Alloy Hammer
+`#42` Great General's Enhanced Alloy Greatsword
+`#46` Great General's Cloak
+",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

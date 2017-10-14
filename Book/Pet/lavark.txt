@@ -1,0 +1,32 @@
+.acr "!pet lavark" {
+  "plaintext":"%user% typed `!pet lavark`", 
+  "title": "Lavark",
+  "description": "Burning Earth Pet",
+  "footer": {
+    "text": "See !art 132 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/356654607579217921/UI_PET88.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Medal Buff  +`15`, `25`, `35`, `45`, `60`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild Raid: All units Crit Rate +`12`, `16`, `20`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Basilisk's Spear",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

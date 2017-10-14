@@ -1,0 +1,43 @@
+.acr "!pet griffy" {
+  "plaintext":"%user% typed `!pet griffy`", 
+  "title": "Griffy",
+  "description": "Senior Griffin Rider's Pet",
+  "footer": {
+    "text": "See !unit griffin rider | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202825723838467/UI_PET29.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "PvP: Human Crit Rate +`4.2`, `8.4`, `12.6`, `16.8`, `21`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "PvP: Human A.Speed +`1.8`, `2.4`, `3`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Griffin Rider's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Raise all units' attack speed by 3%, attack power by 5%.\r\n- When first appearing, casts buff that raises movement speed and attack speed of ally units.\r\n- When casting skills, increases movement speed and attack speed of nearby ally units for a period of time.\r\n- Raise offline march buff by 300%, and even if Griffin Rider is at the Time Shop, the offline march buff increases. (5-Star 10%, 6-Star 30%)\r\n However, the max buff of the offline march through Griffin Rider is 1,000%.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`6-11 KLV 46`\r\n`11-5 KLV 82`\r\n`13-10 KLV 100`\r\n`17-6 KLV 132`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`3`, `6`, `9`, `12`, `15`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
+

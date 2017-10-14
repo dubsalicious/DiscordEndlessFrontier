@@ -1,0 +1,42 @@
+.acr "!pet rapty" {
+  "plaintext":"%user% typed `!pet rapty`", 
+  "title": "Rapty",
+  "description": "Senior Raptor Rider's Pet",
+  "footer": {
+    "text": "See !unit raptor rider | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202887640154112/UI_PET39.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Guild War: Air units Crit DMG +`4.2`, `8.4`, `12.6`, `16.8`, `21`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild Raid: Air units Crit DMG +`12.6`, `16.8`, `21`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Raptor Rider's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- For normal attacks, increases number of spears thrown and attack range.\r\n- For skill attacks, increases number of frozen spears and attack range.\r\n- Appears quickly to cast a shield to block 99% of damage for all friendly units for a short period..\r\n- Attack speed increases by 4% and critical damage increases by 6% for all units.\r\n- Upgrades orc units from guild barrack by 1. (Regular, evolved, evolved +, evolved ++, evolved +++) ==> (evolved, evolved +, evolved ++, evolved +++, evolved ++++ )",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`7-11 KLV 54`\r\n`13-5 KLV 98`\r\n`15-10 KLV 116`\r\n`18-6 KLV 140`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`3`, `6`, `9`, `12`, `15`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

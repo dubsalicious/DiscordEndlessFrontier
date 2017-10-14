@@ -1,0 +1,32 @@
+.acr "!pet tarad" {
+  "plaintext":"%user% typed `!pet tarad`", 
+  "title": "Tarad",
+  "description": "Swamp of Death Pet",
+  "footer": {
+    "text": "See !art 151 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599814184173579/UI_PET107.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Medal Buff  +`20`, `30`, `40`, `50`, `70`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild Raid: All units Def +`10`, `20`, `30`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Taratoad's Wand",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

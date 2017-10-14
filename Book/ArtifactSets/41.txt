@@ -1,0 +1,44 @@
+.acr "!artset 41" {  "plaintext":"%user% typed `!artset 41`", 
+  "title": "#41: Plague's Cataclysm Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/5)",
+      "value": "Increase the basic double speed
+`Base: 37%`
+Decrease the quest upgrade cost
+`Base: 3.4b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 2 (4/5)",
+      "value": "Increase attack speed of all units
+`Base: 15%`
+Increase the attack power of All units
+`Base: 2.4b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 3 (5/5)",
+      "value": "Increase the critical damage of All units
+`Base: 2.4b%`
+Increase additional medal
+`Base: 600%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#151` Taratoad's Wand
+`#152` Nerugal's Spear
+`#153` Axe of Gorgos
+`#154` Beelzebub's Sword
+`#155` Gaia's Rage
+",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

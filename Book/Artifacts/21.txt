@@ -1,0 +1,17 @@
+.acr "!art 21" {  "plaintext":"%user% typed `!art 21`", 
+  "title": "#21 : Champion's Cloak",
+  "description": "Artifact Grade : ★★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the quest time
+`Base: 25%`, `+20: 65%`, `+50: 125%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

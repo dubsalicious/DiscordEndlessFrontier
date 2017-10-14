@@ -1,0 +1,42 @@
+.acr "!pet piggy" {
+  "plaintext":"%user% typed `!pet piggy`", 
+  "title": "Piggy",
+  "description": "Senior Big Foot's Pet",
+  "footer": {
+    "text": "See !unit big foot | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202660988223492/UI_PET4.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Gold Buff  +`300`, `800`, `3000`, `8000`, `15000`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "PvP: Orc M.Speed +`1.2`, `1.6`, `2`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Big Foot's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Increases resistance against knock-back by 70% and makes it pushed back less.\r\n- Quickly moves (dash) to first attack target, and when attacked by a ranged unit, has a chance to approach it immediately.\r\n- Engages in battle quickly.\r\n- Raises HP and defense of Orc units by 15%.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +30`, `T1 +50`, `T2 +70`, `T3 +90`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`1-16 KLV 8`\r\n`1-20 KLV 8`\r\n`3-20 KLV 24`\r\n`12-11 KLV 94`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

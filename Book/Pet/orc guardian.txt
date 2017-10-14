@@ -1,0 +1,32 @@
+.acr "!pet orc guardian" {
+  "plaintext":"%user% typed `!pet orc guardian`", 
+  "title": "Orc Guardian",
+  "description": "Secret Pet Shop Pet",
+  "footer": {
+    "text": "See !art 143 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/356654603216879627/UI_PET87.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Increase Medal Buff from transcended Orc Unit +`20`, `45`, `75`, `110`, `150`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Medal Buff  +`20`, `30`, `40`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Orc Hero's Axe",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

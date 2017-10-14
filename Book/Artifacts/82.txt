@@ -1,0 +1,31 @@
+.acr "!art 82" {  "plaintext":"%user% typed `!art 82`", 
+  "title": "#82 : Fire Dragon's Immortal Sword",
+  "description": "Artifact Grade : ★★★★★★ | Immortal Ancient Weapon Set",
+  "footer": {
+    "text": "See !artset 11 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of All units
+`Base: 25.25%`, `+20: 30.25%`, `+50: 37.75%`
+Trans 1
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`
+Trans 2
+`Base: 32.25%`, `+20: 37.25%`, `+50: 44.75%`, `+70: 49.75%`, `+90: 54.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

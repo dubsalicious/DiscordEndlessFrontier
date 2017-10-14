@@ -1,0 +1,17 @@
+.acr "!art 8" {  "plaintext":"%user% typed `!art 8`", 
+  "title": "#8 : Bronze Boots",
+  "description": "Artifact Grade : ★ | Bronze Arms Set",
+  "footer": {
+    "text": "See !artset 29 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the unit upgrade cost 
+`Base: 5%`, `+20: 45%`, `+50: 105%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

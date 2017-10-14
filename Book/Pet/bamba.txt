@@ -1,0 +1,37 @@
+.acr "!pet bamba" {
+  "plaintext":"%user% typed `!pet bamba`", 
+  "title": "Bamba",
+  "description": "FrostDemon2's Pet",
+  "footer": {
+    "text": "See !unit frostdemon2 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599826125225986/UI_PET115.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Medal Buff  +`5`, `10`, `10`, `10`, `10`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "??? ???? ?? ??? ??? ???? +`12`, `16`, `21`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (FrostDemon2's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "Hidden Skill Description not available in Korea",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +?`, `T1 +?`, `T2 +?`, `T3 +?`",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`4`, `8`, `12`, `16`, `20`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

@@ -1,0 +1,24 @@
+.acr "!artset 22" {  "plaintext":"%user% typed `!artset 22`", 
+  "title": "#22: Master's Lion Hide Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/2)",
+      "value": "Increase the attack power of All units
+`Base: 310%`, `T1: 2.9a%`, `T2: 1.4b%`
+Increase the basic double speed
+`Base: 10%`, `T1: 15%`, `T2: 17%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#40` Master's Lion Hide Armor
+`#45` Master's Lion Hide Boots",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

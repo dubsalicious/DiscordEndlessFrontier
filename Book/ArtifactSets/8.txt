@@ -1,0 +1,44 @@
+.acr "!artset 8" {  "plaintext":"%user% typed `!artset 8`", 
+  "title": "#8: Sea Dragon's Arms Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/6)",
+      "value": "Increase the attack power of Human and Elf units
+`Base: 578%`, `T1: 11.2a%`, `T2: 5.9b%`
+Increase the attack speed of Human and Elf
+`Base: 10%`, `T1: 11%`, `T2: 12%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 2 (4/6)",
+      "value": "Increase additional medal
+`Base: 30%`, `T1: 90%`, `T2: 200%`
+Increase the critical damage of Human and Elf units
+`Base: 578%`, `T1: 44.9a%`, `T2: 12.1b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 3 (6/6)",
+      "value": "Increase moving speed of Human and Elf
+`Base: 20%`, `T1: 21%`, `T2: 22%`
+Increase the basic double speed
+`Base: 20%`, `T1: 30%`, `T2: 36%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#71` Sea Dragon's Claw
+`#72` Sea Dragon's Horn
+`#73` Sea Dragon's Scale
+`#74` Sea Dragon's Boots
+`#75` Sea Dragon's Pure Necklace
+`#76` Sea Dragon's Pure Bracelet",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

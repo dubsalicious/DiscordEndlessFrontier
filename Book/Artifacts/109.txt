@@ -1,0 +1,31 @@
+.acr "!art 109" {  "plaintext":"%user% typed `!art 109`", 
+  "title": "#109 : Supernova's Staff",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

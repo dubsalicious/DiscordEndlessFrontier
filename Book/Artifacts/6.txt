@@ -1,0 +1,17 @@
+.acr "!art 6" {  "plaintext":"%user% typed `!art 6`", 
+  "title": "#6 : Bronze Helmet",
+  "description": "Artifact Grade : ★ | Bronze Arms Set",
+  "footer": {
+    "text": "See !artset 29 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the quest upgrade cost
+`Base: 5%`, `+20: 45%`, `+50: 105%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

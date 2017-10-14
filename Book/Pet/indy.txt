@@ -1,0 +1,42 @@
+.acr "!pet indy" {
+  "plaintext":"%user% typed `!pet indy`", 
+  "title": "Indy",
+  "description": "Senior Wolf Warrior's Pet",
+  "footer": {
+    "text": "See !unit wolf warrior | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202683306115073/UI_PET10.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Game Speed  +`0.5`, `1`, `1.5`, `2`, `2.5`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Elf Atk +`10.8`, `14.4`, `18`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Wolf Warrior's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Quickly moves (dashes) to first target, quickly engages in battle, and casts a barrier that defends against 99% of damage for a short period.\r\n- When HP is under 30%, has a 70% chance to dodge enemy attacks. \r\n- Upon first appearing, increases movement and attack speed of all ally units. \r\n- Increases movement speed and attack speed of all units by 5%.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`3-6 KLV 20`\r\n`4-15 KLV 30`\r\n`6-20 KLV 48`\r\n`14-1 KLV 106`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

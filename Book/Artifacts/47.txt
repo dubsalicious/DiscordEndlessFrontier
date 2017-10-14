@@ -1,0 +1,31 @@
+.acr "!art 47" {  "plaintext":"%user% typed `!art 47`", 
+  "title": "#47 : Frosting Sword of Dark",
+  "description": "Artifact Grade : ★★★★★ | Sword of Spirit of Dark and Light Set",
+  "footer": {
+    "text": "See !artset 1 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Orc units
+`Base: 600%`, `+20: 1.2a%`, `+50: 2.2a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

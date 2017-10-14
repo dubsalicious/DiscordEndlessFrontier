@@ -1,0 +1,42 @@
+.acr "!pet potang" {
+  "plaintext":"%user% typed `!pet potang`", 
+  "title": "Potang",
+  "description": "Senior Gunner's Pet",
+  "footer": {
+    "text": "See !unit gunner | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202664675147776/UI_PET5.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "PvP: Human M.Speed +`0.4`, `0.8`, `1.2`, `1.6`, `2`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild Raid: Human Atk +`9`, `12`, `15`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Gunner's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- During regular attacks, launch two cannons at once. \r\n- Increase human ranged units' attack range by 3%.\r\n- Increases movement speed and makes it become immune to stun\r\n- Upon first appearing, greatly increases movement speed and attack speed of ally units for a period of time.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`2-1 KLV 10`\r\n`2-5 KLV 10`\r\n`4-10 KLV 28`\r\n`12-16 KLV 96`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

@@ -1,0 +1,23 @@
+.acr "!art 32" {  "plaintext":"%user% typed `!art 32`", 
+  "title": "#32 : Reinforced Bear Hide Armor",
+  "description": "Artifact Grade : ★★★★ | Reinforced Brown Bear Hide Set",
+  "footer": {
+    "text": "See !artset 20 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 620%`, `+20: 820%`, `+50: 1.4a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the attack power of Melee units
+`Base: 280%`, `+20: 680%`, `+50: 1.2a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

@@ -1,0 +1,31 @@
+.acr "!art 122" {  "plaintext":"%user% typed `!art 122`", 
+  "title": "#122 : Assassin's Armor",
+  "description": "Artifact Grade : ★★★★★ | Underground Guild's Assassin Set",
+  "footer": {
+    "text": "See !artset 34 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Human units
+`Base: 1.2a%`, `+20: 3.7a%`, `+50: 7.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

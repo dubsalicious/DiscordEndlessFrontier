@@ -1,0 +1,42 @@
+.acr "!pet oscar" {
+  "plaintext":"%user% typed `!pet oscar`", 
+  "title": "Oscar",
+  "description": "Senior Sword Dancer's Pet",
+  "footer": {
+    "text": "See !unit sword dancer | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202984561999882/UI_PET56.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Medal Buff  +`5`, `10`, `10`, `10`, `10`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild Raid: Elf Atk +`4`, `7`, `14`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Sword Dancer's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Increases game speed by 4%.\r\n- Increases the attack range and movement speed by 7%, and increases all units' attack power, movement speed, and critical damage rate by 5%.\r\n- When first appearing, the movement speed and attack speed is increased for a certain amount of time.\r\n- Affected less by terrain at stage 10,000 and higher.\r\n- Quickly teleports to an attack target (unlimited dash). \r\n- [Fast Sword] Strengthen skills: Every 5 star Sword Dancer raises attack speed by 5% and every 6 star Sword Dancer raises attack speed by 10% with [Fast Sword]. (Effective even if Sword Dancer is at the Time Shop and can increase up to 100%. [Fast Sword]: Skill that increases ally unit's attack speed for a certain amount of time during raid.)",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +10`, `T1 +30`, `T2 +50`, `T3 +70`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`10-1 KLV 74`\r\n`18-5 KLV 138`\r\n`20-10 KLV 156`\r\n`20-16 KLV 160`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`4`, `8`, `12`, `16`, `20`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

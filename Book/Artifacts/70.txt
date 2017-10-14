@@ -1,0 +1,31 @@
+.acr "!art 70" {  "plaintext":"%user% typed `!art 70`", 
+  "title": "#70 : Dark Knight's Bracelet",
+  "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 7 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Undead and Orc units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 200%`, `+20: 300%`, `+50: 450%`
+Trans 1
+`Base: 520%`, `+20: 860%`, `+50: 1.3a%`, `+70: 2a%`
+Trans 2
+`Base: 650%`, `+20: 1a%`, `+50: 1.6a%`, `+70: 2.8a%`, `+90: 4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

@@ -1,0 +1,4426 @@
+.acr "!art 1" {  "plaintext":"%user% typed `!art 1`", 
+  "title": "#1 : Magic Pupil's Robe",
+  "description": "Artifact Grade : ★ | Magic Pupil's Garment Set",
+  "footer": {
+    "text": "See !artset 27 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf units
+`Base: 40%`, `+20: 280%`, `+50: 640%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 2" {  "plaintext":"%user% typed `!art 2`", 
+  "title": "#2 : Bronze Armor",
+  "description": "Artifact Grade : ★ | Bronze Arms Set",
+  "footer": {
+    "text": "See !artset 29 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the quest gold acquisition 
+`Base: 50%`, `+20: 250%`, `+50: 550%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 3" {  "plaintext":"%user% typed `!art 3`", 
+  "title": "#3 : Mercenary's Hammer",
+  "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "footer": {
+    "text": "See !artset 30 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 10%`, `+20: 70%`, `+50: 160%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 4" {  "plaintext":"%user% typed `!art 4`", 
+  "title": "#4 : Beginner's Crystal Staff",
+  "description": "Artifact Grade : ★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the quest open gold 
+`Base: 10%`, `+20: 70%`, `+50: 160%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 5" {  "plaintext":"%user% typed `!art 5`", 
+  "title": "#5 : Magic Pupil's Hat",
+  "description": "Artifact Grade : ★ | Magic Pupil's Garment Set",
+  "footer": {
+    "text": "See !artset 27 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Orc units
+`Base: 15%`, `+20: 105%`, `+50: 240%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 6" {  "plaintext":"%user% typed `!art 6`", 
+  "title": "#6 : Bronze Helmet",
+  "description": "Artifact Grade : ★ | Bronze Arms Set",
+  "footer": {
+    "text": "See !artset 29 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the quest upgrade cost
+`Base: 5%`, `+20: 45%`, `+50: 105%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 7" {  "plaintext":"%user% typed `!art 7`", 
+  "title": "#7 : Magic Pupil's Shoes",
+  "description": "Artifact Grade : ★ | Magic Pupil's Garment Set",
+  "footer": {
+    "text": "See !artset 27 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Undead units
+`Base: 0.25%`, `+20: 5.25%`, `+50: 12.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 8" {  "plaintext":"%user% typed `!art 8`", 
+  "title": "#8 : Bronze Boots",
+  "description": "Artifact Grade : ★ | Bronze Arms Set",
+  "footer": {
+    "text": "See !artset 29 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the unit upgrade cost 
+`Base: 5%`, `+20: 45%`, `+50: 105%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 9" {  "plaintext":"%user% typed `!art 9`", 
+  "title": "#9 : Mercenary's Cloak",
+  "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "footer": {
+    "text": "See !artset 30 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the quest time
+`Base: 3%`, `+20: 23%`, `+50: 53%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 10" {  "plaintext":"%user% typed `!art 10`", 
+  "title": "#10 : Sheepskin Armor",
+  "description": "Artifact Grade : ★ | Sheepskin Set",
+  "footer": {
+    "text": "See !artset 31 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the quest gold acquisition 
+`Base: 50%`, `+20: 250%`, `+50: 550%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 11" {  "plaintext":"%user% typed `!art 11`", 
+  "title": "#11 : Chief of Mercenary's Sword",
+  "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "footer": {
+    "text": "See !artset 30 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the quest gold acquisition 
+`Base: 50%`, `+20: 250%`, `+50: 550%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 12" {  "plaintext":"%user% typed `!art 12`", 
+  "title": "#12 : Sheepskin Helmet",
+  "description": "Artifact Grade : ★ | Sheepskin Set",
+  "footer": {
+    "text": "See !artset 31 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the quest open gold 
+`Base: 10%`, `+20: 70%`, `+50: 160%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 13" {  "plaintext":"%user% typed `!art 13`", 
+  "title": "#13 : Mage's Robe",
+  "description": "Artifact Grade : ★★ | Mage's Garment Set",
+  "footer": {
+    "text": "See !artset 26 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf and Human units
+`Base: 240%`, `+20: 720%`, `+50: 1.4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 14" {  "plaintext":"%user% typed `!art 14`", 
+  "title": "#14 : Plate Armor",
+  "description": "Artifact Grade : ★★ | Plate Arms Set",
+  "footer": {
+    "text": "See !artset 28 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the quest gold acquisition 
+`Base: 200%`, `+20: 800%`, `+50: 1.7a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 15" {  "plaintext":"%user% typed `!art 15`", 
+  "title": "#15 : Watchmen's Steel Hammer",
+  "description": "Artifact Grade : ★★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Undead units
+`Base: 60%`, `+20: 180%`, `+50: 360%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 16" {  "plaintext":"%user% typed `!art 16`", 
+  "title": "#16 : Crystal Staff of the Wise One",
+  "description": "Artifact Grade : ★★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the quest open gold 
+`Base: 60%`, `+20: 180%`, `+50: 360%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 17" {  "plaintext":"%user% typed `!art 17`", 
+  "title": "#17 : Mage's Hat",
+  "description": "Artifact Grade : ★★ | Mage's Garment Set",
+  "footer": {
+    "text": "See !artset 26 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Orc and Elf Units
+`Base: 90%`, `+20: 270%`, `+50: 540%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 18" {  "plaintext":"%user% typed `!art 18`", 
+  "title": "#18 : Plate Helm",
+  "description": "Artifact Grade : ★★ | Plate Arms Set",
+  "footer": {
+    "text": "See !artset 28 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the quest upgrade cost
+`Base: 40%`, `+20: 140%`, `+50: 290%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 19" {  "plaintext":"%user% typed `!art 19`", 
+  "title": "#19 : Mage's Shoes",
+  "description": "Artifact Grade : ★★ | Mage's Garment Set",
+  "footer": {
+    "text": "See !artset 26 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Undead and Orc units
+`Base: 5.25%`, `+20: 10.25%`, `+50: 17.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 20" {  "plaintext":"%user% typed `!art 20`", 
+  "title": "#20 : Plate Boots",
+  "description": "Artifact Grade : ★★ | Plate Arms Set",
+  "footer": {
+    "text": "See !artset 28 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the unit upgrade cost 
+`Base: 40%`, `+20: 140%`, `+50: 290%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 21" {  "plaintext":"%user% typed `!art 21`", 
+  "title": "#21 : Champion's Cloak",
+  "description": "Artifact Grade : ★★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the quest time
+`Base: 25%`, `+20: 65%`, `+50: 125%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 22" {  "plaintext":"%user% typed `!art 22`", 
+  "title": "#22 : Magician's Robe",
+  "description": "Artifact Grade : ★★★ | Magician's Garment Set",
+  "footer": {
+    "text": "See !artset 25 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf and Undead units
+`Base: 720%`, `+20: 1.4a%`, `+50: 2.5a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 700%`, `+20: 2.2a%`, `+50: 4.4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 23" {  "plaintext":"%user% typed `!art 23`", 
+  "title": "#23 : Wolf Hide Armor",
+  "description": "Artifact Grade : ★★★ | Wolf Hide Set",
+  "footer": {
+    "text": "See !artset 32 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 315%`, `+20: 615%`, `+50: 1a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase HP of Human and Orc units
+`Base: 720%`, `+20: 1.4a%`, `+50: 2.5a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 24" {  "plaintext":"%user% typed `!art 24`", 
+  "title": "#24 : Knights' Battle Hammer",
+  "description": "Artifact Grade : ★★★ | Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 33 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Orc units
+`Base: 180%`, `+20: 360%`, `+50: 630%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 180%`, `+20: 360%`, `+50: 630%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 25" {  "plaintext":"%user% typed `!art 25`", 
+  "title": "#25 : Watch Leader's Steel Sword",
+  "description": "Artifact Grade : ★★★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical strike rate of Human and Orc units
+`Base: 9%`, `+20: 15%`, `+50: 24%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the attack power of Undead and Elf units
+`Base: 180%`, `+20: 360%`, `+50: 630%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 26" {  "plaintext":"%user% typed `!art 26`", 
+  "title": "#26 : Magician's Hat",
+  "description": "Artifact Grade : ★★★ | Magician's Garment Set",
+  "footer": {
+    "text": "See !artset 25 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Orc and Human units
+`Base: 270%`, `+20: 540%`, `+50: 945%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 130%`, `+20: 290%`, `+50: 530%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 27" {  "plaintext":"%user% typed `!art 27`", 
+  "title": "#27 : Wolf Hide Helm",
+  "description": "Artifact Grade : ★★★ | Wolf Hide Set",
+  "footer": {
+    "text": "See !artset 32 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Orc and Human units
+`Base: 180%`, `+20: 360%`, `+50: 630%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Elf and Undead units
+`Base: 270%`, `+20: 540%`, `+50: 945%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 28" {  "plaintext":"%user% typed `!art 28`", 
+  "title": "#28 : Magician's Shoes",
+  "description": "Artifact Grade : ★★★ | Magician's Garment Set",
+  "footer": {
+    "text": "See !artset 25 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Undead and Elf units
+`Base: 10.25%`, `+20: 15.25%`, `+50: 22.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 130%`, `+20: 290%`, `+50: 530%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 29" {  "plaintext":"%user% typed `!art 29`", 
+  "title": "#29 : Wolf Hide Boots",
+  "description": "Artifact Grade : ★★★ | Wolf Hide Set",
+  "footer": {
+    "text": "See !artset 32 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Undead and Orc units
+`Base: 5.25%`, `+20: 10.25%`, `+50: 17.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease HP of dungeon general unit 
+`Base: 5.25%`, `+20: 10.25%`, `+50: 17.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 30" {  "plaintext":"%user% typed `!art 30`", 
+  "title": "#30 : Knight Commander's Cloak",
+  "description": "Artifact Grade : ★★★ | Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 33 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease HP of dungeon boss 
+`Base: 5.25%`, `+20: 10.25%`, `+50: 17.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 65%`, `+20: 125%`, `+50: 215%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 31" {  "plaintext":"%user% typed `!art 31`", 
+  "title": "#31 : Warlock's Robe",
+  "description": "Artifact Grade : ★★★★ | Warlock's Garment Set",
+  "footer": {
+    "text": "See !artset 21 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf and Orc units
+`Base: 1.4a%`, `+20: 3.5a%`, `+50: 6.8a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 2a%`, `+20: 5.7a%`, `+50: 11.4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 32" {  "plaintext":"%user% typed `!art 32`", 
+  "title": "#32 : Reinforced Bear Hide Armor",
+  "description": "Artifact Grade : ★★★★ | Reinforced Brown Bear Hide Set",
+  "footer": {
+    "text": "See !artset 20 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 620%`, `+20: 820%`, `+50: 1.4a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the attack power of Melee units
+`Base: 280%`, `+20: 680%`, `+50: 1.2a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 33" {  "plaintext":"%user% typed `!art 33`", 
+  "title": "#33 : Knight of Royal Guard's Alloy Hammer",
+  "description": "Artifact Grade : ★★★★ | Royal Guard's Weapon Set",
+  "footer": {
+    "text": "See !artset 19 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Elf units
+`Base: 350%`, `+20: 890%`, `+50: 1.7a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 350%`, `+20: 890%`, `+50: 1.7a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 34" {  "plaintext":"%user% typed `!art 34`", 
+  "title": "#34 : Imperial Captain's Alloy Greatsword",
+  "description": "Artifact Grade : ★★★★ | Royal Guard's Weapon Set",
+  "footer": {
+    "text": "See !artset 19 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical strike rate of Human and Elf units
+`Base: 15%`, `+20: 23%`, `+50: 35%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the attack power of Ranged units
+`Base: 280%`, `+20: 680%`, `+50: 1.2a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 35" {  "plaintext":"%user% typed `!art 35`", 
+  "title": "#35 : Warlock's Hat",
+  "description": "Artifact Grade : ★★★★ | Warlock's Garment Set",
+  "footer": {
+    "text": "See !artset 21 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Orc and Undead units
+`Base: 525%`, `+20: 1.3a%`, `+50: 2.5a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 280%`, `+20: 680%`, `+50: 1.2a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 36" {  "plaintext":"%user% typed `!art 36`", 
+  "title": "#36 : Warlock's Shoes",
+  "description": "Artifact Grade : ★★★★ | Warlock's Garment Set",
+  "footer": {
+    "text": "See !artset 21 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Undead and Human units
+`Base: 15.25%`, `+20: 20.25%`, `+50: 27.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 280%`, `+20: 680%`, `+50: 1.2a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 37" {  "plaintext":"%user% typed `!art 37`", 
+  "title": "#37 : Reinforced Bear Hide Boots",
+  "description": "Artifact Grade : ★★★★ | Reinforced Brown Bear Hide Set",
+  "footer": {
+    "text": "See !artset 20 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Human and Elf units
+`Base: 10.25%`, `+20: 15.25%`, `+50: 22.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease HP of dungeon general unit 
+`Base: 10.25%`, `+20: 15.25%`, `+50: 22.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 38" {  "plaintext":"%user% typed `!art 38`", 
+  "title": "#38 : Royalty's Cloak",
+  "description": "Artifact Grade : ★★★★",
+  "footer": {
+    "text": "See !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease HP of dungeon boss 
+`Base: 10.25%`, `+20: 15.25%`, `+50: 22.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 120%`, `+20: 200%`, `+50: 320%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 39" {  "plaintext":"%user% typed `!art 39`", 
+  "title": "#39 : Temple Battlemage's Tunic",
+  "description": "Artifact Grade : ★★★★★ | Temple Battlemage's Weapon Set",
+  "footer": {
+    "text": "See !artset 23 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of All units
+`Base: 2.4a%`, `+20: 4.9a%`, `+50: 8.8a%`
+Trans 1
+`Base: 6a%`, `+20: 12.9a%`, `+50: 23.2a%`, `+70: 47.3a%`
+Trans 2
+`Base: 3.2b%`, `+20: 6.4b%`, `+50: 11.2b%`, `+70: 43.8b%`, `+90: 131.8b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 40" {  "plaintext":"%user% typed `!art 40`", 
+  "title": "#40 : Master's Lion Hide Armor",
+  "description": "Artifact Grade : ★★★★★ | Master's Lion Hide Set",
+  "footer": {
+    "text": "See !artset 22 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 830%`, `+20: 1.2a%`, `+50: 2.1a%`
+Trans 1
+`Base: 1a%`, `+20: 1.6a%`, `+50: 2.5a%`, `+70: 3.1a%`
+Trans 2
+`Base: 1.7a%`, `+20: 2.5a%`, `+50: 3.7a%`, `+70: 4.5a%`, `+90: 5.3a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the attack power of Melee units
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 2a%`, `+20: 5.3a%`, `+50: 10.2a%`, `+70: 20.8a%`
+Trans 2
+`Base: 1.1b%`, `+20: 3.6b%`, `+50: 7.3b%`, `+70: 15.5b%`, `+90: 46.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 41" {  "plaintext":"%user% typed `!art 41`", 
+  "title": "#41 : Great General's Enhanced Alloy Hammer",
+  "description": "Artifact Grade : ★★★★★ | Great General's Arms Set",
+  "footer": {
+    "text": "See !artset 24 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of All units
+`Base: 600%`, `+20: 1.2a%`, `+50: 2.2a%`
+Trans 1
+`Base: 1.5a%`, `+20: 3.2a%`, `+50: 5.8a%`, `+70: 11.8a%`
+Trans 2
+`Base: 810a%`, `+20: 1.6b%`, `+50: 2.8b%`, `+70: 10.9b%`, `+90: 32.9b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 8.5a%`, `+20: 24.7a%`, `+50: 49a%`, `+70: 245a%`
+Trans 2
+`Base: 78a%`, `+20: 290.4a%`, `+50: 609a%`, `+70: 1b%`, `+90: 3.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 42" {  "plaintext":"%user% typed `!art 42`", 
+  "title": "#42 : Great General's Enhanced Alloy Greatsword",
+  "description": "Artifact Grade : ★★★★★ | Great General's Arms Set",
+  "footer": {
+    "text": "See !artset 24 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical strike rate of All units
+`Base: 13.2%`, `+20: 19.2%`, `+50: 28.2%`
+Trans 1
+`Base: 22.8%`, `+20: 31.2%`, `+50: 43.8%`, `+70: 53.4%`
+Trans 2
+`Base: 26.1%`, `+20: 34.5%`, `+50: 47.1%`, `+70: 57.9%`, `+90: 68.7%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the attack power of Ranged units
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 2a%`, `+20: 5.3a%`, `+50: 10.2a%`, `+70: 20.8a%`
+Trans 2
+`Base: 1.1b%`, `+20: 3.6b%`, `+50: 7.3b%`, `+70: 15.5b%`, `+90: 46.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 43" {  "plaintext":"%user% typed `!art 43`", 
+  "title": "#43 : Temple Battlemage's Hat",
+  "description": "Artifact Grade : ★★★★★ | Temple Battlemage's Weapon Set",
+  "footer": {
+    "text": "See !artset 23 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of All units
+`Base: 900%`, `+20: 1.8a%`, `+50: 3.3a%`
+Trans 1
+`Base: 2.2a%`, `+20: 4.8a%`, `+50: 8.7a%`, `+70: 17.7a%`
+Trans 2
+`Base: 1.2b%`, `+20: 2.4b%`, `+50: 4.2b%`, `+70: 16.4b%`, `+90: 49.4b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 44" {  "plaintext":"%user% typed `!art 44`", 
+  "title": "#44 : Temple Battlemage's Shoes",
+  "description": "Artifact Grade : ★★★★★ | Temple Battlemage's Weapon Set",
+  "footer": {
+    "text": "See !artset 23 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of All units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 45" {  "plaintext":"%user% typed `!art 45`", 
+  "title": "#45 : Master's Lion Hide Boots",
+  "description": "Artifact Grade : ★★★★★ | Master's Lion Hide Set",
+  "footer": {
+    "text": "See !artset 22 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of All units
+`Base: 15.25%`, `+20: 20.25%`, `+50: 27.75%`
+Trans 1
+`Base: 17.75%`, `+20: 22.75%`, `+50: 30.25%`, `+70: 35.25%`
+Trans 2
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`, `+90: 44.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease HP of dungeon general unit 
+`Base: 15.25%`, `+20: 20.25%`, `+50: 27.75%`
+Trans 1
+`Base: 17.75%`, `+20: 22.75%`, `+50: 30.25%`, `+70: 35.25%`
+Trans 2
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`, `+90: 44.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 46" {  "plaintext":"%user% typed `!art 46`", 
+  "title": "#46 : Great General's Cloak",
+  "description": "Artifact Grade : ★★★★★ | Great General's Arms Set",
+  "footer": {
+    "text": "See !artset 24 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease HP of dungeon boss 
+`Base: 15.25%`, `+20: 20.25%`, `+50: 27.75%`
+Trans 1
+`Base: 17.75%`, `+20: 22.75%`, `+50: 30.25%`, `+70: 35.25%`
+Trans 2
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`, `+90: 44.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 200%`, `+20: 300%`, `+50: 450%`
+Trans 1
+`Base: 520%`, `+20: 860%`, `+50: 1.3a%`, `+70: 2a%`
+Trans 2
+`Base: 650%`, `+20: 1a%`, `+50: 1.6a%`, `+70: 2.8a%`, `+90: 4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 47" {  "plaintext":"%user% typed `!art 47`", 
+  "title": "#47 : Frosting Sword of Dark",
+  "description": "Artifact Grade : ★★★★★ | Sword of Spirit of Dark and Light Set",
+  "footer": {
+    "text": "See !artset 1 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Orc units
+`Base: 600%`, `+20: 1.2a%`, `+50: 2.2a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 48" {  "plaintext":"%user% typed `!art 48`", 
+  "title": "#48 : Blazing Sword of Light",
+  "description": "Artifact Grade : ★★★★★ | Sword of Spirit of Dark and Light Set",
+  "footer": {
+    "text": "See !artset 1 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Undead units
+`Base: 600%`, `+20: 1.2a%`, `+50: 2.2a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 49" {  "plaintext":"%user% typed `!art 49`", 
+  "title": "#49 : Heaven's Necklace",
+  "description": "Artifact Grade : ★★★★★ | Oath of Heaven Set",
+  "footer": {
+    "text": "See !artset 2 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Melee units
+`Base: 2.6a%`, `+20: 6.6a%`, `+50: 12.6a%`
+Trans 1
+`Base: 8a%`, `+20: 21.2a%`, `+50: 41a%`, `+70: 83.2a%`
+Trans 2
+`Base: 4.5b%`, `+20: 14.5b%`, `+50: 29.5b%`, `+70: 62.1b%`, `+90: 186.9b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Melee units
+`Base: 975%`, `+20: 2.4a%`, `+50: 4.7a%`
+Trans 1
+`Base: 3a%`, `+20: 7.9a%`, `+50: 15.3a%`, `+70: 31.2a%`
+Trans 2
+`Base: 1.7b%`, `+20: 5.4b%`, `+50: 11b%`, `+70: 23.2b%`, `+90: 70b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 50" {  "plaintext":"%user% typed `!art 50`", 
+  "title": "#50 : Heaven's Earrings",
+  "description": "Artifact Grade : ★★★★★ | Oath of Heaven Set",
+  "footer": {
+    "text": "See !artset 2 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Ranged units
+`Base: 2.6a%`, `+20: 6.6a%`, `+50: 12.6a%`
+Trans 1
+`Base: 8a%`, `+20: 21.2a%`, `+50: 41a%`, `+70: 83.2a%`
+Trans 2
+`Base: 4.5b%`, `+20: 14.5b%`, `+50: 29.5b%`, `+70: 62.1b%`, `+90: 186.9b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Ranged units
+`Base: 975%`, `+20: 2.4a%`, `+50: 4.7a%`
+Trans 1
+`Base: 3a%`, `+20: 7.9a%`, `+50: 15.3a%`, `+70: 31.2a%`
+Trans 2
+`Base: 1.7b%`, `+20: 5.4b%`, `+50: 11b%`, `+70: 23.2b%`, `+90: 70b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 51" {  "plaintext":"%user% typed `!art 51`", 
+  "title": "#51 : Bone Wyvern's Helmet",
+  "description": "Artifact Grade : ★★★★★ | Bone Wyvern's Arms Set",
+  "footer": {
+    "text": "See !artset 3 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Undead units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 52" {  "plaintext":"%user% typed `!art 52`", 
+  "title": "#52 : Bone Wyvern's Armor",
+  "description": "Artifact Grade : ★★★★★ | Bone Wyvern's Arms Set",
+  "footer": {
+    "text": "See !artset 3 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Undead units
+`Base: 1.2a%`, `+20: 3.7a%`, `+50: 7.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 53" {  "plaintext":"%user% typed `!art 53`", 
+  "title": "#53 : Bone Wyvern's Boots",
+  "description": "Artifact Grade : ★★★★★ | Bone Wyvern's Arms Set",
+  "footer": {
+    "text": "See !artset 3 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Undead units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 200%`, `+20: 300%`, `+50: 450%`
+Trans 1
+`Base: 520%`, `+20: 860%`, `+50: 1.3a%`, `+70: 2a%`
+Trans 2
+`Base: 650%`, `+20: 1a%`, `+50: 1.6a%`, `+70: 2.8a%`, `+90: 4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 54" {  "plaintext":"%user% typed `!art 54`", 
+  "title": "#54 : Helmet of the Ghost of Snow Mountain",
+  "description": "Artifact Grade : ★★★★★ | Ghost of Snow Mountain's Battle Uniform Set",
+  "footer": {
+    "text": "See !artset 4 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Orc units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 8.5a%`, `+20: 24.7a%`, `+50: 49a%`, `+70: 245a%`
+Trans 2
+`Base: 78a%`, `+20: 290.4a%`, `+50: 609a%`, `+70: 1b%`, `+90: 3.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 55" {  "plaintext":"%user% typed `!art 55`", 
+  "title": "#55 : Armor of the Ghost of Snow Mountain",
+  "description": "Artifact Grade : ★★★★★ | Ghost of Snow Mountain's Battle Uniform Set",
+  "footer": {
+    "text": "See !artset 4 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Orc units
+`Base: 1.2a%`, `+20: 3.7a%`, `+50: 7.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 56" {  "plaintext":"%user% typed `!art 56`", 
+  "title": "#56 : Boots of the Ghost of Snow Mountain",
+  "description": "Artifact Grade : ★★★★★ | Ghost of Snow Mountain's Battle Uniform Set",
+  "footer": {
+    "text": "See !artset 4 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Orc units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 200%`, `+20: 300%`, `+50: 450%`
+Trans 1
+`Base: 520%`, `+20: 860%`, `+50: 1.3a%`, `+70: 2a%`
+Trans 2
+`Base: 650%`, `+20: 1a%`, `+50: 1.6a%`, `+70: 2.8a%`, `+90: 4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 57" {  "plaintext":"%user% typed `!art 57`", 
+  "title": "#57 : Necromancer's Staff",
+  "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "footer": {
+    "text": "See !artset 5 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Human units
+`Base: 600%`, `+20: 1.2a%`, `+50: 2.2a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 58" {  "plaintext":"%user% typed `!art 58`", 
+  "title": "#58 : Necromancer's Helmet",
+  "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "footer": {
+    "text": "See !artset 5 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Human units
+`Base: 1.2a%`, `+20: 3.7a%`, `+50: 7.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 59" {  "plaintext":"%user% typed `!art 59`", 
+  "title": "#59 : Necromancer's Armor",
+  "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "footer": {
+    "text": "See !artset 5 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 8.5a%`, `+20: 24.7a%`, `+50: 49a%`, `+70: 245a%`
+Trans 2
+`Base: 78a%`, `+20: 290.4a%`, `+50: 609a%`, `+70: 1b%`, `+90: 3.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 60" {  "plaintext":"%user% typed `!art 60`", 
+  "title": "#60 : Necromancer's Boots",
+  "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "footer": {
+    "text": "See !artset 5 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Human units
+`Base: 15.25%`, `+20: 20.25%`, `+50: 27.75%`
+Trans 1
+`Base: 17.75%`, `+20: 22.75%`, `+50: 30.25%`, `+70: 35.25%`
+Trans 2
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`, `+90: 44.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 61" {  "plaintext":"%user% typed `!art 61`", 
+  "title": "#61 : Ancient High Priest's Staff",
+  "description": "Artifact Grade : ★★★★★ | Ancient High Priest's Garment Set",
+  "footer": {
+    "text": "See !artset 6 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Elf units
+`Base: 600%`, `+20: 1.2a%`, `+50: 2.2a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 62" {  "plaintext":"%user% typed `!art 62`", 
+  "title": "#62 : Ancient High Priest's Mask",
+  "description": "Artifact Grade : ★★★★★ | Ancient High Priest's Garment Set",
+  "footer": {
+    "text": "See !artset 6 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Elf units
+`Base: 1.2a%`, `+20: 3.7a%`, `+50: 7.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 63" {  "plaintext":"%user% typed `!art 63`", 
+  "title": "#63 : Ancient High Priest's Robe",
+  "description": "Artifact Grade : ★★★★★ | Ancient High Priest's Garment Set",
+  "footer": {
+    "text": "See !artset 6 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 8.5a%`, `+20: 24.7a%`, `+50: 49a%`, `+70: 245a%`
+Trans 2
+`Base: 78a%`, `+20: 290.4a%`, `+50: 609a%`, `+70: 1b%`, `+90: 3.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 64" {  "plaintext":"%user% typed `!art 64`", 
+  "title": "#64 : Ancient High Priest's Shoes",
+  "description": "Artifact Grade : ★★★★★ | Ancient High Priest's Garment Set",
+  "footer": {
+    "text": "See !artset 6 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Elf units
+`Base: 15.25%`, `+20: 20.25%`, `+50: 27.75%`
+Trans 1
+`Base: 17.75%`, `+20: 22.75%`, `+50: 30.25%`, `+70: 35.25%`
+Trans 2
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`, `+90: 44.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 65" {  "plaintext":"%user% typed `!art 65`", 
+  "title": "#65 : Dark Knight's Sword",
+  "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 7 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead and Orc units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Undead and Orc units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 66" {  "plaintext":"%user% typed `!art 66`", 
+  "title": "#66 : Dark Knight's Helmet",
+  "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 7 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Undead and Orc units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 67" {  "plaintext":"%user% typed `!art 67`", 
+  "title": "#67 : Dark Knight's Armor",
+  "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 7 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Undead and Orc units
+`Base: 900%`, `+20: 1.8a%`, `+50: 3.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 8.5a%`, `+20: 24.7a%`, `+50: 49a%`, `+70: 245a%`
+Trans 2
+`Base: 78a%`, `+20: 290.4a%`, `+50: 609a%`, `+70: 1b%`, `+90: 3.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 68" {  "plaintext":"%user% typed `!art 68`", 
+  "title": "#68 : Dark Knight's Boots",
+  "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 7 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Undead and Orc units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 69" {  "plaintext":"%user% typed `!art 69`", 
+  "title": "#69 : Dark Knight's Cloak",
+  "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 7 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead and Orc units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 70" {  "plaintext":"%user% typed `!art 70`", 
+  "title": "#70 : Dark Knight's Bracelet",
+  "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 7 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Undead and Orc units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 200%`, `+20: 300%`, `+50: 450%`
+Trans 1
+`Base: 520%`, `+20: 860%`, `+50: 1.3a%`, `+70: 2a%`
+Trans 2
+`Base: 650%`, `+20: 1a%`, `+50: 1.6a%`, `+70: 2.8a%`, `+90: 4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 71" {  "plaintext":"%user% typed `!art 71`", 
+  "title": "#71 : Sea Dragon's Claw",
+  "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "footer": {
+    "text": "See !artset 8 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Elf units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Human and Elf units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 72" {  "plaintext":"%user% typed `!art 72`", 
+  "title": "#72 : Sea Dragon's Horn",
+  "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "footer": {
+    "text": "See !artset 8 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human and Elf units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 73" {  "plaintext":"%user% typed `!art 73`", 
+  "title": "#73 : Sea Dragon's Scale",
+  "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "footer": {
+    "text": "See !artset 8 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Human and Elf units
+`Base: 900%`, `+20: 1.8a%`, `+50: 3.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 8.5a%`, `+20: 24.7a%`, `+50: 49a%`, `+70: 245a%`
+Trans 2
+`Base: 78a%`, `+20: 290.4a%`, `+50: 609a%`, `+70: 1b%`, `+90: 3.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 74" {  "plaintext":"%user% typed `!art 74`", 
+  "title": "#74 : Sea Dragon's Boots",
+  "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "footer": {
+    "text": "See !artset 8 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Human and Elf units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 75" {  "plaintext":"%user% typed `!art 75`", 
+  "title": "#75 : Sea Dragon's Pure Necklace",
+  "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "footer": {
+    "text": "See !artset 8 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Elf units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 76" {  "plaintext":"%user% typed `!art 76`", 
+  "title": "#76 : Sea Dragon's Pure Bracelet",
+  "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "footer": {
+    "text": "See !artset 8 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human and Elf units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 200%`, `+20: 300%`, `+50: 450%`
+Trans 1
+`Base: 520%`, `+20: 860%`, `+50: 1.3a%`, `+70: 2a%`
+Trans 2
+`Base: 650%`, `+20: 1a%`, `+50: 1.6a%`, `+70: 2.8a%`, `+90: 4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 77" {  "plaintext":"%user% typed `!art 77`", 
+  "title": "#77 : Gold Dragon's Necklace",
+  "description": "Artifact Grade : ★★★★★★ | Gold Dragon's Divine Protection Set",
+  "footer": {
+    "text": "See !artset 9 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of All units
+`Base: 4.9a%`, `+20: 10a%`, `+50: 17.7a%`
+Trans 1
+`Base: 5.4b%`, `+20: 9.7b%`, `+50: 16.2b%`, `+70: 48.6b%`
+Trans 2
+`Base: 40b%`, `+20: 3.9c%`, `+50: 9.7c%`, `+70: 29.1c%`, `+90: 875.2c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 78" {  "plaintext":"%user% typed `!art 78`", 
+  "title": "#78 : Gold Dragon's Earrings",
+  "description": "Artifact Grade : ★★★★★★ | Gold Dragon's Divine Protection Set",
+  "footer": {
+    "text": "See !artset 9 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 1.2a%`, `+20: 2a%`, `+50: 3.2a%`
+Trans 1
+`Base: 1.7a%`, `+20: 2.5a%`, `+50: 3.7a%`, `+70: 4.5a%`
+Trans 2
+`Base: 2.2a%`, `+20: 3a%`, `+50: 4.2a%`, `+70: 5a%`, `+90: 5.8a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 400%`, `+20: 700%`, `+50: 1.1a%`
+Trans 1
+`Base: 800%`, `+20: 1.4a%`, `+50: 2.3a%`, `+70: 3.5a%`
+Trans 2
+`Base: 1.1a%`, `+20: 7.1a%`, `+50: 16.1a%`, `+70: 26.1a%`, `+90: 36.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 79" {  "plaintext":"%user% typed `!art 79`", 
+  "title": "#79 : Horn Hood of Darkness",
+  "description": "Artifact Grade : ★★★★★★ | The Ruler of Darkness Set",
+  "footer": {
+    "text": "See !artset 10 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of All units
+`Base: 1.2a%`, `+20: 2.5a%`, `+50: 4.4a%`
+Trans 1
+`Base: 810a%`, `+20: 1.4b%`, `+50: 2.4b%`, `+70: 7.2b%`
+Trans 2
+`Base: 10b%`, `+20: 976b%`, `+50: 2.4c%`, `+70: 7.2c%`, `+90: 218.8c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 80" {  "plaintext":"%user% typed `!art 80`", 
+  "title": "#80 : Boots of Darkness",
+  "description": "Artifact Grade : ★★★★★★ | The Ruler of Darkness Set",
+  "footer": {
+    "text": "See !artset 10 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Ranged units
+`Base: 6.4a%`, `+20: 16.4a%`, `+50: 31.4a%`
+Trans 1
+`Base: 6.7b%`, `+20: 12.1b%`, `+50: 20.2b%`, `+70: 60.8b%`
+Trans 2
+`Base: 60b%`, `+20: 5.5c%`, `+50: 13.8c%`, `+70: 41.3c%`, `+90: 1.2d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the attack power of Ranged units
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 1.1b%`, `+20: 2b%`, `+50: 3.4b%`, `+70: 10.3b%`
+Trans 2
+`Base: 15b%`, `+20: 1.3c%`, `+50: 3.4c%`, `+70: 10.3c%`, `+90: 311.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 81" {  "plaintext":"%user% typed `!art 81`", 
+  "title": "#81 : Cloak of Darkness",
+  "description": "Artifact Grade : ★★★★★★ | The Ruler of Darkness Set",
+  "footer": {
+    "text": "See !artset 10 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of All units
+`Base: 1.8a%`, `+20: 3.7a%`, `+50: 6.6a%`
+Trans 1
+`Base: 540a%`, `+20: 970a%`, `+50: 1.6b%`, `+70: 4.8b%`
+Trans 2
+`Base: 15b%`, `+20: 1.4c%`, `+50: 3.6c%`, `+70: 10.9c%`, `+90: 328.2c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 82" {  "plaintext":"%user% typed `!art 82`", 
+  "title": "#82 : Fire Dragon's Immortal Sword",
+  "description": "Artifact Grade : ★★★★★★ | Immortal Ancient Weapon Set",
+  "footer": {
+    "text": "See !artset 11 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of All units
+`Base: 25.25%`, `+20: 30.25%`, `+50: 37.75%`
+Trans 1
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`
+Trans 2
+`Base: 32.25%`, `+20: 37.25%`, `+50: 44.75%`, `+70: 49.75%`, `+90: 54.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 83" {  "plaintext":"%user% typed `!art 83`", 
+  "title": "#83 : Lion's Immortal Armor",
+  "description": "Artifact Grade : ★★★★★★ | Immortal Ancient Weapon Set",
+  "footer": {
+    "text": "See !artset 11 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Melee units
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 1.1b%`, `+20: 2b%`, `+50: 3.4b%`, `+70: 10.3b%`
+Trans 2
+`Base: 15b%`, `+20: 1.3c%`, `+50: 3.4c%`, `+70: 10.3c%`, `+90: 311.8c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase HP of Melee units
+`Base: 6.4a%`, `+20: 16.4a%`, `+50: 31.4a%`
+Trans 1
+`Base: 6.7b%`, `+20: 12.1b%`, `+50: 20.2b%`, `+70: 60.8b%`
+Trans 2
+`Base: 60b%`, `+20: 5.5c%`, `+50: 13.8c%`, `+70: 41.3c%`, `+90: 1.2d%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 84" {  "plaintext":"%user% typed `!art 84`", 
+  "title": "#84 : Immortal Fire Wing",
+  "description": "Artifact Grade : ★★★★★★ | Immortal Ancient Weapon Set",
+  "footer": {
+    "text": "See !artset 11 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease HP of dungeon boss 
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 400%`, `+20: 700%`, `+50: 1.1a%`
+Trans 1
+`Base: 800%`, `+20: 1.4a%`, `+50: 2.3a%`, `+70: 3.5a%`
+Trans 2
+`Base: 1.1a%`, `+20: 7.1a%`, `+50: 16.1a%`, `+70: 26.1a%`, `+90: 36.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 85" {  "plaintext":"%user% typed `!art 85`", 
+  "title": "#85 : Laurel Bow of Abundance",
+  "description": "Artifact Grade : ★★★★★★ | Legacy of Abundance Set",
+  "footer": {
+    "text": "See !artset 12 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Elf units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 86" {  "plaintext":"%user% typed `!art 86`", 
+  "title": "#86 : Golden Boots of Abundance",
+  "description": "Artifact Grade : ★★★★★★ | Legacy of Abundance Set",
+  "footer": {
+    "text": "See !artset 12 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Human and Elf units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 87" {  "plaintext":"%user% typed `!art 87`", 
+  "title": "#87 : Golden Ring of Abundance",
+  "description": "Artifact Grade : ★★★★★★ | Legacy of Abundance Set",
+  "footer": {
+    "text": "See !artset 12 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human and Elf units
+`Base: 9.6a%`, `+20: 29a%`, `+50: 58.2a%`
+Trans 1
+`Base: 810a%`, `+20: 10.2b%`, `+50: 24.3b%`, `+70: 72.9b%`
+Trans 2
+`Base: 72b%`, `+20: 6.5c%`, `+50: 16.2c%`, `+70: 48.7c%`, `+90: 1.4d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 88" {  "plaintext":"%user% typed `!art 88`", 
+  "title": "#88 : Golden Cloak of Abundance",
+  "description": "Artifact Grade : ★★★★★★ | Legacy of Abundance Set",
+  "footer": {
+    "text": "See !artset 12 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Human and Elf units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 89" {  "plaintext":"%user% typed `!art 89`", 
+  "title": "#89 : Ancient Outland Beast's Blunt Force",
+  "description": "Artifact Grade : ★★★★★★ | Ancient Outland Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 13 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Air units
+`Base: 1.9a%`, `+20: 4.9a%`, `+50: 9.4a%`
+Trans 1
+`Base: 1.2b%`, `+20: 2.1b%`, `+50: 3.6b%`, `+70: 10.9b%`
+Trans 2
+`Base: 16.4b%`, `+20: 1.4c%`, `+50: 3.6c%`, `+70: 10.9c%`, `+90: 327.1c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Air units
+`Base: 1.9a%`, `+20: 4.9a%`, `+50: 9.4a%`
+Trans 1
+`Base: 486a%`, `+20: 876a%`, `+50: 1.4b%`, `+70: 4.3b%`
+Trans 2
+`Base: 6b%`, `+20: 585.6b%`, `+50: 1.4c%`, `+70: 4.3c%`, `+90: 131.2c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 90" {  "plaintext":"%user% typed `!art 90`", 
+  "title": "#90 : Ancient Outland Beast's Helmet",
+  "description": "Artifact Grade : ★★★★★★ | Ancient Outland Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 13 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Air units
+`Base: 2.8a%`, `+20: 7.3a%`, `+50: 14.1a%`
+Trans 1
+`Base: 720a%`, `+20: 1.3b%`, `+50: 2.1b%`, `+70: 6.4b%`
+Trans 2
+`Base: 9.7b%`, `+20: 865.1b%`, `+50: 2.1c%`, `+70: 6.4c%`, `+90: 194.3c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 91" {  "plaintext":"%user% typed `!art 91`", 
+  "title": "#91 : Ancient Outland Beast's Armor",
+  "description": "Artifact Grade : ★★★★★★ | Ancient Outland Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 13 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Air units
+`Base: 7.6a%`, `+20: 19.6a%`, `+50: 37.6a%`
+Trans 1
+`Base: 7.1b%`, `+20: 12.8b%`, `+50: 21.3b%`, `+70: 63.9b%`
+Trans 2
+`Base: 96.2b%`, `+20: 8.5c%`, `+50: 21.2c%`, `+70: 64c%`, `+90: 1.9d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 92" {  "plaintext":"%user% typed `!art 92`", 
+  "title": "#92 : Ancient Outland Beast's Boots",
+  "description": "Artifact Grade : ★★★★★★ | Ancient Outland Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 13 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Air units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 93" {  "plaintext":"%user% typed `!art 93`", 
+  "title": "#93 : King of Beast's Sword",
+  "description": "Artifact Grade : ★★★★★★ | King of Battle Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 14 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc and Undead units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 94" {  "plaintext":"%user% typed `!art 94`", 
+  "title": "#94 : King of Beast's Helmet",
+  "description": "Artifact Grade : ★★★★★★ | King of Battle Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 14 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Orc and Undead units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 95" {  "plaintext":"%user% typed `!art 95`", 
+  "title": "#95 : King of Beast's Armor",
+  "description": "Artifact Grade : ★★★★★★ | King of Battle Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 14 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Orc and Undead units
+`Base: 9.6a%`, `+20: 29a%`, `+50: 58.2a%`
+Trans 1
+`Base: 810a%`, `+20: 10.2b%`, `+50: 24.3b%`, `+70: 72.9b%`
+Trans 2
+`Base: 72b%`, `+20: 6.5c%`, `+50: 16.2c%`, `+70: 48.7c%`, `+90: 1.4d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 96" {  "plaintext":"%user% typed `!art 96`", 
+  "title": "#96 : King of Beast's Boots",
+  "description": "Artifact Grade : ★★★★★★ | King of Battle Beast's Arms Set",
+  "footer": {
+    "text": "See !artset 14 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Orc and Undead units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 97" {  "plaintext":"%user% typed `!art 97`", 
+  "title": "#97 : Frost Knight's Sword",
+  "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 15 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 98" {  "plaintext":"%user% typed `!art 98`", 
+  "title": "#98 : Frost Knight's Helmet",
+  "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 15 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Orc units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 99" {  "plaintext":"%user% typed `!art 99`", 
+  "title": "#99 : Frost Knight's Armor",
+  "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 15 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Orc units
+`Base: 9.6a%`, `+20: 29a%`, `+50: 58.2a%`
+Trans 1
+`Base: 810a%`, `+20: 10.2b%`, `+50: 24.3b%`, `+70: 72.9b%`
+Trans 2
+`Base: 72b%`, `+20: 6.5c%`, `+50: 16.2c%`, `+70: 48.7c%`, `+90: 1.4d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Orc units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 100" {  "plaintext":"%user% typed `!art 100`", 
+  "title": "#100 : Frost Knight's Boots",
+  "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 15 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Orc units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 400%`, `+20: 700%`, `+50: 1.1a%`
+Trans 1
+`Base: 800%`, `+20: 1.4a%`, `+50: 2.3a%`, `+70: 3.5a%`
+Trans 2
+`Base: 1.1a%`, `+20: 7.1a%`, `+50: 16.1a%`, `+70: 26.1a%`, `+90: 36.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 101" {  "plaintext":"%user% typed `!art 101`", 
+  "title": "#101 : Frost Knight's Ring",
+  "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 15 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 1.2a%`, `+20: 2a%`, `+50: 3.2a%`
+Trans 1
+`Base: 1.7a%`, `+20: 2.5a%`, `+50: 3.7a%`, `+70: 4.5a%`
+Trans 2
+`Base: 2.2a%`, `+20: 3a%`, `+50: 4.2a%`, `+70: 5a%`, `+90: 5.8a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease HP of dungeon boss 
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 102" {  "plaintext":"%user% typed `!art 102`", 
+  "title": "#102 : Frost Knight's Shield",
+  "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 15 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 103" {  "plaintext":"%user% typed `!art 103`", 
+  "title": "#103 : Lord of Darkness's Mace",
+  "description": "Artifact Grade : ★★★★★★ | Lord of Darkness's Arms Set",
+  "footer": {
+    "text": "See !artset 16 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 104" {  "plaintext":"%user% typed `!art 104`", 
+  "title": "#104 : Lord of Darkness's Helmet",
+  "description": "Artifact Grade : ★★★★★★ | Lord of Darkness's Arms Set",
+  "footer": {
+    "text": "See !artset 16 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Undead units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 105" {  "plaintext":"%user% typed `!art 105`", 
+  "title": "#105 : Lord of Darkness's Armor",
+  "description": "Artifact Grade : ★★★★★★ | Lord of Darkness's Arms Set",
+  "footer": {
+    "text": "See !artset 16 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Undead units
+`Base: 9.6a%`, `+20: 29a%`, `+50: 58.2a%`
+Trans 1
+`Base: 810a%`, `+20: 10.2b%`, `+50: 24.3b%`, `+70: 72.9b%`
+Trans 2
+`Base: 72b%`, `+20: 6.5c%`, `+50: 16.2c%`, `+70: 48.7c%`, `+90: 1.4d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Undead units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 106" {  "plaintext":"%user% typed `!art 106`", 
+  "title": "#106 : Lord of Darkness's Shoes",
+  "description": "Artifact Grade : ★★★★★★ | Lord of Darkness's Arms Set",
+  "footer": {
+    "text": "See !artset 16 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Undead units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 400%`, `+20: 700%`, `+50: 1.1a%`
+Trans 1
+`Base: 800%`, `+20: 1.4a%`, `+50: 2.3a%`, `+70: 3.5a%`
+Trans 2
+`Base: 1.1a%`, `+20: 7.1a%`, `+50: 16.1a%`, `+70: 26.1a%`, `+90: 36.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 107" {  "plaintext":"%user% typed `!art 107`", 
+  "title": "#107 : Lord of Darkness's Cloak",
+  "description": "Artifact Grade : ★★★★★★ | Lord of Darkness's Arms Set",
+  "footer": {
+    "text": "See !artset 16 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 1.2a%`, `+20: 2a%`, `+50: 3.2a%`
+Trans 1
+`Base: 1.7a%`, `+20: 2.5a%`, `+50: 3.7a%`, `+70: 4.5a%`
+Trans 2
+`Base: 2.2a%`, `+20: 3a%`, `+50: 4.2a%`, `+70: 5a%`, `+90: 5.8a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease HP of dungeon boss 
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 108" {  "plaintext":"%user% typed `!art 108`", 
+  "title": "#108 : Lord of Darkness's Necklace",
+  "description": "Artifact Grade : ★★★★★★ | Lord of Darkness's Arms Set",
+  "footer": {
+    "text": "See !artset 16 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 109" {  "plaintext":"%user% typed `!art 109`", 
+  "title": "#109 : Supernova's Staff",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 110" {  "plaintext":"%user% typed `!art 110`", 
+  "title": "#110 : Supernova's Hat",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Human units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 111" {  "plaintext":"%user% typed `!art 111`", 
+  "title": "#111 : Supernova's Robe",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human units
+`Base: 9.6a%`, `+20: 29a%`, `+50: 58.2a%`
+Trans 1
+`Base: 810a%`, `+20: 10.2b%`, `+50: 24.3b%`, `+70: 72.9b%`
+Trans 2
+`Base: 72b%`, `+20: 6.5c%`, `+50: 16.2c%`, `+70: 48.7c%`, `+90: 1.4d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Human units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 112" {  "plaintext":"%user% typed `!art 112`", 
+  "title": "#112 : Supernova's Shoes",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Human units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 400%`, `+20: 700%`, `+50: 1.1a%`
+Trans 1
+`Base: 800%`, `+20: 1.4a%`, `+50: 2.3a%`, `+70: 3.5a%`
+Trans 2
+`Base: 1.1a%`, `+20: 7.1a%`, `+50: 16.1a%`, `+70: 26.1a%`, `+90: 36.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 113" {  "plaintext":"%user% typed `!art 113`", 
+  "title": "#113 : Supernova's Ring",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 1.2a%`, `+20: 2a%`, `+50: 3.2a%`
+Trans 1
+`Base: 1.7a%`, `+20: 2.5a%`, `+50: 3.7a%`, `+70: 4.5a%`
+Trans 2
+`Base: 2.2a%`, `+20: 3a%`, `+50: 4.2a%`, `+70: 5a%`, `+90: 5.8a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease HP of dungeon boss 
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 114" {  "plaintext":"%user% typed `!art 114`", 
+  "title": "#114 : Supernova's Bracelet",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 115" {  "plaintext":"%user% typed `!art 115`", 
+  "title": "#115 : Bow of Shrine of Justice",
+  "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "footer": {
+    "text": "See !artset 18 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 20a%`, `+20: 62.3a%`, `+50: 125.7a%`
+Trans 1
+`Base: 200a%`, `+20: 623a%`, `+50: 1.2b%`, `+70: 6.2b%`
+Trans 2
+`Base: 600a%`, `+20: 15.4b%`, `+50: 37.7b%`, `+70: 189.7b%`, `+90: 1.8c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 116" {  "plaintext":"%user% typed `!art 116`", 
+  "title": "#116 : Hat of Shrine of Justice",
+  "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "footer": {
+    "text": "See !artset 18 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Elf units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.6a%`, `+20: 4.1a%`, `+50: 7.8a%`
+Trans 1
+`Base: 16a%`, `+20: 41a%`, `+50: 78.5a%`, `+70: 392.5a%`
+Trans 2
+`Base: 22.5a%`, `+20: 2b%`, `+50: 5.1b%`, `+70: 15.5b%`, `+90: 193.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 117" {  "plaintext":"%user% typed `!art 117`", 
+  "title": "#117 : Armor of Shrine of Justice",
+  "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "footer": {
+    "text": "See !artset 18 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf units
+`Base: 9.6a%`, `+20: 29a%`, `+50: 58.2a%`
+Trans 1
+`Base: 810a%`, `+20: 10.2b%`, `+50: 24.3b%`, `+70: 72.9b%`
+Trans 2
+`Base: 72b%`, `+20: 6.5c%`, `+50: 16.2c%`, `+70: 48.7c%`, `+90: 1.4d%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Elf units
+`Base: 3.6a%`, `+20: 10.8a%`, `+50: 21.8a%`
+Trans 1
+`Base: 1b%`, `+20: 1.9b%`, `+50: 3.2b%`, `+70: 9.7b%`
+Trans 2
+`Base: 27b%`, `+20: 2.4c%`, `+50: 6c%`, `+70: 18.2c%`, `+90: 548.5c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 118" {  "plaintext":"%user% typed `!art 118`", 
+  "title": "#118 : Shoes of Shrine of Justice",
+  "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "footer": {
+    "text": "See !artset 18 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Elf units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 400%`, `+20: 700%`, `+50: 1.1a%`
+Trans 1
+`Base: 800%`, `+20: 1.4a%`, `+50: 2.3a%`, `+70: 3.5a%`
+Trans 2
+`Base: 1.1a%`, `+20: 7.1a%`, `+50: 16.1a%`, `+70: 26.1a%`, `+90: 36.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 119" {  "plaintext":"%user% typed `!art 119`", 
+  "title": "#119 : Mark of Shrine of Justice",
+  "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "footer": {
+    "text": "See !artset 18 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of friendly tower 
+`Base: 1.2a%`, `+20: 2a%`, `+50: 3.2a%`
+Trans 1
+`Base: 1.7a%`, `+20: 2.5a%`, `+50: 3.7a%`, `+70: 4.5a%`
+Trans 2
+`Base: 2.2a%`, `+20: 3a%`, `+50: 4.2a%`, `+70: 5a%`, `+90: 5.8a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease HP of dungeon boss 
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 120" {  "plaintext":"%user% typed `!art 120`", 
+  "title": "#120 : Arrow of Shrine of Justice",
+  "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "footer": {
+    "text": "See !artset 18 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 1.3b%`, `+20: 2.4b%`, `+50: 4b%`, `+70: 12.1b%`
+Trans 2
+`Base: 18b%`, `+20: 1.6c%`, `+50: 4c%`, `+70: 12.1c%`, `+90: 365.7c%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 2.4a%`, `+20: 7.2a%`, `+50: 14.5a%`
+Trans 1
+`Base: 24a%`, `+20: 72.6a%`, `+50: 145.5a%`, `+70: 727.5a%`
+Trans 2
+`Base: 1b%`, `+20: 97.9b%`, `+50: 243.1b%`, `+70: 731.4b%`, `+90: 21.9c%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 121" {  "plaintext":"%user% typed `!art 121`", 
+  "title": "#121 : Assassin's Helmet",
+  "description": "Artifact Grade : ★★★★★ | Underground Guild's Assassin Set",
+  "footer": {
+    "text": "See !artset 34 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 122" {  "plaintext":"%user% typed `!art 122`", 
+  "title": "#122 : Assassin's Armor",
+  "description": "Artifact Grade : ★★★★★ | Underground Guild's Assassin Set",
+  "footer": {
+    "text": "See !artset 34 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Human units
+`Base: 1.2a%`, `+20: 3.7a%`, `+50: 7.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 123" {  "plaintext":"%user% typed `!art 123`", 
+  "title": "#123 : Assassin's Boots",
+  "description": "Artifact Grade : ★★★★★ | Underground Guild's Assassin Set",
+  "footer": {
+    "text": "See !artset 34 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease the revival time of Human units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 200%`, `+20: 300%`, `+50: 450%`
+Trans 1
+`Base: 520%`, `+20: 860%`, `+50: 1.3a%`, `+70: 2a%`
+Trans 2
+`Base: 650%`, `+20: 1a%`, `+50: 1.6a%`, `+70: 2.8a%`, `+90: 4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 124" {  "plaintext":"%user% typed `!art 124`", 
+  "title": "#124 : Secret Book 1",
+  "description": "Artifact Grade : ★★★★★ | Ancient Battle Secret Book Set",
+  "footer": {
+    "text": "See !artset 35 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 1.3b%`, `+20: 4.8b%`, `+50: 10.1b%`, `+70: 18.2b%`, `+90: 55b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the critical damage of Undead units
+`Base: 600%`, `+20: 1.2a%`, `+50: 2.2a%`
+Trans 1
+`Base: 3a%`, `+20: 9.4a%`, `+50: 19.2a%`, `+70: 38.6a%`
+Trans 2
+`Base: 741a%`, `+20: 2.7b%`, `+50: 5.7b%`, `+70: 10.4b%`, `+90: 31.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 125" {  "plaintext":"%user% typed `!art 125`", 
+  "title": "#125 : Secret Book 2",
+  "description": "Artifact Grade : ★★★★★ | Ancient Battle Secret Book Set",
+  "footer": {
+    "text": "See !artset 35 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the defense power of Undead units
+`Base: 1.2a%`, `+20: 3.7a%`, `+50: 7.3a%`
+Trans 1
+`Base: 4.5a%`, `+20: 14.2a%`, `+50: 28.8a%`, `+70: 57.9a%`
+Trans 2
+`Base: 1.9b%`, `+20: 7.2b%`, `+50: 15.2b%`, `+70: 27.4b%`, `+90: 82.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 126" {  "plaintext":"%user% typed `!art 126`", 
+  "title": "#126 : Secret Book 3",
+  "description": "Artifact Grade : ★★★★★ | Ancient Battle Secret Book Set",
+  "footer": {
+    "text": "See !artset 35 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Undead units
+`Base: 3.4a%`, `+20: 9.8a%`, `+50: 19.6a%`
+Trans 1
+`Base: 12a%`, `+20: 37.9a%`, `+50: 76.8a%`, `+70: 154.5a%`
+Trans 2
+`Base: 5.2b%`, `+20: 19.3b%`, `+50: 40.6b%`, `+70: 73.1b%`, `+90: 220.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 850%`, `+20: 2.4a%`, `+50: 4.9a%`
+Trans 1
+`Base: 8.5a%`, `+20: 24.7a%`, `+50: 49a%`, `+70: 245a%`
+Trans 2
+`Base: 78a%`, `+20: 290.4a%`, `+50: 609a%`, `+70: 1b%`, `+90: 3.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 127" {  "plaintext":"%user% typed `!art 127`", 
+  "title": "#127 : Secret Book 4",
+  "description": "Artifact Grade : ★★★★★ | Ancient Battle Secret Book Set",
+  "footer": {
+    "text": "See !artset 35 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Undead units
+`Base: 15.25%`, `+20: 20.25%`, `+50: 27.75%`
+Trans 1
+`Base: 17.75%`, `+20: 22.75%`, `+50: 30.25%`, `+70: 35.25%`
+Trans 2
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`, `+90: 44.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 650%`, `+20: 1.6a%`, `+50: 3.1a%`
+Trans 1
+`Base: 6.5a%`, `+20: 16.5a%`, `+50: 31.5a%`, `+70: 157.5a%`
+Trans 2
+`Base: 43.3a%`, `+20: 138.3a%`, `+50: 280.8a%`, `+70: 590.1a%`, `+90: 1.7b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 128" {  "plaintext":"%user% typed `!art 128`", 
+  "title": "#128 : Essence of Negligence",
+  "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "footer": {
+    "text": "See !pet skole | !artset 36 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 129" {  "plaintext":"%user% typed `!art 129`", 
+  "title": "#129 : Essence of Laziness",
+  "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "footer": {
+    "text": "See !pet harping | !artset 36 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 130" {  "plaintext":"%user% typed `!art 130`", 
+  "title": "#130 : Essence of Arrogance",
+  "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "footer": {
+    "text": "See !pet gnome | !artset 36 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 131" {  "plaintext":"%user% typed `!art 131`", 
+  "title": "#131 : Belial's Hammer",
+  "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "footer": {
+    "text": "See !pet bellial | !artset 36 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 132" {  "plaintext":"%user% typed `!art 132`", 
+  "title": "#132 : Basilisk's Spear",
+  "description": "Artifact Grade : ★★★★★★★ | Fire Hell Lord's Arms Set",
+  "footer": {
+    "text": "See !pet lavark | !artset 37 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 133" {  "plaintext":"%user% typed `!art 133`", 
+  "title": "#133 : Salim's Claw",
+  "description": "Artifact Grade : ★★★★★★★ | Fire Hell Lord's Arms Set",
+  "footer": {
+    "text": "See !pet hellyme | !artset 37 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 134" {  "plaintext":"%user% typed `!art 134`", 
+  "title": "#134 : Ignis' Sword",
+  "description": "Artifact Grade : ★★★★★★★ | Fire Hell Lord's Arms Set",
+  "footer": {
+    "text": "See !pet furion | !artset 37 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Undead units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest upgrade cost
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 135" {  "plaintext":"%user% typed `!art 135`", 
+  "title": "#135 : Bahamut's Hammer",
+  "description": "Artifact Grade : ★★★★★★★ | Fire Hell Lord's Arms Set",
+  "footer": {
+    "text": "See !pet bahat | !artset 37 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Orc units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 136" {  "plaintext":"%user% typed `!art 136`", 
+  "title": "#136 : White Tiger Helmet",
+  "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "footer": {
+    "text": "See !pet white tiger | !artset 38 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 137" {  "plaintext":"%user% typed `!art 137`", 
+  "title": "#137 : Blue Dragon Armor",
+  "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "footer": {
+    "text": "See !pet blue dragon | !artset 38 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 138" {  "plaintext":"%user% typed `!art 138`", 
+  "title": "#138 : Phoenix Cloak",
+  "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "footer": {
+    "text": "See !pet phoenix | !artset 38 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 139" {  "plaintext":"%user% typed `!art 139`", 
+  "title": "#139 : Black Turtle Shield",
+  "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "footer": {
+    "text": "See !pet black tortoise | !artset 38 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 140" {  "plaintext":"%user% typed `!art 140`", 
+  "title": "#140 : Human Hero's Sword",
+  "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "footer": {
+    "text": "See !pet human guardian | !artset 39 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 141" {  "plaintext":"%user% typed `!art 141`", 
+  "title": "#141 : Elf Hero's Bow",
+  "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "footer": {
+    "text": "See !pet elf guardian | !artset 39 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 142" {  "plaintext":"%user% typed `!art 142`", 
+  "title": "#142 : Undead Hero's Staff",
+  "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "footer": {
+    "text": "See !pet undead guardian | !artset 39 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 143" {  "plaintext":"%user% typed `!art 143`", 
+  "title": "#143 : Orc Hero's Axe",
+  "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "footer": {
+    "text": "See !pet orc guardian | !artset 39 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 144" {  "plaintext":"%user% typed `!art 144`", 
+  "title": "#144 : Sun Ring",
+  "description": "Artifact Grade : ★★★★★★★ | Fire Hell Lord's Arms Set",
+  "footer": {
+    "text": "See !pet flame sorceress | !artset 37 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of All units
+`Base: 1b%`, `+20: 4.8b%`, `+50: 10.6b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 145" {  "plaintext":"%user% typed `!art 145`", 
+  "title": "#145 : Horus’s Greatsword",
+  "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "footer": {
+    "text": "See !pet cleo | !artset 38 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 146" {  "plaintext":"%user% typed `!art 146`", 
+  "title": "#146 : Poison-Impervious Cloak",
+  "description": "Artifact Grade : ★★★★★★★ | Desert of Legend Treasure Set",
+  "footer": {
+    "text": "See !pet senior skole | !artset 40 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 147" {  "plaintext":"%user% typed `!art 147`", 
+  "title": "#147 : Armor of Sandstorm",
+  "description": "Artifact Grade : ★★★★★★★ | Desert of Legend Treasure Set",
+  "footer": {
+    "text": "See !pet senior harping | !artset 40 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 148" {  "plaintext":"%user% typed `!art 148`", 
+  "title": "#148 : Lord’s Helmet",
+  "description": "Artifact Grade : ★★★★★★★ | Desert of Legend Treasure Set",
+  "footer": {
+    "text": "See !pet senior bellial | !artset 40 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 149" {  "plaintext":"%user% typed `!art 149`", 
+  "title": "#149 : Boots of Iron Wall",
+  "description": "Artifact Grade : ★★★★★★★ | Desert of Legend Treasure Set",
+  "footer": {
+    "text": "See !pet senior gnome | !artset 40 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 150" {  "plaintext":"%user% typed `!art 150`", 
+  "title": "#150 : Yellow Dragon Saber",
+  "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "footer": {
+    "text": "See !pet gold dragon | !artset 38 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 151" {  "plaintext":"%user% typed `!art 151`", 
+  "title": "#151 : Taratoad's Wand",
+  "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "footer": {
+    "text": "See !pet tarad | !artset 41 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 152" {  "plaintext":"%user% typed `!art 152`", 
+  "title": "#152 : Nerugal's Spear",
+  "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "footer": {
+    "text": "See !pet neru | !artset 41 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 153" {  "plaintext":"%user% typed `!art 153`", 
+  "title": "#153 : Axe of Gorgos",
+  "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "footer": {
+    "text": "See !pet gorgon | !artset 41 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 154" {  "plaintext":"%user% typed `!art 154`", 
+  "title": "#154 : Beelzebub's Sword",
+  "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "footer": {
+    "text": "See !pet beel | !artset 41 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 155" {  "plaintext":"%user% typed `!art 155`", 
+  "title": "#155 : Gaia's Rage",
+  "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "footer": {
+    "text": "See !pet forest sorceress | !artset 41 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 156" {  "plaintext":"%user% typed `!art 156`", 
+  "title": "#156 : Plat Armor of Ares",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Victory Set",
+  "footer": {
+    "text": "See !pet ares | !artset 45 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Orc units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 157" {  "plaintext":"%user% typed `!art 157`", 
+  "title": "#157 : Athena's Shield",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Victory Set",
+  "footer": {
+    "text": "See !pet athena | !artset 45 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Orc units
+`Base: 7.2b%`, `+20: 33.6b%`, `+50: 73.2b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 158" {  "plaintext":"%user% typed `!art 158`", 
+  "title": "#158 : Hera's Ring",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Authority Set",
+  "footer": {
+    "text": "See !pet hera | !artset 42 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human units
+`Base: 7.2b%`, `+20: 33.6b%`, `+50: 73.2b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 159" {  "plaintext":"%user% typed `!art 159`", 
+  "title": "#159 : Winged Boots of Hermes",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Fertility Set",
+  "footer": {
+    "text": "See !pet hermes | !artset 43 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 160" {  "plaintext":"%user% typed `!art 160`", 
+  "title": "#160 : Bow of Artemis",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Fertility Set",
+  "footer": {
+    "text": "See !pet artemis | !artset 43 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 161" {  "plaintext":"%user% typed `!art 161`", 
+  "title": "#161 : Spear of Zeus",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Authority Set",
+  "footer": {
+    "text": "See !pet zeus | !artset 42 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 162" {  "plaintext":"%user% typed `!art 162`", 
+  "title": "#162 : Trident of Poseidon",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Authority Set",
+  "footer": {
+    "text": "See !pet poseidon | !artset 42 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 163" {  "plaintext":"%user% typed `!art 163`", 
+  "title": "#163 : Hammer of Hephaistos",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Victory Set",
+  "footer": {
+    "text": "See !pet hephaistos | !artset 45 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Orc units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 164" {  "plaintext":"%user% typed `!art 164`", 
+  "title": "#164 : Potion of Dionysus",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Amusement Set",
+  "footer": {
+    "text": "See !pet dionysus | !artset 44 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Undead units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 165" {  "plaintext":"%user% typed `!art 165`", 
+  "title": "#165 : Mirror of Venus",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Amusement Set",
+  "footer": {
+    "text": "See !pet aphrodite | !artset 44 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Undead units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 166" {  "plaintext":"%user% typed `!art 166`", 
+  "title": "#166 : Harp of Apollo",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Amusement Set",
+  "footer": {
+    "text": "See !pet apollo | !artset 44 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Undead units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+OOOO
+.acr "!art 167" {  "plaintext":"%user% typed `!art 167`", 
+  "title": "#167 : Statue of Goddess of Fertility",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Fertility Set",
+  "footer": {
+    "text": "See !pet demeter | !artset 43 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf units
+`Base: 7.2b%`, `+20: 33.6b%`, `+50: 73.2b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}

@@ -1,0 +1,23 @@
+.acr "!art 156" {  "plaintext":"%user% typed `!art 156`", 
+  "title": "#156 : Plat Armor of Ares",
+  "description": "Artifact Grade : ★★★★★★★ | Relic of Victory Set",
+  "footer": {
+    "text": "See !pet ares | !artset 45 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the critical damage of Orc units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

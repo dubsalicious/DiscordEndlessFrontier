@@ -1,0 +1,23 @@
+.acr "!art 129" {  "plaintext":"%user% typed `!art 129`", 
+  "title": "#129 : Essence of Laziness",
+  "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "footer": {
+    "text": "See !pet harping | !artset 36 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

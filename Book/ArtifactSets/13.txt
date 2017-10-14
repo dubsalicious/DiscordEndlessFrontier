@@ -1,0 +1,34 @@
+.acr "!artset 13" {  "plaintext":"%user% typed `!artset 13`", 
+  "title": "#13: Ancient Outland Beast's Arms Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/4)",
+      "value": "Reduce the unit upgrade cost 
+`Base: 1.4a%`, `T1: 785a%`, `T2: 5.1b%`
+Increase additional medal
+`Base: 30%`, `T1: 90%`, `T2: 200%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 2 (4/4)",
+      "value": "Reduce the quest time
+`Base: 245%`, `T1: 10.5a%`, `T2: 26.1a%`
+Increase the basic double speed
+`Base: 25%`, `T1: 37%`, `T2: 45%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#89` Ancient Outland Beast's Blunt Force
+`#90` Ancient Outland Beast's Helmet
+`#91` Ancient Outland Beast's Armor
+`#92` Ancient Outland Beast's Boots",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

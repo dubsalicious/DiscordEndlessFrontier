@@ -1,0 +1,42 @@
+.acr "!pet mir" {
+  "plaintext":"%user% typed `!pet mir`", 
+  "title": "Mir",
+  "description": "Senior Hot-Blooded Xuanzang's Pet",
+  "footer": {
+    "text": "See !unit hot-blooded xuanzang | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202867620478976/UI_PET36.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Guild War: Range units A.Speed +`0.6`, `1.2`, `1.8`, `2.4`, `3`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild Raid: Human HP +`12.6`, `16.8`, `21`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Hot-Blooded Xuanzang's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- For normal attacks, launches two electric bolts to attack and stun up to 5 units.\r\n- Appears quickly to cast a shield to make all friendly units immune to magic for a short period.\r\n- Attack speed increases by 4% and critical damage increases by 6% for all units.\r\n- Upgrades human units from guild barrack by 1. (Regular, evolved, evolved +, evolved ++, evolved +++) ==> (evolved, evolved +, evolved ++, evolved +++, evolved ++++ )",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`6-16 KLV 48`\r\n`11-15 KLV 86`\r\n`13-20 KLV 104`\r\n`17-11 KLV 134`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`3`, `6`, `9`, `12`, `15`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

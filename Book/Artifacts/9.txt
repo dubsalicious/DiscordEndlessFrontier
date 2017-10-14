@@ -1,0 +1,17 @@
+.acr "!art 9" {  "plaintext":"%user% typed `!art 9`", 
+  "title": "#9 : Mercenary's Cloak",
+  "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "footer": {
+    "text": "See !artset 30 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the quest time
+`Base: 3%`, `+20: 23%`, `+50: 53%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

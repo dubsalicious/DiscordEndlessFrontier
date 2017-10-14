@@ -1,0 +1,42 @@
+.acr "!pet tinkey" {
+  "plaintext":"%user% typed `!pet tinkey`", 
+  "title": "Tinkey",
+  "description": "Senior Fairy's Pet",
+  "footer": {
+    "text": "See !unit fairy | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202668630114314/UI_PET6.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Game Speed  +`0.5`, `1`, `1.5`, `2`, `2.5`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Elf HP +`10.8`, `14.4`, `18`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Fairy's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Even if Fairy is at the Time Shop, chance for Elfs secret skill to be used increases. (Increases by 1% per 5-star and 2.5% per 6-star. When in the Time Shop, the max Elfs secret skill enhancement by Fairy is 30%.)\r\n- Upon first appearing, greatly increases movement speed of all ally units and casts a barrier that defends against 99% of damage for a short period.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`4-6 KLV 28`\r\n`6-15 KLV 46`\r\n`8-20 KLV 64`\r\n`15-1 KLV 114`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`3`, `6`, `9`, `12`, `15`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

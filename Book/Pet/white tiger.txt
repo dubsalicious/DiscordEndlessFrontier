@@ -1,0 +1,32 @@
+.acr "!pet white tiger" {
+  "plaintext":"%user% typed `!pet white tiger`", 
+  "title": "White Tiger",
+  "description": "Secret Pet Shop Pet",
+  "footer": {
+    "text": "See !art 136 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202853745852417/UI_PET34.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Decrease 3rd active skill cool-time +`3`, `6`, `10`, `15`, `20`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Medal Buff  +`40`, `60`, `80`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "White Tiger Helmet",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

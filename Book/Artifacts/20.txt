@@ -1,0 +1,17 @@
+.acr "!art 20" {  "plaintext":"%user% typed `!art 20`", 
+  "title": "#20 : Plate Boots",
+  "description": "Artifact Grade : ★★ | Plate Arms Set",
+  "footer": {
+    "text": "See !artset 28 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the unit upgrade cost 
+`Base: 40%`, `+20: 140%`, `+50: 290%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

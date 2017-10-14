@@ -1,0 +1,31 @@
+.acr "!art 50" {  "plaintext":"%user% typed `!art 50`", 
+  "title": "#50 : Heaven's Earrings",
+  "description": "Artifact Grade : ★★★★★ | Oath of Heaven Set",
+  "footer": {
+    "text": "See !artset 2 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Ranged units
+`Base: 2.6a%`, `+20: 6.6a%`, `+50: 12.6a%`
+Trans 1
+`Base: 8a%`, `+20: 21.2a%`, `+50: 41a%`, `+70: 83.2a%`
+Trans 2
+`Base: 4.5b%`, `+20: 14.5b%`, `+50: 29.5b%`, `+70: 62.1b%`, `+90: 186.9b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the defense power of Ranged units
+`Base: 975%`, `+20: 2.4a%`, `+50: 4.7a%`
+Trans 1
+`Base: 3a%`, `+20: 7.9a%`, `+50: 15.3a%`, `+70: 31.2a%`
+Trans 2
+`Base: 1.7b%`, `+20: 5.4b%`, `+50: 11b%`, `+70: 23.2b%`, `+90: 70b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

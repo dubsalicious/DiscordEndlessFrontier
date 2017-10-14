@@ -1,0 +1,32 @@
+.acr "!pet dionysus" {
+  "plaintext":"%user% typed `!pet dionysus`", 
+  "title": "Dionysus",
+  "description": "Greek Pet",
+  "footer": {
+    "text": "See !art 164 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/356576870860324864/UI_PET116.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Reach limit break of Maximum Medal Buff from transcended Unit in Time Shop +`200`, `400`, `600`, `800`, `1000`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Medal Buff  +`55`, `70`, `90`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Potion of Dionysus",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

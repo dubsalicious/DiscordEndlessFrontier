@@ -1,0 +1,42 @@
+.acr "!pet boom boom" {
+  "plaintext":"%user% typed `!pet boom boom`", 
+  "title": "Boom Boom",
+  "description": "Senior Battle Drummer's Pet",
+  "footer": {
+    "text": "See !unit battle drummer | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202818098593794/UI_PET28.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Medal Buff  +`5`, `10`, `15`, `20`, `30`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Range units A.Speed +`1.8`, `2.4`, `3`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Battle Drummer's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Increases attack range, critical damage, and critical rate of all units by 5%.\r\n- Increases movement speed and attack speed of all units by 3%.\r\n- On first appearing, increases the movement and attack speed of all ally units and randomly casts physical immunity shield or magic immunity shield.\r\n- When included in a team, medal buff increases by 30%. (Special skill 6 raises 10% to 40%)\r\n- Max medal buff increases by transcend units in Time Shop.\r\n(Every 5-star Battle Drummer increases by 10% and 6-star increases by 20%. => For example, when there are seven 5-star and ten 6-star Battle Drummers, the max medal buff of transcend units in Time Shop increases from 1,000% to 1,270%.)",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`5-16 KLV 40`\r\n`9-15 KLV 70`\r\n`11-20 KLV 88`\r\n`16-11 KLV 126`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`3`, `6`, `9`, `12`, `15`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

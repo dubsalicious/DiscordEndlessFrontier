@@ -1,0 +1,42 @@
+.acr "!pet joe" {
+  "plaintext":"%user% typed `!pet joe`", 
+  "title": "Joe",
+  "description": "Senior Ent's Pet",
+  "footer": {
+    "text": "See !unit ent | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202654159896577/UI_PET2.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Game Speed  +`0.4`, `0.8`, `1.2`, `1.6`, `2`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "PvP: Elf M.Speed +`1.2`, `1.6`, `2`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Ent's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Quickly moves (dashes) to first target and quickly engages in battle. \r\n- Upon first appearing, casts a barrier that defends against 99% of damage for a period of time.\r\n- Increases splash damage of regular attack, and during skill attacks, becomes immune to stun",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +30`, `T1 +50`, `T2 +70`, `T3 +90`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`1-6 KLV 4`\r\n`1-10 KLV 4`\r\n`2-20 KLV 16`\r\n`12-1 KLV 90`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

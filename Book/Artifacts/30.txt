@@ -1,0 +1,23 @@
+.acr "!art 30" {  "plaintext":"%user% typed `!art 30`", 
+  "title": "#30 : Knight Commander's Cloak",
+  "description": "Artifact Grade : ★★★ | Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 33 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Decrease HP of dungeon boss 
+`Base: 5.25%`, `+20: 10.25%`, `+50: 17.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 65%`, `+20: 125%`, `+50: 215%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

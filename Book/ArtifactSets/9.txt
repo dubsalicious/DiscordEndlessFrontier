@@ -1,0 +1,24 @@
+.acr "!artset 9" {  "plaintext":"%user% typed `!artset 9`", 
+  "title": "#9: Gold Dragon's Divine Protection Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/2)",
+      "value": "Increase the attack power of All units
+`Base: 882%`, `T1: 2.4b%`, `T2: 2.4c%`
+Increase attack speed of all units
+`Base: 10%`, `T1: 11%`, `T2: 12%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#77` Gold Dragon's Necklace
+`#78` Gold Dragon's Earrings",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

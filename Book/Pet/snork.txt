@@ -1,0 +1,42 @@
+.acr "!pet snork" {
+  "plaintext":"%user% typed `!pet snork`", 
+  "title": "Snork",
+  "description": "Senior Ice Wizard's Pet",
+  "footer": {
+    "text": "See !unit ice wizard | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202676591165450/UI_PET8.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Gold Buff  +`360`, `960`, `3600`, `9600`, `18000`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Orc HP +`10.8`, `14.4`, `18`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Ice Wizard's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Regular attacks hit air units. (Air attack possible)\r\n- Raises Orc units' critical hit rate by 3%.\r\n- Upon first appearing, can freeze all the enemies in the screen for a certain time at the rate of 50%. \r\n- Movement speed increases and summons 2 ice prisons during regular attacks; ice prisons can attack air units.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +0`, `T1 +10`, `T2 +20`, `T3 +30`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`2-16 KLV 16`\r\n`3-15 KLV 22`\r\n`5-20 KLV 40`\r\n`13-11 KLV 102`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

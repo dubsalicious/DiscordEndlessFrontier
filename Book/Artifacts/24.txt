@@ -1,0 +1,23 @@
+.acr "!art 24" {  "plaintext":"%user% typed `!art 24`", 
+  "title": "#24 : Knights' Battle Hammer",
+  "description": "Artifact Grade : ★★★ | Knight's Arms Set",
+  "footer": {
+    "text": "See !artset 33 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Orc units
+`Base: 180%`, `+20: 360%`, `+50: 630%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 180%`, `+20: 360%`, `+50: 630%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

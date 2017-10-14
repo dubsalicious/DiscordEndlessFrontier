@@ -1,0 +1,23 @@
+.acr "!art 33" {  "plaintext":"%user% typed `!art 33`", 
+  "title": "#33 : Knight of Royal Guard's Alloy Hammer",
+  "description": "Artifact Grade : ★★★★ | Royal Guard's Weapon Set",
+  "footer": {
+    "text": "See !artset 19 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human and Elf units
+`Base: 350%`, `+20: 890%`, `+50: 1.7a%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease the quest open gold 
+`Base: 350%`, `+20: 890%`, `+50: 1.7a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

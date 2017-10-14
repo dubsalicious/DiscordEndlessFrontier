@@ -1,0 +1,17 @@
+.acr "!art 13" {  "plaintext":"%user% typed `!art 13`", 
+  "title": "#13 : Mage's Robe",
+  "description": "Artifact Grade : ★★ | Mage's Garment Set",
+  "footer": {
+    "text": "See !artset 26 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Elf and Human units
+`Base: 240%`, `+20: 720%`, `+50: 1.4a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

@@ -1,0 +1,42 @@
+.acr "!pet mummy" {
+  "plaintext":"%user% typed `!pet mummy`", 
+  "title": "Mummy",
+  "description": "Senior Hands of Death's Pet",
+  "footer": {
+    "text": "See !unit hands of death | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202657871724544/UI_PET3.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Offline M.Speed  +`2`, `4`, `6`, `8`, `10`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Guild War: Undead HP +`9`, `12`, `15`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (Senior Hands of Death's Hidden Special Ability) - Unlocks at Rank 5",
+      "value": "- Quickly moves (dashes) to first target and quickly engages in battle.\r\n- Upon first appearing, heals 10% of all ally unit HP, and casts magic barrier for a period of time. \r\n- Becomes immune to stun, restores more HP during regular attacks, and when HP falls under 30%, becomes immune to knockback.",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 Gold Level Max",
+      "value": "`Senior +30`, `T1 +50`, `T2 +70`, `T3 +90`",
+      "inline": false
+    },
+    {
+      "name": "Spirit Highlands",
+      "value": "`1-11 KLV 6`\r\n`1-15 KLV 6`\r\n`3-10 KLV 20`\r\n`12-6 KLV 92`",
+      "inline": true
+    },
+    {
+      "name": "Pet points",
+      "value": "`2`, `4`, `6`, `8`, `10`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

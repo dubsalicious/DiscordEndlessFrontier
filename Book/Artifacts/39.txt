@@ -1,0 +1,31 @@
+.acr "!art 39" {  "plaintext":"%user% typed `!art 39`", 
+  "title": "#39 : Temple Battlemage's Tunic",
+  "description": "Artifact Grade : ★★★★★ | Temple Battlemage's Weapon Set",
+  "footer": {
+    "text": "See !artset 23 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of All units
+`Base: 2.4a%`, `+20: 4.9a%`, `+50: 8.8a%`
+Trans 1
+`Base: 6a%`, `+20: 12.9a%`, `+50: 23.2a%`, `+70: 47.3a%`
+Trans 2
+`Base: 3.2b%`, `+20: 6.4b%`, `+50: 11.2b%`, `+70: 43.8b%`, `+90: 131.8b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 5.5a%`, `+20: 14.9a%`, `+50: 29a%`
+Trans 1
+`Base: 55a%`, `+20: 149a%`, `+50: 290a%`, `+70: 1.4b%`
+Trans 2
+`Base: 200a%`, `+20: 1.8b%`, `+50: 4.4b%`, `+70: 9.4b%`, `+90: 28.4b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

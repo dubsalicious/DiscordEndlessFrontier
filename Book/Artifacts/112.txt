@@ -1,0 +1,31 @@
+.acr "!art 112" {  "plaintext":"%user% typed `!art 112`", 
+  "title": "#112 : Supernova's Shoes",
+  "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "footer": {
+    "text": "See !artset 17 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Reduce the units' battle engaging time of Human units
+`Base: 20.25%`, `+20: 25.25%`, `+50: 32.75%`
+Trans 1
+`Base: 22.25%`, `+20: 27.25%`, `+50: 34.75%`, `+70: 39.75%`
+Trans 2
+`Base: 27.25%`, `+20: 32.25%`, `+50: 39.75%`, `+70: 44.75%`, `+90: 49.75%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Reduce the quest time
+`Base: 400%`, `+20: 700%`, `+50: 1.1a%`
+Trans 1
+`Base: 800%`, `+20: 1.4a%`, `+50: 2.3a%`, `+70: 3.5a%`
+Trans 2
+`Base: 1.1a%`, `+20: 7.1a%`, `+50: 16.1a%`, `+70: 26.1a%`, `+90: 36.1a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+

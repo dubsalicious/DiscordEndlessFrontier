@@ -1,0 +1,32 @@
+.acr "!pet nills" {
+  "plaintext":"%user% typed `!pet nills`", 
+  "title": "Nills",
+  "description": "Package Pet",
+  "footer": {
+    "text": "See !art  | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202960516186113/UI_PET52.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Medal Buff  +`5`, `10`, `10`, `10`, `10`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Medal Buff  +`20`, `30`, `30`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 3 (x2 if Main/Revive)",
+      "value": "Medal Buff  +40%",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`3`, `6`, `9`, `12`, `15`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}

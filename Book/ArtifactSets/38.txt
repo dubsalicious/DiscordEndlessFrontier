@@ -1,0 +1,44 @@
+.acr "!artset 38" {  "plaintext":"%user% typed `!artset 38`", 
+  "title": "#38: Outland Gods Treasure Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/6)",
+      "value": "Increase the basic double speed
+`Base: 37%`
+Increase the quest gold acquisition 
+`Base: 25.1b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 2 (4/6)",
+      "value": "Increase the basic double speed
+`Base: 37%`
+Increase the quest gold acquisition 
+`Base: 25.1b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 3 (6/6)",
+      "value": "Increase the attack power of All units
+`Base: 2.4b%`
+Increase additional medal
+`Base: 360%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#136` White Tiger Helmet
+`#137` Blue Dragon Armor
+`#138` Phoenix Cloak
+`#139` Black Turtle Shield
+`#145` Horuss Greatsword
+`#150` Yellow Dragon Saber",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

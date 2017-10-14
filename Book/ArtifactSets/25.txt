@@ -1,0 +1,28 @@
+.acr "!artset 25" {  "plaintext":"%user% typed `!artset 25`", 
+  "title": "#25: Magician's Garment Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (3/3)",
+      "value": "Increase the attack power of All units
+`Base: 112%`
+Increase the critical damage of All units
+`Base: 112%`
+Increase moving speed of ranged unit
+`Base: 5%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#22` Magician's Robe
+`#26` Magician's Hat
+`#28` Magician's Shoes
+",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
+

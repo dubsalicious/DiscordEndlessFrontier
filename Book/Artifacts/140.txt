@@ -1,0 +1,23 @@
+.acr "!art 140" {  "plaintext":"%user% typed `!art 140`", 
+  "title": "#140 : Human Hero's Sword",
+  "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "footer": {
+    "text": "See !pet human guardian | !artset 39 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase the attack power of Human units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Increase the quest gold acquisition 
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
+
