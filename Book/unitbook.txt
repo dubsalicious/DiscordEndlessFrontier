@@ -27,6 +27,7 @@ pilot
 steam punk
 valkyrie
 flame spirit
+cleric
 ```"
     },
     {
@@ -50,6 +51,7 @@ alchemist
 sylphid
 sword dancer
 hippogriff
+elementalist
 ```"
     },
     {
@@ -73,6 +75,7 @@ lich
 medusa
 incubus
 dark spirit
+dark elf
 ```"
     },
     {
@@ -95,6 +98,7 @@ wyvern rider
 naga
 ice spirit
 blade master
+frost demon
 ```"
     }
   ],

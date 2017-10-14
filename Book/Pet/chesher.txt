@@ -1,9 +1,9 @@
 .acr "!pet chesher" {
   "plaintext":"%user% typed `!pet chesher`", 
   "title": "Chesher",
-  "description": "DarkElf2's Pet",
+  "description": "Dark Elf's Pet",
   "footer": {
-    "text": "See !unit darkelf2 | !books | !petbook"
+    "text": "See !unit dark elf | !books | !petbook"
   },
   "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599823877079051/UI_PET114.png",
   "fields": [
@@ -18,7 +18,7 @@
       "inline": false
     },
     {
-      "name": "Skill 3 (DarkElf2's Hidden Special Ability) - Unlocks at Rank 5",
+      "name": "Skill 3 (Dark Elf's Hidden Special Ability) - Unlocks at Rank 5",
       "value": "Hidden Skill Description not available in Korea",
       "inline": false
     },

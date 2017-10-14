@@ -1,9 +1,9 @@
 .acr "!pet bernard" {
   "plaintext":"%user% typed `!pet bernard`", 
   "title": "Bernard",
-  "description": "SaintOrc2's Pet",
+  "description": "Cleric's Pet",
   "footer": {
-    "text": "See !unit saintorc2 | !books | !petbook"
+    "text": "See !unit cleric | !books | !petbook"
   },
   "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599821058637844/UI_PET112.png",
   "fields": [
@@ -18,7 +18,7 @@
       "inline": false
     },
     {
-      "name": "Skill 3 (SaintOrc2's Hidden Special Ability) - Unlocks at Rank 5",
+      "name": "Skill 3 (Cleric's Hidden Special Ability) - Unlocks at Rank 5",
       "value": "Hidden Skill Description not available in Korea",
       "inline": false
     },

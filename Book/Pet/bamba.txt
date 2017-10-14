@@ -1,9 +1,9 @@
 .acr "!pet bamba" {
   "plaintext":"%user% typed `!pet bamba`", 
   "title": "Bamba",
-  "description": "FrostDemon2's Pet",
+  "description": "Frost Demon's Pet",
   "footer": {
-    "text": "See !unit frostdemon2 | !books | !petbook"
+    "text": "See !unit frost demon | !books | !petbook"
   },
   "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599826125225986/UI_PET115.png",
   "fields": [
@@ -18,7 +18,7 @@
       "inline": false
     },
     {
-      "name": "Skill 3 (FrostDemon2's Hidden Special Ability) - Unlocks at Rank 5",
+      "name": "Skill 3 (Frost Demon's Hidden Special Ability) - Unlocks at Rank 5",
       "value": "Hidden Skill Description not available in Korea",
       "inline": false
     },

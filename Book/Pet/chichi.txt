@@ -1,9 +1,9 @@
 .acr "!pet chichi" {
   "plaintext":"%user% typed `!pet chichi`", 
   "title": "Chichi",
-  "description": "ElfMaster2's Pet",
+  "description": "Elementalist's Pet",
   "footer": {
-    "text": "See !unit elfmaster2 | !books | !petbook"
+    "text": "See !unit elementalist | !books | !petbook"
   },
   "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599822430044161/UI_PET113.png",
   "fields": [
@@ -18,7 +18,7 @@
       "inline": false
     },
     {
-      "name": "Skill 3 (ElfMaster2's Hidden Special Ability) - Unlocks at Rank 5",
+      "name": "Skill 3 (Elementalist's Hidden Special Ability) - Unlocks at Rank 5",
       "value": "Hidden Skill Description not available in Korea",
       "inline": false
     },

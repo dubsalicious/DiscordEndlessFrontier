@@ -9,7 +9,7 @@
   "fields": [
     {
       "name": "Skill 1",
-      "value": "Increase active skill damage efficiency +`40`, `90`, `150`, `220`, `300`%",
+      "value": "Increase active skill damage efficiency +`40`, `90`, `150`, `220`, `300` floors",
       "inline": false
     },
     {
