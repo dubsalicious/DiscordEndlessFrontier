@@ -9,7 +9,7 @@
   "fields": [
     {
       "name": "Skill 1",
-      "value": "Poison resistance +`100`, `400`, `800`, `1600`, `3200`",
+      "value": "Nature resistance +`100`, `400`, `800`, `1600`, `3200`",
       "inline": false
     },
     {
