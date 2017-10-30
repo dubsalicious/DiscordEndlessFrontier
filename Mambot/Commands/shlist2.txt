@@ -41,3 +41,4 @@ KL   Stage  Pet          Unit Pair
 142  18-15  Black        Incubus
 144  18-20  Dark Snake   Medusa
 ```
+This list can also be seen more completely here <http://www.endlessfrontierdata.com/sh>.
