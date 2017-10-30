@@ -16,7 +16,7 @@ KL   Stage  Pet          Unit Pair
 164  21-10  Juda         Ice Spirit
 166  21-15  Bernard      Cleric
 168  21-20  Rena         Flame Spirit
-170  22-05  LinLin       Elementalist
+170  22-05  ChiChi       Elementalist
 172  22-10  Hippong      Hippogriff
 174  22-15  Chesher      Dark Elf
 176  22-20  Osma         Dark Spirit
