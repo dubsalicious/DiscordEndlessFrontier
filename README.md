@@ -1,2 +1,4 @@
 # DiscordEndlessFrontier
-Just a place for storing Nadeko bot commands for the Endless Frontier Discord server (https://discord.gg/014FFOagU107e98gj).
+This repository is for storing useful public information used on the Endless Frontier Discord server (https://discord.gg/014FFOagU107e98gj).
+
+This includes Bot Command Source (Nadeko Variant) and various images used.
