@@ -29,7 +29,7 @@
     },
     {
       "name": "Spirit Highlands",
-      "value": "`1-11 KLV 6`\r\n`1-15 KLV 6`\r\n`3-10 KLV 20`\r\n`12-6 KLV 92`",
+      "value": "`1-11 KLV 6`\r\n`1-15 KLV 6`\r\n`3-10 KLV 20`\r\n`13-6 KLL 100`",
       "inline": true
     },
     {

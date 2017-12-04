@@ -14,12 +14,12 @@
     },
     {
       "name": "Skill 2 - Unlocks at Rank 3",
-      "value": "??? ???? ?? ??? ??? ???? +`12`, `16`, `21`%",
+      "value": "Increase HP of Orc units in Outland Battle +`12`, `16`, `21`%",
       "inline": false
     },
     {
       "name": "Skill 3 (Frost Demon's Hidden Special Ability) - Unlocks at Rank 5",
-      "value": "Hidden Skill Description not available in Korea",
+      "value": "After appearing, increases attack speed and movement speed of all friendly soldiers for a short period of time and casts a shield that immunes soldiers to magic attacks.Increases all units’ attack speed, attack damage and critical strike chance by 3%.\r\n- \r\n- Increases units movement speed, attack power and critical damage by 5%.\r\n- Even from Time Shop, Tribe Enhancement is applied. TE cap is increased to a maximum of 250.\r\n- Active Skill Efficiency buff now applied from Time Shop, though the buff is halved. (+10 stages per 5* unit, +20 stages per 6* unit). Active Skill Enhancement cannot exceed 480 stages.\r\n- Gold level limit of Frost Demon is increased (Senior - 0, T1 - 20, T2 - 40, T3 - 60).\r\n- When included in team Frost Demon increases Medal buff by 50% More (T1 - 15%, T2 - 30%, T3 - 45%). These buffs are halved in the Time Shop.",
       "inline": false
     },
     {
@@ -27,6 +27,11 @@
       "value": "`Senior +?`, `T1 +?`, `T2 +?`, `T3 +?`",
       "inline": false
     },
+    {
+      "name": "Spirit Highlands",
+      "value": "`12-11 KLV 94`\r\n`23-5 KLV 178`\r\n",
+      "inline": true
+    },	
     {
       "name": "Pet points",
       "value": "`4`, `8`, `12`, `16`, `20`",
