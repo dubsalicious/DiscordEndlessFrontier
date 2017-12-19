@@ -1,13 +1,13 @@
 .acr "!art 143" {  "plaintext":"%user% typed `!art 143`", 
   "title": "#143 : Orc Hero's Axe",
-  "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "description": "Artifact Grade : ??????? | Heroes Weapon Set",
   "footer": {
     "text": "See !pet orc guardian | !artset 39 | !books | !artbook"
   },
   "fields": [
     {
       "name": "Ability 1",
-      "value": "Increase the attack power of Orc units
+      "value": "Increase the critical damage of Orc units
 `Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
       "inline": false
     },
@@ -20,4 +20,3 @@
   ],
   "color": 4574648
 }
-
