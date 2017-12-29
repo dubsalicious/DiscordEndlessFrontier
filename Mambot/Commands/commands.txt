@@ -36,9 +36,14 @@
 
 **Revival Medals per Stage**
 
-`!stagemedal1` Stage 100 to 4000
-`!stagemedal2` Stage 4000 to 8000
-`!stagemedal3` Stage 8000 to 12000
+`!stagemedal1` for Stage 100 to 4000
+`!stagemedal2` for Stage 4000 to 8000
+`!stagemedal3` for Stage 8000 to 12000
+`!stagemedal4` for Stage 12000 to 16000
+`!stagemedal5` for Stage 16000 to 20000
+`!stagemedal6` for Stage 20000 to 24000
+`!stagemedal7` for Stage 24000 to 28000
+`!stagemedal8` for Stage 28000 to 30000
 `!stagemedalcalc` Basic Guide to calculating your total medal gain when reviving
 
 **Medal Enhancement Costs**

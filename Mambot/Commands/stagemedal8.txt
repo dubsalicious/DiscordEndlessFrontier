@@ -1,0 +1,36 @@
+.acr "!stagemedal8" %user% typed `!stagemedal8`. This is the base medal reward for Stage 28000 to 30000, per 100 stages.
+
+```scheme
+[Stage]   [Medal]    [Increase]
+28100     822.60e    4.75%
+28200     861.49e    4.73%
+28300     902.08e    4.71%
+28400     944.43e    4.69%
+28500     988.60e    4.68%
+28600     1.03f      4.66%
+28700     1.08f      4.64%
+28800     1.13f      4.63%
+28900     1.19f      4.61%
+29000     1.24f      4.59%
+29100     1.30f      4.58%
+29200     1.36f      4.56%
+29300     1.42f      4.55%
+29400     1.48f      4.53%
+29500     1.55f      4.51%
+29600     1.62f      4.5%
+29700     1.69f      4.48%
+29800     1.77f      4.47%
+29900     1.84f      4.45%
+30000     1.93f      4.44%
+[Stage]   [Medal]    [Increase]
+```
+Related commands for other stages:
+
+`!stagemedal1` for Stage 100 to 4000
+`!stagemedal2` for Stage 4000 to 8000
+`!stagemedal3` for Stage 8000 to 12000
+`!stagemedal4` for Stage 12000 to 16000
+`!stagemedal5` for Stage 16000 to 20000
+`!stagemedal6` for Stage 20000 to 24000
+`!stagemedal7` for Stage 24000 to 28000
+`!stagemedal8` for Stage 28000 to 30000
