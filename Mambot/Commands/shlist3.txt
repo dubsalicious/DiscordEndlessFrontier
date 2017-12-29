@@ -21,5 +21,14 @@ KL   Stage  Pet          Unit Pair
 174  22-15  Chesher      Dark Elf
 176  22-20  Osma         Dark Spirit
 178  23-05  Bamba        Frost Demon
+180  23-10  Saul         Blade Master
+182  23-15  Cat Knight   Winged Knight
+184  23-20  Bernard      Cleric
+186  24-05  Mori         Windwalker
+188  24-10  ChiChi       Elementalist
+190  24-15  Cerbero      Abyss Mage
+192  24-20  Chesher      Dark Elf
+194  25-05  Octopa       Siren
+196  25-10  Bamba        Frost Demon 
 ```
 This list can also be seen more completely here <http://www.endlessfrontierdata.com/sh>.
