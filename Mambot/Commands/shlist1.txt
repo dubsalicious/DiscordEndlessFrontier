@@ -41,4 +41,4 @@ KL   Stage  Pet          Unit Pair
 70   9-15   Boom Boom    Battle Drummer
 72   9-20   Totem        Sorceror
 ```
-This list can also be seen more completely here <http://www.endlessfrontierdata.com/sh>.
+This list can also be seen more completely here <http://www.endlessfrontierdata.com/spirithighlands>.

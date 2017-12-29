@@ -31,4 +31,4 @@ KL   Stage  Pet          Unit Pair
 194  25-05  Octopa       Siren
 196  25-10  Bamba        Frost Demon 
 ```
-This list can also be seen more completely here <http://www.endlessfrontierdata.com/sh>.
+This list can also be seen more completely here <http://www.endlessfrontierdata.com/spirithighlands>.
