@@ -24,7 +24,7 @@
     },
     {
       "name": "Skill 3 Gold Level Max",
-      "value": "`Senior +?`, `T1 +?`, `T2 +?`, `T3 +?`",
+      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
       "inline": false
     },
     {
