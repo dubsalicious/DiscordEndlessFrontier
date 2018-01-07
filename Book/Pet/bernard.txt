@@ -19,7 +19,7 @@
     },
     {
       "name": "Skill 3 (Cleric's Hidden Special Ability) - Unlocks at Rank 5",
-      "value": "After appearing, increases attack speed and movement speed of all friendly soldiers for a short period of time and casts a shield that immunes soldiers to physical attacks.\r\n- Increases game speed by 4% and movement speed by 7%.\r\n- Increases all units’ movement speed, attack power and critical damage by 4%\r\n- Even if Cleric is in the shop, Tribe Enhancement is applied. TE cap is increased to a maximum amount of 250.\r\n- The maximum value of Innervate#2 buff can be increased to 50%.\r\n- Gold level limit of Cleric is increased (Senior - 0, T1 - 20, T2 - 40, T3 - 60).\r\n- When included in team Cleric increases Medal buff by 50% More (T1 - 15%, T2 - 30%, T3 - 45%). These buffs are halved in the Time Shop.",
+      "value": "After appearing, increases attack speed and movement speed of all friendly soldiers for a short period of time and casts a shield that immunes soldiers to physical attacks.\r\n- Increases game speed by 4% and movement speed by 7%.\r\n- Increases all units’ movement speed, attack power and critical damage by 4%\r\n- Even if Cleric is in the shop, Tribe Enhancement is applied. TE cap for human is increased to a maximum amount of 250.\r\n- The maximum value of Innervate#2 buff can be increased to 50%.\r\n- Gold level limit of Cleric is increased (Senior - 0, T1 - 20, T2 - 40, T3 - 60).\r\n- When included in team Cleric increases Medal buff by 50% More (T1 - 15%, T2 - 30%, T3 - 45%). These buffs are halved in the Time Shop.",
       "inline": false
     },
     {
