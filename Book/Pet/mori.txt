@@ -1,0 +1,37 @@
+.acr "!pet mori" {
+  "plaintext":"%user% typed `!pet mori`",
+  "title": "Mori",
+  "description": "Windwalker Pet",
+  "footer": {
+    "text": "See !unit windwalker | !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/137.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increases the Tribe Friendliness for Elf 30, 60, 90, 120, 150",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase attack power of Elf units in Outland Battle. 0, 0, 4, 7, 14",
+  "inline": false
+},
+{
+"name": "Awakens the hidden ability of Senior Windwalker",
+"value": "Not revealed yet",
+"inline": false
+},
+{
+  "name": "Spirit Highlands",
+  "value": "13-1\r\n24-5\r\n",
+  "inline": true
+},
+{
+  "name": "Pet points",
+  "value": "4, 8, 12, 16, 20",
+  "inline": true
+}
+],
+"color": 10554123
+}

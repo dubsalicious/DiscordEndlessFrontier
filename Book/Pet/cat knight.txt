@@ -1,0 +1,37 @@
+.acr "!pet cat knight" {
+  "plaintext":"%user% typed `!pet cat knight`",
+  "title": "Cat Knight",
+  "description": "Winged Knight Pet",
+  "footer": {
+    "text": "See !unit winged knight | !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/136.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increases the Tribe Friendliness for Human 30, 60, 90, 120, 150",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase attack power of Human units in Outland Battle. 0, 0, 4, 7, 14",
+  "inline": false
+},
+{
+"name": "Awakens the hidden ability of Senior Winged Knight",
+"value": "Not revealed yet",
+"inline": false
+},
+{
+  "name": "Spirit Highlands",
+  "value": "12-16\r\n23-15\r\n",
+  "inline": true
+},
+{
+  "name": "Pet points",
+  "value": "4, 8, 12, 16, 20",
+  "inline": true
+}
+],
+"color": 10554123
+}
