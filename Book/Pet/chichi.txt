@@ -19,17 +19,17 @@
     },
     {
       "name": "Skill 3 (Elementalist's Hidden Special Ability) - Unlocks at Rank 5",
-      "value": "- After appearing, increases attack speed and movement speed of all friendly soldiers for a short period of time and casts a shield that immunes soldiers to magic attacks.\r\n- Increases all units’ attack speed, attack damage and critical strike chance by 4%\r\n- Even if Elementalist is in the shop, Tribe Enhancement is applied. TE cap is increased to a maximum amount of 250.\r\n- Increases amount of Nature Resistance per Elementalist to 75 per 5* and 150 per 6* unit. Maximum value of Nature Resistance is increased from 2000 to 4000.\r\n- Gold level limit of Elementalist is increased (Senior - 0, T1 - 20, T2 - 40, T3 - 60).\r\n- When included in team Elementalist increases Medal buff by 50% More (T1 - 15%, T2 - 30%, T3 - 45%). These buffs are halved in the Time Shop.",
+      "value": "- After appearing, increases attack speed and movement speed of all friendly soldiers for a short period of time and casts a shield that immunes soldiers to magic attacks.\r\n- Increases all unitsâ€™ attack speed, attack damage and critical strike chance by 4%\r\n- Even if Elementalist is in the shop, Tribe Enhancement is applied. TE cap is increased for elf to a maximum amount of 250.\r\n- Increases amount of Nature Resistance per Elementalist to 75 per 5* and 150 per 6* unit. Maximum value of Nature Resistance is increased from 2000 to 4000.\r\n- Gold level limit of Elementalist is increased (Senior - 0, T1 - 20, T2 - 40, T3 - 60).\r\n- When included in team Elementalist increases Medal buff by 50% More (T1 - 15%, T2 - 30%, T3 - 45%). These buffs are halved in the Time Shop.",
       "inline": false
     },
     {
       "name": "Skill 3 Gold Level Max",
-      "value": "`Senior +?`, `T1 +?`, `T2 +?`, `T3 +?`",
+      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
       "inline": false
     },
     {
       "name": "Spirit Highlands",
-      "value": "`12-1 KLV 90`\r\n`22-5 KLV 170`\r\n",
+      "value": "`12-1 KLV 90`\r\n`22-5 KLV 170`\r\n'24-10 KLVL 188'\r\n'24-16 KLVL 192'",
       "inline": true
     },	
     {
