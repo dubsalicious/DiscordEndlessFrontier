@@ -24,12 +24,12 @@
     },
     {
       "name": "Skill 3 Gold Level Max",
-      "value": "`Senior +?`, `T1 +?`, `T2 +?`, `T3 +?`",
+      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
       "inline": false
     },
     {
       "name": "Spirit Highlands",
-      "value": "`11-16 KLV 88`\r\n`21-15 KLV 166`\r\n",
+      "value": "`11-16 KLV 88`\r\n`21-15 KLV 166`\r\n`23-20 KLVL 184'\r\n`24-11 KLVL 190'",
       "inline": true
     },	
     {
