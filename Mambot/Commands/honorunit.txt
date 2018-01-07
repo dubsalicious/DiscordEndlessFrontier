@@ -2,7 +2,7 @@
 
 __Gen 10 - Honor Shop, for 4400__:ef_hc:
 *Passive Skill - Tribe Friendliness*
-```
+``` 
 Winged Knight  Human  Physical  Increases Game Speed Buffs (x2, x3, x5)
 Windwalker     Elf    Magical
 Abyss Mage     Undead Magical
