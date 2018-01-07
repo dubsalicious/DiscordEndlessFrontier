@@ -1,6 +1,14 @@
 .acr "!honorunit" %user% typed `!honorunit`. This details the availability of all honor units and the useful passive skills.
 
-__Gen 9 - Honor Shop, for  4400__:ef_hc:
+__Gen 10 - Honor Shop, for 4400__:ef_hc:
+*Passive Skill - Tribe Friendliness, increases medal gain when revive from racial hero*
+```
+Winged Knight  Human  Physical  Increases efficienty of boosting game speed(x2, x3, x5)
+Windwalker     Elf    Magical   
+Abyss Mage     Undead Magical  
+Siren          Orc    Magical  
+```
+__Gen 9 - Honor Shop, for  5700__:ef_gem:
 *Passive Skill - Tribe Enhancement, buffs itself and secondary race's ability*
 ```
 Cleric        Human   Magical    Secondary Orc      Reduce Personal Raid Skill Cooldown
@@ -8,7 +16,7 @@ Elementalist  Elf     Physical   Secondary Human    Increase Nature Resistance
 Dark Elf      Undead  Physical   Secondary Elf
 Frost Demon   Orc     Physical   Secondary Undead   Increases efficiency of active skills
 ```
-__Gen 8 - Unit Shop, for 5700__:ef_gem: 
+__Gen 8__
 *Immune to Outland Distortion debuffs (Stage 10k and above)*
 ```
 Human   Fire Spirit      Increase Fire Resistance
