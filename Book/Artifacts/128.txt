@@ -8,13 +8,17 @@
     {
       "name": "Ability 1",
       "value": "Increase the attack power of Human units
-`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`"
+Trans 1
+`Base: 36.00b%`, `+20: 3.26c%`, `+50: 8.11c%`, `+100: 14.69d%`, `+140: 36.34f%`
       "inline": false
     },
     {
       "name": "Ability 2",
       "value": "Increase the quest gold acquisition 
-`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`"
+Trans 1
+`Base: 1.20b%`, `+20: 30.92b%`, `+50: 75.50b%`, `+100: 40.59c%`, `+140: 7.32e%`
       "inline": false
     },
   ],
