@@ -7,14 +7,18 @@
   "fields": [
     {
       "name": "Ability 1",
-      "value": "Increase the attack power of Human units
-`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "value": "Increase the attack power of Human and Elf
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`
+Trans 1
+`Base: 36.00b%`, `+20: 3.26c%`, `+50: 8.11c%`, `+100: 14.69d%`, `+140: 36.34f%`",
       "inline": false
     },
     {
       "name": "Ability 2",
-      "value": "Reduce the unit upgrade cost 
-`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+      "value": "Icrease Quest Gold Acquisition 
+`Base: 400.00a%`, `+20: 4.05b%`, `+50: 9.52b%`
+Trans 1
+`Base: 1.20b%`, `+20:  30.92b%`, `+50: 75.50b%`, `+100: 40.59c%`, `+140: 7.32e%`",
       "inline": false
     },
   ],
