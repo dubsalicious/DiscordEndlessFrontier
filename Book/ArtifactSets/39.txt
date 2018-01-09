@@ -6,18 +6,18 @@
   "fields": [
     {
       "name": "Set Effect 1 (2/4)",
-      "value": "Increase the basic double speed
-`Base: 37%`
+      "value": "Increase attack power of ALL Units
+`Base: 2.41b%`, `T1: 4.85c%`
 Increase the quest gold acquisition 
-`Base: 25.1b%`",
+`Base: 25.19b%`, `T1: 75.50b%`",
       "inline": false
     },
     {
       "name": "Set Effect 2 (4/4)",
-      "value": "Increase the attack power of All units
-`Base: 2.4b%`
+      "value": "Increase critical damage of ALL Units
+`Base: 2.41b%`, `T1: 8.73c%`
 Increase additional medal
-`Base: 360%`",
+`Base: 450%`, `T1: 920%`",
       "inline": false
     },
     {
