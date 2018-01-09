@@ -6,7 +6,7 @@
   "fields": [
     {
       "name": "Set Effect 1 (2/5)",
-      "value": "Increase HP of All Units
+      "value": "Increase HP of ALL
 `Base: 2.81b%`, `T1: 4.85c%`
 Increase Quest Gold Acquisition
 `Base: 25.19b%`, `T1: 75.50b%`",
@@ -14,7 +14,7 @@ Increase Quest Gold Acquisition
     },
     {
       "name": "Set Effect 2 (4/5)",
-      "value": "Increase attack power of all units
+      "value": "Increase attack power of ALL
 `Base: 2.41b%`, `T1: 14.55c%`
 Decrease the Quest Upgrade Cost
 `Base: 3.44b%`, `T1: 31.04b%`",
@@ -22,7 +22,7 @@ Decrease the Quest Upgrade Cost
     },
     {
       "name": "Set Effect 3 (5/5)",
-      "value": "Increase the critical damage of All units
+      "value": "Increase the critical damage of ALL
 `Base: 2.4b%`, `T1: 262.58c%`
 Increase additional medal
 `Base: 600%`, `T1: 1.45a%`",
@@ -41,4 +41,3 @@ Increase additional medal
   ],
   "color": 11235574
 }
-
