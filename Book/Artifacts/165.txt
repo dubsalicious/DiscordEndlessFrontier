@@ -8,13 +8,17 @@
     {
       "name": "Ability 1",
       "value": "Increase HP of Undead units
-`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+`Base: 7.2b%`, `+20: 33.6b%`, `+50: 73.2b%`
+Trans 1
+`Base: 144.00b%`, `+20: 13.06c%`, `+50: 32.42c%`, `+100: 58.74d%`, `+140: 145.37f%`",
       "inline": false
     },
     {
       "name": "Ability 2",
       "value": "Increase the quest gold acquisition 
-`Base: 400a%`, `+20: 4b%`, `+50: 9.5b%`",
+`Base: 400a%`, `+20: 4.05b%`, `+50: 9.52b%`
+Trans 1
+`Base: 1.20b%`, `+20: 30.92b%`, `+50: 75.50b%`, `+100: 40.59c%`, `+140: 7.32e%`",
       "inline": false
     },
   ],
