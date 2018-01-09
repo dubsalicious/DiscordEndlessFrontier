@@ -7,14 +7,18 @@
   "fields": [
     {
       "name": "Ability 1",
-      "value": "Increase the attack power of Human units
-`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+      "value": "Increase the attack power of Elf units
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`
+Trans 1
+`Base: 36.00b%`, `+20: 3.26c%`, `+50: 8.11c%`, `+100: 14.69d%`, `+140: 36.34f%`",
       "inline": false
     },
     {
       "name": "Ability 2",
       "value": "Reduce the unit upgrade cost 
-`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`",
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`
+Trans 1
+`Base: 45.00a%`, `+20: 4.17b%`, `+50: 10.35b%`, `+100: 7.91c%`, `+140: 25.45e%`",
       "inline": false
     },
   ],
