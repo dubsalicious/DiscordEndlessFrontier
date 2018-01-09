@@ -8,13 +8,17 @@
     {
       "name": "Ability 1",
       "value": "Increase the critical damage of Elf units
-`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`
+Trans 1
+`Base: 19.80b%`, `+20: 1.80c%`, `+50: 4.46c%`, `+100:  8.08d%`, `+140: 19.99f%`",
       "inline": false
     },
     {
       "name": "Ability 2",
       "value": "Decrease the quest open gold 
-`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`",
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`
+Trans 1
+`Base: 2.16b%`, `+20: 195.84b%`, `+50: 486.36b%`, `+100: 881.12c%`, `+140: 2.18f%`",
       "inline": false
     },
   ],
