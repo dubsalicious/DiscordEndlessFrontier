@@ -7,11 +7,11 @@
     {
       "name": "Set Effect 1 (3/3)",
       "value": "Increase the attack power of Elf units
-`Base: 3.6b%`
+`Base: 3.6b%`, `T1: 16.24c%`
 Increase the quest gold acquisition 
-`Base: 25.1b%`
+`Base: 25.1b%`, `T1: 227.50b%`
 Increase additional medal
-`Base: 400%`",
+`Base: 300%`, `T1: 620%`",
       "inline": false
     },
     {
