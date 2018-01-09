@@ -11,7 +11,7 @@
 Reduce the unit upgrade cost 
 `Base: 3.4b%`, `T1: 20.6b%`
 Increase additional medal
-`Base: 400%`", `T1: 620%`
+`Base: 400%`", `T1: 620%`",
       "inline": false
     },
     {
