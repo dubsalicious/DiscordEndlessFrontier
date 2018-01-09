@@ -6,26 +6,26 @@
   "fields": [
     {
       "name": "Set Effect 1 (2/6)",
-      "value": "Increase the basic double speed
-`Base: 37%`
-Increase the quest gold acquisition 
-`Base: 25.1b%`",
+      "value": "Increase attack speed of ALL Units
+`Base: 15%`, `T1: 16%`
+Decrease the Quest Open Gold 
+`Base: 4.05b%`, `T1: 486.36b%`",
       "inline": false
     },
     {
       "name": "Set Effect 2 (4/6)",
-      "value": "Increase the basic double speed
-`Base: 37%`
-Increase the quest gold acquisition 
-`Base: 25.1b%`",
+      "value": "Increase Quest Gold Acquisition
+`Base: 25.19b%`, `T1: 379.50b%`
+Decrease the Unit Upgrade Cost 
+`Base: 3.44b%`, `T1: 31.04b%`",
       "inline": false
     },
     {
       "name": "Set Effect 3 (6/6)",
       "value": "Increase the attack power of All units
-`Base: 2.4b%`
+`Base: 2.41b%`, `T1: 437.63c%`
 Increase additional medal
-`Base: 360%`",
+`Base: 800%`, `T1: 1.65a%`",
       "inline": false
     },
     {
