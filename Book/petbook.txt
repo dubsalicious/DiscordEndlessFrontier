@@ -21,7 +21,8 @@ winky       bunny       cora        wakong
 e-77        windy       dark snake  seahorse
 sarah       oscar       black       juda
 rena        hippong     osma        saul
-bernard     chichi      chesher     bamba```",
+bernard     chichi      chesher     bamba
+cat knight  mori        cerbero     octopa```",
 "inline": false
 },
 {
@@ -42,7 +43,7 @@ tarad       neru        gorgon      beel```",
 "value": "```scheme
 [Events]
 spring      summer      autumn      winter
-celeste
+celeste     h-reaper    christy     toby
 [Package]
 hallokin
 nills       rudolph
