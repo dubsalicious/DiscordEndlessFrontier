@@ -28,6 +28,7 @@ steam punk
 valkyrie
 flame spirit
 cleric
+winged knight
 ```"
     },
     {
@@ -52,6 +53,7 @@ sylphid
 sword dancer
 hippogriff
 elementalist
+windwalker
 ```"
     },
     {
@@ -76,6 +78,7 @@ medusa
 incubus
 dark spirit
 dark elf
+abyss mage
 ```"
     },
     {
@@ -99,6 +102,7 @@ naga
 ice spirit
 blade master
 frost demon
+siren
 ```"
     }
   ],
