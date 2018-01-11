@@ -2,6 +2,7 @@
 
 **Elf Units [Magical]** Ordered by most recently released
 ```
+Windwalker (10)     Ground   Melee                             Cloak
 Sword Dancer (7)    Ground   Melee                MultiHit
 Alchemist (5)       Ground   Ranged   TargetAir                CloakDetection
 Forest Guardian (3) Ground   Ranged   TargetAir   MultiHit
@@ -10,7 +11,7 @@ Fairy (1)           Fly      Ranged   TargetAir                Heal, SpeedBuff
 ```
 **Elf Units [Physical]** Ordered by most recently released
 ```
-Elementalist (9)    Only available in Korea
+Elementalist (9)    Ground    Ranged   TargetAir  MultiHit     CloakDetection
 Hippogriff (8)      Air       Ranged   TargetAir  MultiHit 
 Sylphid (6)         Ground    Ranged   TargetAir  MultiHit 
 Hoyden Goku (4)     Ground    Ranged              AoEWave
@@ -22,13 +23,17 @@ __**Build Priorities**__ - Ordered by importance
 
 **Magical Core**
 ```
+Windwalker
 Druid
+Fairy(Blunt force +92 or higher)
 Sword Dancer
 Forest Guardian 
 ```
 **Physical Core**
 ```
-Hippogriff
+Hippogriff(Blunt Force +92 or higher)
+Elementalist
+Hippogriff(Without Blunt Force)
 Wolf Warrior (only with 5* Indy Pet)
 Sylphid 
 Hoyden Goku 
@@ -36,10 +41,11 @@ Unicorn Knight
 ```
 **Support Units**
 ```
-Priest (4) 
-Hippogriff
+Priest (5) 
+Hippogriff (5)
+Fairy (1, only with 5* Tinkey Pet)
 Goku (If Sword Dancer Core) 
-Sylphid/Alchemist (6 Total, Mixed)
+Sylphid/Alchemist (5 Total, Mixed)
 Fairy (Filler)
 Drummer (Filler) 
 Aladdin (Filler)
