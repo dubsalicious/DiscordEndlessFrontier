@@ -39,7 +39,8 @@ Griffin Rider
 **Support Units**
 ```
 Priest (5)
-Winged Knight (5) 
+Cleric (5)
+Winged Knight (As many as needed) 
 Valkyrie (Filler)
 Steam Punk (Filler)
 Drummer (Filler) 
