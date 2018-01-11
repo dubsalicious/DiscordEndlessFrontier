@@ -33,11 +33,11 @@ __**Guild Battles**__
 
 **Guild Wars**
 
-Guild Wars are pvp battles versus other guilds with consistent seasonal ranking across server. For more information, see !guildwar
+Guild Wars are pvp battles versus other guilds with consistent seasonal ranking across server. For more information, see `!guildwar`
 
 **Guild Raids**
 
-Guild Raids are pve battles versus Raid Bosses which provide currency rewards and fragments of pets unobtainable otherwise. For more information, see !guildraid
+Guild Raids are pve battles versus Raid Bosses which provide currency rewards and fragments of pets unobtainable otherwise. For more information, see `!guildraid`
 
 **Additional links**
 
