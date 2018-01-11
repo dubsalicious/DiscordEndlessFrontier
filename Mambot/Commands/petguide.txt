@@ -2,28 +2,29 @@
 
 **Note** All pet skills are always active. "Main Pet" has its skills doubled. "Revival Pet" skills are doubled at revival.
 
-Prioritize Late Game, then Mid Game, then Early Game. Within each section, better pets are generally listed first. The numbers after the name are the KLVL required to farm.
+Prioritize Late Game, then Mid Game, then Early Game. Within each section, better pets are generally listed first. Don't fret to buy additional tickets every day if you can afford it.
 
-**Early Game** Get one to 5\*, farm if no mid/late game pets open
+**First steps** Get mambo to 5\*, farm others untill you have better options
+`Mambo`           Provides basic gold buff, mandatory pet for a lot SH stages. 
 
-`Snork     22, 40` Provides good gold buff
-`Mambo      2, 12` Provides basic gold buff
-`Piggy      8, 24` Provides basic gold buff
-`Indy      30, 48` Useful for Elf core, strengthens Wolf Warrior.
+**Early Game** Get Icy and Tinkey to 5\*, farm others if no mid/late game pets open
+`Icy`              Allows Priests 5x skill from the time shop, and trigger if stage ##10 skipped.
+`Tinkey`           Adds fairy speed buff and allows skip chance to trigger from time shop.
+`Sleepy`           Increases strength of NoD, good gold buff, required for a lot SH stages.
+`Totem`            Improves power of damage skills.
+`Lamp`             Increases power and chance of triggering human skill. Auto opens gold chests.
+
 
 **Mid Game**
-
-`Sleepy    50, 68` Increases strength of NoD, gold buff.
-`Icy       58, 76` Allows Priests 5x skill from the time shop, and trigger if stage ##10 skipped.
-`Tinkey    46, 64` Adds fairy speed buff and allows skip chance to trigger from time shop.
-`Totem     54, 72` Improves power of damage skills.
-`Lamp      42, 60` Increases power and chance of triggering human skill. Auto opens gold chests.
-`Squirrel  62, 80` Increases strength of Druid.
+`Moon`             Dark Archers activate from time shop.
+`Boom Boom`        Greatly increases medal buff of Battle Drummer in the revival team.
+`Wakong`           Mandatory pet for late-game orc build
+`Seahorse`         Required pet for late-game orc build
 
 **Late Game**
-
-`Moon      66, 84` Dark Archers activate from time shop.
-`Boom Boom 70, 88` Increases medal buff of Battle Drummer in the revival team.
+`Hippong`          Allows hippogriff skill to trigger from time shop. Adds skip.
+`Bamba`            Increases Tribe Fortification cap for orc, allows Frost Demon skills from time shop.
+`Sarah`            Adds valkyrie speed buff and improves Hero Sword(raid damage buff skill) efficiency.
 
 **Guild Raid Damage**
 
@@ -47,3 +48,4 @@ The pet shop is an expensive method of acquiring late game pets. Early game it s
 <http://bit.ly/efsheet> EF Data Sheet
 <http://bit.ly/efpetguide1> Basic Pet Guide
 <http://bit.ly/efpetguide2> Older SH guide
+<https://www.reddit.com/r/EndlessFrontier/wiki/guides/hogwarts_pet_guide>Most Up-to-day in-depth guide
