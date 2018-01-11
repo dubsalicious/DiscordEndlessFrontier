@@ -4,27 +4,27 @@
 
 Prioritize Late Game, then Mid Game, then Early Game. Better pets are listed first. Don't fret to buy additional tickets every day if you can afford it.
 
-**First steps** Get mambo to 5\*
+**First steps**   Get mambo to 5\*
 `Mambo`           Provides basic gold buff, mandatory pet for a lot SH stages. 
 
-**Early Game** Get Icy and Tinkey to 5\*, farm others if no mid/late game pets open
-`Tinkey`           Adds fairy speed buff and allows skip chance to trigger from time shop.
-`Icy`              Allows Priests 5x skill from the time shop, and trigger if stage ##10 skipped.
-`Sleepy`           Increases strength of NoD, good gold buff, required for a lot SH stages.
-`Totem`            Improves power of damage skills.
-`Lamp`             Increases power and chance of triggering human skill. Auto opens gold chests.
+**Early Game**    Get Icy and Tinkey to 5\*, farm others if no mid/late game pets open
+`Tinkey`          Adds fairy speed buff and allows skip chance to trigger from time shop.
+`Icy`             Allows Priests 5x skill from the time shop, and trigger if stage ##10 skipped.
+`Sleepy`          Increases strength of NoD, good gold buff, required for a lot SH stages.
+`Totem`           Improves power of damage skills.
+`Lamp`            Increases power and chance of triggering human skill. Auto opens gold chests.
 
 
 **Mid Game**
-`Moon`             Dark Archers activate from time shop.
-`Boom Boom`        Greatly increases medal buff of Battle Drummer in the revival team.
-`Wakong`           Mandatory pet for late-game orc build
-`Seahorse`         Required pet for late-game orc build
+`Moon`            Dark Archers activate from time shop.
+`Boom Boom`       Greatly increases medal buff of Battle Drummer in the revival team.
+`Wakong`          Mandatory pet for late-game orc build
+`Seahorse`        Required pet for late-game orc build
 
 **Late Game**
-`Hippong`          Allows hippogriff skill to trigger from time shop. Adds skip.
-`Bamba`            Increases Tribe Fortification cap for orc, allows Frost Demon skills from time shop.
-`Sarah`            Adds valkyrie speed buff and improves Hero Sword(raid damage buff skill) efficiency.
+`Hippong`         Allows hippogriff skill to trigger from time shop. Adds skip.
+`Bamba`           Increases Tribe Fortification cap for orc, allows Frost Demon skills from time shop.
+`Sarah`           Adds valkyrie speed buff and improves Hero Sword(raid damage buff skill) efficiency.
 
 **Pet Shop**
 
