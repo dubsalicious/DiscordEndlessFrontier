@@ -2,8 +2,8 @@
 
 **Human Units [Magical]** Ordered by most recently released
 ```
-Cleric (9)                 Only available in Korea
-Flame Spirit (8)           Flying   Ranged   TargetAit   MultiHit
+Cleric (9)                 Ground   Ranged   TargetAir   MultiHit, Heal 
+Flame Spirit (8)           Flying   Ranged   TargetAir   MultiHit
 Steam Punk (6)             Ground   Ranged   TargetAir   MultiHit
 Priest (1)                 Ground   Ranged   TargetAir   Heal, 5x Buff
 Gunner                     Ground   Ranged   TargetAir   MultiHit    
@@ -11,6 +11,7 @@ Fire Mage                  Ground   Ranged               MultiHit
 ```
 **Human Units [Physical]** Ordered by most recently released
 ```
+Winged Knight (10)         Flying   Melee                Speed Buff              CloakDetection
 Valkyrie (7)               Ground   Ranged   TargetAir   MultiHit    TeamBuff    CloakDetection
 Pilot (5)                  Air      Ranged   TargetAir                           CloakDetection
 Hot-Blooded Xuanzang (4)   Ground   Ranged   TargetAir   MultiHit
@@ -22,6 +23,7 @@ __**Build Priorities - Ordered by importance**__
 **Magical Core**
 ```
 Flame Spirit
+Cleric
 Steam Punk
 Fire Mage
 Gunner
@@ -31,13 +33,15 @@ Gunner
 Valkyrie 
 Pilot
 Hot-Blooded Xuanzang
+Winged Knight
 Griffin Rider
 ```
 **Support Units**
 ```
-Priest (4) 
-Valkyrie (6)
-Steam Punk (as many as needed)
+Priest (5)
+Winged Knight (5) 
+Valkyrie (Filler)
+Steam Punk (Filler)
 Drummer (Filler) 
 Aladdin (Filler)
 Fairy (Filler)
