@@ -22,15 +22,15 @@ Sr++    6\* Sr Instructor T2
 Sr+++   6\* Sr Instructor T3
 Sr++++  6\* Sr Instructor T3 + 5\* Instructor Pet
 ```
-Additional instructors improve the rate at which units are trained.
+Multiple instructors improve the rate at which units are trained.
 
 __**Guild Battles**__
 
 **Guild Wars**
 
-2 wars are opened daily at 09:00 and 21:00 UTC. These stay open for 24 hours. Members have 2 tickets to attack per war. In the event of a draw the weaker guild wins.
+2 wars are opened daily at 09:00 and 2 more at 21:00 UTC for 24 hours. Members have 2 tickets to attack per war. Lower ranked guild wins draw.
 
-When defending the lowest available group of 40 support units will be used. If 40 units are not available a higher tier unit will be used.
+When defending the lowest available group of 40 barracks units will be used.
 
 **Guild Raids**
 
@@ -44,9 +44,7 @@ Swamp of Death stage 1-5 - Tarad, Neru, Gorgon, Beel
 Ancient Ruins stage 6-8  - Senior Skole, Senior Harping, Senior Gnome, Senior Belial
 Burning Earth stage 6-8  - Senior Lavark, Senior Furion, Senior Hellyme, Senior Bahat
 
-Additionally members receive one of :ef_gc:, :ef_hc:, :ef_gem: and Raid Coins. Later stages provide higher rewards.
-
-*Wihtout fire resistance, Burning Earth is almost impossible**
+Additionally members receive :ef_gc:, :ef_gem: and Raid Coins. Later stages provide higher rewards.
 
 **Additional Guides**
 
