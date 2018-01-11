@@ -36,7 +36,10 @@ These should ideally be from Frost Knight set because currently Orc is the most 
 20 -> 50 = 11,200 
 50 -> 70 = 14,400
 70 -> 90 = 14,400
-90 -> 120 = 45,000 (Requires Raid 3 Pets)
+90 -> 130 = 60,000 (Requires Raid 3 Pets)
+
+__**Upgrade Breakpoints past +90**__
+91, 101, 111, 121 - biggest jumps in bonus stats gained.
 
 __**Additional Builds**__
 
