@@ -20,5 +20,3 @@ Windwalker Hippogriff   Hippogriff (9)          Fairy
  - Supports should only have a minority of medals and generally aim for good breakpoints that benefit the whole team.
  - Please see this page on reddit for more information on breakpoints - <http://bit.ly/2lvOGKK>
  - Some more detailed builds can be found using !elfbuildold1 and !elfbuildold2, however these aren't recently updated.
- 
- __Updated : 11/01/2018__
