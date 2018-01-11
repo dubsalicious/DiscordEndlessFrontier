@@ -1,0 +1,37 @@
+.acr "!guildwar" %user% typed `!guildwar`. This is an overview of guild wars.
+
+**Overview**
+
+Guild Wars is a non-realtime pvp activity with consistent seasonal ranking among servers. 
+2 wars are opened daily at 09:00, 2 more at 21:00 UTC, and last for 24 hours. Members have 2 tickets to attack and 2 to defend per war. Guild that won more flags wins, in case of a draw lower ranked guild wins.
+Winning a battle rewards attacker with 20 :ef_gem:, and :ef_gc: are awarded to all participats, even if the war is lost. Win provides more :ef_gc: and improves guild ranking, which determines bonus to medals obtained that all guild members resieve. 
+```
+Guild ranking           Additional Medals acquired
+1                       400%
+2,3                     390%
+4-6                     380%
+7-10                    370%
+11-15                   360%
+16-20                   350%
+............................
+1801-30000              10%
+```
+For a full list of medal bonuses, consult ingame tooltip.
+
+**Defending and Attacking**
+Attacker can chose who to attack, among people who have at least 1 flag remaining, select up to 5 Heros for attack and troops from barracks to support them, similar to guild raid.
+Despite the result, defender recieves 10 minute immunity from attacks to replenish his troops. If attacker wins, defender's flag is taken. If defender wins, no change in flags occure.
+
+Defending is automated. Upon being attacked, your Defense Team will spawn, supported by the lowest available group of 40 barracks units of corresponding tribe.
+
+Similar to raid, troops stats mainly defined by Knightage Levels of defender and attacker.
+
+Example defence team:
+```
+Golem         Druid       Valkyrie       Naga       Dark Admiral    
+```
+
+Example attack team:
+```
+Sword Dancer  Dark Ninja  Wyvern Rider  Steampunk   Battle Drummer
+```
