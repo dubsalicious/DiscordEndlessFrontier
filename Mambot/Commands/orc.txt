@@ -2,25 +2,27 @@
 
 **Orc Units [Magical]** Ordered by most recently released
 ```
-Ice Spirit (7)       Ground   Ranged   TargetAir   MultiHit?             CloakDetection
-Wyvern Rider (5)     Air      Ranged   TargetAir   MultiHit?   Cloaked   CloakDetection
+Siren (10)           Air      Ranged   TargetAir   MultiHit              Increased damage against crystal
+Ice Spirit (7)       Ground   Ranged   TargetAir   MultiHit              CloakDetection
+Wyvern Rider (5)     Air      Ranged   TargetAir   MultiHit    Cloaked   CloakDetection
 Sorcerer (3)         Ground   Ranged   TargetAir                         CloakDetection
-Ice Wizard           Ground   Ranged               MultiHit?
-Big Foot             Ground   Ranged               MultiHit?
+Ice Wizard           Ground   Ranged               MultiHit
+Big Foot             Ground   Ranged               MultiHit
 ```
 **Orc Units [Physical]** Ordered by most recently released
 ```
-Frost Demon (9)      Only available in Korea
+Frost Demon (9)      Ground   Melee                MultiHit
 Blade Master (8)     Ground                        MultiHit
 Naga (6)             Ground   Ranged   TargetAir   MultiHit   Cloaked    CloakDetection
 Raptor Rider (4)     Ground   Ranged   TargetAir   MultiHit
 Battle Drummer       Ground   None     TargetAir
-Wolf Rider           Ground   Melee                MultiHit?
+Wolf Rider           Ground   Melee                MultiHit
 ```
 __**Build Priorities - Ordered by importance**__
 
 **Magical Core**
 ```
+Siren
 Ice Spirit
 Wyvern Rider
 Ice Wizard
@@ -28,13 +30,18 @@ Ice Wizard
 **Physical Core**
 ```
 Naga
+Frost demon
+Blade Master
 Raptor Rider
 ```
 **Support Units**
 ```
-Priest (4) 
-Ice Spirit (6)
-Naga (Many as needed)
+Priest (5) 
+Frost demon (5)
+Siren (As many as needed)
+Ice Spirit (As many as needed)
+Drummer (Filler) 
+Naga (Filler)
 Drummer (Filler) 
 Aladdin (Filler)
 Fairy (Filler)
