@@ -2,6 +2,7 @@
 
 **Undead Units [Magical]**
 ```
+Abyss Mage (10)    Ground  Ranged  TargetAir  MultiHit   CloakDetection
 Dark Spirit (8)    Flying  Ranged  TargetAir  MultiHit   CloakDetection
 Incubus (7)        Float   Ranged  TargetAir  MultiHit
 Lich (5)           Float   Ranged  TargetAir  MultiHit   CloakDetection
@@ -11,7 +12,7 @@ Death Knight       Ground  Melee              RangedAoE
 ```
 **Undead Units [Physical]** 
 ```
-Dark Elf (9)       Only available in Korea
+Dark Elf (9)       Ground  Melee              MultiHit
 Medusa (6)         Ground  Ranged  TargetAir  MultiHit
 Dark Admiral (4)   Ground  Ranged  TargetAir  MultiHit
 Ninja Darkness (2) Ground  Melee                         CloakDetection
@@ -22,6 +23,8 @@ __**Build Priorities**__ - Ordered by importance
 
 **Magical Core**
 ```
+Abyss Mage
+Dark Spirit
 Lich
 Incubus
 ```
@@ -29,16 +32,16 @@ Incubus
 ```
 Dark Admiral
 Medusa
+Dark Elf
 Bomb Unit
 ```
 **Support Units**
 ```
-Priest (4) 
-Medusa (1)
-Lich (1/2)
-Succubus (3/4)
-Dark Admiral
-Incubus
+Priest (5) 
+Dark elf (5)
+Dark Spirit (as many as needed)
+Lich (Filler)
+Succubus (Filler)
 Fairy (Filler)
 Drummer (Filler) 
 Aladdin (Filler)
