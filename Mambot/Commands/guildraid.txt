@@ -1,3 +1,37 @@
-.acr "!guildraid" You type `!guildraid`. The most comprehensive guide currently is Cloud's guide on reddit:
+.acr "!guildraid" %user% typed `!guildraid`. This is an overview of guild raids.
 
-<https://www.reddit.com/r/EndlessFrontier/comments/5xl93g/a_guide_to_boss_raids>
+**Basic Overview**
+
+There are 3 Guild Raids. Each stage has 4 battles as a part of it. It is possible to open up to 3 raids per day, a maximum of 2 for any single raid. 
+Raids may be opened by Elder, Co-Leader or Leader guild ranks.
+
+Winning a battle gives every member some pet fragments: 
+
+Ancient Ruins stage 1-5  - Skole, Harping, Gnome, Belial
+Burning Earth stage 1-5  - Lavark, Furion, Hellyme, Bahat 
+Swamp of Death stage 1-5 - Tarad, Neru, Gorgon, Beel
+Ancient Ruins stage 6-8  - Senior Skole, Senior Harping, Senior Gnome, Senior Belial
+Burning Earth stage 6-8  - Senior Lavark, Senior Furion, Senior Hellyme, Senior Bahat
+
+Additionally members receive :ef_gc:, :ef_gem: and Raid Coins. Later stages provide higher rewards.
+Most important attribute, that affects both damage and hp of troops during Guild Raid, is Knightage Level of attacker. Burning Earth and Swamp of Death also require Fire and Nature Resist, respectively. You can further increase your damage by acquiring pets that increase stats in Guild Raid, Instructor Pets, and Pets that boost raid skill efficiency.
+
+**Team Setup**
+Generally accepted skillset for raid is `Fast sword`, `Hero sword`, `Hero sword`
+
+Example teams to use in guild raid:
+
+Ground bosses
+````
+succubuss          valkyrie     fairy             valkyrie     fairy
+skeleton warrior   musketeer    heavy elf archer  firebird     elf warrior
+```
+Flying bosses
+```
+fairy              valkyrie     succubus          valkyrie     fairy
+heavy elf archer   musketeer    warlock           firebird     poison archer
+```
+
+More information:
+<https://docs.google.com/spreadsheets/d/1FKLbW8HJcoKr2gjoYvwLSM7EJNNE06ZatQ3jsTP7_Ls/edit?usp=sharing>Detailed info about bosses.
+<https://www.reddit.com/r/EndlessFrontier/comments/5xl93g/a_guide_to_boss_raids> Skill usage and team setups *outdated*
