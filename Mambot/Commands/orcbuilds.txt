@@ -1,4 +1,4 @@
-.acr "!orcbuilds" You used the command `!orcbuilds`. This page contains some example builds that have provded successful for other players.
+.acr "!orcbuilds" %user% typed `!orcbuilds`. This page contains some example builds that have provided successful for other players.
 
 **Example Builds (No Race Pets)**
 
@@ -15,4 +15,3 @@ Once Hippong reaches 5\*:
 ```
 Wyvern        Naga     Fairy (2)   Naga (8)    
 ```
-__Updated : 11/01/2018__
