@@ -1,13 +1,24 @@
-.acr "!humanbuilds" You used the command !humanbuilds. This page contains some example builds that have provded successful for other players.
+.acr "!humanbuilds" %user% typed `!humanbuilds`. This page contains some example builds that have provided successful for other players.
 
-__**These are currently not updated for Honor rotation 7 onwards**__
 
-**Example Core 2 Builds**
+**Example Core 2 Builds (no pets)**
 
 First 2 units are core, followed by supports.
 ```
-Steam Punk    Valkyrie        Valkyrie (6)                                  Priest (4)
-Steam Punk    Pilot           Valkyrie/Steam Punk (Mixed)                   Priest (4)
-Steam Punk    Valkyrie        Hot-Blooded Xuan (1800 Gold)   Valkyrie (5)   Priest (4)
-Fire Mage     Griffon Rider   Valkyrie (6)                                  Priest (4)
+Fire spirit   Valkyrie        Cleric (5)                                    Priest (5)
+Cleric        Valkyrie        Winged Knight/Cleric (Mixed)                  Priest (5)
+Fire spirit   Valkyrie        Hot-Blooded Xuan (1800 Gold)   Cleric (4)     Priest (5)
 ```
+
+**Example Core 2 Builds (Icy, Tinkey 5\*)**
+
+```
+Fire spirit   Valkyrie        Cleric (9)                                     Fairy
+```
+**Notes**
+
+ - Supports should only have a minority of medals and generally aim for good breakpoints that benefit the whole team.
+ - Please see this page on reddit for more information on breakpoints - <http://bit.ly/2lvOGKK>
+ 
+ 
+ __Updated : 11/01/2018__
