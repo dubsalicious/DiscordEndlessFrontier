@@ -1,4 +1,4 @@
-.acr "!unitlevels" You typed `!unitlevels`. This provides a simple screenshot detailing what the different levels against a unit mean.
+.acr "!unitlevels" %user% typed `!unitlevels`. This provides a simple screenshot detailing what the different levels against a unit mean.
 
 `Purple Square - `Trans Level (Max of 3)
 `Red Square    - `Medal Level (No maximum)
