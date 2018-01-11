@@ -42,7 +42,7 @@ tarad       neru        gorgon      beel```",
 "name": "=========== Event & Package ============",
 "value": "```scheme
 [Events]
-spring      summer      autumn      winter
+red         blue        green       purple
 celeste     h-reaper    christy     toby
 [Package]
 hallokin
