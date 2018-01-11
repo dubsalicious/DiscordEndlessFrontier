@@ -3,8 +3,8 @@
 `Purple Square - `Trans Level (Max of 3)
 `Red Square    - `Medal Level (No maximum)
 `Blue Square   - `Gold Level (Limited by trans level, Spirit Awakening Skill and Pet Points, more details here <http://bit.ly/efgoldlevel>
-`Green Square  - `Inner Passion (Max 100, increased by Inner Passion Units.
+`Green Square  - `Additional level(sum of *Inner Passion* - Max 100 without pets, increased by honor 6 units and *Tribe Fortification* - Max 150 without pets, icreased by honor 9 units)
 
-To see what units provide Spirit Awakening and Inner Passion please see `!honorunit`.
+To see what units provide Spirit Awakening, Inner Passion and Tribe Fortification please see `!honorunit`.
 
 http://i.imgur.com/omeQdyz.png
