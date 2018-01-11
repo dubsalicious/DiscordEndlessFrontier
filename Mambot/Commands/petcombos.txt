@@ -39,8 +39,8 @@ seniored (e.g. 10 SP, 10 Sylphid, 15 Naga, 25 Medusa).
 
 **Tribe Fortification**
 ```
-Bamba	      Frost Demon   |Tribe fortification works 	|
-Bernard	      Cleric        |from time shop		|
-Chichi        Elementalist  |Each pet rises racial cap	|
-Chesher       Dark Elf      |to +250 instead of +150	|
+Bamba         Frost Demon   |Tribe fortification works  |
+Bernard       Cleric        |from time shop             |
+Chichi        Elementalist  |Each pet rises racial cap  |
+Chesher       Dark Elf      |to +250 instead of +150    |
 ```
