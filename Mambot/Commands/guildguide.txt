@@ -34,12 +34,15 @@ When defending the lowest available group of 40 support units will be used. If 4
 
 **Guild Raids**
 
-There are 2 Guild Raids, both have 5 stages. Each stage has 4 battles as a part of it. It is possible to open up to 3 raids per day, a maximum of 2 for any single raid.
+There are 3 Guild Raids. Each stage has 4 battles as a part of it. It is possible to open up to 3 raids per day, a maximum of 2 for any single raid.
 
 Winning a battle gives every member some pet fragments: 
 
-Ancient Ruins - Skole, Harping, Gnome, Belial
-Burning Earth - Lavark, Furion, Hellyme, Bahat 
+Ancient Ruins stage 1-5  - Skole, Harping, Gnome, Belial
+Burning Earth stage 1-5  - Lavark, Furion, Hellyme, Bahat 
+Swamp of Death stage 1-5 - Tarad, Neru, Gorgon, Beel
+Ancient Ruins stage 6-8  - Senior Skole, Senior Harping, Senior Gnome, Senior Belial
+Burning Earth stage 6-8  - Senior Lavark, Senior Furion, Senior Hellyme, Senior Bahat
 
 Additionally members receive one of :ef_gc:, :ef_hc:, :ef_gem: and Raid Coins. Later stages provide higher rewards.
 
