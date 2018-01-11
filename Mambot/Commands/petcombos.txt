@@ -36,3 +36,11 @@ Once all 4 pets are unlocked you require 10 senior of
 each unit to increase the maximum of your inner passion to +300.
 To reach that maximum you additionally any 20 inner passion units 
 seniored (e.g. 10 SP, 10 Sylphid, 15 Naga, 25 Medusa).
+
+**Tribe Fortification**
+```
+Bamba	      Frost Demon   |Tribe fortification works 	|
+Bernard	      Cleric        |from time shop		|
+Chichi        Elementalist  |Each pet rises racial cap	|
+Chesher       Dark Elf      |to +250 instead of +150	|
+```
