@@ -4,21 +4,21 @@
 
 First 2 units are core, followed by supports.
 ```
-Druid    Hippogriff Hippogriff (6)     Priest (4)
-Druid    Sylphid    Alch/Sylphid (6)   Priest (4)
-Druid    Goku       Alch/Sylphid (6)   Priest (4)
+Windwalker Hippogriff   Hippogriff (5)          Priest (5)
+Druid      Elementalist Alch/Elementalist (5)   Priest (5)
+Druid      Goku         Alch/Sylphid (6)        Priest (4)
 ```
 
 **Example Core 2 Builds (Icy, Tinkey 5\*)**
 
 ```
-Druid    Hippogriff Hippogriff (9)     Fairy
+Windwalker Hippogriff   Hippogriff (9)          Fairy
 ```
 **Notes**
 
- - Sword Dancer can be substituted in for the Druid in either of the above.
+ - Hippogriff becomes better core than Elementalist with Ancient Outland's Blunt Froce at +92 or higher(see !art 89 in #book).
  - Supports should only have a minority of medals and generally aim for good breakpoints that benefit the whole team.
  - Please see this page on reddit for more information on breakpoints - <http://bit.ly/2lvOGKK>
  - Some more detailed builds can be found using !elfbuildold1 and !elfbuildold2, however these aren't recently updated.
  
- __Updated : 01/09/2017__
+ __Updated : 11/01/2018__
