@@ -1,5 +1,8 @@
 .acr "!guildguide" %user% typed `!guildguide`. This is a basic overview of the guild system.
 
+Joining a Guild provides number of benefits to player, such as increased medal gain and special pets that are unobtainable othervise. It is recommended to join active guild ASAP.
+
+
 __**Guild Barracks**__
 
 The guild barracks provides supporting units for guild battls. Initially only the 1\* units are available. Higher tier units can be permanently unlocked by an one time gem payment.
@@ -11,6 +14,8 @@ Elf     Hoyden Goku       Elf Archer   Elf Warrior     Poison Archer  High Elf A
 Undead  Dark Admiral      Skeleton     Warlock         Ghost          Skeleton Warrior
 Orc     Raptor Rider      Orc Fighter  Orc Hunter      Frost Mage     Orc Wing
 ```
+Guild barracks unlocks are *not* lost upon leaving or changing guild.
+
 **Training**
 
 Instructors allow support units to train to higher levels. Additional tiers are unlocked by the highest trans level instructor available:
@@ -28,25 +33,12 @@ __**Guild Battles**__
 
 **Guild Wars**
 
-2 wars are opened daily at 09:00 and 2 more at 21:00 UTC for 24 hours. Members have 2 tickets to attack per war. Lower ranked guild wins draw.
-
-When defending the lowest available group of 40 barracks units will be used.
+Guild Wars are pvp battles versus other guilds with consistent seasonal ranking across server. For more information, see !guildwar
 
 **Guild Raids**
 
-There are 3 Guild Raids. Each stage has 4 battles as a part of it. It is possible to open up to 3 raids per day, a maximum of 2 for any single raid.
+Guild Raids are pve battles versus Raid Bosses which provide currency rewards and fragments of pets unobtainable otherwise. For more information, see !guildraid
 
-Winning a battle gives every member some pet fragments: 
+**Additional links**
 
-Ancient Ruins stage 1-5  - Skole, Harping, Gnome, Belial
-Burning Earth stage 1-5  - Lavark, Furion, Hellyme, Bahat 
-Swamp of Death stage 1-5 - Tarad, Neru, Gorgon, Beel
-Ancient Ruins stage 6-8  - Senior Skole, Senior Harping, Senior Gnome, Senior Belial
-Burning Earth stage 6-8  - Senior Lavark, Senior Furion, Senior Hellyme, Senior Bahat
-
-Additionally members receive :ef_gc:, :ef_gem: and Raid Coins. Later stages provide higher rewards.
-
-**Additional Guides**
-
-Guild Raid <https://www.reddit.com/r/EndlessFrontier/comments/5xl93g/a_guide_to_boss_raids>
 Guilds Generally <<https://www.reddit.com/r/EndlessFrontier/comments/50c8q1/how_to_guild_a_beginners_guide/>
