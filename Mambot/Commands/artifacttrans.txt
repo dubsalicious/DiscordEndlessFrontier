@@ -1,54 +1,44 @@
 .acr !artifacttrans %user% typed `!artifacttrans`. This is an advanced guide that requires some understanding.
 
-Artifact Transcendence significantly increases the power of 5\*/6\* artifacts. The long term goal is to transcend most (likely all) 6\* artifacts.
+Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts.
+Upon Transcending, materials are consumed and random artifact you own is transcended. Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set.
+
 
 Generally 5\* artifacts will be a waste in the long run and are not covered by this guide.
 
-You need 20 artifacts of the relevant level to begin transcending and a random one you own will be transcended.
+You need 20 6\* artifacts to begin transcending. Transcendence 1 rises limit of increasing maximum level of artifact to level 70\*\*.
 
-__**6\* Ingredients**__
+After you t1 all 44 6\* artifacts you may begin to transcend them to t2. Trancendence 2 rises limit of increasing maximum level of artifact to level 90 \*\*
 
-Requires 3 units, can be changed for 100 :ef_hc: (random):
+You need 15 7\* artifacts to begin transcending them. Trancendence 1 rises limit of increasing maximum level of artifact to level 100 \*\*
+
+There is no ability to t2 7\* artifacts yet.
+
+__**6\* Materials**__
+
+3 units, can be changed for 100 :ef_hc: (random):
 
 6\* Unit (Past honor unit, seniored)
 5\* Unit (Past honor unit)
-5\* Unit (Past non-honor unit, seniored 4\* unit)
+5\* Unit (Non-honor unit or seniored 4\* unit)
 
-__**Units List**__
+__**7\* Materials**__
 
-A list of how many of each unit is required to max their passive skills, both basic and the advanced versions with pet. In some cases it isn't vital to maximise these skills (e.g. Aladdin).
+4 units, can be changed for 100 :ef_hc: (random):
 
-Additionally this spreadsheet will do most of the working for you <http://bit.ly/dubspassiveskills>
+6\* Unit (Past honor unit, seniored)
+5\* Unit (Past honor unit)
+5\* Unit (Past honor unit)
+6\* Unit (Non-honor unit)
 
-```scheme
-[Unit]           [NoPet]     [Pet]  [PetNote]
-Ninja Darkness   --------------
-Druid            |            |
-Forest Guardian  | Fodder     |
-Griffin Rider    |            |
-Succubus         |            |
-BMW, WM, CK, OAU --------------
 
-Steam Punk       --------------
-Sylphid          | 10 of each |
-Medusa           | 60 total   |
-Naga             --------------
+__**Units to you question using for transcendence**__
+Dark Archer - unless you have more than 24.
+Fairy - unless you have more than 14.
+Battle Drummer - unless you have more than 12.
+Hippogriff - unless you have more than 20.
+Priest - unless you have at least 8.
 
-Pilot            --------------
-Alchemist        | 5 of each  |
-Lich             |            |
-Wyvern Rider     --------------
+**Note**, only crucial units with high game impact are listed. Base your decision on your resources and needs.
 
-HBX              5
-Goku             5
-DAd              5
-Raptor Rider     5
-
-Sorcerer                     18     450 Total (5* 10, 6* 25)
-Aladdin                      18     90% Total (5* 2%, 6* 5%)
-Priest           4-6         12     30% Total (5* 1%, 6* 2.5%)
-Fairy                        20         
-Dark Archer      12          24     60% Total (5* 1%, 6* 2.5%)
-Battle Drummer               Many      
-[Unit]           [NoPet]     [Pet]  [PetNote]
-```
+\*\* Numbers are given without consideration of Skill 1 of Raid 3 Pets. To rise maximum level of artifact past 20, you have to spend :ef_hc:. 
