@@ -8,7 +8,7 @@ Generally 5\* artifacts will be a waste in the long run and are not covered by t
 
 You need 20 6\* artifacts to begin transcending. Transcendence 1 rises limit of increasing maximum level of artifact to level 70\*\*.
 
-After you t1 all 44 6\* artifacts you may begin to transcend them to t2. Trancendence 2 rises limit of increasing maximum level of artifact to level 90 \*\*
+After you t1 all 44 6\* artifacts you may begin to transcend them to t2. Trancendence 2 rises limit of increasing maximum level of artifact to level 90\*\*
 
 You need 15 7\* artifacts to begin transcending them. Trancendence 1 rises limit of increasing maximum level of artifact to level 100 \*\*
 
@@ -29,7 +29,7 @@ __**7\* Materials**__
 6\* Unit (Past honor unit, seniored)
 5\* Unit (Past honor unit)
 5\* Unit (Past honor unit)
-6\* Unit (Non-honor unit)
+6\* Unit (Non-honor unitm seniored)
 
 
 __**Units to you question using for transcendence**__
