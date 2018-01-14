@@ -1,14 +1,14 @@
 .acr !artifacttrans %user% typed `!artifacttrans`. This is an advanced guide that requires some understanding.
 
 Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts.
-Upon Transcending, materials are consumed and random artifact you own is transcended. Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set.
+Upon Transcending, materials are consumed and random artifact you own is transcended. Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. You can only Transcend 1 artifact a day.
 
 
-Generally 5\* artifacts will be a waste in the long run and are not covered by this guide.
+Generally transcending 5\* artifacts is a waste and not covered by this guide.
 
 You need 20 6\* artifacts to begin transcending. Transcendence 1 rises limit of increasing maximum level of artifact to level 70\*\*.
 
-After you t1 all 44 6\* artifacts you may begin to transcend them to t2. Trancendence 2 rises limit of increasing maximum level of artifact to level 90\*\*
+You need all 44 6\* artifacts t1 to begin to transcend them to t2. Trancendence 2 rises limit of increasing maximum level of artifact to level 90\*\*
 
 You need 15 7\* artifacts to begin transcending them. Trancendence 1 rises limit of increasing maximum level of artifact to level 100 \*\*
 
@@ -22,6 +22,8 @@ __**6\* Materials**__
 5\* Unit (Past honor unit)
 5\* Unit (Non-honor unit or seniored 4\* unit)
 
+300 :ef_hc: to t1, 500 :ef_hc: to t2.
+
 __**7\* Materials**__
 
 4 units, can be changed for 100 :ef_hc: (random):
@@ -31,8 +33,9 @@ __**7\* Materials**__
 5\* Unit (Past honor unit)
 6\* Unit (Non-honor unit, seniored)
 
+500 :ef_hc: to t1.
 
-__**Units to you question using for transcendence**__
+__**Units to consider saving**__
 Dark Archer - unless you have more than 24.
 Fairy - unless you have more than 14.
 Battle Drummer - unless you have more than 12.
