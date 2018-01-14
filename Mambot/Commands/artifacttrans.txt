@@ -3,7 +3,6 @@
 Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts.
 Upon Transcending, materials are consumed and random artifact you own is transcended. Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. You can only Transcend 1 artifact a day.
 
-
 Generally transcending 5\* artifacts is a waste and not covered by this guide.
 
 You need 20 6\* artifacts to begin transcending. Transcendence 1 rises limit of increasing maximum level of artifact to level 70\*\*.
