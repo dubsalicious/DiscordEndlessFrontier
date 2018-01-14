@@ -1,4 +1,4 @@
-.acr !artifacttrans %user% typed `!artifacttrans`. This is an advanced guide that requires some understanding.
+.acr !artifacttrans %user% typed `!artifacttrans`. This is an overview of artifact transcendence.
 
 Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts.
 Upon Transcending, materials are consumed and random artifact you own is transcended. Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. You can only Transcend 1 artifact a day.
@@ -15,24 +15,24 @@ There is no ability to t2 7\* artifacts yet.
 
 __**6\* Materials**__
 
-3 units, can be changed for 100 :ef_hc: (random):
+3 units, can be changed for 100 honor (random):
 
 6\* Unit (Past honor unit, seniored)
 5\* Unit (Past honor unit)
 5\* Unit (Non-honor unit or seniored 4\* unit)
 
-300 :ef_hc: to t1, 500 :ef_hc: to t2.
+300 honor to t1, 500 honor to t2.
 
 __**7\* Materials**__
 
-4 units, can be changed for 100 :ef_hc: (random):
+4 units, can be changed for 100 honor (random):
 
 6\* Unit (Past honor unit, seniored)
 5\* Unit (Past honor unit)
 5\* Unit (Past honor unit)
 6\* Unit (Non-honor unit, seniored)
 
-500 :ef_hc: to t1.
+500 honor to t1.
 
 __**Units to consider saving**__
 Dark Archer - unless you have more than 24.
@@ -43,4 +43,4 @@ Priest - unless you have at least 8.
 
 **Note**, only crucial units with high game impact are listed. Base your decision on your resources and needs.
 
-\*\* Numbers are given without consideration of Skill 1 of Raid 3 Pets. To rise maximum level of artifact past 20, you have to spend :ef_hc:
+\*\* Numbers are given without consideration of Skill 1 of Raid 3 Pets. To rise maximum level of artifact past 20, you have to spend honor.
