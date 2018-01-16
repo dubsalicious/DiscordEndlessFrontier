@@ -8,4 +8,5 @@
 {"name":"Master Calculator               - Discord fusl#4855","value":"http://bit.ly/effuslmastercalc"},
 {"name":"EF Tools                        - Discord XPrecision#1812","value":"http://bit.ly/xprecisioneftools"},
 {"name":"New Player Handbook             - Discord Lombardi#1492","value":"https://docs.google.com/document/d/1U103V5dqAKgatgQl0JET5vMygcmwNGSRO7MgMlXJab8"},
+{"name":"Spirit rest                     - Reddit /u/Oogachukka","value":"https://www.reddit.com/r/EndlessFrontier/wiki/guides/spiritrest"},
 {"name":"Introduction To Lategame Meta   - Hogwarts","value":"https://www.reddit.com/r/EndlessFrontier/comments/7hauna/introduction_to_endgame_orc_meta/"}],"color":15843890}
