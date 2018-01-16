@@ -1,11 +1,11 @@
 .acr "!links" {"plaintext":"%user% typed `!links`", "title":"Useful Links","description":"A list of useful links to datasheets and guides.","thumbnail":"http://www.agentwp.com/wp-content/uploads/link-wordpress-post-title-to-external-url.png","fields":[
 {"name":"EF Datasheet General            - Discord dubs#6542","value":"http://bit.ly/efsheet"},
-{"name":"Discord EF Datasheet Events     - Discord dubs#6542","value":"http://bit.ly/efsheet2"},
-{"name":"Discord EF Datasheet Calculator - Discord dubs#6542","value":"http://bit.ly/efchecker"},
 {"name":"Passive Skill Calculator        - Discord dubs#6542","value":"http://bit.ly/dubspassiveskills"},
 {"name":"Artifact Guide                  - Discord Magic#7761","value":"http://bit.ly/efmagicarts"},
 {"name":"Pet Guide                       - Discord Magic#7761","value":"http://bit.ly/efmagicpets"},
 {"name":"Spirit Rest                     - Discord DrysTic#9961","value":"http://bit.ly/efdrysticsr"},
-{"name":"Raid Boss Data                  - Discord Zat#0738","value":"http://bit.ly/efzatraidboss"},
+{"name":"Raid Boss Data                  - Discord knoxsprey#8341","value":"https://docs.google.com/spreadsheets/d/1FKLbW8HJcoKr2gjoYvwLSM7EJNNE06ZatQ3jsTP7_Ls"},
 {"name":"Master Calculator               - Discord fusl#4855","value":"http://bit.ly/effuslmastercalc"},
-{"name":"EF Tools                        - Discord XPrecision#1812","value":"http://bit.ly/xprecisioneftools"}],"color":15843890}
+{"name":"EF Tools                        - Discord XPrecision#1812","value":"http://bit.ly/xprecisioneftools"},
+{"name":"New Player Handbook             - Discord Lombardi#1492","value":"https://docs.google.com/document/d/1U103V5dqAKgatgQl0JET5vMygcmwNGSRO7MgMlXJab8"},
+{"name":"Introduction To Lategame Meta   - Hogwarts","value":"https://www.reddit.com/r/EndlessFrontier/comments/7hauna/introduction_to_endgame_orc_meta/"}],"color":15843890}
