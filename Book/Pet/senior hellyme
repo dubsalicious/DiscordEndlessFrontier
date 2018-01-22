@@ -1,0 +1,32 @@
+.acr "!pet senior hellyme" {
+  "plaintext":"%user% typed `!pet senior hellyme`", 
+  "title": "Senior hellyme",
+  "description": "Burning Earth Pet",
+  "footer": {
+    "text": "See !art 170 | !books | !petbook"
+  },
+  "thumbnail": "https://media.discordapp.net/attachments/379011658665689098/404892026715373569/UI_PET131.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Increases efficiency of [Unit attack power 10 times] skill. +`200`, `400`, `800`, `1600`, `3200`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Increase additional medals obtained: +`55`, `70`, `90`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Flaming Cloak of Retribution",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
