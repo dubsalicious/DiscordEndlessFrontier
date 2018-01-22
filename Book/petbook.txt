@@ -30,12 +30,12 @@ cat knight  mori        cerbero     octopa```",
 "value": "```scheme
 [Guild Raid]
 skole       harping     gnome       bellial
-senior skole
-senior harping
-senior gnome
-senior bellial
 lavark      hellyme     furion      bahat
-tarad       neru        gorgon      beel```",
+tarad       neru        gorgon      beel
+senior skole            senior lavark
+senior harping          senior hellyme
+senior gnome            senior furion
+senior bellial          senior bahat```",
 "inline": false
 },
 {
