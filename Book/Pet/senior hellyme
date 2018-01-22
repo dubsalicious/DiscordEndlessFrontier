@@ -1,6 +1,6 @@
 .acr "!pet senior hellyme" {
   "plaintext":"%user% typed `!pet senior hellyme`", 
-  "title": "Senior hellyme",
+  "title": "Senior Hellyme",
   "description": "Burning Earth Pet",
   "footer": {
     "text": "See !art 170 | !books | !petbook"
