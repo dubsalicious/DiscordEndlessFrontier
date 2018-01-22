@@ -1,13 +1,10 @@
 .acr "!petbook" {
 "plaintext": "%user% typed `!petbook`",
 "title": "List of pet commands",
-"description": "`!pet petname` (or `!pet unitname` Spirit Highlands pets)",
-"footer": {
-"text": "You typed !petbook"
-},
+"description": "`!pet petname`",
 "fields": [
 {
-"name": "================== Spirit Highlands =================",
+"name": "=============== Spirit Highlands ==============",
 "value": "```scheme
 [Human]     [Elf]       [Undead]    [Orc]
 mambo       joe         mummy       piggy
@@ -26,7 +23,7 @@ cat knight  mori        cerbero     octopa```",
 "inline": false
 },
 {
-"name": "============== Guild Raid ===============",
+"name": "=========== Guild Raid ============",
 "value": "```scheme
 [Guild Raid]
 skole       harping     gnome       bellial
@@ -39,7 +36,7 @@ senior bellial          senior bahat```",
 "inline": false
 },
 {
-"name": "=========== Event & Package ============",
+"name": "======== Event =========",
 "value": "```scheme
 [Events]
 red         blue        green       purple
@@ -51,22 +48,15 @@ lime```",
 "inline": false
 },
 {
-"name": "============ Shop ============",
+"name": "========= Shop =========",
 "value": "```scheme
 [Pet Shop]
 cookoo            flame sorceress   forest sorceress
 [Secret Pet Shop]
 black tortoise    phoenix           blue dragon
-white tiger       gold dragon
+white tiger       gold dragon       cleo
 human guardian    elf guardian
 undead guardian   orc guardian
-cleo
-```",
-"inline": false
-},
-{
-"name": "========== Greek Pet ==========",
-"value": "```scheme
 dionysus    zeus        aphrodite   ares
 athena      artemis     apollo      demeter
 poseidon    hephaistos  hermes      hera
