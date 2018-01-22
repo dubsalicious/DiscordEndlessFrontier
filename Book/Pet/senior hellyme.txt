@@ -14,7 +14,7 @@
     },
     {
       "name": "Skill 2 - Unlocks at Rank 3",
-      "value": "Increase additional medals obtained: +`55`, `70`, `90`%",
+      "value": "Increases resistance against fire: +`600`, `1200`, `1800`",
       "inline": false
     },
     {
