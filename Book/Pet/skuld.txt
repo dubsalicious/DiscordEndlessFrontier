@@ -1,5 +1,5 @@
-.acr "!pet Skuld" {
-  "plaintext":"%user% typed `!pet Skuld`", 
+.acr "!pet skuld" {
+  "plaintext":"%user% typed `!pet skuld`", 
   "title": "Skuld",
   "description": "Nordic God Pet",
   "footer": {
