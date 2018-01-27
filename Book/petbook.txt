@@ -1,0 +1,13 @@
+.acr "!petbook" {
+"plaintext": "%user% typed `!petbook`",
+"title": "List of pet books",
+"fields": [
+{
+Petbook has been split into two commands.
+`!petbook1` - Spirit Highlands, Guild Raid, Events and Pet Shop pets
+`!petbook2` - Secret Shop, Greek Gods, Nordic Gods.
+"inline": false
+}
+],
+"color": 10554123
+}
