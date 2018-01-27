@@ -1,0 +1,32 @@
+.acr "!pet loki" {
+  "plaintext":"%user% typed `!pet loki`", 
+  "title": "Loki",
+  "description": "Nordic God Pet",
+  "footer": {
+    "text": "See !art 172 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/379011658665689098/406016759078977537/UI_PET141.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Decrease unit upgrade cost +`18000`, `36000`, `72000`, `144000`, `288000`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Increase additional medals obtained  +`60`, `80`, `100`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Loki's trickster necklace",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
