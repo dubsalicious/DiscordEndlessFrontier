@@ -1,0 +1,32 @@
+.acr "!pet tyr" {
+  "plaintext":"%user% typed `!pet tyr`", 
+  "title": "Tyr",
+  "description": "Nordic God Pet",
+  "footer": {
+    "text": "See !art 182 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/379011658665689098/406017447196360704/UI_PET149.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Increase basic game speed +`1`, `2`, `3`, `4`, `5`",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Increase attack power of all units in Guild Raid  +`10`, `20`, `30`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Tryving",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
