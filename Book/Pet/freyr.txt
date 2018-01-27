@@ -1,4 +1,4 @@
-.acr "!pet loki" {
+.acr "!pet freyr" {
   "plaintext":"%user% typed `!pet freyr`", 
   "title": "Freyr",
   "description": "Nordic God Pet",
