@@ -9,7 +9,7 @@
   "fields": [
     {
       "name": "Skill 1",
-      "value": "Increase resistance to nature +`80`, `300`, `600`, `1200`, `2400`%",
+      "value": "Increase resistance to nature +`80`, `300`, `600`, `1200`, `2400`",
       "inline": false
     },
     {
