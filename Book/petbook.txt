@@ -1,21 +1,28 @@
-.acr "!petbook" {  "plaintext":"%user% typed `!petbook`", 
-  "title": "List of Pet books",
-  "description": "!petbook[book_id]",
-   "fields": [
+.acr "!petbook" {
+  "plaintext": "%user% typed `!petbook`",
+  "title": "List of petbooks",
+  "description": "`!petbook[id]`",
+  "footer": {
+    "text": "You typed !petbook"
+  },
+  "fields": [
     {
       "name": "petbook1",
-      "value": "SH Pets
-Event Pets
-Pet Shop Pets,
-      "inline": false
+      "value": "
+      Spirit Highlands pets
+      Pet Shop Pets
+      Event Pets
+      Package Pets
+      "
     },
     {
       "name": "petbook2",
-      "value": "Secret Shop Pets
-Greek God Pets
-Nordic God Pets,
-      "inline": false
-    },
+      "value": "
+      Secret Shop pets
+      Greek Gods pets
+      Nordic Gods pets
+      "
+    }
   ],
-  "color": 15804918
+  "color": 15843890
 }
