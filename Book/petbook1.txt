@@ -1,5 +1,5 @@
-.acr "!petbook" {
-"plaintext": "%user% typed `!petbook`",
+.acr "!petbook1" {
+"plaintext": "%user% typed `!petbook1`",
 "title": "List of pet commands",
 "description": "`!pet petname`",
 "fields": [
@@ -36,33 +36,16 @@ senior bellial          senior bahat```",
 "inline": false
 },
 {
-"name": "======== Event =========",
+"name": "======== Event&Shop =========",
 "value": "```scheme
-[Events]
 red         blue        green       purple
 celeste     h-reaper    christy     toby
-[Package]
-hallokin
-nills       rudolph
-lime```",
-"inline": false
-},
-{
-"name": "========= Shop =========",
-"value": "```scheme
-[Pet Shop]
-cookoo            flame sorceress   forest sorceress
-[Secret Pet Shop]
-black tortoise    phoenix           blue dragon
-white tiger       gold dragon       cleo
-human guardian    elf guardian
-undead guardian   orc guardian
-dionysus    zeus        aphrodite   ares
-athena      artemis     apollo      demeter
-poseidon    hephaistos  hermes      hera
+hallokin    cookoo      nills       rudolph
+lime
+flame sorceress         forest sorceress
 ```",
 "inline": false
-}
+},
 ],
 "color": 10554123
 }
