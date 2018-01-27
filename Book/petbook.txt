@@ -1,13 +1,21 @@
-.acr "!petbook" {
-"plaintext": "%user% typed `!petbook`",
-"title": "List of pet books",
-"fields": [
-{
-Petbook has been split into two commands.
-`!petbook1` - Spirit Highlands, Guild Raid, Events and Pet Shop pets
-`!petbook2` - Secret Shop, Greek Gods, Nordic Gods.
-"inline": false
-}
-],
-"color": 10554123
+.acr "!petbook" {  "plaintext":"%user% typed `!petbook`", 
+  "title": "List of Pet books",
+  "description": "!petbook[book_id]",
+   "fields": [
+    {
+      "name": "petbook1",
+      "value": "SH Pets
+Event Pets
+Pet Shop Pets,
+      "inline": false
+    },
+    {
+      "name": "petbook2",
+      "value": "Secret Shop Pets
+Greek God Pets
+Nordic God Pets,
+      "inline": false
+    },
+  ],
+  "color": 15804918
 }
