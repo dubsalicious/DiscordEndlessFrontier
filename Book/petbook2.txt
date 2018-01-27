@@ -1,4 +1,4 @@
-acr "!petbook2" {
+.acr "!petbook2" {
 "plaintext": "%user% typed `!petbook2`",
 "title": "List of pet commands",
 "description": "`!pet petname`",
