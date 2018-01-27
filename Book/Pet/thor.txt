@@ -1,0 +1,32 @@
+.acr "!pet baldur" {
+  "plaintext":"%user% typed `!pet thor`", 
+  "title": "Thor",
+  "description": "Nordic God Pet",
+  "footer": {
+    "text": "See !art 175 | !books | !petbook"
+  },
+  "thumbnail": "https://cdn.discordapp.com/attachments/379011658665689098/406017518465974284/UI_PET150.png",
+  "fields": [
+    {
+      "name": "Skill 1",
+      "value": "Increases efficiency of [Unit attack power 10 times] skill from the shop +`200`, `400`, `800`, `1600`, `3200`%",
+      "inline": false
+    },
+    {
+      "name": "Skill 2 - Unlocks at Rank 3",
+      "value": "Increase additional medals acquired  +`60`, `80`, `100`%",
+      "inline": false
+    },
+    {
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "Thor's Hammer",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
