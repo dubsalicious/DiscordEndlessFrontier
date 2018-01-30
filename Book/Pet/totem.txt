@@ -19,7 +19,7 @@
     },
     {
       "name": "Skill 3 (Senior Sorcerer's Hidden Special Ability) - Unlocks at Rank 5",
-      "value": "- Active skill (Explosion Shaking Heaven and Earth, Tower of Babel, Skyward Sword) efficiency improves. (Limit for damage to enemies has been upgraded. Basic 100 stages increased increases 10 levels per 5-star and 20 levels per 6-starup to a +450 stage limit. Even applies if Sorcerer is in the Time Shop.)\r\n- Upon first appearing, cancels stun, knockback, freeze, mutation (into rabbits) of all ally units, and becomes immune for a short period. \r\n- Increases Totem time by 50% and cancels mutation.",
+      "value": "- Active skill (Explosion Shaking Heaven and Earth, Tower of Babel, Skyward Sword) efficiency improves. (Limit for damage to enemies has been upgraded. Basic 200 stages increased, increases 15 levels per 5-star and 30 levels per 6-star up to a +900 stage limit. Even applies if Sorcerer is in the Time Shop.)\r\n- Upon first appearing, cancels stun, knockback, freeze, mutation (into rabbits) of all ally units, and becomes immune for a short period. \r\n- Increases Totem time by 50% and cancels mutation.",
       "inline": false
     },
     {
