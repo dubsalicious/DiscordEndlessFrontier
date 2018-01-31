@@ -7,7 +7,10 @@
   "fields": [
     {
       "name": "7-star Artifact Sets",
-      "value": "`#45` Relic of Victory Set
+      "value": "`#49`  Treasures of Gods Set
+`#48` Weapons of Ancient Mythology Set
+`#47` Warning of Ragnarok Set
+`#45` Relic of Victory Set
 `#44` Relic of Amusement Set
 `#43` Relic of Fertility Set
 `#42` Relic of Authority Set
@@ -34,7 +37,7 @@
       "inline": false
     },
     {
-      "name": "5-star Artifact Sets",
+      "name": "5 and 4 star Artifact Sets",
       "value": "`#8` Sea Dragon's Arms Set
 `#7` Dark Knight's Arms Set
 `#6` Ancient High Priest's Garment Set
@@ -52,16 +55,8 @@
       "inline": false
     },
     {
-      "name": "4-star Artifact Sets",
-      "value": "`#21` Warlock's Garment Set
-`#20` Reinforced Brown Bear Hide Set
-`#19` Royal Guard's Weapon Set
-",
-      "inline": false
-    },
-    {
-      "name": "1-star, 2-star & 3-star Artifact Sets",
-      "value": "`#33` `#32` `#31` `#30` `#29` `#28` `#27` `#26` `#25` ",
+      "name": "1, 2, 3 and 4 star Artifact Sets",
+      "value": "`#21` `#20` `#19` `#33` `#32` `#31` `#30` `#29` `#28` `#27` `#26` `#25` ",
       "inline": false
     },
   ],
