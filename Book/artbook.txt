@@ -37,7 +37,7 @@
       "inline": false
     },
     {
-      "name": "5 and 4 star Artifact Sets",
+      "name": "5-star Artifact Sets",
       "value": "`#8` Sea Dragon's Arms Set
 `#7` Dark Knight's Arms Set
 `#6` Ancient High Priest's Garment Set
