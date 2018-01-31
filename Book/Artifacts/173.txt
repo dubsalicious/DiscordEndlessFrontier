@@ -2,7 +2,7 @@
   "title": "#173 : Freya's Necklace",
   "description": "Artifact Grade : ★★★★★★★ | Ancient Mythology Weapons Set",
   "footer": {
-    "text": "See !pet loki | !artset 48 | !books | !artbook"
+    "text": "See !pet freya | !artset 48 | !books | !artbook"
   },
   "fields": [
     {
