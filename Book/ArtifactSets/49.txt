@@ -1,0 +1,33 @@
+.acr "!artset 49" {  "plaintext":"%user% typed `!artset 49`", 
+  "title": "#49: Treasures of Gods Set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/4)",
+      "value": "Increase the basic game speed
+`Base: 37%`, `T1: 45%`
+Decrease the Unit Upgrade Cost
+`Base: 3.44b%`, `T1: 31.04b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 2 (4/4)",
+      "value": "Increase attack power of All units
+`Base: 2.41b%`, `T1: 14.55c%`
+Increase additional medal
+`Base: 450%`, `T1: 1.48a%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#180` Laevateinn
+`#181` Mistilteinn
+`#182` Tryving
+`#183` Bow of Avalanche",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
