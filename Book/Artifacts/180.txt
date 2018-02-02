@@ -1,6 +1,6 @@
 .acr "!art 180" {  "plaintext":"%user% typed `!art 180`", 
   "title": "#180 : Laevateinn",
-  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "description": "Artifact Grade : ★★★★★★★ | Weapons of Ancient Mythology Set",
   "footer": {
     "text": "See !pet freyr | !artset 49 | !books | !artbook"
   },
