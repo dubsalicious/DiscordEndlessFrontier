@@ -1,6 +1,6 @@
 .acr "!art 174" {  "plaintext":"%user% typed `!art 174`", 
   "title": "#174 : Odin's spear",
-  "description": "Artifact Grade : ★★★★★★★ | Ancient Mythology Weapons Set",
+  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
   "footer": {
     "text": "See !pet odin | !artset 48 | !books | !artbook"
   },
