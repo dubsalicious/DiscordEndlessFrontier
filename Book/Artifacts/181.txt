@@ -1,6 +1,6 @@
 .acr "!art 181" {  "plaintext":"%user% typed `!art 181`", 
   "title": "#181 : Mistilteinn",
-  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "description": "Artifact Grade : ★★★★★★★ | Weapons of Ancient Mythology Set",
   "footer": {
     "text": "See !pet baldur | !artset 49 | !books | !artbook"
   },
