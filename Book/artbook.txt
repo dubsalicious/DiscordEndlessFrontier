@@ -7,8 +7,8 @@
   "fields": [
     {
       "name": "7-star Artifact Sets",
-      "value": "`#49`  Treasures of Gods Set
-`#48` Weapons of Ancient Mythology Set
+      "value": "`#49`  Weapons of Ancient Mythology Set
+`#48` Treasures of Gods Set
 `#47` Warning of Ragnarok Set
 `#45` Relic of Victory Set
 `#44` Relic of Amusement Set
