@@ -1,6 +1,6 @@
 .acr "!art 182" {  "plaintext":"%user% typed `!art 182`", 
   "title": "#182 : Tryving",
-  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "description": "Artifact Grade : ★★★★★★★ | Weapons of Ancient Mythology Set",
   "footer": {
     "text": "See !pet tyr | !artset 49 | !books | !artbook"
   },
