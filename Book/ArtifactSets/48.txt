@@ -1,5 +1,5 @@
 .acr "!artset 48" {  "plaintext":"%user% typed `!artset 48`", 
-  "title": "#48: Weapons of Ancient Mythology Set",
+  "title": "#48: Treasures of Gods Set",
   "footer": {
     "text": "See !art [art_id] | !books | !artbook"
   },
