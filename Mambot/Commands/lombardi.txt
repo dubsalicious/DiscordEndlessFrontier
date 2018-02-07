@@ -1,5 +1,2 @@
-.acr "!lombardi" For a full list of available commands use `!commands` in `#commands`.
-
-For general new player help please read `Lombardi New Player Handbook`
-<https://docs.google.com/document/d/1U103V5dqAKgatgQl0JET5vMygcmwNGSRO7MgMlXJab8/edit>
-It will answer most of your questions.
+.acr "!lombardi" Please read `Lombardi New Player Handbook` <https://bit.ly/lombardief>
+Don't forget to check `!commands` and `!help` in #commands
