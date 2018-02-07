@@ -1,0 +1,7 @@
+.acr "!roles" For a full list of available commands use `!commands` in `#commands`.
+
+To assigm yourself server role go to `#commands` and type `.iam server X` where X is number of your server
+To assign yourself stage role got to `#commands` and type `.iam stage X00` where X is your klvl+1. Stage medals have incremental of 1000 untill `stage 10000`, incremental of 2000 after that.
+Assigning roles will unlock more more channels, including server-specific ones.
+
+To check your server go to game options(gear icon ingame) and press `account`.
