@@ -1,0 +1,5693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<result>SUCCESS</result>
+    <raidList>
+    	<raid>
+			<kindNum>1</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>1</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>15</level>
+			<hp>390000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>5</rangeDef>
+			<guildCoin>20</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>30</gem>
+			<petKindNum>45</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.03</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>2</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>2</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>20</level>
+			<hp>390000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>5</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>20</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>30</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>46</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.03</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>3</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>3</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>25</level>
+			<hp>650000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>5</rangeDef>
+			<guildCoin>20</guildCoin>
+			<raidCoin>40</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>47</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.025</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>4</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>4</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>30</level>
+			<hp>780000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>5</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>20</guildCoin>
+			<raidCoin>60</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>48</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.03</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>5</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>5</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>35</level>
+			<hp>1800000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>10</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>30</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>60</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>45</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.05</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>6</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>6</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>40</level>
+			<hp>1395000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>10</rangeDef>
+			<guildCoin>30</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>60</gem>
+			<petKindNum>46</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.035</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>7</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>7</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>45</level>
+			<hp>1785000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>10</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>30</guildCoin>
+			<raidCoin>60</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>47</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.025</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>8</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>8</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>50</level>
+			<hp>1500000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>10</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>10</rangeDef>
+			<guildCoin>30</guildCoin>
+			<raidCoin>80</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>20</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.025</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>9</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>9</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>60</level>
+			<hp>6300000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>15</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>10</rangeDef>
+			<guildCoin>40</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>90</gem>
+			<petKindNum>45</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.06</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>10</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>10</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>65</level>
+			<hp>5610000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>15</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>10</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>40</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>90</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>46</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.04</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>11</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>11</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>70</level>
+			<hp>4641000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>15</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>15</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>40</guildCoin>
+			<raidCoin>90</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>47</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.04</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>12</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>12</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>75</level>
+			<hp>3000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>15</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>15</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>15</rangeDef>
+			<guildCoin>40</guildCoin>
+			<raidCoin>120</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>20</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.04</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>13</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>13</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>90</level>
+			<hp>42000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>15</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>130</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>45</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.06</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>14</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>14</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>90</level>
+			<hp>37200000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>15</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>120</gem>
+			<petKindNum>46</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.05</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>15</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>15</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>95</level>
+			<hp>21165000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>15</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>135</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>47</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.04</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>16</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>16</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>105</level>
+			<hp>22500000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>15</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>180</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>20</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.045</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>17</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>17</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>120</level>
+			<hp>139500000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>15</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>150</gem>
+			<petKindNum>45</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.06</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>18</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>18</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>125</level>
+			<hp>109320000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>15</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>46</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.05</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>19</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>19</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>130</level>
+			<hp>137000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>20</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>200</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>47</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.04</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>20</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>20</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>140</level>
+			<hp>200000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>20</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>270</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>20</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.045</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>21</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>21</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>145</level>
+			<hp>4000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>15</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>45</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>102</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.025</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>22</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>22</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>150</level>
+			<hp>4800000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>15</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>180</gem>
+			<petKindNum>46</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>103</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.03</incAttack>
+			<decSpeed>0.22</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>23</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>23</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>160</level>
+			<hp>6720000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>20</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>220</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>47</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>105</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.035</incAttack>
+			<decSpeed>0.24</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>24</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>24</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>170</level>
+			<hp>12000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>20</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>300</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>20</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>106</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.04</incAttack>
+			<decSpeed>0.26</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>25</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>25</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>170</level>
+			<hp>48000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>15</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>210</gem>
+			<petKindNum>45</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>102</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.045</incAttack>
+			<decSpeed>0.28</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>26</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>26</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>180</level>
+			<hp>57600000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>15</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>46</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>103</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.05</incAttack>
+			<decSpeed>0.3</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>27</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>27</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>190</level>
+			<hp>67200000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>20</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>240</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>47</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>105</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.055</incAttack>
+			<decSpeed>0.32</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>28</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>28</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>200</level>
+			<hp>144000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>20</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>330</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>20</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>106</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.06</incAttack>
+			<decSpeed>0.34</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>29</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>1</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>15</level>
+			<hp>390000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>35</gem>
+			<petKindNum>88</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>2</fireAttackMax>
+			<fireDefenseMin>0.6</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>20</fireAttackResistMin>
+			<fireAttackResistMax>120</fireAttackResistMax>
+			<fireDefenseResistMin>20</fireDefenseResistMin>
+			<fireDefenseResistMax>160</fireDefenseResistMax>
+			<recommendFireResist>96</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>30</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>2</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>20</level>
+			<hp>520000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>30</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>89</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>2</fireAttackMax>
+			<fireDefenseMin>0.5</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>40</fireAttackResistMin>
+			<fireAttackResistMax>240</fireAttackResistMax>
+			<fireDefenseResistMin>40</fireDefenseResistMin>
+			<fireDefenseResistMax>320</fireDefenseResistMax>
+			<recommendFireResist>192</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>31</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>3</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>25</level>
+			<hp>650000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>25</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>90</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>3</fireAttackMax>
+			<fireDefenseMin>0.4</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>80</fireAttackResistMin>
+			<fireAttackResistMax>480</fireAttackResistMax>
+			<fireDefenseResistMin>80</fireDefenseResistMin>
+			<fireDefenseResistMax>640</fireDefenseResistMax>
+			<recommendFireResist>384</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>32</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>4</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>30</level>
+			<hp>780000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>35</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>5</fireAttackMax>
+			<fireDefenseMin>0.3</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>100</fireAttackResistMin>
+			<fireAttackResistMax>600</fireAttackResistMax>
+			<fireDefenseResistMin>100</fireDefenseResistMin>
+			<fireDefenseResistMax>800</fireDefenseResistMax>
+			<recommendFireResist>480</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>33</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>5</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>35</level>
+			<hp>1800000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>60</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>88</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>6</fireAttackMax>
+			<fireDefenseMin>0.2</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>150</fireAttackResistMin>
+			<fireAttackResistMax>900</fireAttackResistMax>
+			<fireDefenseResistMin>150</fireDefenseResistMin>
+			<fireDefenseResistMax>1200</fireDefenseResistMax>
+			<recommendFireResist>720</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>34</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>6</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>40</level>
+			<hp>2100000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>70</gem>
+			<petKindNum>89</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>8</fireAttackMax>
+			<fireDefenseMin>0.1</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>200</fireAttackResistMin>
+			<fireAttackResistMax>1200</fireAttackResistMax>
+			<fireDefenseResistMin>200</fireDefenseResistMin>
+			<fireDefenseResistMax>1600</fireDefenseResistMax>
+			<recommendFireResist>960</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>35</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>7</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>45</level>
+			<hp>2500000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>50</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>90</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>10</fireAttackMax>
+			<fireDefenseMin>0.09</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>250</fireAttackResistMin>
+			<fireAttackResistMax>1500</fireAttackResistMax>
+			<fireDefenseResistMin>250</fireDefenseResistMin>
+			<fireDefenseResistMax>2000</fireDefenseResistMax>
+			<recommendFireResist>1200</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>36</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>8</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>50</level>
+			<hp>3000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>70</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>13</fireAttackMax>
+			<fireDefenseMin>0.08</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>300</fireAttackResistMin>
+			<fireAttackResistMax>1800</fireAttackResistMax>
+			<fireDefenseResistMin>300</fireDefenseResistMin>
+			<fireDefenseResistMax>2400</fireDefenseResistMax>
+			<recommendFireResist>1440</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>37</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>9</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>65</level>
+			<hp>7560000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>110</gem>
+			<petKindNum>88</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>16</fireAttackMax>
+			<fireDefenseMin>0.07</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>500</fireAttackResistMin>
+			<fireAttackResistMax>3000</fireAttackResistMax>
+			<fireDefenseResistMin>500</fireDefenseResistMin>
+			<fireDefenseResistMax>4000</fireDefenseResistMax>
+			<recommendFireResist>2400</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>38</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>10</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>70</level>
+			<hp>11040000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>90</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>89</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>20</fireAttackMax>
+			<fireDefenseMin>0.06</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>600</fireAttackResistMin>
+			<fireAttackResistMax>3600</fireAttackResistMax>
+			<fireDefenseResistMin>600</fireDefenseResistMin>
+			<fireDefenseResistMax>4800</fireDefenseResistMax>
+			<recommendFireResist>2880</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>39</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>11</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>75</level>
+			<hp>14400000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>95</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>90</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>24</fireAttackMax>
+			<fireDefenseMin>0.05</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>700</fireAttackResistMin>
+			<fireAttackResistMax>4200</fireAttackResistMax>
+			<fireDefenseResistMin>700</fireDefenseResistMin>
+			<fireDefenseResistMax>5600</fireDefenseResistMax>
+			<recommendFireResist>3360</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>40</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>12</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>80</level>
+			<hp>21600000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>145</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>30</fireAttackMax>
+			<fireDefenseMin>0.045</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>800</fireAttackResistMin>
+			<fireAttackResistMax>4800</fireAttackResistMax>
+			<fireDefenseResistMin>800</fireDefenseResistMin>
+			<fireDefenseResistMax>6400</fireDefenseResistMax>
+			<recommendFireResist>3840</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>41</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>13</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>100</level>
+			<hp>63000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>130</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>88</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>36</fireAttackMax>
+			<fireDefenseMin>0.04</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1000</fireAttackResistMin>
+			<fireAttackResistMax>6000</fireAttackResistMax>
+			<fireDefenseResistMin>1000</fireDefenseResistMin>
+			<fireDefenseResistMax>8000</fireDefenseResistMax>
+			<recommendFireResist>4800</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>42</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>14</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>100</level>
+			<hp>100800000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>145</gem>
+			<petKindNum>89</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>42</fireAttackMax>
+			<fireDefenseMin>0.035</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1100</fireAttackResistMin>
+			<fireAttackResistMax>6600</fireAttackResistMax>
+			<fireDefenseResistMin>1100</fireDefenseResistMin>
+			<fireDefenseResistMax>8800</fireDefenseResistMax>
+			<recommendFireResist>5280</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>43</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>15</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>105</level>
+			<hp>136747500000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>190</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>90</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>50</fireAttackMax>
+			<fireDefenseMin>0.03</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1200</fireAttackResistMin>
+			<fireAttackResistMax>7200</fireAttackResistMax>
+			<fireDefenseResistMin>1200</fireDefenseResistMin>
+			<fireDefenseResistMax>9600</fireDefenseResistMax>
+			<recommendFireResist>5760</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>44</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>16</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>115</level>
+			<hp>183750000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>290</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>60</fireAttackMax>
+			<fireDefenseMin>0.025</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1300</fireAttackResistMin>
+			<fireAttackResistMax>7800</fireAttackResistMax>
+			<fireDefenseResistMin>1300</fireDefenseResistMin>
+			<fireDefenseResistMax>10400</fireDefenseResistMax>
+			<recommendFireResist>6240</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>45</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>17</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>140</level>
+			<hp>319000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>180</gem>
+			<petKindNum>88</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>70</fireAttackMax>
+			<fireDefenseMin>0.02</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1500</fireAttackResistMin>
+			<fireAttackResistMax>9000</fireAttackResistMax>
+			<fireDefenseResistMin>1500</fireDefenseResistMin>
+			<fireDefenseResistMax>12000</fireDefenseResistMax>
+			<recommendFireResist>7200</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>46</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>18</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>145</level>
+			<hp>358640000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>89</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>85</fireAttackMax>
+			<fireDefenseMin>0.015</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1700</fireAttackResistMin>
+			<fireAttackResistMax>10200</fireAttackResistMax>
+			<fireDefenseResistMin>1700</fireDefenseResistMin>
+			<fireDefenseResistMax>13600</fireDefenseResistMax>
+			<recommendFireResist>8160</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>47</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>19</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>150</level>
+			<hp>400000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>385</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>90</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>110</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1900</fireAttackResistMin>
+			<fireAttackResistMax>11400</fireAttackResistMax>
+			<fireDefenseResistMin>1900</fireDefenseResistMin>
+			<fireDefenseResistMax>15200</fireDefenseResistMax>
+			<recommendFireResist>9120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>48</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>20</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>160</level>
+			<hp>500000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>575</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>2100</fireAttackResistMin>
+			<fireAttackResistMax>12600</fireAttackResistMax>
+			<fireDefenseResistMin>2100</fireDefenseResistMin>
+			<fireDefenseResistMax>16800</fireDefenseResistMax>
+			<recommendFireResist>10080</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>49</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>21</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>165</level>
+			<hp>840000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>88</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>130</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>2300</fireAttackResistMin>
+			<fireAttackResistMax>13400</fireAttackResistMax>
+			<fireDefenseResistMin>2300</fireDefenseResistMin>
+			<fireDefenseResistMax>17400</fireDefenseResistMax>
+			<recommendFireResist>12060</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>50</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>22</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>170</level>
+			<hp>1100000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>210</gem>
+			<petKindNum>89</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>131</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>2600</fireAttackResistMin>
+			<fireAttackResistMax>14200</fireAttackResistMax>
+			<fireDefenseResistMin>2600</fireDefenseResistMin>
+			<fireDefenseResistMax>18000</fireDefenseResistMax>
+			<recommendFireResist>12780</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>51</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>23</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>175</level>
+			<hp>1200000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>400</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>90</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>132</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>2900</fireAttackResistMin>
+			<fireAttackResistMax>15000</fireAttackResistMax>
+			<fireDefenseResistMin>2900</fireDefenseResistMin>
+			<fireDefenseResistMax>18600</fireDefenseResistMax>
+			<recommendFireResist>13500</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>52</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>24</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>180</level>
+			<hp>1400000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>600</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>133</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>3200</fireAttackResistMin>
+			<fireAttackResistMax>15800</fireAttackResistMax>
+			<fireDefenseResistMin>3200</fireDefenseResistMin>
+			<fireDefenseResistMax>19200</fireDefenseResistMax>
+			<recommendFireResist>14220</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>53</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>25</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>180</level>
+			<hp>3400000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>240</gem>
+			<petKindNum>88</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>130</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>3400</fireAttackResistMin>
+			<fireAttackResistMax>16800</fireAttackResistMax>
+			<fireDefenseResistMin>3400</fireDefenseResistMin>
+			<fireDefenseResistMax>20100</fireDefenseResistMax>
+			<recommendFireResist>15120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>54</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>26</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>190</level>
+			<hp>5900000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>89</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>131</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>3800</fireAttackResistMin>
+			<fireAttackResistMax>17800</fireAttackResistMax>
+			<fireDefenseResistMin>3800</fireDefenseResistMin>
+			<fireDefenseResistMax>21000</fireDefenseResistMax>
+			<recommendFireResist>16020</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>55</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>27</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>200</level>
+			<hp>10000000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>420</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>90</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>132</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>4200</fireAttackResistMin>
+			<fireAttackResistMax>18900</fireAttackResistMax>
+			<fireDefenseResistMin>4200</fireDefenseResistMin>
+			<fireDefenseResistMax>21900</fireDefenseResistMax>
+			<recommendFireResist>17010</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>56</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>28</progress>
+			<difficult>7</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>210</level>
+			<hp>12000000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>630</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>133</petKindNum2>
+			<numPet2>1</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>4600</fireAttackResistMin>
+			<fireAttackResistMax>20000</fireAttackResistMax>
+			<fireDefenseResistMin>4600</fireDefenseResistMin>
+			<fireDefenseResistMax>23000</fireDefenseResistMax>
+			<recommendFireResist>18000</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>80</kindNum>
+			<main>1</main>
+			<sub>1</sub>
+			<progress>29</progress>
+			<difficult>8</difficult>
+			<openCost>24000</openCost>
+			<limit>120</limit>
+			<name>가뭄의 스콜피온</name>
+			<desc># 집게 발로 다수의 근접 유닛을 공격함
+# 독침으로 다수의 적을 기절시키는 공격과 적을 공중으로 날려버리는 스킬을 사용함
+# 자신의 새끼들을 소환하여 적을 공격하게 한다.
+# 땅을 파고 들어갔다 다른 곳에서 갑자기 등장한다.</desc>
+			<bossKindNum>2001</bossKindNum>
+			<level>210</level>
+			<hp>576000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>15</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>102</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.065</incAttack>
+			<decSpeed>0.36</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>81</kindNum>
+			<main>1</main>
+			<sub>2</sub>
+			<progress>30</progress>
+			<difficult>8</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>모래 폭풍의 하피</name>
+			<desc># 공중으로 날아다니는 보스로 강력한 바람으로 적을 날려버린다.
+# 깃털을 날려 적을 뒤로 밀어버리거나 파이어볼로 적을 기절시킨다.
+# 순간이동하면서 다리찍기로 지상병사들을 공격한다.
+# 수정근처까지 이동할 경우, 자신의 둥지쪽으로 날아가버린다.</desc>
+			<bossKindNum>2002</bossKindNum>
+			<level>220</level>
+			<hp>691200000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>15</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>240</gem>
+			<petKindNum>103</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.07</incAttack>
+			<decSpeed>0.38</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>82</kindNum>
+			<main>1</main>
+			<sub>3</sub>
+			<progress>31</progress>
+			<difficult>8</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>폭염의 타이탄</name>
+			<desc># 강력한 내려찍기 공격으로 다수의 근접 유닛을 공중으로 날려버린다.
+# 돌진하면서 다수의 적들에게 큰 데미지를 입힌다.
+# 땅에서 날카로운 기둥을 소환해서, 다수의 적들을 기절시킨다.
+# 거대한 칼날들을 날려 다수의 적들을 뒤로 밀쳐낸다.
+# 수정근처로 이동시, 자신의 진영으로 순간이동한다.</desc>
+			<bossKindNum>2003</bossKindNum>
+			<level>230</level>
+			<hp>967680000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>20</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>260</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>105</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.075</incAttack>
+			<decSpeed>0.4</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>83</kindNum>
+			<main>1</main>
+			<sub>4</sub>
+			<progress>32</progress>
+			<difficult>8</difficult>
+			<openCost>21000</openCost>
+			<limit>120</limit>
+			<name>사막의 제왕 벨리알</name>
+			<desc># 브레스로 다수의 적들을 뒤로 날려버린다.
+# 강한 돌풍을 일으켜 적군을 자기쪽으로 끌어당긴다.
+# 이빨과 앞발로 적을 기절시키고, 공중으로 날려버린다.
+# 강력한 소리로 적들을 마비시키고, 큰 데미지를 준다.</desc>
+			<bossKindNum>2004</bossKindNum>
+			<level>240</level>
+			<hp>1728000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>20</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>360</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>20</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>106</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.08</incAttack>
+			<decSpeed>0.42</decSpeed>
+			<fireAttackMin>0</fireAttackMin>
+			<fireAttackMax>0</fireAttackMax>
+			<fireDefenseMin>0.0</fireDefenseMin>
+			<fireDefenseMax>0.0</fireDefenseMax>
+			<fireAttackResistMin>0</fireAttackResistMin>
+			<fireAttackResistMax>0</fireAttackResistMax>
+			<fireDefenseResistMin>0</fireDefenseResistMin>
+			<fireDefenseResistMax>0</fireDefenseResistMax>
+			<recommendFireResist>0</recommendFireResist>
+			<showRecommendFireResist>N</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>100</kindNum>
+			<main>3</main>
+			<sub>1</sub>
+			<progress>1</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>타라토드</name>
+			<desc># 혀로 적들을 공격한다.
+# 땅을 파고 들어가서, 혀를 내밀어 적들을 공격한다.
+# 강력한 물을 뿜어 적들을 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 알을 날려 적들을 공격하고, 알에서 새끼가 나와 적들을 공격한다.
+# 병사들을 유혹한 후, 땅속에서 몬스터를 소환해 적들을 공격하고, 기절시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2013</bossKindNum>
+			<level>15</level>
+			<hp>508809000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>35</gem>
+			<petKindNum>107</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>2</fireAttackMax>
+			<fireDefenseMin>0.6</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>20</fireAttackResistMin>
+			<fireAttackResistMax>120</fireAttackResistMax>
+			<fireDefenseResistMin>20</fireDefenseResistMin>
+			<fireDefenseResistMax>160</fireDefenseResistMax>
+			<recommendFireResist>96</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>101</kindNum>
+			<main>3</main>
+			<sub>2</sub>
+			<progress>2</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>네루갈</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 공중에서 땅으로 내려찍어서 적들을 공중으로 날려버린다.
+# 침을 날려 적들을 뒤로 밀어내고, 일정시간동안 마비시킨다.
+# 꼬리침을 이용해서 적들을 공격하고, 공중으로 날려버린다.
+# 독화살을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2014</bossKindNum>
+			<level>20</level>
+			<hp>559690000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>30</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>108</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>2</fireAttackMax>
+			<fireDefenseMin>0.5</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>40</fireAttackResistMin>
+			<fireAttackResistMax>240</fireAttackResistMax>
+			<fireDefenseResistMin>40</fireDefenseResistMin>
+			<fireDefenseResistMax>320</fireDefenseResistMax>
+			<recommendFireResist>192</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>102</kindNum>
+			<main>3</main>
+			<sub>3</sub>
+			<progress>3</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>고르고스</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 몸을 공중으로 날린 후, 강력하게 찍어내려, 적들을 공중으로 날려버린다.
+# 나무화살을 날려, 적들을 기절시키고, 뒤로 밀쳐낸다.
+# 강력한 브레스를 뿜어, 적들을 마비시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2015</bossKindNum>
+			<level>25</level>
+			<hp>671628000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>25</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>109</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>3</fireAttackMax>
+			<fireDefenseMin>0.4</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>80</fireAttackResistMin>
+			<fireAttackResistMax>480</fireAttackResistMax>
+			<fireDefenseResistMin>80</fireDefenseResistMin>
+			<fireDefenseResistMax>640</fireDefenseResistMax>
+			<recommendFireResist>384</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>103</kindNum>
+			<main>3</main>
+			<sub>4</sub>
+			<progress>4</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>바알제붑</name>
+			<desc># 땅을 파고 들어갔다 나오면서 적들을 밀쳐내고, 기절시킨다.
+# 다수의 발로 적들을 내려쳐서, 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 강력한 브레스로 적들을 마비시키고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2016</bossKindNum>
+			<level>30</level>
+			<hp>873117000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>35</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>110</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>5</fireAttackMax>
+			<fireDefenseMin>0.3</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>100</fireAttackResistMin>
+			<fireAttackResistMax>600</fireAttackResistMax>
+			<fireDefenseResistMin>100</fireDefenseResistMin>
+			<fireDefenseResistMax>800</fireDefenseResistMax>
+			<recommendFireResist>480</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>104</kindNum>
+			<main>3</main>
+			<sub>1</sub>
+			<progress>5</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>타라토드</name>
+			<desc># 혀로 적들을 공격한다.
+# 땅을 파고 들어가서, 혀를 내밀어 적들을 공격한다.
+# 강력한 물을 뿜어 적들을 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 알을 날려 적들을 공격하고, 알에서 새끼가 나와 적들을 공격한다.
+# 병사들을 유혹한 후, 땅속에서 몬스터를 소환해 적들을 공격하고, 기절시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2013</bossKindNum>
+			<level>40</level>
+			<hp>2794541000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>60</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>107</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>6</fireAttackMax>
+			<fireDefenseMin>0.2</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>150</fireAttackResistMin>
+			<fireAttackResistMax>900</fireAttackResistMax>
+			<fireDefenseResistMin>150</fireDefenseResistMin>
+			<fireDefenseResistMax>1200</fireDefenseResistMax>
+			<recommendFireResist>720</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>105</kindNum>
+			<main>3</main>
+			<sub>2</sub>
+			<progress>6</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>네루갈</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 공중에서 땅으로 내려찍어서 적들을 공중으로 날려버린다.
+# 침을 날려 적들을 뒤로 밀어내고, 일정시간동안 마비시킨다.
+# 꼬리침을 이용해서 적들을 공격하고, 공중으로 날려버린다.
+# 독화살을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2014</bossKindNum>
+			<level>45</level>
+			<hp>3073996000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>70</gem>
+			<petKindNum>108</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>8</fireAttackMax>
+			<fireDefenseMin>0.1</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>200</fireAttackResistMin>
+			<fireAttackResistMax>1200</fireAttackResistMax>
+			<fireDefenseResistMin>200</fireDefenseResistMin>
+			<fireDefenseResistMax>1600</fireDefenseResistMax>
+			<recommendFireResist>960</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>106</kindNum>
+			<main>3</main>
+			<sub>3</sub>
+			<progress>7</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>고르고스</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 몸을 공중으로 날린 후, 강력하게 찍어내려, 적들을 공중으로 날려버린다.
+# 나무화살을 날려, 적들을 기절시키고, 뒤로 밀쳐낸다.
+# 강력한 브레스를 뿜어, 적들을 마비시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2015</bossKindNum>
+			<level>50</level>
+			<hp>3688795000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>50</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>109</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>10</fireAttackMax>
+			<fireDefenseMin>0.09</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>250</fireAttackResistMin>
+			<fireAttackResistMax>1500</fireAttackResistMax>
+			<fireDefenseResistMin>250</fireDefenseResistMin>
+			<fireDefenseResistMax>2000</fireDefenseResistMax>
+			<recommendFireResist>1200</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>107</kindNum>
+			<main>3</main>
+			<sub>4</sub>
+			<progress>8</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>바알제붑</name>
+			<desc># 땅을 파고 들어갔다 나오면서 적들을 밀쳐내고, 기절시킨다.
+# 다수의 발로 적들을 내려쳐서, 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 강력한 브레스로 적들을 마비시키고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2016</bossKindNum>
+			<level>55</level>
+			<hp>4795433000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>70</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>110</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>13</fireAttackMax>
+			<fireDefenseMin>0.08</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>300</fireAttackResistMin>
+			<fireAttackResistMax>1800</fireAttackResistMax>
+			<fireDefenseResistMin>300</fireDefenseResistMin>
+			<fireDefenseResistMax>2400</fireDefenseResistMax>
+			<recommendFireResist>1440</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>108</kindNum>
+			<main>3</main>
+			<sub>1</sub>
+			<progress>9</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>타라토드</name>
+			<desc># 혀로 적들을 공격한다.
+# 땅을 파고 들어가서, 혀를 내밀어 적들을 공격한다.
+# 강력한 물을 뿜어 적들을 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 알을 날려 적들을 공격하고, 알에서 새끼가 나와 적들을 공격한다.
+# 병사들을 유혹한 후, 땅속에서 몬스터를 소환해 적들을 공격하고, 기절시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2013</bossKindNum>
+			<level>75</level>
+			<hp>62504694000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>110</gem>
+			<petKindNum>107</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>16</fireAttackMax>
+			<fireDefenseMin>0.07</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>500</fireAttackResistMin>
+			<fireAttackResistMax>3000</fireAttackResistMax>
+			<fireDefenseResistMin>500</fireDefenseResistMin>
+			<fireDefenseResistMax>4000</fireDefenseResistMax>
+			<recommendFireResist>2400</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>109</kindNum>
+			<main>3</main>
+			<sub>2</sub>
+			<progress>10</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>네루갈</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 공중에서 땅으로 내려찍어서 적들을 공중으로 날려버린다.
+# 침을 날려 적들을 뒤로 밀어내고, 일정시간동안 마비시킨다.
+# 꼬리침을 이용해서 적들을 공격하고, 공중으로 날려버린다.
+# 독화살을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2014</bossKindNum>
+			<level>80</level>
+			<hp>68755164000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>90</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>108</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>20</fireAttackMax>
+			<fireDefenseMin>0.06</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>600</fireAttackResistMin>
+			<fireAttackResistMax>3600</fireAttackResistMax>
+			<fireDefenseResistMin>600</fireDefenseResistMin>
+			<fireDefenseResistMax>4800</fireDefenseResistMax>
+			<recommendFireResist>2880</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>110</kindNum>
+			<main>3</main>
+			<sub>3</sub>
+			<progress>11</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>고르고스</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 몸을 공중으로 날린 후, 강력하게 찍어내려, 적들을 공중으로 날려버린다.
+# 나무화살을 날려, 적들을 기절시키고, 뒤로 밀쳐낸다.
+# 강력한 브레스를 뿜어, 적들을 마비시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2015</bossKindNum>
+			<level>85</level>
+			<hp>82506197000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>95</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>109</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>24</fireAttackMax>
+			<fireDefenseMin>0.05</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>700</fireAttackResistMin>
+			<fireAttackResistMax>4200</fireAttackResistMax>
+			<fireDefenseResistMin>700</fireDefenseResistMin>
+			<fireDefenseResistMax>5600</fireDefenseResistMax>
+			<recommendFireResist>3360</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>111</kindNum>
+			<main>3</main>
+			<sub>4</sub>
+			<progress>12</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>바알제붑</name>
+			<desc># 땅을 파고 들어갔다 나오면서 적들을 밀쳐내고, 기절시킨다.
+# 다수의 발로 적들을 내려쳐서, 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 강력한 브레스로 적들을 마비시키고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2016</bossKindNum>
+			<level>90</level>
+			<hp>107258056000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>145</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>110</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>30</fireAttackMax>
+			<fireDefenseMin>0.045</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>800</fireAttackResistMin>
+			<fireAttackResistMax>4800</fireAttackResistMax>
+			<fireDefenseResistMin>800</fireDefenseResistMin>
+			<fireDefenseResistMax>6400</fireDefenseResistMax>
+			<recommendFireResist>3840</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>112</kindNum>
+			<main>3</main>
+			<sub>1</sub>
+			<progress>13</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>타라토드</name>
+			<desc># 혀로 적들을 공격한다.
+# 땅을 파고 들어가서, 혀를 내밀어 적들을 공격한다.
+# 강력한 물을 뿜어 적들을 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 알을 날려 적들을 공격하고, 알에서 새끼가 나와 적들을 공격한다.
+# 병사들을 유혹한 후, 땅속에서 몬스터를 소환해 적들을 공격하고, 기절시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2013</bossKindNum>
+			<level>115</level>
+			<hp>332521111000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>130</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>107</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>36</fireAttackMax>
+			<fireDefenseMin>0.04</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1000</fireAttackResistMin>
+			<fireAttackResistMax>6000</fireAttackResistMax>
+			<fireDefenseResistMin>1000</fireDefenseResistMin>
+			<fireDefenseResistMax>8000</fireDefenseResistMax>
+			<recommendFireResist>4800</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>113</kindNum>
+			<main>3</main>
+			<sub>2</sub>
+			<progress>14</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>네루갈</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 공중에서 땅으로 내려찍어서 적들을 공중으로 날려버린다.
+# 침을 날려 적들을 뒤로 밀어내고, 일정시간동안 마비시킨다.
+# 꼬리침을 이용해서 적들을 공격하고, 공중으로 날려버린다.
+# 독화살을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2014</bossKindNum>
+			<level>115</level>
+			<hp>365773222000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>145</gem>
+			<petKindNum>108</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>42</fireAttackMax>
+			<fireDefenseMin>0.035</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1100</fireAttackResistMin>
+			<fireAttackResistMax>6600</fireAttackResistMax>
+			<fireDefenseResistMin>1100</fireDefenseResistMin>
+			<fireDefenseResistMax>8800</fireDefenseResistMax>
+			<recommendFireResist>5280</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>114</kindNum>
+			<main>3</main>
+			<sub>3</sub>
+			<progress>15</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>고르고스</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 몸을 공중으로 날린 후, 강력하게 찍어내려, 적들을 공중으로 날려버린다.
+# 나무화살을 날려, 적들을 기절시키고, 뒤로 밀쳐낸다.
+# 강력한 브레스를 뿜어, 적들을 마비시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2015</bossKindNum>
+			<level>120</level>
+			<hp>438927866000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>190</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>109</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>50</fireAttackMax>
+			<fireDefenseMin>0.03</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1200</fireAttackResistMin>
+			<fireAttackResistMax>7200</fireAttackResistMax>
+			<fireDefenseResistMin>1200</fireDefenseResistMin>
+			<fireDefenseResistMax>9600</fireDefenseResistMax>
+			<recommendFireResist>5760</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>115</kindNum>
+			<main>3</main>
+			<sub>4</sub>
+			<progress>16</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>바알제붑</name>
+			<desc># 땅을 파고 들어갔다 나오면서 적들을 밀쳐내고, 기절시킨다.
+# 다수의 발로 적들을 내려쳐서, 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 강력한 브레스로 적들을 마비시키고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2016</bossKindNum>
+			<level>130</level>
+			<hp>570606227000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>290</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>110</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>60</fireAttackMax>
+			<fireDefenseMin>0.025</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1300</fireAttackResistMin>
+			<fireAttackResistMax>7800</fireAttackResistMax>
+			<fireDefenseResistMin>1300</fireDefenseResistMin>
+			<fireDefenseResistMax>10400</fireDefenseResistMax>
+			<recommendFireResist>6240</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>116</kindNum>
+			<main>3</main>
+			<sub>1</sub>
+			<progress>17</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>타라토드</name>
+			<desc># 혀로 적들을 공격한다.
+# 땅을 파고 들어가서, 혀를 내밀어 적들을 공격한다.
+# 강력한 물을 뿜어 적들을 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 알을 날려 적들을 공격하고, 알에서 새끼가 나와 적들을 공격한다.
+# 병사들을 유혹한 후, 땅속에서 몬스터를 소환해 적들을 공격하고, 기절시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2013</bossKindNum>
+			<level>160</level>
+			<hp>4112274756000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>180</gem>
+			<petKindNum>107</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>70</fireAttackMax>
+			<fireDefenseMin>0.02</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1500</fireAttackResistMin>
+			<fireAttackResistMax>9000</fireAttackResistMax>
+			<fireDefenseResistMin>1500</fireDefenseResistMin>
+			<fireDefenseResistMax>12000</fireDefenseResistMax>
+			<recommendFireResist>7200</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>117</kindNum>
+			<main>3</main>
+			<sub>2</sub>
+			<progress>18</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>네루갈</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 공중에서 땅으로 내려찍어서 적들을 공중으로 날려버린다.
+# 침을 날려 적들을 뒤로 밀어내고, 일정시간동안 마비시킨다.
+# 꼬리침을 이용해서 적들을 공격하고, 공중으로 날려버린다.
+# 독화살을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2014</bossKindNum>
+			<level>165</level>
+			<hp>4523502232000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>108</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>85</fireAttackMax>
+			<fireDefenseMin>0.015</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1700</fireAttackResistMin>
+			<fireAttackResistMax>10200</fireAttackResistMax>
+			<fireDefenseResistMin>1700</fireDefenseResistMin>
+			<fireDefenseResistMax>13600</fireDefenseResistMax>
+			<recommendFireResist>8160</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>118</kindNum>
+			<main>3</main>
+			<sub>3</sub>
+			<progress>19</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>고르고스</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 몸을 공중으로 날린 후, 강력하게 찍어내려, 적들을 공중으로 날려버린다.
+# 나무화살을 날려, 적들을 기절시키고, 뒤로 밀쳐낸다.
+# 강력한 브레스를 뿜어, 적들을 마비시킨다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2015</bossKindNum>
+			<level>170</level>
+			<hp>5428202678000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>385</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>109</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>110</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1900</fireAttackResistMin>
+			<fireAttackResistMax>11400</fireAttackResistMax>
+			<fireDefenseResistMin>1900</fireDefenseResistMin>
+			<fireDefenseResistMax>15200</fireDefenseResistMax>
+			<recommendFireResist>9120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>119</kindNum>
+			<main>3</main>
+			<sub>4</sub>
+			<progress>20</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>바알제붑</name>
+			<desc># 땅을 파고 들어갔다 나오면서 적들을 밀쳐내고, 기절시킨다.
+# 다수의 발로 적들을 내려쳐서, 공중으로 날려버린다.
+# 독침을 날려 적들을 느리게 하고, 뒤로 밀쳐낸다.
+# 강력한 브레스로 적들을 마비시키고, 뒤로 밀쳐낸다.
+
+[참고] 죽음의 늪지는 강력한 독의 기운에 의해, 자연저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 독에 의한 체력이 일정 비율로 감소한다. [자연저항]을 높이기 위해서는 자연저항을 가진 펫들을 모아야 한다. ( [숲의 무녀]는 아군의 자연저항을 올려주는 펫으로, 자연저항을 올려주는 스킬을 가지고 있다. 또한, [숲의 무녀] 펫 조각 하나당 [자연저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2016</bossKindNum>
+			<level>180</level>
+			<hp>7056663482000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>575</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>110</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>2100</fireAttackResistMin>
+			<fireAttackResistMax>12600</fireAttackResistMax>
+			<fireDefenseResistMin>2100</fireDefenseResistMin>
+			<fireDefenseResistMax>16800</fireDefenseResistMax>
+			<recommendFireResist>10080</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>120</kindNum>
+			<main>3</main>
+			<sub>1</sub>
+			<progress>21</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>타라토드</name>
+			<desc></desc>
+			<bossKindNum>2013</bossKindNum>
+			<level>150</level>
+			<hp>21000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>180</gem>
+			<petKindNum>107</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>30</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>10800</fireAttackResistMin>
+			<fireAttackResistMax>43200</fireAttackResistMax>
+			<fireDefenseResistMin>10800</fireDefenseResistMin>
+			<fireDefenseResistMax>86400</fireDefenseResistMax>
+			<recommendFireResist>34560</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>121</kindNum>
+			<main>3</main>
+			<sub>2</sub>
+			<progress>22</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>네루갈</name>
+			<desc></desc>
+			<bossKindNum>2014</bossKindNum>
+			<level>160</level>
+			<hp>24500000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>108</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>30</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>10800</fireAttackResistMin>
+			<fireAttackResistMax>43200</fireAttackResistMax>
+			<fireDefenseResistMin>10800</fireDefenseResistMin>
+			<fireDefenseResistMax>86400</fireDefenseResistMax>
+			<recommendFireResist>34560</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>122</kindNum>
+			<main>3</main>
+			<sub>3</sub>
+			<progress>23</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>고르고스</name>
+			<desc></desc>
+			<bossKindNum>2015</bossKindNum>
+			<level>170</level>
+			<hp>28000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>385</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>109</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>30</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>10800</fireAttackResistMin>
+			<fireAttackResistMax>43200</fireAttackResistMax>
+			<fireDefenseResistMin>10800</fireDefenseResistMin>
+			<fireDefenseResistMax>86400</fireDefenseResistMax>
+			<recommendFireResist>34560</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>123</kindNum>
+			<main>3</main>
+			<sub>4</sub>
+			<progress>24</progress>
+			<difficult>6</difficult>
+			<openCost>18000</openCost>
+			<limit>120</limit>
+			<name>바알제붑</name>
+			<desc></desc>
+			<bossKindNum>2016</bossKindNum>
+			<level>180</level>
+			<hp>35000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>575</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>110</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>30</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>10800</fireAttackResistMin>
+			<fireAttackResistMax>43200</fireAttackResistMax>
+			<fireDefenseResistMin>10800</fireDefenseResistMin>
+			<fireDefenseResistMax>86400</fireDefenseResistMax>
+			<recommendFireResist>34560</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>124</kindNum>
+			<main>3</main>
+			<sub>1</sub>
+			<progress>25</progress>
+			<difficult>7</difficult>
+			<openCost>2100</openCost>
+			<limit>120</limit>
+			<name>타라토드</name>
+			<desc></desc>
+			<bossKindNum>2013</bossKindNum>
+			<level>190</level>
+			<hp>50000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>180</gem>
+			<petKindNum>107</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>40</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>21600</fireAttackResistMin>
+			<fireAttackResistMax>86400</fireAttackResistMax>
+			<fireDefenseResistMin>21600</fireDefenseResistMin>
+			<fireDefenseResistMax>172800</fireDefenseResistMax>
+			<recommendFireResist>69120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>125</kindNum>
+			<main>3</main>
+			<sub>2</sub>
+			<progress>26</progress>
+			<difficult>7</difficult>
+			<openCost>2100</openCost>
+			<limit>120</limit>
+			<name>네루갈</name>
+			<desc></desc>
+			<bossKindNum>2014</bossKindNum>
+			<level>200</level>
+			<hp>70000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>108</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>40</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>21600</fireAttackResistMin>
+			<fireAttackResistMax>86400</fireAttackResistMax>
+			<fireDefenseResistMin>21600</fireDefenseResistMin>
+			<fireDefenseResistMax>172800</fireDefenseResistMax>
+			<recommendFireResist>69120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>126</kindNum>
+			<main>3</main>
+			<sub>3</sub>
+			<progress>27</progress>
+			<difficult>7</difficult>
+			<openCost>2100</openCost>
+			<limit>120</limit>
+			<name>고르고스</name>
+			<desc></desc>
+			<bossKindNum>2015</bossKindNum>
+			<level>210</level>
+			<hp>90000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>385</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>109</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>40</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>21600</fireAttackResistMin>
+			<fireAttackResistMax>86400</fireAttackResistMax>
+			<fireDefenseResistMin>21600</fireDefenseResistMin>
+			<fireDefenseResistMax>172800</fireDefenseResistMax>
+			<recommendFireResist>69120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>127</kindNum>
+			<main>3</main>
+			<sub>4</sub>
+			<progress>28</progress>
+			<difficult>7</difficult>
+			<openCost>2100</openCost>
+			<limit>120</limit>
+			<name>바알제붑</name>
+			<desc></desc>
+			<bossKindNum>2016</bossKindNum>
+			<level>220</level>
+			<hp>120000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>575</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>110</petKindNum>
+			<numPet>4</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>40</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>21600</fireAttackResistMin>
+			<fireAttackResistMax>86400</fireAttackResistMax>
+			<fireDefenseResistMin>21600</fireDefenseResistMin>
+			<fireDefenseResistMax>172800</fireDefenseResistMax>
+			<recommendFireResist>69120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>128</kindNum>
+			<main>2</main>
+			<sub>1</sub>
+			<progress>29</progress>
+			<difficult>8</difficult>
+			<openCost>24000</openCost>
+			<limit>120</limit>
+			<name>화산의 바실리스크</name>
+			<desc># 앞발로 지상의 적들을 강력하게 내리친다.
+# 여러차례 점프를 해서 주위 적들을 멀리 날려버린다.
+# 등에서 큰 화염 폭탄을 발사하여, 많은 적들의 체력을 일정 비율만큼 감소시킨다.
+# 다수의 작은 화염 폭탄을 발사하여, 적들에게 데미지를 주고, 기절시킨다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2005</bossKindNum>
+			<level>230</level>
+			<hp>120000000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>130</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>4800</fireAttackResistMin>
+			<fireAttackResistMax>21200</fireAttackResistMax>
+			<fireDefenseResistMin>4800</fireDefenseResistMin>
+			<fireDefenseResistMax>24200</fireDefenseResistMax>
+			<recommendFireResist>19080</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>129</kindNum>
+			<main>2</main>
+			<sub>2</sub>
+			<progress>30</progress>
+			<difficult>8</difficult>
+			<openCost>24000</openCost>
+			<limit>120</limit>
+			<name>화령의 샐라임</name>
+			<desc># 공중으로 날아다니는 보스로, 강력한 머신건과 초대형 폭탄으로 적을 공격한다.
+# 적의 체력을 일정비율만큼 감소시키는 초대형 폭탄을 던진다.
+# 불의 형상으로 변하여, 다수의 적들을 공격하고, 기절시킨다.
+# 머신건으로 다수의 적에게 데미지를 주고, 뒤로 밀쳐버린다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2006</bossKindNum>
+			<level>240</level>
+			<hp>245000000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>270</gem>
+			<petKindNum>131</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>5300</fireAttackResistMin>
+			<fireAttackResistMax>22400</fireAttackResistMax>
+			<fireDefenseResistMin>5300</fireDefenseResistMin>
+			<fireDefenseResistMax>25400</fireDefenseResistMax>
+			<recommendFireResist>20160</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>130</kindNum>
+			<main>2</main>
+			<sub>3</sub>
+			<progress>31</progress>
+			<difficult>8</difficult>
+			<openCost>24000</openCost>
+			<limit>120</limit>
+			<name>화마의 이그니스</name>
+			<desc># 강력한 에너지를 소환해서, 많은 적들의 체력을 일정비율만큼 감소시킨다.
+# 불의 검을 휘둘러, 다수의 적을 멀리 날려버린다.
+# 불의 검을 내려쳐서, 다수의 적들을 기절시키고, 큰 데미지를 준다.
+# 앞으로 돌격하면서, 다수의 적들을 공격하고, 기절시킨다. 
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2007</bossKindNum>
+			<level>250</level>
+			<hp>372000000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>440</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>132</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>5800</fireAttackResistMin>
+			<fireAttackResistMax>23700</fireAttackResistMax>
+			<fireDefenseResistMin>5800</fireDefenseResistMin>
+			<fireDefenseResistMax>26600</fireDefenseResistMax>
+			<recommendFireResist>21330</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>131</kindNum>
+			<main>2</main>
+			<sub>4</sub>
+			<progress>32</progress>
+			<difficult>8</difficult>
+			<openCost>24000</openCost>
+			<limit>120</limit>
+			<name>불지옥의 군주 바하무트</name>
+			<desc># 화염 돌풍으로 변하여, 다수의 적들에게 큰 데미지를 주고, 기절시킨다.
+# 해머에 불의 기운을 주입하여, 강력하게 내려찍는다. 이 일격으로 적들의 체력을 최소 40%이상 감소시킨다. ( 양손해머공격 )
+# 강력한 폭발력을 지닌, 불새들을 소환해서, 적들에게 큰 데미지를 주고, 날려버린다.
+# 화염기둥을 소환해서, 적들을 날려버리고, 큰 데미지를 준다.
+
+[ 참고 ] 불타는 대지는 강력한 화염기운에 의해, 화염저항이 낮을 경우, 아군 병사들의 공격력과 방어력이 크게 감소한다. [ 화염저항 ]을 높이기 위해서는 화염저항을 가진 펫들을 모아야 한다. ( [ 불의 무녀 ]는 아군의 화염저항을 올려주는 펫으로, 화염저항을 올려주는 스킬을 가지고 있다. 또한, [ 불의 무녀 ] 펫 조각 하나당 [ 화염저항 ]이 10씩 올라간다.  )</desc>
+			<bossKindNum>2008</bossKindNum>
+			<level>260</level>
+			<hp>400000000000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>660</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>91</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>133</petKindNum2>
+			<numPet2>2</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>6300</fireAttackResistMin>
+			<fireAttackResistMax>25000</fireAttackResistMax>
+			<fireDefenseResistMin>6300</fireDefenseResistMin>
+			<fireDefenseResistMax>28000</fireDefenseResistMax>
+			<recommendFireResist>22500</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>132</kindNum>
+			<main>4</main>
+			<sub>1</sub>
+			<progress>1</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>헬 그리핀</name>
+			<desc># 공중과 지상을 오가면서 적들을 공격한다.
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 매직볼을 날려, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2017</bossKindNum>
+			<level>15</level>
+			<hp>509000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>35</gem>
+			<petKindNum>0</petKindNum>
+			<numPet>0</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>2</fireAttackMax>
+			<fireDefenseMin>0.6</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>20</fireAttackResistMin>
+			<fireAttackResistMax>120</fireAttackResistMax>
+			<fireDefenseResistMin>20</fireDefenseResistMin>
+			<fireDefenseResistMax>160</fireDefenseResistMax>
+			<recommendFireResist>96</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>133</kindNum>
+			<main>4</main>
+			<sub>2</sub>
+			<progress>2</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>좀비 자이언트 보어</name>
+			<desc># 물리저항이 매우 높아서, 물리공격에 데미지를 덜 받는다.
+# 마몬이 거대한 창을 날려, 다수의 적들을 날려버린다.
+# 공격속도와 이동속도가 매우 빠르다.
+# 가시기둥을 소환하여 적들을 공중으로 날려버린다.
+# 적에게 돌진하여, 적들을 밀쳐내고, 기절시킨다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2018</bossKindNum>
+			<level>20</level>
+			<hp>560000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>30</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>157</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>2</fireAttackMax>
+			<fireDefenseMin>0.5</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>40</fireAttackResistMin>
+			<fireAttackResistMax>240</fireAttackResistMax>
+			<fireDefenseResistMin>40</fireDefenseResistMin>
+			<fireDefenseResistMax>320</fireDefenseResistMax>
+			<recommendFireResist>192</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>134</kindNum>
+			<main>4</main>
+			<sub>3</sub>
+			<progress>3</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>트윈헤드 본 와이번</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 브레스를 날려 적들을 뒤로 밀치고, 일정시간동안 마비시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2019</bossKindNum>
+			<level>25</level>
+			<hp>672000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>20</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>158</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>3</fireAttackMax>
+			<fireDefenseMin>0.4</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>80</fireAttackResistMin>
+			<fireAttackResistMax>480</fireAttackResistMax>
+			<fireDefenseResistMin>80</fireDefenseResistMin>
+			<fireDefenseResistMax>640</fireDefenseResistMax>
+			<recommendFireResist>384</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>135</kindNum>
+			<main>4</main>
+			<sub>4</sub>
+			<progress>4</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>에이션트 데스 드래곤</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 빠르게 좌, 우로 이동한다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 브레스로 적들을 뒤로 밀쳐나고, 일정시간동안 마비시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2020</bossKindNum>
+			<level>30</level>
+			<hp>873000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>25</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>159</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>5</fireAttackMax>
+			<fireDefenseMin>0.3</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>100</fireAttackResistMin>
+			<fireAttackResistMax>600</fireAttackResistMax>
+			<fireDefenseResistMin>100</fireDefenseResistMin>
+			<fireDefenseResistMax>800</fireDefenseResistMax>
+			<recommendFireResist>480</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>136</kindNum>
+			<main>4</main>
+			<sub>5</sub>
+			<progress>5</progress>
+			<difficult>1</difficult>
+			<openCost>5000</openCost>
+			<limit>72</limit>
+			<name>지옥의 군주 마몬</name>
+			<desc># 순간이동하여 주변의 적들을 날려버린다.
+# 창을 휘둘러서 적들을 공중으로 멀리 날려버린다.
+# 초대형 에너지볼을 날려, 적들의 체력을 일정비율로 감소시킨다.
+# 어둠의 검으로, 적들의 체력을 일정비율로 감소시킨다. ( 매우 강력함 )
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 돌기둥을 소환하여, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2021</bossKindNum>
+			<level>40</level>
+			<hp>2790000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>0</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>25</guildCoin>
+			<raidCoin>35</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>160</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>6</fireAttackMax>
+			<fireDefenseMin>0.2</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>150</fireAttackResistMin>
+			<fireAttackResistMax>900</fireAttackResistMax>
+			<fireDefenseResistMin>150</fireDefenseResistMin>
+			<fireDefenseResistMax>1200</fireDefenseResistMax>
+			<recommendFireResist>720</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>137</kindNum>
+			<main>4</main>
+			<sub>1</sub>
+			<progress>6</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>헬 그리핀</name>
+			<desc># 공중과 지상을 오가면서 적들을 공격한다.
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 매직볼을 날려, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2017</bossKindNum>
+			<level>50</level>
+			<hp>2790000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>60</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>157</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>6</fireAttackMax>
+			<fireDefenseMin>0.2</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>150</fireAttackResistMin>
+			<fireAttackResistMax>900</fireAttackResistMax>
+			<fireDefenseResistMin>150</fireDefenseResistMin>
+			<fireDefenseResistMax>1200</fireDefenseResistMax>
+			<recommendFireResist>720</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>138</kindNum>
+			<main>4</main>
+			<sub>2</sub>
+			<progress>7</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>좀비 자이언트 보어</name>
+			<desc># 물리저항이 매우 높아서, 물리공격에 데미지를 덜 받는다.
+# 마몬이 거대한 창을 날려, 다수의 적들을 날려버린다.
+# 공격속도와 이동속도가 매우 빠르다.
+# 가시기둥을 소환하여 적들을 공중으로 날려버린다.
+# 적에게 돌진하여, 적들을 밀쳐내고, 기절시킨다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2018</bossKindNum>
+			<level>55</level>
+			<hp>3074000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>70</gem>
+			<petKindNum>158</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>8</fireAttackMax>
+			<fireDefenseMin>0.1</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>200</fireAttackResistMin>
+			<fireAttackResistMax>1200</fireAttackResistMax>
+			<fireDefenseResistMin>200</fireDefenseResistMin>
+			<fireDefenseResistMax>1600</fireDefenseResistMax>
+			<recommendFireResist>960</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>139</kindNum>
+			<main>4</main>
+			<sub>3</sub>
+			<progress>8</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>트윈헤드 본 와이번</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 브레스를 날려 적들을 뒤로 밀치고, 일정시간동안 마비시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2019</bossKindNum>
+			<level>60</level>
+			<hp>3690000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>50</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>159</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>10</fireAttackMax>
+			<fireDefenseMin>0.09</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>250</fireAttackResistMin>
+			<fireAttackResistMax>1500</fireAttackResistMax>
+			<fireDefenseResistMin>250</fireDefenseResistMin>
+			<fireDefenseResistMax>2000</fireDefenseResistMax>
+			<recommendFireResist>1200</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>140</kindNum>
+			<main>4</main>
+			<sub>4</sub>
+			<progress>9</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>에이션트 데스 드래곤</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 빠르게 좌, 우로 이동한다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 브레스로 적들을 뒤로 밀쳐나고, 일정시간동안 마비시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2020</bossKindNum>
+			<level>65</level>
+			<hp>4790000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>60</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>160</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>13</fireAttackMax>
+			<fireDefenseMin>0.08</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>300</fireAttackResistMin>
+			<fireAttackResistMax>1800</fireAttackResistMax>
+			<fireDefenseResistMin>300</fireDefenseResistMin>
+			<fireDefenseResistMax>2400</fireDefenseResistMax>
+			<recommendFireResist>1440</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>141</kindNum>
+			<main>4</main>
+			<sub>5</sub>
+			<progress>10</progress>
+			<difficult>2</difficult>
+			<openCost>7000</openCost>
+			<limit>72</limit>
+			<name>지옥의 군주 마몬</name>
+			<desc># 순간이동하여 주변의 적들을 날려버린다.
+# 창을 휘둘러서 적들을 공중으로 멀리 날려버린다.
+# 초대형 에너지볼을 날려, 적들의 체력을 일정비율로 감소시킨다.
+# 어둠의 검으로, 적들의 체력을 일정비율로 감소시킨다. ( 매우 강력함 )
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 돌기둥을 소환하여, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2021</bossKindNum>
+			<level>75</level>
+			<hp>62500000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>35</guildCoin>
+			<raidCoin>70</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>161</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>16</fireAttackMax>
+			<fireDefenseMin>0.07</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>500</fireAttackResistMin>
+			<fireAttackResistMax>3000</fireAttackResistMax>
+			<fireDefenseResistMin>500</fireDefenseResistMin>
+			<fireDefenseResistMax>4000</fireDefenseResistMax>
+			<recommendFireResist>2400</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>142</kindNum>
+			<main>4</main>
+			<sub>1</sub>
+			<progress>11</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>헬 그리핀</name>
+			<desc># 공중과 지상을 오가면서 적들을 공격한다.
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 매직볼을 날려, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2017</bossKindNum>
+			<level>90</level>
+			<hp>62500000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>110</gem>
+			<petKindNum>157</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>16</fireAttackMax>
+			<fireDefenseMin>0.07</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>500</fireAttackResistMin>
+			<fireAttackResistMax>3000</fireAttackResistMax>
+			<fireDefenseResistMin>500</fireDefenseResistMin>
+			<fireDefenseResistMax>4000</fireDefenseResistMax>
+			<recommendFireResist>2400</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>143</kindNum>
+			<main>4</main>
+			<sub>2</sub>
+			<progress>12</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>좀비 자이언트 보어</name>
+			<desc># 물리저항이 매우 높아서, 물리공격에 데미지를 덜 받는다.
+# 마몬이 거대한 창을 날려, 다수의 적들을 날려버린다.
+# 공격속도와 이동속도가 매우 빠르다.
+# 가시기둥을 소환하여 적들을 공중으로 날려버린다.
+# 적에게 돌진하여, 적들을 밀쳐내고, 기절시킨다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2018</bossKindNum>
+			<level>95</level>
+			<hp>68800000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>90</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>158</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>20</fireAttackMax>
+			<fireDefenseMin>0.06</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>600</fireAttackResistMin>
+			<fireAttackResistMax>3600</fireAttackResistMax>
+			<fireDefenseResistMin>600</fireDefenseResistMin>
+			<fireDefenseResistMax>4800</fireDefenseResistMax>
+			<recommendFireResist>2880</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>144</kindNum>
+			<main>4</main>
+			<sub>3</sub>
+			<progress>13</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>트윈헤드 본 와이번</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 브레스를 날려 적들을 뒤로 밀치고, 일정시간동안 마비시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2019</bossKindNum>
+			<level>100</level>
+			<hp>82500000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>95</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>159</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>24</fireAttackMax>
+			<fireDefenseMin>0.05</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>700</fireAttackResistMin>
+			<fireAttackResistMax>4200</fireAttackResistMax>
+			<fireDefenseResistMin>700</fireDefenseResistMin>
+			<fireDefenseResistMax>5600</fireDefenseResistMax>
+			<recommendFireResist>3360</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>145</kindNum>
+			<main>4</main>
+			<sub>4</sub>
+			<progress>14</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>에이션트 데스 드래곤</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 빠르게 좌, 우로 이동한다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 브레스로 적들을 뒤로 밀쳐나고, 일정시간동안 마비시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2020</bossKindNum>
+			<level>105</level>
+			<hp>107000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>120</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>160</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>30</fireAttackMax>
+			<fireDefenseMin>0.045</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>800</fireAttackResistMin>
+			<fireAttackResistMax>4800</fireAttackResistMax>
+			<fireDefenseResistMin>800</fireDefenseResistMin>
+			<fireDefenseResistMax>6400</fireDefenseResistMax>
+			<recommendFireResist>3840</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>146</kindNum>
+			<main>4</main>
+			<sub>5</sub>
+			<progress>15</progress>
+			<difficult>3</difficult>
+			<openCost>9000</openCost>
+			<limit>96</limit>
+			<name>지옥의 군주 마몬</name>
+			<desc># 순간이동하여 주변의 적들을 날려버린다.
+# 창을 휘둘러서 적들을 공중으로 멀리 날려버린다.
+# 초대형 에너지볼을 날려, 적들의 체력을 일정비율로 감소시킨다.
+# 어둠의 검으로, 적들의 체력을 일정비율로 감소시킨다. ( 매우 강력함 )
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 돌기둥을 소환하여, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2021</bossKindNum>
+			<level>120</level>
+			<hp>333000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>50</guildCoin>
+			<raidCoin>145</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>161</petKindNum>
+			<numPet>1</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>36</fireAttackMax>
+			<fireDefenseMin>0.04</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1000</fireAttackResistMin>
+			<fireAttackResistMax>6000</fireAttackResistMax>
+			<fireDefenseResistMin>1000</fireDefenseResistMin>
+			<fireDefenseResistMax>8000</fireDefenseResistMax>
+			<recommendFireResist>4800</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>147</kindNum>
+			<main>4</main>
+			<sub>1</sub>
+			<progress>16</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>헬 그리핀</name>
+			<desc># 공중과 지상을 오가면서 적들을 공격한다.
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 매직볼을 날려, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2017</bossKindNum>
+			<level>130</level>
+			<hp>333000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>130</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>157</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>36</fireAttackMax>
+			<fireDefenseMin>0.04</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1000</fireAttackResistMin>
+			<fireAttackResistMax>6000</fireAttackResistMax>
+			<fireDefenseResistMin>1000</fireDefenseResistMin>
+			<fireDefenseResistMax>8000</fireDefenseResistMax>
+			<recommendFireResist>4800</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>148</kindNum>
+			<main>4</main>
+			<sub>2</sub>
+			<progress>17</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>좀비 자이언트 보어</name>
+			<desc># 물리저항이 매우 높아서, 물리공격에 데미지를 덜 받는다.
+# 마몬이 거대한 창을 날려, 다수의 적들을 날려버린다.
+# 공격속도와 이동속도가 매우 빠르다.
+# 가시기둥을 소환하여 적들을 공중으로 날려버린다.
+# 적에게 돌진하여, 적들을 밀쳐내고, 기절시킨다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2018</bossKindNum>
+			<level>135</level>
+			<hp>366000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>145</gem>
+			<petKindNum>158</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>42</fireAttackMax>
+			<fireDefenseMin>0.035</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1100</fireAttackResistMin>
+			<fireAttackResistMax>6600</fireAttackResistMax>
+			<fireDefenseResistMin>1100</fireDefenseResistMin>
+			<fireDefenseResistMax>8800</fireDefenseResistMax>
+			<recommendFireResist>5280</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>149</kindNum>
+			<main>4</main>
+			<sub>3</sub>
+			<progress>18</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>트윈헤드 본 와이번</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 브레스를 날려 적들을 뒤로 밀치고, 일정시간동안 마비시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2019</bossKindNum>
+			<level>140</level>
+			<hp>439000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>190</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>159</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>50</fireAttackMax>
+			<fireDefenseMin>0.03</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1200</fireAttackResistMin>
+			<fireAttackResistMax>7200</fireAttackResistMax>
+			<fireDefenseResistMin>1200</fireDefenseResistMin>
+			<fireDefenseResistMax>9600</fireDefenseResistMax>
+			<recommendFireResist>5760</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>150</kindNum>
+			<main>4</main>
+			<sub>4</sub>
+			<progress>19</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>에이션트 데스 드래곤</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 빠르게 좌, 우로 이동한다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 브레스로 적들을 뒤로 밀쳐나고, 일정시간동안 마비시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2020</bossKindNum>
+			<level>145</level>
+			<hp>571000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>245</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>160</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>60</fireAttackMax>
+			<fireDefenseMin>0.025</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1300</fireAttackResistMin>
+			<fireAttackResistMax>7800</fireAttackResistMax>
+			<fireDefenseResistMin>1300</fireDefenseResistMin>
+			<fireDefenseResistMax>10400</fireDefenseResistMax>
+			<recommendFireResist>6240</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>151</kindNum>
+			<main>4</main>
+			<sub>5</sub>
+			<progress>20</progress>
+			<difficult>4</difficult>
+			<openCost>12000</openCost>
+			<limit>96</limit>
+			<name>지옥의 군주 마몬</name>
+			<desc># 순간이동하여 주변의 적들을 날려버린다.
+# 창을 휘둘러서 적들을 공중으로 멀리 날려버린다.
+# 초대형 에너지볼을 날려, 적들의 체력을 일정비율로 감소시킨다.
+# 어둠의 검으로, 적들의 체력을 일정비율로 감소시킨다. ( 매우 강력함 )
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 돌기둥을 소환하여, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2021</bossKindNum>
+			<level>160</level>
+			<hp>4110000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>60</guildCoin>
+			<raidCoin>290</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>161</petKindNum>
+			<numPet>2</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>70</fireAttackMax>
+			<fireDefenseMin>0.02</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1500</fireAttackResistMin>
+			<fireAttackResistMax>9000</fireAttackResistMax>
+			<fireDefenseResistMin>1500</fireDefenseResistMin>
+			<fireDefenseResistMax>12000</fireDefenseResistMax>
+			<recommendFireResist>7200</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>152</kindNum>
+			<main>4</main>
+			<sub>1</sub>
+			<progress>21</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>헬 그리핀</name>
+			<desc># 공중과 지상을 오가면서 적들을 공격한다.
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 매직볼을 날려, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2017</bossKindNum>
+			<level>180</level>
+			<hp>4110000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>10</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>180</gem>
+			<petKindNum>157</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>70</fireAttackMax>
+			<fireDefenseMin>0.02</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1500</fireAttackResistMin>
+			<fireAttackResistMax>9000</fireAttackResistMax>
+			<fireDefenseResistMin>1500</fireDefenseResistMin>
+			<fireDefenseResistMax>12000</fireDefenseResistMax>
+			<recommendFireResist>7200</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>153</kindNum>
+			<main>4</main>
+			<sub>2</sub>
+			<progress>22</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>좀비 자이언트 보어</name>
+			<desc># 물리저항이 매우 높아서, 물리공격에 데미지를 덜 받는다.
+# 마몬이 거대한 창을 날려, 다수의 적들을 날려버린다.
+# 공격속도와 이동속도가 매우 빠르다.
+# 가시기둥을 소환하여 적들을 공중으로 날려버린다.
+# 적에게 돌진하여, 적들을 밀쳐내고, 기절시킨다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2018</bossKindNum>
+			<level>195</level>
+			<hp>4520000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>elf</plusTribe>
+			<plusValue>30</plusValue>
+			<minusTribe>undead</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>0</raidCoin>
+			<clearGuildCoin>200</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>158</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>85</fireAttackMax>
+			<fireDefenseMin>0.015</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1700</fireAttackResistMin>
+			<fireAttackResistMax>10200</fireAttackResistMax>
+			<fireDefenseResistMin>1700</fireDefenseResistMin>
+			<fireDefenseResistMax>13600</fireDefenseResistMax>
+			<recommendFireResist>8160</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>154</kindNum>
+			<main>4</main>
+			<sub>3</sub>
+			<progress>23</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>트윈헤드 본 와이번</name>
+			<desc># 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 브레스를 날려 적들을 뒤로 밀치고, 일정시간동안 마비시킨다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2019</bossKindNum>
+			<level>210</level>
+			<hp>5430000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>1</shield>
+			<plusTribe>undead</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>human</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>385</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>159</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>110</fireAttackMax>
+			<fireDefenseMin>0.01</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>1900</fireAttackResistMin>
+			<fireAttackResistMax>11400</fireAttackResistMax>
+			<fireDefenseResistMin>1900</fireDefenseResistMin>
+			<fireDefenseResistMax>15200</fireDefenseResistMax>
+			<recommendFireResist>9120</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>155</kindNum>
+			<main>4</main>
+			<sub>4</sub>
+			<progress>24</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>에이션트 데스 드래곤</name>
+			<desc># 마법저항이 매우 높아서, 마법공격에 데미지를 덜 받는다.
+# 빠르게 좌, 우로 이동한다.
+# 마몬이 마법창을 날려, 적을 뒤로 밀어버리고, 일정시간동안 마비시킨다.
+# 마몬이 마법탄을 날려, 적들을 기절시킨다.
+# 브레스로 적들을 뒤로 밀쳐나고, 일정시간동안 마비시킨다.
+# 적의 체력을 일정비율만큼 감소시키는 강력한 메테오를 소환한다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2020</bossKindNum>
+			<level>230</level>
+			<hp>7060000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>human</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>orc</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>480</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>160</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>2100</fireAttackResistMin>
+			<fireAttackResistMax>12600</fireAttackResistMax>
+			<fireDefenseResistMin>2100</fireDefenseResistMin>
+			<fireDefenseResistMax>16800</fireDefenseResistMax>
+			<recommendFireResist>10080</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    	<raid>
+			<kindNum>156</kindNum>
+			<main>4</main>
+			<sub>5</sub>
+			<progress>24</progress>
+			<difficult>5</difficult>
+			<openCost>15000</openCost>
+			<limit>120</limit>
+			<name>지옥의 군주 마몬</name>
+			<desc># 순간이동하여 주변의 적들을 날려버린다.
+# 창을 휘둘러서 적들을 공중으로 멀리 날려버린다.
+# 초대형 에너지볼을 날려, 적들의 체력을 일정비율로 감소시킨다.
+# 어둠의 검으로, 적들의 체력을 일정비율로 감소시킨다. ( 매우 강력함 )
+# 적진을 향해 돌진해서 적들을 뒤로 밀어내고, 기절시킨다.
+# 돌기둥을 소환하여, 적들을 공중으로 날려버린다.
+
+[참고] 지옥군주의 성채는 강력한 어둠의 기운에 의해, 어둠저항이 낮을 경우, 아군병사들의 공격력과 방어력이 크게 감소하고, 매 초마다 어둠의 기운에 의해 체력이 일정비율로 감소한다. [어둠저항]을 높이기 위해서는 어둠저항을 가진 펫들을 모아야 한다. ( [ 어둠의 무녀 ]는 아군의 어둠저항을 올려주는 스킬을 가지고 있다. 또한 [ 어둠의 무녀 ] 펫 조각 하나당 [어둠저항]이 10씩 올라간다. )</desc>
+			<bossKindNum>2021</bossKindNum>
+			<level>250</level>
+			<hp>9200000000000</hp>
+			<attack>0</attack>
+			<phyDefense>0</phyDefense>
+			<magDefense>0</magDefense>
+			<shield>2</shield>
+			<plusTribe>orc</plusTribe>
+			<plusValue>20</plusValue>
+			<minusTribe>elf</minusTribe>
+			<minusValue>20</minusValue>
+			<meleeDef>0</meleeDef>
+			<rangeDef>0</rangeDef>
+			<guildCoin>70</guildCoin>
+			<raidCoin>575</raidCoin>
+			<clearGuildCoin>0</clearGuildCoin>
+			<gem>0</gem>
+			<petKindNum>161</petKindNum>
+			<numPet>3</numPet>
+			<petKindNum2>0</petKindNum2>
+			<numPet2>0</numPet2>
+			<incAttack>0.02</incAttack>
+			<decSpeed>0.2</decSpeed>
+			<fireAttackMin>1</fireAttackMin>
+			<fireAttackMax>130</fireAttackMax>
+			<fireDefenseMin>0.005</fireDefenseMin>
+			<fireDefenseMax>1.0</fireDefenseMax>
+			<fireAttackResistMin>2300</fireAttackResistMin>
+			<fireAttackResistMax>13800</fireAttackResistMax>
+			<fireDefenseResistMin>2300</fireDefenseResistMin>
+			<fireDefenseResistMax>18400</fireDefenseResistMax>
+			<recommendFireResist>11040</recommendFireResist>
+			<showRecommendFireResist>Y</showRecommendFireResist>
+		</raid>
+    </raidList>	
+</main>
