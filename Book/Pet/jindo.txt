@@ -13,7 +13,7 @@
       "inline": false
     },
     {
-      "name": "Skill 2 - Unlocks at Rank 3",
+      "name": "Skill 2",
       "value": "Game Speed  +`1.5`, `2`, `2.5`%",
       "inline": false
     },
