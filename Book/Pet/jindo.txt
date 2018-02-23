@@ -19,7 +19,7 @@
     },
     {
       "name": "Skill 3",
-      "value": "Medal Buff  +60%",
+      "value": "Medal Buff  +`60`%",
       "inline": false
     },
     {
