@@ -41,7 +41,7 @@ senior bellial          senior bahat```",
 red         blue        green       purple
 celeste     h-reaper    christy     toby
 hallokin    cookoo      nills       rudolph
-lime
+lime        jindo
 flame sorceress         forest sorceress
 ```",
 "inline": false
