@@ -19,7 +19,10 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Abyss Mage",
-"value": "Not revealed yet",
+"value": "- On first appearing, increases attack speed and movement speed of all ally units and casts red shield that protects from 99% damage for a certain period of time.\r\n
+- Increases basic game speed by 7%, increases self attack distance by 10%, and movement speed by 7%.\r\n
+- Increases Attack Power of all soldiers by 7% and movement speed by 7%.\r\n
+- Abyss Mage can increase undead friendship up to 600.",
 "inline": false
 },
 {
