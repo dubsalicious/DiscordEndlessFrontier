@@ -1,0 +1,3223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<result>SUCCESS</result>
+    <dungeonList>
+    	<dungeon>
+    	    <kindNum>1</kindNum>
+    	    <name>킹슬라임</name>
+    	    <maxTime>120</maxTime>
+    	    <dayChar>WED|MON|SAT</dayChar>
+    	    
+			<battle>
+				<id>101</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>1</bossLevel>
+				<jewel>5|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>0</mobShield>
+				<grade>1</grade>
+				<unitDetail>없음</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>102</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>8</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>10</bossLevel>
+				<jewel>10|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>2</mobShield>
+				<grade>1</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>103</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>15</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>16</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>20</bossLevel>
+				<jewel>20|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>2</mobShield>
+				<grade>1</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>104</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>28</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>35</bossLevel>
+				<jewel>40|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>105</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>40</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>50</bossLevel>
+				<jewel>80|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>106</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>80</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>100</bossLevel>
+				<jewel>160|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>2</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>107</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>96</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>120</bossLevel>
+				<jewel>320|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>108</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>112</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>140</bossLevel>
+				<jewel>640|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>109</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>140</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>175</bossLevel>
+				<jewel>1280|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>3</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>110</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>160</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>200</bossLevel>
+				<jewel>2560|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>111</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>210</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>250</bossLevel>
+				<jewel>5120|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>112</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>260</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>300</bossLevel>
+				<jewel>10240|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>113</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>360</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>400</bossLevel>
+				<jewel>20480|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>114</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>460</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>500</bossLevel>
+				<jewel>40960|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>115</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>560</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>600</bossLevel>
+				<jewel>81920|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>116</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>660</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>700</bossLevel>
+				<jewel>163840|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>117</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>760</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>800</bossLevel>
+				<jewel>327680|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>118</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>860</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>900</bossLevel>
+				<jewel>655360|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>119</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>25</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>960</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>1000</bossLevel>
+				<jewel>1310720|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>120</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>25</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1060</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>1100</bossLevel>
+				<jewel>2621440|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>121</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>25</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1160</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>1200</bossLevel>
+				<jewel>5242880|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>122</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>30</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1260</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>1300</bossLevel>
+				<jewel>10485760|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>8</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>123</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>30</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1360</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>1400</bossLevel>
+				<jewel>20971520|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>8</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>124</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>30</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1460</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>1500</bossLevel>
+				<jewel>41943040|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>8</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>125</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>40</numUnits>
+				<unitInterval>100</unitInterval>
+				<unitLevel>1560</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>1600</bossLevel>
+				<jewel>83886080|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>9</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>126</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>50</numUnits>
+				<unitInterval>150</unitInterval>
+				<unitLevel>1700</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>1740</bossLevel>
+				<jewel>167772160|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>9</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>127</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>55</numUnits>
+				<unitInterval>200</unitInterval>
+				<unitLevel>1850</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>1890</bossLevel>
+				<jewel>335544320|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>9</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>128</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>60</numUnits>
+				<unitInterval>250</unitInterval>
+				<unitLevel>2010</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>2050</bossLevel>
+				<jewel>671088640|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>10</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>129</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>80</numUnits>
+				<unitInterval>280</unitInterval>
+				<unitLevel>2180</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>2220</bossLevel>
+				<jewel>1342177280|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>10</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>130</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>90</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2360</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>2400</bossLevel>
+				<jewel>2684354560|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>10</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>131</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>90</numUnits>
+				<unitInterval>320</unitInterval>
+				<unitLevel>2550</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>2600</bossLevel>
+				<jewel>5368709120|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>11</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>132</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>100</numUnits>
+				<unitInterval>350</unitInterval>
+				<unitLevel>2800</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>2850</bossLevel>
+				<jewel>10737418240|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>11</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>133</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>100</numUnits>
+				<unitInterval>380</unitInterval>
+				<unitLevel>3100</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>3150</bossLevel>
+				<jewel>21474836480|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>11</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>134</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>110</numUnits>
+				<unitInterval>410</unitInterval>
+				<unitLevel>3450</unitLevel>
+				<boss>1003</boss>
+				<bossLevel>3500</bossLevel>
+				<jewel>42949672960|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>12</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>135</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>120</numUnits>
+				<unitInterval>430</unitInterval>
+				<unitLevel>3850</unitLevel>
+				<boss>1004</boss>
+				<bossLevel>3900</bossLevel>
+				<jewel>85899345920|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>12</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>136</id>
+				<map>4</map>
+				<kindNums>81</kindNums>
+				<numUnits>130</numUnits>
+				<unitInterval>450</unitInterval>
+				<unitLevel>4350</unitLevel>
+				<boss>1002</boss>
+				<bossLevel>4400</bossLevel>
+				<jewel>171798691840|0|0|0|0</jewel>
+				<prevent>Z</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>12</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+		</dungeon>
+    	<dungeon>
+    	    <kindNum>2</kindNum>
+    	    <name>혼토드</name>
+    	    <maxTime>120</maxTime>
+    	    <dayChar>MON|THU|SAT</dayChar>
+    	    
+			<battle>
+				<id>201</id>
+				<map>5</map>
+				<kindNums>82</kindNums>
+				<numUnits>5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1</unitLevel>
+				<boss>1006</boss>
+				<bossLevel>1</bossLevel>
+				<jewel>0|5|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>0</mobShield>
+				<grade>1</grade>
+				<unitDetail>없음</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>202</id>
+				<map>5</map>
+				<kindNums>82</kindNums>
+				<numUnits>10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>8</unitLevel>
+				<boss>1008</boss>
+				<bossLevel>10</bossLevel>
+				<jewel>0|10|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>203</id>
+				<map>5</map>
+				<kindNums>82</kindNums>
+				<numUnits>15</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>16</unitLevel>
+				<boss>1007</boss>
+				<bossLevel>20</bossLevel>
+				<jewel>0|20|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>204</id>
+				<map>5</map>
+				<kindNums>82</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>28</unitLevel>
+				<boss>1009</boss>
+				<bossLevel>35</bossLevel>
+				<jewel>0|40|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>205</id>
+				<map>5</map>
+				<kindNums>82|83</kindNums>
+				<numUnits>15|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>40|40</unitLevel>
+				<boss>1005</boss>
+				<bossLevel>50</bossLevel>
+				<jewel>0|80|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>206</id>
+				<map>5</map>
+				<kindNums>82|83</kindNums>
+				<numUnits>14|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>80|80</unitLevel>
+				<boss>1006</boss>
+				<bossLevel>100</bossLevel>
+				<jewel>0|160|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>2</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>207</id>
+				<map>5</map>
+				<kindNums>82|83</kindNums>
+				<numUnits>13|7</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>96|96</unitLevel>
+				<boss>1008</boss>
+				<bossLevel>120</bossLevel>
+				<jewel>0|320|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>2</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>208</id>
+				<map>5</map>
+				<kindNums>82|83</kindNums>
+				<numUnits>12|8</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>112|112</unitLevel>
+				<boss>1007</boss>
+				<bossLevel>140</bossLevel>
+				<jewel>0|640|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>2</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>209</id>
+				<map>5</map>
+				<kindNums>82|83</kindNums>
+				<numUnits>11|9</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>140|140</unitLevel>
+				<boss>1009</boss>
+				<bossLevel>175</bossLevel>
+				<jewel>0|1280|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>2</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>210</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>10|7|3</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>160|160|160</unitLevel>
+				<boss>1005</boss>
+				<bossLevel>200</bossLevel>
+				<jewel>0|2560|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>2</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>211</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>10|5|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>210|210|210</unitLevel>
+				<boss>1006</boss>
+				<bossLevel>250</bossLevel>
+				<jewel>0|5120|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>3</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>212</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>9|6|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>260|260|260</unitLevel>
+				<boss>1008</boss>
+				<bossLevel>300</bossLevel>
+				<jewel>0|10240|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>3</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>213</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>8|7|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>360|360|360</unitLevel>
+				<boss>1007</boss>
+				<bossLevel>400</bossLevel>
+				<jewel>0|20480|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>3</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>214</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>8|6|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>460|460|460</unitLevel>
+				<boss>1009</boss>
+				<bossLevel>500</bossLevel>
+				<jewel>0|40960|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>3</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>215</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>7|7|6</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>560|560|560</unitLevel>
+				<boss>1005</boss>
+				<bossLevel>600</bossLevel>
+				<jewel>0|81920|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>3</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>216</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>10|10|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>660|660|660</unitLevel>
+				<boss>1006</boss>
+				<bossLevel>700</bossLevel>
+				<jewel>0|163840|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>217</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>9|10|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>760|760|760</unitLevel>
+				<boss>1008</boss>
+				<bossLevel>800</bossLevel>
+				<jewel>0|327680|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>218</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>8|10|7</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>860|860|860</unitLevel>
+				<boss>1007</boss>
+				<bossLevel>900</bossLevel>
+				<jewel>0|655360|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>219</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>7|10|8</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>960|960|960</unitLevel>
+				<boss>1009</boss>
+				<bossLevel>1000</bossLevel>
+				<jewel>0|1310720|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>220</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>6|10|9</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1060|1060|1060</unitLevel>
+				<boss>1005</boss>
+				<bossLevel>1100</bossLevel>
+				<jewel>0|2621440|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>221</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>10|10|10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1160|1160|1160</unitLevel>
+				<boss>1006</boss>
+				<bossLevel>1200</bossLevel>
+				<jewel>0|5242880|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>222</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>8|11|11</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1260|1260|1260</unitLevel>
+				<boss>1008</boss>
+				<bossLevel>1300</bossLevel>
+				<jewel>0|10485760|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>223</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>6|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1360|1360|1360</unitLevel>
+				<boss>1007</boss>
+				<bossLevel>1400</bossLevel>
+				<jewel>0|20971520|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>224</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>4|13|13</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1460|1460|1460</unitLevel>
+				<boss>1009</boss>
+				<bossLevel>1500</bossLevel>
+				<jewel>0|41943040|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>225</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>2|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1560|1560|1560</unitLevel>
+				<boss>1005</boss>
+				<bossLevel>1600</bossLevel>
+				<jewel>0|83886080|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>226</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>10|15|20</numUnits>
+				<unitInterval>100</unitInterval>
+				<unitLevel>1700|1700|1700</unitLevel>
+				<boss>1006</boss>
+				<bossLevel>1740</bossLevel>
+				<jewel>0|167772160|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>227</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>15|20|25</numUnits>
+				<unitInterval>150</unitInterval>
+				<unitLevel>1850|1850|1850</unitLevel>
+				<boss>1008</boss>
+				<bossLevel>1890</bossLevel>
+				<jewel>0|335544320|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>228</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>15|25|30</numUnits>
+				<unitInterval>200</unitInterval>
+				<unitLevel>2010|2010|2010</unitLevel>
+				<boss>1007</boss>
+				<bossLevel>2050</bossLevel>
+				<jewel>0|671088640|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>229</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>20|25|35</numUnits>
+				<unitInterval>250</unitInterval>
+				<unitLevel>2180|2180|2180</unitLevel>
+				<boss>1009</boss>
+				<bossLevel>2220</bossLevel>
+				<jewel>0|1342177280|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>230</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2360|2360|2360</unitLevel>
+				<boss>1005</boss>
+				<bossLevel>2400</bossLevel>
+				<jewel>0|2684354560|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>231</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2550|2550|2550</unitLevel>
+				<boss>1006</boss>
+				<bossLevel>2600</bossLevel>
+				<jewel>0|5368709120|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>232</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>25|30|40</numUnits>
+				<unitInterval>320</unitInterval>
+				<unitLevel>2800|2800|2800</unitLevel>
+				<boss>1008</boss>
+				<bossLevel>2850</bossLevel>
+				<jewel>0|10737418240|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>233</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>25|35|40</numUnits>
+				<unitInterval>350</unitInterval>
+				<unitLevel>3100|3100|3100</unitLevel>
+				<boss>1007</boss>
+				<bossLevel>3150</bossLevel>
+				<jewel>0|21474836480|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>234</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>25|30|45</numUnits>
+				<unitInterval>370</unitInterval>
+				<unitLevel>3450|3450|3450</unitLevel>
+				<boss>1009</boss>
+				<bossLevel>3500</bossLevel>
+				<jewel>0|42949672960|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>235</id>
+				<map>5</map>
+				<kindNums>82|83|84</kindNums>
+				<numUnits>30|40|50</numUnits>
+				<unitInterval>400</unitInterval>
+				<unitLevel>3850|3850|3850</unitLevel>
+				<boss>1005</boss>
+				<bossLevel>3900</bossLevel>
+				<jewel>0|85899345920|0|0|0</jewel>
+				<prevent>E</prevent>
+				<maxReviveFloor>0</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+		</dungeon>
+    	<dungeon>
+    	    <kindNum>3</kindNum>
+    	    <name>해머모울</name>
+    	    <maxTime>120</maxTime>
+    	    <dayChar>TUE|SAT|FRI</dayChar>
+    	    
+			<battle>
+				<id>301</id>
+				<map>6</map>
+				<kindNums>85</kindNums>
+				<numUnits>5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1</unitLevel>
+				<boss>1011</boss>
+				<bossLevel>1</bossLevel>
+				<jewel>0|0|5|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>0</mobShield>
+				<grade>1</grade>
+				<unitDetail>없음</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>302</id>
+				<map>6</map>
+				<kindNums>85</kindNums>
+				<numUnits>10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>8</unitLevel>
+				<boss>1013</boss>
+				<bossLevel>10</bossLevel>
+				<jewel>0|0|10|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>303</id>
+				<map>6</map>
+				<kindNums>85</kindNums>
+				<numUnits>15</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>16</unitLevel>
+				<boss>1012</boss>
+				<bossLevel>20</bossLevel>
+				<jewel>0|0|20|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>304</id>
+				<map>6</map>
+				<kindNums>85</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>28</unitLevel>
+				<boss>1014</boss>
+				<bossLevel>35</bossLevel>
+				<jewel>0|0|40|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>305</id>
+				<map>6</map>
+				<kindNums>85|86</kindNums>
+				<numUnits>15|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>40|40</unitLevel>
+				<boss>1010</boss>
+				<bossLevel>50</bossLevel>
+				<jewel>0|0|80|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>306</id>
+				<map>6</map>
+				<kindNums>85|86</kindNums>
+				<numUnits>14|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>80|80</unitLevel>
+				<boss>1011</boss>
+				<bossLevel>100</bossLevel>
+				<jewel>0|0|160|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>307</id>
+				<map>6</map>
+				<kindNums>85|86</kindNums>
+				<numUnits>13|7</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>96|96</unitLevel>
+				<boss>1013</boss>
+				<bossLevel>120</bossLevel>
+				<jewel>0|0|320|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>308</id>
+				<map>6</map>
+				<kindNums>85|86</kindNums>
+				<numUnits>12|8</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>112|112</unitLevel>
+				<boss>1012</boss>
+				<bossLevel>140</bossLevel>
+				<jewel>0|0|640|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>309</id>
+				<map>6</map>
+				<kindNums>85|86</kindNums>
+				<numUnits>11|9</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>140|140</unitLevel>
+				<boss>1014</boss>
+				<bossLevel>175</bossLevel>
+				<jewel>0|0|1280|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>310</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>10|7|3</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>160|160|160</unitLevel>
+				<boss>1010</boss>
+				<bossLevel>200</bossLevel>
+				<jewel>0|0|2560|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>311</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>10|5|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>210|210|210</unitLevel>
+				<boss>1011</boss>
+				<bossLevel>250</bossLevel>
+				<jewel>0|0|5120|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>312</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>9|6|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>260|260|260</unitLevel>
+				<boss>1013</boss>
+				<bossLevel>300</bossLevel>
+				<jewel>0|0|10240|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>313</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>8|7|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>360|360|360</unitLevel>
+				<boss>1012</boss>
+				<bossLevel>400</bossLevel>
+				<jewel>0|0|20480|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>314</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>8|6|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>460|460|460</unitLevel>
+				<boss>1014</boss>
+				<bossLevel>500</bossLevel>
+				<jewel>0|0|40960|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>315</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>7|7|6</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>560|560|560</unitLevel>
+				<boss>1010</boss>
+				<bossLevel>600</bossLevel>
+				<jewel>0|0|81920|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>316</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>10|10|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>660|660|660</unitLevel>
+				<boss>1011</boss>
+				<bossLevel>700</bossLevel>
+				<jewel>0|0|163840|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>317</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>9|10|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>760|760|760</unitLevel>
+				<boss>1013</boss>
+				<bossLevel>800</bossLevel>
+				<jewel>0|0|327680|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>318</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>8|10|7</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>860|860|860</unitLevel>
+				<boss>1012</boss>
+				<bossLevel>900</bossLevel>
+				<jewel>0|0|655360|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>319</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>7|10|8</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>960|960|960</unitLevel>
+				<boss>1014</boss>
+				<bossLevel>1000</bossLevel>
+				<jewel>0|0|1310720|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>320</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>6|10|9</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1060|1060|1060</unitLevel>
+				<boss>1010</boss>
+				<bossLevel>1100</bossLevel>
+				<jewel>0|0|2621440|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>321</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>10|10|10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1160|1160|1160</unitLevel>
+				<boss>1011</boss>
+				<bossLevel>1200</bossLevel>
+				<jewel>0|0|5242880|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>322</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>8|11|11</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1260|1260|1260</unitLevel>
+				<boss>1013</boss>
+				<bossLevel>1300</bossLevel>
+				<jewel>0|0|10485760|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>323</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>6|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1360|1360|1360</unitLevel>
+				<boss>1012</boss>
+				<bossLevel>1400</bossLevel>
+				<jewel>0|0|20971520|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>324</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>4|13|13</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1460|1460|1460</unitLevel>
+				<boss>1014</boss>
+				<bossLevel>1500</bossLevel>
+				<jewel>0|0|41943040|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>325</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>2|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1560|1560|1560</unitLevel>
+				<boss>1010</boss>
+				<bossLevel>1600</bossLevel>
+				<jewel>0|0|83886080|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>326</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>10|15|20</numUnits>
+				<unitInterval>100</unitInterval>
+				<unitLevel>1700|1700|1700</unitLevel>
+				<boss>1011</boss>
+				<bossLevel>1740</bossLevel>
+				<jewel>0|0|167772160|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>327</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>15|20|25</numUnits>
+				<unitInterval>150</unitInterval>
+				<unitLevel>1850|1850|1850</unitLevel>
+				<boss>1013</boss>
+				<bossLevel>1890</bossLevel>
+				<jewel>0|0|335544320|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>328</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>15|25|30</numUnits>
+				<unitInterval>200</unitInterval>
+				<unitLevel>2010|2010|2010</unitLevel>
+				<boss>1012</boss>
+				<bossLevel>2050</bossLevel>
+				<jewel>0|0|671088640|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>329</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>20|25|35</numUnits>
+				<unitInterval>250</unitInterval>
+				<unitLevel>2180|2180|2180</unitLevel>
+				<boss>1014</boss>
+				<bossLevel>2220</bossLevel>
+				<jewel>0|0|1342177280|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>330</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2360|2360|2360</unitLevel>
+				<boss>1010</boss>
+				<bossLevel>2400</bossLevel>
+				<jewel>0|0|2684354560|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>331</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2550|2550|2550</unitLevel>
+				<boss>1011</boss>
+				<bossLevel>2600</bossLevel>
+				<jewel>0|0|5368709120|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>332</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>25|30|40</numUnits>
+				<unitInterval>320</unitInterval>
+				<unitLevel>2800|2800|2800</unitLevel>
+				<boss>1013</boss>
+				<bossLevel>2850</bossLevel>
+				<jewel>0|0|10737418240|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>333</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>25|35|40</numUnits>
+				<unitInterval>350</unitInterval>
+				<unitLevel>3100|3100|3100</unitLevel>
+				<boss>1012</boss>
+				<bossLevel>3150</bossLevel>
+				<jewel>0|0|21474836480|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>334</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>25|30|45</numUnits>
+				<unitInterval>370</unitInterval>
+				<unitLevel>3450|3450|3450</unitLevel>
+				<boss>1014</boss>
+				<bossLevel>3500</bossLevel>
+				<jewel>0|0|42949672960|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>335</id>
+				<map>6</map>
+				<kindNums>85|86|87</kindNums>
+				<numUnits>30|40|50</numUnits>
+				<unitInterval>400</unitInterval>
+				<unitLevel>3850|3850|3850</unitLevel>
+				<boss>1010</boss>
+				<bossLevel>3900</bossLevel>
+				<jewel>0|0|85899345920|0|0</jewel>
+				<prevent>U</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+		</dungeon>
+    	<dungeon>
+    	    <kindNum>4</kindNum>
+    	    <name>오크플라워</name>
+    	    <maxTime>120</maxTime>
+    	    <dayChar>THU|SUN|TUE</dayChar>
+    	    
+			<battle>
+				<id>401</id>
+				<map>7</map>
+				<kindNums>88</kindNums>
+				<numUnits>5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1</unitLevel>
+				<boss>1016</boss>
+				<bossLevel>1</bossLevel>
+				<jewel>0|0|0|5|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>0</mobShield>
+				<grade>1</grade>
+				<unitDetail>없음</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>402</id>
+				<map>7</map>
+				<kindNums>88</kindNums>
+				<numUnits>10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>8</unitLevel>
+				<boss>1018</boss>
+				<bossLevel>10</bossLevel>
+				<jewel>0|0|0|10|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>2</mobShield>
+				<grade>1</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>403</id>
+				<map>7</map>
+				<kindNums>88</kindNums>
+				<numUnits>15</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>16</unitLevel>
+				<boss>1017</boss>
+				<bossLevel>20</bossLevel>
+				<jewel>0|0|0|20|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>2</mobShield>
+				<grade>1</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>404</id>
+				<map>7</map>
+				<kindNums>88</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>28</unitLevel>
+				<boss>1019</boss>
+				<bossLevel>35</bossLevel>
+				<jewel>0|0|0|40|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>2</mobShield>
+				<grade>1</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>405</id>
+				<map>7</map>
+				<kindNums>88|89</kindNums>
+				<numUnits>15|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>40|40</unitLevel>
+				<boss>1015</boss>
+				<bossLevel>50</bossLevel>
+				<jewel>0|0|0|80|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>2</mobShield>
+				<grade>1</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>406</id>
+				<map>7</map>
+				<kindNums>88|89</kindNums>
+				<numUnits>14|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>80|80</unitLevel>
+				<boss>1016</boss>
+				<bossLevel>100</bossLevel>
+				<jewel>0|0|0|160|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>407</id>
+				<map>7</map>
+				<kindNums>88|89</kindNums>
+				<numUnits>13|7</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>96|96</unitLevel>
+				<boss>1018</boss>
+				<bossLevel>120</bossLevel>
+				<jewel>0|0|0|320|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>408</id>
+				<map>7</map>
+				<kindNums>88|89</kindNums>
+				<numUnits>12|8</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>112|112</unitLevel>
+				<boss>1017</boss>
+				<bossLevel>140</bossLevel>
+				<jewel>0|0|0|640|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>409</id>
+				<map>7</map>
+				<kindNums>88|89</kindNums>
+				<numUnits>11|9</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>140|140</unitLevel>
+				<boss>1019</boss>
+				<bossLevel>175</bossLevel>
+				<jewel>0|0|0|1280|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>410</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>10|7|3</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>160|160|160</unitLevel>
+				<boss>1015</boss>
+				<bossLevel>200</bossLevel>
+				<jewel>0|0|0|2560|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>411</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>10|5|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>210|210|210</unitLevel>
+				<boss>1016</boss>
+				<bossLevel>250</bossLevel>
+				<jewel>0|0|0|5120|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>412</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>9|6|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>260|260|260</unitLevel>
+				<boss>1018</boss>
+				<bossLevel>300</bossLevel>
+				<jewel>0|0|0|10240|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>413</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>8|7|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>360|360|360</unitLevel>
+				<boss>1017</boss>
+				<bossLevel>400</bossLevel>
+				<jewel>0|0|0|20480|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>414</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>8|6|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>460|460|460</unitLevel>
+				<boss>1019</boss>
+				<bossLevel>500</bossLevel>
+				<jewel>0|0|0|40960|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>415</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>7|7|6</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>560|560|560</unitLevel>
+				<boss>1015</boss>
+				<bossLevel>600</bossLevel>
+				<jewel>0|0|0|81920|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>416</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>10|10|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>660|660|660</unitLevel>
+				<boss>1016</boss>
+				<bossLevel>700</bossLevel>
+				<jewel>0|0|0|163840|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>417</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>9|10|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>760|760|760</unitLevel>
+				<boss>1018</boss>
+				<bossLevel>800</bossLevel>
+				<jewel>0|0|0|327680|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>418</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>8|10|7</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>860|860|860</unitLevel>
+				<boss>1017</boss>
+				<bossLevel>900</bossLevel>
+				<jewel>0|0|0|655360|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>419</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>7|10|8</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>960|960|960</unitLevel>
+				<boss>1019</boss>
+				<bossLevel>1000</bossLevel>
+				<jewel>0|0|0|1310720|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>420</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>6|10|9</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1060|1060|1060</unitLevel>
+				<boss>1015</boss>
+				<bossLevel>1100</bossLevel>
+				<jewel>0|0|0|2621440|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>421</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>10|10|10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1160|1160|1160</unitLevel>
+				<boss>1016</boss>
+				<bossLevel>1200</bossLevel>
+				<jewel>0|0|0|5242880|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>422</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>8|11|11</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1260|1260|1260</unitLevel>
+				<boss>1018</boss>
+				<bossLevel>1300</bossLevel>
+				<jewel>0|0|0|10485760|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)
+</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>423</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>6|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1360|1360|1360</unitLevel>
+				<boss>1017</boss>
+				<bossLevel>1400</bossLevel>
+				<jewel>0|0|0|20971520|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>424</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>4|13|13</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1460|1460|1460</unitLevel>
+				<boss>1019</boss>
+				<bossLevel>1500</bossLevel>
+				<jewel>0|0|0|41943040|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>425</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>2|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1560|1560|1560</unitLevel>
+				<boss>1015</boss>
+				<bossLevel>1600</bossLevel>
+				<jewel>0|0|0|83886080|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>426</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>10|15|20</numUnits>
+				<unitInterval>100</unitInterval>
+				<unitLevel>1700|1700|1700</unitLevel>
+				<boss>1016</boss>
+				<bossLevel>1740</bossLevel>
+				<jewel>0|0|0|167772160|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>427</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>15|20|25</numUnits>
+				<unitInterval>150</unitInterval>
+				<unitLevel>1850|1850|1850</unitLevel>
+				<boss>1018</boss>
+				<bossLevel>1890</bossLevel>
+				<jewel>0|0|0|335544320|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>428</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>15|25|30</numUnits>
+				<unitInterval>200</unitInterval>
+				<unitLevel>2010|2010|2010</unitLevel>
+				<boss>1017</boss>
+				<bossLevel>2050</bossLevel>
+				<jewel>0|0|0|671088640|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>429</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>20|25|35</numUnits>
+				<unitInterval>250</unitInterval>
+				<unitLevel>2180|2180|2180</unitLevel>
+				<boss>1019</boss>
+				<bossLevel>2220</bossLevel>
+				<jewel>0|0|0|1342177280|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>430</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2360|2360|2360</unitLevel>
+				<boss>1015</boss>
+				<bossLevel>2400</bossLevel>
+				<jewel>0|0|0|2684354560|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>431</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2550|2550|2550</unitLevel>
+				<boss>1016</boss>
+				<bossLevel>2600</bossLevel>
+				<jewel>0|0|0|5368709120|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>432</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>25|30|40</numUnits>
+				<unitInterval>320</unitInterval>
+				<unitLevel>2800|2800|2800</unitLevel>
+				<boss>1018</boss>
+				<bossLevel>2850</bossLevel>
+				<jewel>0|0|0|10737418240|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>433</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>25|35|40</numUnits>
+				<unitInterval>350</unitInterval>
+				<unitLevel>3100|3100|3100</unitLevel>
+				<boss>1017</boss>
+				<bossLevel>3150</bossLevel>
+				<jewel>0|0|0|21474836480|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>434</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>25|30|45</numUnits>
+				<unitInterval>370</unitInterval>
+				<unitLevel>3450|3450|3450</unitLevel>
+				<boss>1019</boss>
+				<bossLevel>3500</bossLevel>
+				<jewel>0|0|0|42949672960|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)
+사랑의 화살로 남성캐릭터를 마비시킴 (공중병사와 여성병사로 공략)</bossDetail>
+			</battle>
+			<battle>
+				<id>435</id>
+				<map>7</map>
+				<kindNums>88|89|90</kindNums>
+				<numUnits>30|40|50</numUnits>
+				<unitInterval>400</unitInterval>
+				<unitLevel>3850|3850|3850</unitLevel>
+				<boss>1015</boss>
+				<bossLevel>3900</bossLevel>
+				<jewel>0|0|0|85899345920|0</jewel>
+				<prevent>O</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+		</dungeon>
+    	<dungeon>
+    	    <kindNum>5</kindNum>
+    	    <name>다크허밋</name>
+    	    <maxTime>120</maxTime>
+    	    <dayChar>FRI|SUN|WED</dayChar>
+    	    
+			<battle>
+				<id>501</id>
+				<map>8</map>
+				<kindNums>91</kindNums>
+				<numUnits>5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1</unitLevel>
+				<boss>1021</boss>
+				<bossLevel>1</bossLevel>
+				<jewel>0|0|0|0|5</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>0</mobShield>
+				<grade>1</grade>
+				<unitDetail>없음</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>502</id>
+				<map>8</map>
+				<kindNums>91</kindNums>
+				<numUnits>10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>8</unitLevel>
+				<boss>1023</boss>
+				<bossLevel>10</bossLevel>
+				<jewel>0|0|0|0|10</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>0</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>없음</bossDetail>
+			</battle>
+			<battle>
+				<id>503</id>
+				<map>8</map>
+				<kindNums>91</kindNums>
+				<numUnits>15</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>16</unitLevel>
+				<boss>1022</boss>
+				<bossLevel>20</bossLevel>
+				<jewel>0|0|0|0|20</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>504</id>
+				<map>8</map>
+				<kindNums>91</kindNums>
+				<numUnits>20</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>28</unitLevel>
+				<boss>1024</boss>
+				<bossLevel>35</bossLevel>
+				<jewel>0|0|0|0|40</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>505</id>
+				<map>8</map>
+				<kindNums>91|92</kindNums>
+				<numUnits>15|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>40|40</unitLevel>
+				<boss>1020</boss>
+				<bossLevel>50</bossLevel>
+				<jewel>0|0|0|0|80</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>1</mobShield>
+				<grade>1</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>506</id>
+				<map>8</map>
+				<kindNums>91|92</kindNums>
+				<numUnits>14|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>80|80</unitLevel>
+				<boss>1021</boss>
+				<bossLevel>100</bossLevel>
+				<jewel>0|0|0|0|160</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>507</id>
+				<map>8</map>
+				<kindNums>91|92</kindNums>
+				<numUnits>13|7</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>96|96</unitLevel>
+				<boss>1023</boss>
+				<bossLevel>120</bossLevel>
+				<jewel>0|0|0|0|320</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>508</id>
+				<map>8</map>
+				<kindNums>91|92</kindNums>
+				<numUnits>12|8</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>112|112</unitLevel>
+				<boss>1022</boss>
+				<bossLevel>140</bossLevel>
+				<jewel>0|0|0|0|640</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>509</id>
+				<map>8</map>
+				<kindNums>91|92</kindNums>
+				<numUnits>11|9</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>140|140</unitLevel>
+				<boss>1024</boss>
+				<bossLevel>175</bossLevel>
+				<jewel>0|0|0|0|1280</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>510</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>10|7|3</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>160|160|160</unitLevel>
+				<boss>1020</boss>
+				<bossLevel>200</bossLevel>
+				<jewel>0|0|0|0|2560</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>2</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>511</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>10|5|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>210|210|210</unitLevel>
+				<boss>1021</boss>
+				<bossLevel>250</bossLevel>
+				<jewel>0|0|0|0|5120</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>50</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>512</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>9|6|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>260|260|260</unitLevel>
+				<boss>1023</boss>
+				<bossLevel>300</bossLevel>
+				<jewel>0|0|0|0|10240</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>513</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>8|7|5</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>360|360|360</unitLevel>
+				<boss>1022</boss>
+				<bossLevel>400</bossLevel>
+				<jewel>0|0|0|0|20480</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>514</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>8|6|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>460|460|460</unitLevel>
+				<boss>1024</boss>
+				<bossLevel>500</bossLevel>
+				<jewel>0|0|0|0|40960</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>700</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>515</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>7|7|6</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>560|560|560</unitLevel>
+				<boss>1020</boss>
+				<bossLevel>600</bossLevel>
+				<jewel>0|0|0|0|81920</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>3</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>516</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>10|10|5</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>660|660|660</unitLevel>
+				<boss>1021</boss>
+				<bossLevel>700</bossLevel>
+				<jewel>0|0|0|0|163840</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>517</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>9|10|6</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>760|760|760</unitLevel>
+				<boss>1023</boss>
+				<bossLevel>800</bossLevel>
+				<jewel>0|0|0|0|327680</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>518</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>8|10|7</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>860|860|860</unitLevel>
+				<boss>1022</boss>
+				<bossLevel>900</bossLevel>
+				<jewel>0|0|0|0|655360</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>519</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>7|10|8</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>960|960|960</unitLevel>
+				<boss>1024</boss>
+				<bossLevel>1000</bossLevel>
+				<jewel>0|0|0|0|1310720</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>4</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>520</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>6|10|9</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1060|1060|1060</unitLevel>
+				<boss>1020</boss>
+				<bossLevel>1100</bossLevel>
+				<jewel>0|0|0|0|2621440</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>4</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>521</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>10|10|10</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1160|1160|1160</unitLevel>
+				<boss>1021</boss>
+				<bossLevel>1200</bossLevel>
+				<jewel>0|0|0|0|5242880</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>522</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>8|11|11</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1260|1260|1260</unitLevel>
+				<boss>1023</boss>
+				<bossLevel>1300</bossLevel>
+				<jewel>0|0|0|0|10485760</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>523</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>6|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1360|1360|1360</unitLevel>
+				<boss>1022</boss>
+				<bossLevel>1400</bossLevel>
+				<jewel>0|0|0|0|20971520</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>524</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>4|13|13</numUnits>
+				<unitInterval>30</unitInterval>
+				<unitLevel>1460|1460|1460</unitLevel>
+				<boss>1024</boss>
+				<bossLevel>1500</bossLevel>
+				<jewel>0|0|0|0|41943040</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>5</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>525</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>2|12|12</numUnits>
+				<unitInterval>50</unitInterval>
+				<unitLevel>1560|1560|1560</unitLevel>
+				<boss>1020</boss>
+				<bossLevel>1600</bossLevel>
+				<jewel>0|0|0|0|83886080</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>5</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>526</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>10|15|20</numUnits>
+				<unitInterval>100</unitInterval>
+				<unitLevel>1700|1700|1700</unitLevel>
+				<boss>1021</boss>
+				<bossLevel>1740</bossLevel>
+				<jewel>0|0|0|0|167772160</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>527</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>15|20|25</numUnits>
+				<unitInterval>150</unitInterval>
+				<unitLevel>1850|1850|1850</unitLevel>
+				<boss>1023</boss>
+				<bossLevel>1890</bossLevel>
+				<jewel>0|0|0|0|335544320</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>528</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>15|25|30</numUnits>
+				<unitInterval>200</unitInterval>
+				<unitLevel>2010|2010|2010</unitLevel>
+				<boss>1022</boss>
+				<bossLevel>2050</bossLevel>
+				<jewel>0|0|0|0|671088640</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>529</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>20|25|35</numUnits>
+				<unitInterval>250</unitInterval>
+				<unitLevel>2180|2180|2180</unitLevel>
+				<boss>1024</boss>
+				<bossLevel>2220</bossLevel>
+				<jewel>0|0|0|0|1342177280</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>6</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>530</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2360|2360|2360</unitLevel>
+				<boss>1020</boss>
+				<bossLevel>2400</bossLevel>
+				<jewel>0|0|0|0|2684354560</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>6</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>531</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>20|30|40</numUnits>
+				<unitInterval>300</unitInterval>
+				<unitLevel>2550|2550|2550</unitLevel>
+				<boss>1021</boss>
+				<bossLevel>2600</bossLevel>
+				<jewel>0|0|0|0|5368709120</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1200</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>532</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>25|30|40</numUnits>
+				<unitInterval>320</unitInterval>
+				<unitLevel>2800|2800|2800</unitLevel>
+				<boss>1023</boss>
+				<bossLevel>2850</bossLevel>
+				<jewel>0|0|0|0|10737418240</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>1500</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>533</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>25|35|40</numUnits>
+				<unitInterval>350</unitInterval>
+				<unitLevel>3100|3100|3100</unitLevel>
+				<boss>1022</boss>
+				<bossLevel>3150</bossLevel>
+				<jewel>0|0|0|0|21474836480</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2000</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>534</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>25|30|45</numUnits>
+				<unitInterval>370</unitInterval>
+				<unitLevel>3450|3450|3450</unitLevel>
+				<boss>1024</boss>
+				<bossLevel>3500</bossLevel>
+				<jewel>0|0|0|0|42949672960</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2200</maxReviveFloor>
+				<bossShield>1</bossShield>
+				<mobShield>2</mobShield>
+				<grade>7</grade>
+				<unitDetail>마법면역 (마법공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>물리면역 (물리공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+			<battle>
+				<id>535</id>
+				<map>8</map>
+				<kindNums>91|92|93</kindNums>
+				<numUnits>30|40|50</numUnits>
+				<unitInterval>400</unitInterval>
+				<unitLevel>3850|3850|3850</unitLevel>
+				<boss>1020</boss>
+				<bossLevel>3900</bossLevel>
+				<jewel>0|0|0|0|85899345920</jewel>
+				<prevent>H</prevent>
+				<maxReviveFloor>2500</maxReviveFloor>
+				<bossShield>2</bossShield>
+				<mobShield>1</mobShield>
+				<grade>7</grade>
+				<unitDetail>물리면역 (물리공격에 데미지를 받지 않음)</unitDetail>
+				<bossDetail>마법면역 (마법공격에 데미지를 받지 않음)</bossDetail>
+			</battle>
+		</dungeon>
+    </dungeonList>	
+</main>
