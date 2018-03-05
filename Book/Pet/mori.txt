@@ -19,7 +19,10 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Windwalker",
-"value": "Not revealed yet",
+"value": "- On first appearing, increases attack speed and movement speed of all ally units and casts physical immune shield for a certain period of time.\r\n
+- Increases basic game speed by 8% and increases self movement speed and attack speed by 10%.\r\n
+- Increases movement speed of all soldiers and critical damage by 7%.\r\n
+- Windwalker can increase the elves' friendship up to 600.",
 "inline": false
 },
 {
