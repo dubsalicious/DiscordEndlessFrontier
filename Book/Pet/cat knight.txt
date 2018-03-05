@@ -19,7 +19,11 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Winged Knight",
-"value": "Not revealed yet",
+"value": "- On first appearing, increases attack speed and movement speed of all ally units and casts magical immune shield for a certain period of time.\r\n
+- Increases basic game speed by 6%, increases self movement speed and attack power by 10%.\r\n
+- Increases movement speed and attack power of all soldiers by 6%.\r\n
+- Wing Knight can increase human friendship up to 600.\r\n
+- Even if Wing Knight is in the Time Shop, [Wings of Zephyrus] ability is activated. (0.02 per 5 star Winged Knight and 0.04 player per 6 star Winged Knight, [Wings of Zephyris] can not be greater than 1.2).",
 "inline": false
 },
 {
