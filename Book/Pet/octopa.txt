@@ -19,10 +19,10 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Siren",
-"value": "- On first appearing, increases attack speed and movement speed of all ally units and increases probability of skill attack for a certain period of time.\r\n
-- Increases basic game speed by 7%, increases self attack distance and movement speed by 7%.\r\n
-- Increases Attack Speed, Movement Speed and Critical Damage of all soldiers by 5%.\r\n
-- Siren can increase orc friendship up to 600.",
+"value": "- At its first appearance, it increases the attack speed and movement speed of all ally units, and it makes the Skill Attack faster.
+- Increases basic game speed by 7% and increases its attack range and movement speed by 7%.
+- Increases attack range, movement speed and critical damage of all units by 5%.
+- Tribe Friendliness for Orc can be increased up to 600 by Siren.",
 "inline": false
 },
 {
