@@ -1,0 +1,32 @@
+.acr "!pet dark sorceress" {
+  "plaintext":"%user% typed `!pet dark sorceress`",
+  "title": "Dark Sorceress",
+  "description": "Shop only Pet",
+  "footer": {
+    "text": "See !art 189  | !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/162.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increases resistance against darkness `100`, `400`, `800`, `1600`, `3200`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase additional medals obtained `0`, `0`, `35`, `45`, `60`%",
+  "inline": false
+},
+{
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "Hell Lord's Bone Boots",
+  "inline": false
+},
+{
+  "name": "Pet points",
+  "value": "`7`, `14`, `21`, `28`, `35`",
+  "inline": true
+}
+],
+"color": 10554123
+}
