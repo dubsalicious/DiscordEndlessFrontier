@@ -1,0 +1,32 @@
+.acr "!pet amaymon" {
+  "plaintext":"%user% typed `!pet amaymon`",
+  "title": "Amaymon",
+  "description": "Fortress of Hell Lord Pet",
+  "footer": {
+    "text": "See !art 188  | !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/161.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase starting level when revived `0.4`, `0.8`, `1.2`, `1.6`, `2`%",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase additional medals obtained `0`, `0`, `70`, `90`, `120`%",
+  "inline": false
+},
+{
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "Hell Lord's Winged Cape",
+  "inline": false
+},
+{
+  "name": "Pet points",
+  "value": "`7`, `14`, `21`, `28`, `35`",
+  "inline": true
+}
+],
+"color": 10554123
+}
