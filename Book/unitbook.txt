@@ -1,4 +1,4 @@
-﻿.acr "!unitbook" {
+.acr "!unitbook" {
   "plaintext": "%user% typed `!unitbook`",
   "title": "List of unit commands",
   "description": "`!unit unitname` and `!unitskill unitname`",
@@ -29,6 +29,7 @@ valkyrie
 flame spirit
 cleric
 winged knight
+mesketress
 ```"
     },
     {
@@ -54,6 +55,7 @@ sword dancer
 hippogriff
 elementalist
 windwalker
+elf sage
 ```"
     },
     {
@@ -79,6 +81,7 @@ incubus
 dark spirit
 dark elf
 abyss mage
+crow knight
 ```"
     },
     {
@@ -103,6 +106,7 @@ ice spirit
 blade master
 frost demon
 siren
+rangda
 ```"
     }
   ],
