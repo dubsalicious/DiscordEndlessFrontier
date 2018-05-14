@@ -1,0 +1,37 @@
+.acr "!pet athos" {
+  "plaintext":"%user% typed `!pet athos`",
+  "title": "Athos",
+  "description": "Musketress Pet",
+  "footer": {
+    "text": "See !unit musketress | !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/163.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increases the Human Tribe Friendliness gained from Human Unit Seals `10`, `30`, `50`, `70`, `100`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase attack speed of Human units in Outland Battle. `0`, `0`, `4`, `7`, `14`",
+  "inline": false
+},
+{
+"name": "Awakens the hidden ability of Senior Musketress",
+"value": "Not revealed yet",
+"inline": false
+},
+{
+  "name": "Spirit Highlands",
+  "value": "13-16\r\n25-15\r\n",
+  "inline": true
+},
+{
+  "name": "Pet points",
+  "value": "`4`, `8`, `12`, `16`, `20`",
+  "inline": true
+}
+],
+"color": 10554123
+}
