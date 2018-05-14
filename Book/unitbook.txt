@@ -29,7 +29,7 @@ valkyrie
 flame spirit
 cleric
 winged knight
-mesketress
+musketress
 ```"
     },
     {
