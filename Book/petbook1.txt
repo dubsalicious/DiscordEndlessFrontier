@@ -19,7 +19,8 @@ e-77        windy       dark snake  seahorse
 sarah       oscar       black       juda
 rena        hippong     osma        saul
 bernard     chichi      chesher     bamba
-cat knight  mori        cerbero     octopa```",
+cat knight  mori        cerbero     octopa
+athos       grizzle     raven       leyak```",
 "inline": false
 },
 {
