@@ -1,0 +1,11 @@
+.acr "!unit crow knight" {"plaintext":"%user% typed `!unit Crow Knight`", "title":"Senior Crow Knight","description":"★★★★★★ | Flying Unit | :ap::uu::um::ta::hn: Gen 11","footer":{"text":"See !pet raven | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/187.png","fields":[
+{"name":"Abilities","value":"```+ Normal Attack: Fires an exploding bullet which explodes upon impact, dealing damage to nearby enemies.
++ Skill Attack: Summons a swarm of crows that attacks multiple targets and restores some of its own HP.
++ Special Ability 1: Increases basic game speed by 8%, increases the movement speed of undead units by 6% and attack range of undead units by 7%.
++ Special Ability 2: Makes itself invisible (cloaking), and advances stealthily to destroy the enemy base.
++ Special Ability 3: Unaffected by attacks by terrain above stage 10,000.
++ Special Ability 4: Appears near the enemies at its first appearance, and casts buff to increase its own movement speed and attack speed.
++ Darkness Resistance: Increases darkness resistance by 100. ( It is applied even when Crow Knight is in Time Shop. Darkness resistance by Crow Knight does not exceed 2,000. )
++ Indifference: Only attacks female units and ignores male units and neutral units because they are out of its attention ( But when being attacked, it strikes back regardless of gender. )
++ Undead Token: Increases the undead tribe friendliness that is gained from undead unit seals by 5% for each 5-star Crow Knight, and 10% for each 6-star Crow Knight. It is applied even when Crow Knight is in Time Shop and does not exceed 100%.```"}
+],"color":15843890}
