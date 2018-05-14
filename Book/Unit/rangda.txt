@@ -1,0 +1,9 @@
+.acr "!unit rangda" {"plaintext":"%user% typed `!unit Rangda`", "title":"Senior Rangda","description":"★★★★★★ | Ground Unit | :ap::uo::uf::ta::dc::hn: Gen 11","footer":{"text":"See !pet leyak | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/189.png","fields":[
+{"name":"Abilities","value":"```+ Normal Attack: Throws a frozen spear at an enemy. Upon impact, the spear splits into three smaller spears which deal damage to other enemies and has a slight chance of slowing their movement speed.
++ Skill Attack: Summons a huge ice crystal and throws it at an enemy. The ice crystal throws small ice fragments which damage enemies until it disappears. Has a slight chance to freeze enemies..
++ Special Ability 1: Increases basic game speed by 8%, increases the movement speed of orc units by 7% and attack range of orc units by 6%.
++ Special Ability 2: Appears near the enemies at its first appearance, and casts buff to increase its own movement speed and attack speed.
++ Special Ability 3: Unaffected by attacks by terrain above stage 10,000.
++ Special Ability 4: Detects cloaking units.
++ Orc Token: Increases the orc tribe friendliness that is gained from orc unit seals by 5% for each 5-star Rangda, and 10% for each 6-star Rangda. It is applied even when Rangda is in Time Shop and does not exceed 100%.```"}
+],"color":15843890}
