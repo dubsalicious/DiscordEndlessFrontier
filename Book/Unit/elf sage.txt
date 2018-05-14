@@ -1,0 +1,9 @@
+.acr "!unit elf sage" {"plaintext":"%user% typed `!unit Elf Sage`", "title":"Senior Elf Sage","description":"★★★★★★ | Ground Unit | :am::ue::um::ta::dc::hn: Gen 11","footer":{"text":"See !pet grizzle | !unitskill elf sage | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/185.png","fields":[
+{"name":"Abilities","value":"```+ Normal Attack: Casts dragon-like magic missiles to attack multiple enemies.
++ Skill Attack: Casts three types of debuff missiles to attack enemies. ( The red one stuns them, the green one slows them and the yellow one paralyzes them. )
++ Special Ability 1: Increases basic game speed by 10%, increases the movement speed of elf units by 7% and attack range of elf units by 6%.
++ Special Ability 2: Appears near the enemies at its first appearance, and casts buff to increase its own movement speed and attack speed.
++ Special Ability 3: Unaffected by attacks by terrain above stage 10,000.
++ Special Ability 4: Detects cloaking units.
++ Elf Token: Increases the elf tribe friendliness that is gained from elf unit seals by 5% for each 5-star Elf Sage, and 10% for each 6-star Elf Sage. It is applied even when Elf Sage is in Time Shop and does not exceed 100%.```"}
+],"color":15843890}
