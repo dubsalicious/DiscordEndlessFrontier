@@ -1,0 +1,37 @@
+.acr "!pet leyak" {
+  "plaintext":"%user% typed `!pet leyak`",
+  "title": "Leyak",
+  "description": "Rangda Pet",
+  "footer": {
+    "text": "See !unit rangda | !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/166.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increases the Orc Tribe Friendliness gained by from Unit Seals `10`, `30`, `50`, `70`, `100`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase attack speed of Orc units in Outland Battle. `0`, `0`, `4`, `7`, `14`",
+  "inline": false
+},
+{
+"name": "Awakens the hidden ability of Senior Rangda",
+"value": "Not revealed yet",
+"inline": false
+},
+{
+  "name": "Spirit Highlands",
+  "value": "14-11\r\n27-5\r\n",
+  "inline": true
+},
+{
+  "name": "Pet points",
+  "value": "`4`, `8`, `12`, `16`, `20`",
+  "inline": true
+}
+],
+"color": 10554123
+}
