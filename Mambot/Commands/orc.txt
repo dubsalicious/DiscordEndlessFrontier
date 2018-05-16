@@ -11,6 +11,7 @@ Big Foot             Ground   Ranged               MultiHit
 ```
 **Orc Units [Physical]** Ordered by most recently released
 ```
+Rangda (11)          Air      Ranged   TargetAir   MultiHit
 Frost Demon (9)      Ground   Melee                MultiHit
 Blade Master (8)     Ground                        MultiHit
 Naga (6)             Ground   Ranged   TargetAir   MultiHit   Cloaked    CloakDetection
@@ -29,6 +30,7 @@ Ice Wizard
 ```
 **Physical Core**
 ```
+Rangda
 Naga
 Frost demon
 Blade Master
