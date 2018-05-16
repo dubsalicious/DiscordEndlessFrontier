@@ -5,7 +5,7 @@
 
 First 2 units are core, followed by supports.
 ```
-Fire spirit   Valkyrie        Cleric (5)                                    Priest (5)
+Musketress    Valkyrie        Cleric (5)                                    Priest (5)
 Cleric        Valkyrie        Winged Knight/Cleric (Mixed)                  Priest (5)
 Fire spirit   Valkyrie        Hot-Blooded Xuan (1800 Gold)   Cleric (4)     Priest (5)
 ```
@@ -13,10 +13,9 @@ Fire spirit   Valkyrie        Hot-Blooded Xuan (1800 Gold)   Cleric (4)     Prie
 **Example Core 2 Builds (Icy, Tinkey 5\*)**
 
 ```
-Fire spirit   Valkyrie        Cleric (9)                                     Fairy
+Musketress    Valkyrie        Cleric (9)                                     Fairy
 ```
 **Notes**
 
  - Supports should only have a minority of medals and generally aim for good breakpoints that benefit the whole team.
  - Please see this page on reddit for more information on breakpoints - <http://bit.ly/2lvOGKK>
- 
