@@ -12,6 +12,7 @@ Death Knight       Ground  Melee              RangedAoE
 ```
 **Undead Units [Physical]** 
 ```
+Crow Knight (11)   Flying  Ranged  TargetAir  Miltihit  Cloak
 Dark Elf (9)       Ground  Melee              MultiHit
 Medusa (6)         Ground  Ranged  TargetAir  MultiHit
 Dark Admiral (4)   Ground  Ranged  TargetAir  MultiHit
@@ -30,6 +31,7 @@ Incubus
 ```
 **Physical Core**
 ```
+Crow Knight
 Dark Admiral
 Medusa
 Dark Elf
