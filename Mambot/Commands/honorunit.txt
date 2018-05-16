@@ -1,15 +1,22 @@
 .acr "!honorunit" %user% typed `!honorunit`. This details the availability of all honor units and the useful passive skills.
+__Gen 11 - Honor Shop, for 4400__:ef_hc:
+*Tribe Friendliness*
+``` 
+Musketress      Human  Magical
+Elf Sage        Elf    Magical  Increases Darkness Resistance
+Crow Knight     Undead Physical
+Rangda          Orc    Physical
 
-__Gen 10 - Honor Shop, for 4400__:ef_hc:
-*Passive Skill - Tribe Friendliness*
+__Gen 10 - 5700__:ef_gem:
+*Tribe Friendliness*
 ``` 
 Winged Knight  Human  Physical  Increases Game Speed Buffs (x2, x3, x5)
 Windwalker     Elf    Magical
 Abyss Mage     Undead Magical
 Siren          Orc    Magical
 ```
-__Gen 9 - Honor Shop, for  5700__:ef_gem:
-*Passive Skill - Tribe Enhancement, buffs itself and secondary race's ability*
+__Gen 9__
+*Tribe Enhancement*
 ```
 Cleric        Human   Magical   Reduce Personal Raid Skill Cooldown
 Elementalist  Elf     Physical  Increase Nature Resistance
@@ -18,7 +25,7 @@ Frost Demon   Orc     Physical  Increases efficiency of active skills
 ```
 **All below available in the unit shop for :ef_medal: or using the "Pick Honor Unit" chest.
 __Gen 8__
-*Immune to Outland Distortion debuffs (Stage 10k and above)*
+*Spirit Rest Limit Break(2\4)*
 ```
 Human   Fire Spirit    Increase Fire Resistance
 Elf     Hippogryph     Elf Skill Double Skip
@@ -26,7 +33,7 @@ Undead  Dark Spirit    Improve Spirit Rest
 Orc     Blade Master   Improve Spirit Rest
 ```
 __Gen 7__
-*Passive Skill - Innervate (Reduces CD on raid skills, max 40%, 1/3 per unit, Timeshop)*
+*Innervate*
 ```
 Human   Valkyrie
 Elf     Sword Dancer
@@ -34,7 +41,7 @@ Undead  Incubus
 Orc     Ice Spirit 
 ```
 __Gen 6__
-*Passive Skill - Inner Passion*
+*Inner Passion*
 ```
 Human   Steam Punk
 Elf     Sylphid
@@ -42,7 +49,7 @@ Undead  Medusa
 Orc     Naga
 ```
 __Gen 5__
-*Passive Skill - Spirit Awakening*
+*Spirit Awakening*
 ```
 Human   Pilot
 Elf     Alchemist
