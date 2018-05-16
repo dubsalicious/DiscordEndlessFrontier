@@ -2,6 +2,7 @@
 
 **Elf Units [Magical]** Ordered by most recently released
 ```
+Elf Sage (11)       Ground   Ranged   TargetAir   MultiHit
 Windwalker (10)     Ground   Melee                             Cloak
 Sword Dancer (7)    Ground   Melee                MultiHit
 Alchemist (5)       Ground   Ranged   TargetAir                CloakDetection
@@ -23,11 +24,11 @@ __**Build Priorities**__ - Ordered by importance
 
 **Magical Core**
 ```
+Elf Sage
 Windwalker
 Druid
 Fairy(Blunt force +92 or higher)
 Sword Dancer
-Forest Guardian 
 ```
 **Physical Core**
 ```
