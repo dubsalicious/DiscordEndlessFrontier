@@ -1,18 +1,16 @@
 .acr "!unitlist" %user% typed `!unitlist`. This contains a picture of all units and common abbreviations.
 
-__**Abbreviations list**__
-
-<https://docs.google.com/spreadsheets/d/1lp1PwicC9QwwQye32IwLriIV0H4OQcrcpWPYDbxeu30/htmlview?sle=true> - Megasheet of Tower of Trials solutions also have abbreviations list with official translations to every language game supports.
 
 __**Common Abbreviations (Updated 16/05/2018)**__
-```
 *One Star*
+```
 EA - Elf Archer
 INF - Infantry
 OF - Orc Fighter
 SU - Skeleton Unit
-
+```
 *Two Star*
+```
 EW - Elf Warrior
 Frost - Frost Mage
 HI - Heavy Infantry
@@ -21,8 +19,9 @@ PA - Poison Archer
 Lock - Warlock
 Ghost - Ghost
 FB - Fire Bird
-
+```
 *Three Star*
+```
 HK - Hammer Knight
 HEA - High Elf Archer
 GE - Green Eagle
@@ -31,14 +30,16 @@ Musk - Musketeer
 OHU - Orc Hammer Unit
 OW - Orc Wing
 SW - Skeleton Warrior
-
+```
 *Four Star*
+```
 BMW - Black Magic Wizard
 CK - Cavalry Knight
 OAU - Orc Ax Unit
 WM - Wind Mage
-
+```
 *Five Star*
+```
 AL - Aladdin
 Alch - Alchemist
 AM - Abyss Mage
