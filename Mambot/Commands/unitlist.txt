@@ -96,3 +96,4 @@ WR - Wolf Rider
 WW - Wolf Warrior
 Wyvern - Wyvern Rider
 ```
+For localised unit names, consult <http://bit.ly/eftotmegasheet> abbriviation list
