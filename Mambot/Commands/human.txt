@@ -2,6 +2,7 @@
 
 **Human Units [Magical]** Ordered by most recently released
 ```
+Musketress (11)            Floating Ranged   TargetAir   MultiHi
 Cleric (9)                 Ground   Ranged   TargetAir   MultiHit, Heal 
 Flame Spirit (8)           Flying   Ranged   TargetAir   MultiHit
 Steam Punk (6)             Ground   Ranged   TargetAir   MultiHit
@@ -22,11 +23,10 @@ __**Build Priorities - Ordered by importance**__
 
 **Magical Core**
 ```
+Musketress
 Flame Spirit
 Cleric
 Steam Punk
-Fire Mage
-Gunner
 ```
 **Physical Core**
 ```
