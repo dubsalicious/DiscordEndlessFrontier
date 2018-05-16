@@ -6,7 +6,7 @@ Musketress      Human  Magical
 Elf Sage        Elf    Magical  Increases Darkness Resistance
 Crow Knight     Undead Physical
 Rangda          Orc    Physical
-
+```
 __Gen 10 - 5700__:ef_gem:
 *Tribe Friendliness*
 ``` 
