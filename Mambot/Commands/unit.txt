@@ -4,19 +4,19 @@ Most units can be bought with :ef_medal:, the __**exceptions**__ are the 8 follo
 
 Available from __Honor Shop__ for :ef_hc: 4400 
 ```
-Winged Knight Human   Physical
-Windwalker    Elf     Magical
-Abyss Mage    Undead  Magical
-Siren         Orc     Magical
+Musketress      Human  Magical
+Elf Sage        Elf    Magical
+Crow Knight     Undead Physical
+Rangda          Orc    Physical
 ```
 
 Available from __Unit Shop__  for :ef_gem: 5700
 
 ```
-Cleric       Human   Magical    
-Elementalist Elf     Physical   
-Dark Elf     Undead  Physical   
-Frost Demon  Orc     Physical   
+Winged Knight Human   Physical
+Windwalker    Elf     Magical
+Abyss Mage    Undead  Magical
+Siren         Orc     Magical 
 ```
 
 When the next units are released they will be in the honor shop. The current honor units become available for gems and the current gem units become available for medals.
