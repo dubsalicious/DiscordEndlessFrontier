@@ -1,67 +1,97 @@
 .acr "!unitlist" %user% typed `!unitlist`. This contains a picture of all units and common abbreviations.
 
-__**Diagram of All Units**__
+__**Abbreviations list**__
 
-<http://bit.ly/efunitpicture> - A great diagram by a reddit user.
+<https://docs.google.com/spreadsheets/d/1lp1PwicC9QwwQye32IwLriIV0H4OQcrcpWPYDbxeu30/htmlview?sle=true> - Megasheet of Tower of Trials solutions also have abbreviations list with official translations to every language game supports.
 
-__**Common Abbreviations (Updated 24/04/2017)**__
-
+__**Common Abbreviations (Updated 16/05/2018)**__
 ```
-Alch    - Alchemist
-BF      - Big Foot
-BM      - Blade Master
-BMW     - Black Magic Wizard
-CK      - Cavalry Knight
-Cle     - Cleric
-DA      - Dark Archer
-DAd     - Dark Admiral
-DW      - Dark Elf
-DS      - Dark Spirit
-EA      - Elf Archer
-Ele     - Elementalist
-EW      - Elf Warrior
-FD      - Frost Demon
-FG      - Forest Guardian
-FB      - Fire Bird
-FM      - Fire Mage
-Frost   - Frost Mage
-FS      - Fire Spirit
-Ghost   - Ghost
-GE      - Green Eagle
-GH/GHU  - Great Hammer Unit
-Goku    - Hoyden Goku
-GR      - Griffin Rider
-HB/HBX  - Hot-Blooded Xuanzang
-HEA     - High Elf Archer
-HI      - Heavy Infantry
-HG      - Hippogriff
-HK      - Hammer Knight
-HoD     - Hands of Death
-Inc     - Incubus
-Inf     - Infantry
-IS      - Ice Spirit
-IW      - Ice Wizard
-Med/Mom - Medusa
-Musk    - Musketeer
-Naga    - Naga
-NoD     - Dark Ninja
-OA      - Orc Ax Unit
-OF      - Orc Fighter
-OH      - Orc Hunter
-OHU     - Orc Hammer Unit
-OW      - Orc Wing
-PA      - Poison Archer
-RR      - Raptor Rider
-SD      - Sword Dancer
-SP      - Steam Punk
-SU      - Skeleton Unit
-SW      - Skeleton Warrior
-Sylph   - Sylphid
-UK      - Unicorn Knight
-Valk    - Valkyrie
-Lock    - Warlock
-WM      - Wind Mage
-WR      - Wolf Rider
-WW      - Wolf Warrior
-Wyvern  - Wyvern Rider
+*One Star*
+EA - Elf Archer
+INF - Infantry
+OF - Orc Fighter
+SU - Skeleton Unit
+
+*Two Star*
+EW - Elf Warrior
+Frost - Frost Mage
+HI - Heavy Infantry
+OH - Orc Hunter
+PA - Poison Archer
+Lock - Warlock
+Ghost - Ghost
+FB - Fire Bird
+
+*Three Star*
+HK - Hammer Knight
+HEA - High Elf Archer
+GE - Green Eagle
+GHU - Great Hammer Unit
+Musk - Musketeer
+OHU - Orc Hammer Unit
+OW - Orc Wing
+SW - Skeleton Warrior
+
+*Four Star*
+BMW - Black Magic Wizard
+CK - Cavalry Knight
+OAU - Orc Ax Unit
+WM - Wind Mage
+
+*Five Star*
+AL - Aladdin
+Alch - Alchemist
+AM - Abyss Mage
+BD, Drummer - Battle Drummer
+BF - Big Foot
+BM - Blade Master
+BU - Bomb Unit
+Cleric - Cleric
+Crow - Crow Knight
+DA - Dark Archer
+DaD - Dark Admiral
+DE - Dark Elf
+DK - Death Knight
+Druid - Druid
+DS - Dark Spirit
+Elem - Elementalist
+Ent - Ent
+Fairy - Fairy
+FD - Frost Demon
+FG - Forest Guardian
+FM - Fire Mage
+FS - Fire Spirit
+Goku - Hoyden Goku
+Golem - Golem
+GR - Griffin Rider
+Gunner - Gunner
+HB - Hot-Blooded Xuanzang
+HG, Hippo - Hippogriff
+HoD - Hands of Death
+INC - Incubus
+IS - Ice Spirit
+IW - Ice Wizard
+Lich - Lich
+Med, Dusa, MoM - Medusa
+Naga - Naga
+NoD - Dark Ninja
+Pilot - Pilot
+Priest - Priest
+Rangda - Rangda
+Raptor, RR - Raptor Rider
+Sage - Elf Sage
+SD - Sword Dancer
+Siren - Siren
+Sorc - Sorcerer
+SP - Steam Punk
+Succ - Succubus
+Sylph - Sylphid
+Tress - Musketress
+UK - Unicorn Knight
+Valk - Valkyrie
+Wiva - Windwalker
+WK - Winged Knight
+WR - Wolf Rider
+WW - Wolf Warrior
+Wyvern - Wyvern Rider
 ```
