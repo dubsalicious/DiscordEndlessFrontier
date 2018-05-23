@@ -24,18 +24,17 @@ __**Build Priorities**__ - Ordered by importance
 
 **Magical Core**
 ```
-Abyss Mage
 Dark Spirit
+Abyss Mage
 Lich
 Incubus
 ```
 **Physical Core**
 ```
 Crow Knight
+Dark Elf
 Dark Admiral
 Medusa
-Dark Elf
-Bomb Unit
 ```
 **Support Units**
 ```
