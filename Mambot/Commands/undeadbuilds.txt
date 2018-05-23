@@ -17,7 +17,6 @@ Dark Elf    Dark Spirit   Dark Elf (9)           Fairy
 ```
 **Notes**
 
- - Crow Knight becomes better core than Dark Spirit with Ancient Outland's Blunt Froce at +92 or higher(see !art 89 in #book).
  - Dark Spirit supports make your team faster, but Dark Elf supports make your team go further due to tribe friendliness.
  - Supports should only have a minority of medals and generally aim for good breakpoints that benefit the whole team.
  - Please see this page on reddit for more information on breakpoints - <http://bit.ly/2lvOGKK>
