@@ -1,7 +1,5 @@
 .acr "!undeadbuilds" You used the command `!undeadbuilds`. This page contains some example builds that have provded successful for other players.
 
-__**These are currently not updated for Honor rotation 7 onwards because undead are considered inferior**__
-
 **Example Core 2 Builds**
 First 2 units are core, followed by supports.
 ```
