@@ -3,7 +3,7 @@
 **Role Commands**
 
 `.iam Server #` Replace hash with your server, 1 to 17 for international, or korea for korea
-`.iam Stage #000`
+`.iam Stage ####` Replace hash with stage role. You can find all self-assignable roles in pinned post
 `.iamnot Stage #000`
 
 **General Help Guides** 
