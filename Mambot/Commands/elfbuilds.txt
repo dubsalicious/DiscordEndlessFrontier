@@ -4,8 +4,8 @@
 
 First 2 units are core, followed by supports.
 ```
-Elf Sage   Hippogriff   Hippogriff (5)          Priest (5)
-Windwalker Elementalist Alch/Elementalist (5)   Priest (5)
+Windwalker Hippogriff   Hippogriff (5)          Priest (5)
+Elf Sage   Elementalist Alch/Elementalist (5)   Priest (5)
 Druid      Goku         Alch/Sylphid (6)        Priest (4)
 ```
 
