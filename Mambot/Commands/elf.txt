@@ -24,8 +24,8 @@ __**Build Priorities**__ - Ordered by importance
 
 **Magical Core**
 ```
-Elf Sage
 Windwalker
+Elf Sage
 Druid
 Fairy(Blunt force +92 or higher)
 Sword Dancer
