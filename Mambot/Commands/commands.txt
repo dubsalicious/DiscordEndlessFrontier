@@ -2,7 +2,7 @@
 
 **Role Commands**
 
-`.iam Server #` Replace hash with your server, 1 to 14 for international, or korea for korea
+`.iam Server #` Replace hash with your server, 1 to 17 for international, or korea for korea
 `.iam Stage #000`
 `.iamnot Stage #000`
 
