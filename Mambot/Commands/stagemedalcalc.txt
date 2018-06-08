@@ -2,7 +2,7 @@
 
 You need to know 2 pieces of information:
 
- - The `MedalReward` for the stage you're reviving on, see`!stagemedal1`, `!stagemedal2` and `!stagemedal3` for this.
+ - The `MedalReward` for the stage you're reviving on, see`!stagemedal1`, `!stagemedal2` ,`!stagemedal3`, up to `!stagemedal9` for this.
  - Your MedalBonus from artifact sets, trans units and such. This is displayed on the revival screen as a percentage in blue writing.
 
 Plug these into this formula  `MedalReward + (MedalReward * (MedalBonus/100))`

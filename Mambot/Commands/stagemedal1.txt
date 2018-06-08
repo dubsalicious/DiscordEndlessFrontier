@@ -2,7 +2,7 @@
 
 ```scheme
 [Stage]   [Medal]    [Increase]
-100       516        %
+100       516        INF%
 200       2.60a      403.88%
 300       6.35a      144.23%
 400       11.77a     85.29%
@@ -32,16 +32,16 @@
 2800      3.52b      11.6%
 2900      3.92b      11.17%
 3000      4.34b      10.77%
-3100      4.79b      10.4%
-3200      5.27b      10.05%
-3300      5.78b      9.72%
-3400      6.33b      9.42%
-3500      6.91b      9.13%
-3600      7.52b      8.86%
-3700      8.16b      8.61%
-3800      8.85b      8.37%
-3900      9.57b      8.14%
-4000      10.33b     7.93%
+3100      4.92b      13.3%
+3200      5.58b      13.63%
+3300      6.36b      13.91%
+3400      7.26b      14.11%
+3500      8.29b      14.21%
+3600      9.47b      14.21%
+3700      10.80b     14.09%
+3800      12.30b     13.88%
+3900      13.97b     13.59%
+4000      15.83b     13.26%
 [Stage]   [Medal]    [Increase]
 ```
 Related commands for other stages:
@@ -53,4 +53,5 @@ Related commands for other stages:
 `!stagemedal5` for Stage 16000 to 20000
 `!stagemedal6` for Stage 20000 to 24000
 `!stagemedal7` for Stage 24000 to 28000
-`!stagemedal8` for Stage 28000 to 30000
+`!stagemedal8` for Stage 28000 to 32000
+`!stagemedal9` for Stage 32000 to 35000
