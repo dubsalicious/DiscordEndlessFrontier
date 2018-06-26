@@ -19,7 +19,7 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Musketress",
-"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed by 8% and attack distance by 10%.\r\n- Increases the attack range and critical damage of all soldiers by 5% and movement speed by 6%.\r\n- [Breaking the limit of human seal]: Human friendliness from seals can increase up to 150%",
+"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed by 8% and attack distance by 10%.\r\n- Increases the attack range and critical damage of all soldiers by 5% and movement speed by 6%.\r\n- [Breaking the limit of human seal]: Human friendliness from seals can be increased by 150%",
 "inline": false
 },
 {
