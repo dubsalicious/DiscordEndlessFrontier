@@ -1,0 +1,31 @@
+.acr "!pet senior beel" {
+  "plaintext":"%user% typed `!pet senior beel`",
+  "title": "Senior Beel",
+  "description": " Pet",
+  "footer": {
+    "text": "See !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/156.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase Artifact Limit Break `2`, `4`, `6`, `8`, `10`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase additional medals obtained `0`, `0`, `60`, `80`, `100`",
+  "inline": false
+},
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "Fallen Forest Master's Wand (id193)",
+  "inline": false
+},
+ {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
