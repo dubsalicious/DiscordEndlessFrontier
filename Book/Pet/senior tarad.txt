@@ -1,0 +1,23 @@
+.acr "!pet senior tarad" {
+  "plaintext":"%user% typed `!pet senior tarad`",
+  "title": "Senior Tarad",
+  "description": " Pet",
+  "footer": {
+    "text": "See !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/153.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase Artifact Limit Break `2`, `4`, `6`, `8`, `10`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase additional medals obtained `0`, `0`, `50`, `60`, `80`",
+  "inline": false
+},
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "Fallen Forest Master's Armor (id190)",
+  "inline": false
+},
