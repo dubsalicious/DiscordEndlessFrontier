@@ -34,6 +34,8 @@ senior skole            senior lavark
 senior harping          senior hellyme
 senior gnome            senior furion
 senior bellial          senior bahat
+senior tarad            senior neru
+senior gorgon           senior beel
 heliffin    horn-boar   twin skulls  dread  amaymon```",
 "inline": false
 },
