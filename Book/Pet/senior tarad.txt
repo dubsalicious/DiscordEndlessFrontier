@@ -21,3 +21,11 @@
   "value": "Fallen Forest Master's Armor (id190)",
   "inline": false
 },
+ {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
