@@ -1,0 +1,31 @@
+.acr "!pet senior neru" {
+  "plaintext":"%user% typed `!pet senior neru`",
+  "title": "Senior Neru",
+  "description": " Pet",
+  "footer": {
+    "text": "See !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/154.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase Artifact Limit Break `2`, `4`, `6`, `8`, `10`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase resistance to nature attacks. `0`, `0`, `600`, `1200`, `1800`",
+  "inline": false
+},
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "Fallen Forest Master's Mask (id191)",
+  "inline": false
+},
+ {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
