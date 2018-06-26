@@ -19,7 +19,7 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Crow Knight",
-"value": "Not revealed yet",
+"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed and attack power by 10%.\r\n- Increases the movement speed and attack power of all soldiers by 5% and attack distance by 6%.\r\n- [Breaking the limit of Undead seal]: Undead friendliness from seals can be increased by 150%",
 "inline": false
 },
 {
