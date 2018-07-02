@@ -1,0 +1,43 @@
+.acr "!artset 50" {  "plaintext":"%user% typed `!artset 50`", 
+  "title": "#50: Hell Lord's Weapons set",
+  "footer": {
+    "text": "See !art [art_id] | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Set Effect 1 (2/6)",
+      "value": "Increase attack power of All Units
+`Base: 2.41b%`, `T1: 4.85c%`
+Decrease the Quest Upgrade Cost
+`Base: 3.44b%`, `T1: 31.04b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 2 (4/6)",
+      "value": "Increase HP Of All Units
+`Base: 72.91b%`, `T1: 97.53c%`
+Increase Quest Gold Acquisition
+`Base: 25.19b%`, `T1: 379.5b%`",
+      "inline": false
+    },
+    {
+      "name": "Set Effect 1 (6/6)",
+      "value": "Increase Critical damage of All Units
+`Base: 2.41b%`, `T1: 262.58c%`
+Increase additional Medals Obtained
+`Base: 800%`, `T1: 1.75a%`",
+      "inline": false
+    },
+    {
+      "name": "Artifacts",
+      "value": "`#184` Hell Lord's Winged Cape
+`#185` Hell Lord's Bone Boots
+`#186` Hell Lord's Bone Armor
+`#187` Hell Lord's Twin Swords
+`#188` Hell Lord's Horned Skull
+`#189` Hell Lord's Amulet",
+      "inline": false
+    },
+  ],
+  "color": 11235574
+}
