@@ -1,0 +1,26 @@
+.acr "!art 186" {  "plaintext":"%user% typed `!art 186`", 
+  "title": "#186 : Hell Lord's Bone Armor",
+  "description": "Artifact Grade : ★★★★★★★ | Hell Lord's Weapons set",
+  "footer": {
+    "text": "See !pet twin skulls | !artset 50 | !books | !artbook"
+  },
+  "fields": [
+    {
+      "name": "Ability 1",
+      "value": "Increase HP of Human
+`Base: 7.2b%`, `+20: 33.6b%`, `+50: 73.2b%`
+Trans 1
+`Base: 144.00b%`, `+20: 13.06c%`, `+50: 32.42c%`, `+100: 58.74d%`, `+140: 145.37f%`",
+      "inline": false
+    },
+    {
+      "name": "Ability 2",
+      "value": "Decrease Quest Time
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`"
+Trans 1
+`Base: 2.20a%`, `+20: 14.20a%`, `+50: 32.20a%`, `+100: 84.20a%`, `+140: 604.20a%`",
+      "inline": false
+    },
+  ],
+  "color": 4574648
+}
