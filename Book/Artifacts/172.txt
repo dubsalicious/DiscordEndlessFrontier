@@ -1,6 +1,6 @@
 .acr "!art 172" {  "plaintext":"%user% typed `!art 172`", 
   "title": "#172 : Loki's Trickster Necklace",
-  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
   "footer": {
     "text": "See !pet loki | !artset 48 | !books | !artbook"
   },
