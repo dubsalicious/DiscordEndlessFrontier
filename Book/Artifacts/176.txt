@@ -7,10 +7,10 @@
   "fields": [
     {
       "name": "Ability 1",
-      "value": "Increase HP of Human
-`Base: 7.2b%`, `+20: 33.6b%`, `+50: 73.2b%`
+      "value": "Increase Attack Power of Human and Elf
+`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`
 Trans 1
-`Base: 144.00b%`, `+20: 13.06c%`, `+50: 32.42c%`, `+100: 58.74d%`, `+140: 145.37f%`",
+`Base: 36.00b%`, `+20: 3.26c%`, `+50: 8.11c%`, `+100: 14.69d%`, `+140: 36.34f%`",
       "inline": false
     },
     {
