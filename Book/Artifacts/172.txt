@@ -15,10 +15,10 @@ Trans 1
     },
     {
       "name": "Ability 2",
-      "value": "Decrease the Quest Open Gold 
-`Base: 1.8b%`, `+20: 8.4b%`, `+50: 18.3b%`
+      "value": "Decrease the Quest Upgrade Cost
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`
 Trans 1
-`Base: 2.16b%`, `+20: 195.84b%`, `+50: 486.36b%`, `+100: 881.12c%`, `+140: 2.18f%`",
+`Base: 45.00a%`, `+20: 4.17b%`, `+50: 10.35b%`, `+100: 7.91c%`, `+140: 25.45e%`",
       "inline": false
     },
   ],
