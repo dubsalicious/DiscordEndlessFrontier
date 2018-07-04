@@ -6,18 +6,18 @@
   "fields": [
     {
       "name": "Set Effect 1 (2/4)",
-      "value": "Increase the basic game speed
-`Base: 37%`, `T1: 45%`
-Decrease the Unit Upgrade Cost
-`Base: 3.44b%`, `T1: 31.04b%`",
+      "value": "Increase Attack Power of All Units
+`Base: 2.41b%`, `T1: 4.85c%`
+Increase Quest Gold Acquisition
+`Base: 25.19b%`, `T1: 75.5b%`",
       "inline": false
     },
     {
       "name": "Set Effect 2 (4/4)",
-      "value": "Increase attack power of All units
-`Base: 2.41b%`, `T1: 14.55c%`
+      "value": "Increase Basic Game Speed
+`Base: 37%`, `T1: 38%`
 Increase additional medal
-`Base: 450%`, `T1: 1.48a%`",
+`Base: 420%`, `T1: 850%`",
       "inline": false
     },
     {
