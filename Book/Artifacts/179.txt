@@ -1,6 +1,6 @@
 .acr "!art 179" {  "plaintext":"%user% typed `!art 179`", 
   "title": "#179 : Horn of Warning",
-  "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
+  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
   "footer": {
     "text": "See !pet skadi | !artset 47 | !books | !artbook"
   },
