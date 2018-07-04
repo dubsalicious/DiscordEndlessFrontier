@@ -2,7 +2,7 @@
   "title": "#169 : Flaming Armor of Retribution",
   "description": "Artifact Grade : ★★★★★★★ | Legendary Volcanic Treasure Set",
   "footer": {
-    "text": "See !pet senior lavark | !artset 46 | !books | !artbook"
+    "text": "See !pet senior hellyme | !artset 46 | !books | !artbook"
   },
   "fields": [
     {
