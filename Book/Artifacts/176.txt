@@ -1,6 +1,6 @@
 .acr "!art 176" {  "plaintext":"%user% typed `!art 176`", 
   "title": "#176 : Wheel of Fate",
-  "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
+  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
   "footer": {
     "text": "See !pet vernandi | !artset 47 | !books | !artbook"
   },
