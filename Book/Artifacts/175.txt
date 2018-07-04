@@ -15,10 +15,10 @@ Trans 1
     },
     {
       "name": "Ability 2",
-      "value": "Increase Quest Gold Acquisition
-`Base: 400a%`, `+20: 4.05b%`, `+50: 9.52b%`
+      "value": "Decrease the Quest Time 
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`
 Trans 1
-`Base: 1.20b%`, `+20: 30.92b%`, `+50: 75.50b%`, `+100: 40.59c%`, `+140: 7.32e%`",
+`Base: 2.20a%`, `+20: 14.20a%`, `+50: 32.20a%`, `+100:  84.20a%`, `+140: 604.20a%`",
       "inline": false
     },
   ],
