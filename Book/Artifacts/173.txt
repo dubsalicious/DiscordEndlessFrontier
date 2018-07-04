@@ -1,6 +1,6 @@
 .acr "!art 173" {  "plaintext":"%user% typed `!art 173`", 
   "title": "#173 : Freya's Necklace",
-  "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
   "footer": {
     "text": "See !pet freya | !artset 48 | !books | !artbook"
   },
