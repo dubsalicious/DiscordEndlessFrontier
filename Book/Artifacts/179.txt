@@ -7,18 +7,18 @@
   "fields": [
     {
       "name": "Ability 1",
-      "value": "Increase HP of Orc
-`Base: 7.2b%`, `+20: 33.6b%`, `+50: 73.2b%`
+   "value": "Increase defense power of Undead and Orc
+`Base: 2.7b%`, `+20: 12.6b%`, `+50: 15.3b%`
 Trans 1
-`Base: 144.00b%`, `+20: 13.06c%`, `+50: 32.42c%`, `+100: 58.74d%`, `+140: 145.37f%`",
+`Base: 54.00b%`, `+20: 4.9c%`, `+50: 12.16c%`, `+100: 22.03d%`, `+140: 54.51f%`",
       "inline": false
     },
     {
       "name": "Ability 2",
-      "value": "Increase Quest Gold Acquisition
-`Base: 400a%`, `+20: 4.05b%`, `+50: 9.52b%`
+   "value": "Decrease Unit Upgrade Cost 
+`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`
 Trans 1
-`Base: 1.20b%`, `+20: 30.92b%`, `+50: 75.50b%`, `+100: 40.59c%`, `+140: 7.32e%`",
+`Base: 45.00a%`, `+20: 4.17b%`, `+50: 10.35b%`, `+100: 7.91c%`, `+140: 25.45e%`",
       "inline": false
     },
   ],
