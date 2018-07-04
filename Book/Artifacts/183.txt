@@ -15,10 +15,10 @@ Trans 1
     },
     {
       "name": "Ability 2",
-      "value": "Decrease the Unit Upgrade Cost
-`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`
+  "value": "Increase Quest Gold Acquisition
+`Base: 400a%`, `+20: 4.05b%`, `+50: 9.52b%`
 Trans 1
-`Base: 45.00a%`, `+20: 4.17b%`, `+50: 10.35b%`, `+100: 7.91c%`, `+140: 25.45e%`",
+`Base: 1.20b%`, `+20: 30.92b%`, `+50: 75.50b%`, `+100: 40.59c%`, `+140: 7.32e%`",
       "inline": false
     },
   ],
