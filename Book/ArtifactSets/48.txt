@@ -6,26 +6,26 @@
   "fields": [
     {
       "name": "Set Effect 1 (2/4)",
-      "value": "Increase the basic game speed
-`Base: 37%`, `T1: 45%`
-Decrease the Unit Upgrade Cost
+      "value": "Increase Critical Damage of All Units
+`Base: 2.41b%`, `T1: 2.91c%`
+Decrease the Quest Upgrade Cost
 `Base: 3.44b%`, `T1: 31.04b%`",
       "inline": false
     },
     {
       "name": "Set Effect 2 (4/4)",
-      "value": "Increase attack power of All units
-`Base: 2.41b%`, `T1: 14.55c%`
+      "value": "Increase Basic Game Speed
+`Base: 37%`, `T1: 38%`
 Increase additional medal
-`Base: 450%`, `T1: 1.48a%`",
+`Base: 420%`, `T1: 850%`",
       "inline": false
     },
     {
       "name": "Artifacts",
-      "value": "`#172` Loki's Trickster Necklace
-`#173` Freya's necklace
-`#174` Odin's spear
-`#175` Thor's hammer",
+      "value": "`#176` Wheel of Fate
+`#177` Scissors of Fate
+`#178` Thread of Fate
+`#179` Horn of Warning",
       "inline": false
     },
   ],
