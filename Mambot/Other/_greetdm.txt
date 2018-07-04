@@ -1,10 +1,10 @@
 .greetdmmsg Hello, %user%, welcome to the Endless Frontier discord server! 
 
-**__Server Rules__**
+__**Server Rules**__
 
 Make sure to read through the Rules Channel `#rules`. Make sure to learn about the Support Channel and the warning System.
 
-**__Server Usage Guide__**
+__**Server Usage Guide**__
 
 *Looking for a guild, help with the Tower of Trials or just want to Chat to People on your Server?*
 
@@ -12,12 +12,12 @@ Grant yourself a server role using `.iam Server #` in `#commands`. This will mak
 
 *Stage Roles*
 
-You can set yourself a role corresponding to your highest Stage reached in the Game by using `.iam Stage #` in `#commands`. Stages go up in steps by 1000 until Stage 10000, then in 2000 steps. For example, if your highest Stage is 4750, you would type `.iam Stage 4000`. 
+You can set yourself a role corresponding to your highest Stage reached in the Game by using .iam Stage # in `#commands`. Check for available Stage roles in channel `#commands`. For example, if your highest Stage is 5750, you would type `.iam Stage 5000`.
 
 *Want to chat to other players?*
 
 If it's about the game use `#ef_general`, anything else can go in `#offtopic`. 
 
-*After some help?* 
+After some help? 
 
 Ask any questions you have in `#ask_anything`, someone is normally around to help. We've also got a bunch of guides, type `!commands` in `#commands` for a full list.
