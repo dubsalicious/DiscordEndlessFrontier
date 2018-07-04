@@ -12,6 +12,7 @@
 `#49` Weapons of Ancient Mythology Set
 `#48` Treasures of Gods Set
 `#47` Warning of Ragnarok Set
+`#46` Legendary Volcanic Treasure Set
 `#45` Relic of Victory Set
 `#44` Relic of Amusement Set
 `#43` Relic of Fertility Set
