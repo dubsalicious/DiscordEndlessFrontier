@@ -1,0 +1,47 @@
+.acr "!stagemedal9" %user% typed `!stagemedal9`. This is the base medal reward for Stage 32000 to 35000, per 100 stages.
+
+```scheme
+[Stage]   [Medal]    [Increase]
+32100     236.81g    20.38%
+32200     284.82g    20.27%
+32300     342.46g    20.24%
+32400     411.91g    20.28%
+32500     495.90g    20.39%
+32600     597.88g    20.57%
+32700     722.24g    20.8%
+32800     874.50g    21.08%
+32900     1.06h      21.4%
+33000     1.29h      21.74%
+33100     1.58h      22.19%
+33200     1.94h      22.68%
+33300     2.38h      23.1%
+33400     2.94h      23.4%
+33500     3.64h      23.56%
+33600     4.49h      23.55%
+33700     5.54h      23.38%
+33800     6.82h      23.06%
+33900     8.37h      22.63%
+34000     10.22h     22.13%
+34100     12.43h     21.61%
+34200     15.05h     21.12%
+34300     18.17h     20.71%
+34400     21.88h     20.41%
+34500     26.31h     20.26%
+34600     31.64h     20.27%
+34700     38.11h     20.43%
+34800     46.01h     20.74%
+34900     55.75h     21.17%
+35000     67.83h     21.66%
+[Stage]   [Medal]    [Increase]
+```
+Related commands for other stages:
+
+`!stagemedal1` for Stage 100 to 4000
+`!stagemedal2` for Stage 4000 to 8000
+`!stagemedal3` for Stage 8000 to 12000
+`!stagemedal4` for Stage 12000 to 16000
+`!stagemedal5` for Stage 16000 to 20000
+`!stagemedal6` for Stage 20000 to 24000
+`!stagemedal7` for Stage 24000 to 28000
+`!stagemedal8` for Stage 28000 to 32000
+`!stagemedal9` for Stage 32000 to 35000
