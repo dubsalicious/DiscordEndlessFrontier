@@ -15,10 +15,10 @@ Trans 1
     },
     {
       "name": "Ability 2",
-      "value": "Decrease the Quest Upgrade Cost
-`Base: 1.5b%`, `+20: 7b%`, `+50: 15.3b%`
+   "value": "Decrease Quest Time 
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`
 Trans 1
-`Base: 45.00a%`, `+20: 4.17b%`, `+50: 10.35b%`, `+100: 7.91c%`, `+140: 25.45e%`",
+`Base: 2.20a%`, `+20: 14.20a%`, `+50: 32.20a%`, `+100:  84.20a%`, `+140: 604.20a%`",
       "inline": false
     },
   ],
