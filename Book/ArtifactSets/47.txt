@@ -6,26 +6,26 @@
   "fields": [
     {
       "name": "Set Effect 1 (2/4)",
-      "value": "Increase the basic game speed
-`Base: 37%`, `T1: 45%`
-Decrease the Unit Upgrade Cost
-`Base: 3.44b%`, `T1: 31.04b%`",
+      "value": "Increase the Attack Speed of All Units
+`Base: 15%`, `T1: 16%`
+Decrease the Quest Open Gold
+`Base: 4.05b%`, `T1: 486.36b%`",
       "inline": false
     },
     {
       "name": "Set Effect 2 (4/4)",
-      "value": "Increase attack power of All units
-`Base: 2.41b%`, `T1: 14.55c%`
+      "value": "Increase Critical Damage of All Units
+`Base: 2.41b%`, `T1: 8.73c%`
 Increase additional medal
-`Base: 450%`, `T1: 1.48a%`",
+`Base: 420%`, `T1: 850%`",
       "inline": false
     },
     {
       "name": "Artifacts",
-      "value": "`#176` Wheel of Fate
-`#177` Scissors of Fate
-`#178` Thread of Fate
-`#179` Horn of Warning",
+      "value": "`#172` Loki's Trickster Card
+`#173` Freya's Necklace
+`#174` Odin's Spear
+`#175` Thor's Hammer",
       "inline": false
     },
   ],
