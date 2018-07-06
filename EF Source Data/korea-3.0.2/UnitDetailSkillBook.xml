@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?><main>
+  <result>SUCCESS</result>
+  <uniqueSkillList>
+    <uniqueSkill>
+      <kindNum>1</kindNum>
+      <iconName>unique_1</iconName>
+      <name><![CDATA[인간의 징표]]></name>
+      <desc><![CDATA[인간병사 인장에 의한 인간종족 우호도를 증가시킨다. 달타냥 5성 한명당 5%, 6성 한명당 10% 증가시킨다. 시간의 상점에 있어도 적용되고, 최대 100%까지 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>2</kindNum>
+      <iconName>unique_2</iconName>
+      <name><![CDATA[엘프의 징표]]></name>
+      <desc><![CDATA[엘프병사 인장에 의한 엘프종족 우호도를 증가시킨다. 엘프 장로 5성 한명당 5%, 6성 한명당 10% 증가시킨다. 시간의 상점에 있어도 적용되고, 최대 100%까지 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>3</kindNum>
+      <iconName>unique_3</iconName>
+      <name><![CDATA[언데드의 징표]]></name>
+      <desc><![CDATA[언데드병사 인장에 의한 언데드종족 우호도를 증가시킨다. 크로우나이트 5성 한명당 5%, 6성 한명당 10% 증가시킨다. 시간의 상점에 있어도 적용되고, 최대 100%까지 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>4</kindNum>
+      <iconName>unique_4</iconName>
+      <name><![CDATA[오크의 징표]]></name>
+      <desc><![CDATA[오크병사 인장에 의한 오크종족 우호도를 증가시킨다. 랑다 5성 한명당 5%, 6성 한명당 10% 증가시킨다. 시간의 상점에 있어도 적용되고, 최대 100%까지 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>5</kindNum>
+      <iconName>unique_5</iconName>
+      <name><![CDATA[무관심]]></name>
+      <desc><![CDATA[남성과 중성 유닛은 관심 밖이라 무시한다. ( 단, 자신에게 피해를 준 적은 성별을 가리지 않고 공격한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>6</kindNum>
+      <iconName>unique_6</iconName>
+      <name><![CDATA[화염저항]]></name>
+      <desc><![CDATA[화염저항을 50 만큼 증가시켜준다. ( 시간의 상점에 있어도 적용되고, 중첩적용된다. 단, [ 불의정령 ]에 의한 화염저항은 최대 2000을 넘지 못한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>7</kindNum>
+      <iconName>unique_6</iconName>
+      <name><![CDATA[화염저항]]></name>
+      <desc><![CDATA[화염저항을 100 만큼 증가시켜준다. ( 시간의 상점에 있어도 적용되고, 중첩적용된다. 단, [ 불의정령 ]에 의한 화염저항은 최대 2000을 넘지 못한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>8</kindNum>
+      <iconName>unique_7</iconName>
+      <name><![CDATA[자연저항]]></name>
+      <desc><![CDATA[자연저항을 50 만큼 증가시켜준다. ( 시간의 상점에 있어도 적용되고, 누적적용된다. 단, [ 정령술사 ]에 의한 자연저항은 최대 2000을 넘지 못한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>9</kindNum>
+      <iconName>unique_7</iconName>
+      <name><![CDATA[자연저항]]></name>
+      <desc><![CDATA[자연저항을 100 만큼 증가시켜준다. ( 시간의 상점에 있어도 적용되고, 누적적용된다. 단, [ 정령술사 ]에 의한 자연저항은 최대 2000을 넘지 못한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>10</kindNum>
+      <iconName>unique_8</iconName>
+      <name><![CDATA[어둠저항]]></name>
+      <desc><![CDATA[어둠저항을 50만큼 증가시켜준다.(시간의 상점에 있어도 적용되고, 중첩 적용된다. 단,[크로우나이트]에 의한 어둠저항은 최대 2000을 넘지 못한다.)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>11</kindNum>
+      <iconName>unique_8</iconName>
+      <name><![CDATA[어둠저항]]></name>
+      <desc><![CDATA[어둠저항을 100만큼 증가시켜준다.(시간의 상점에 있어도 적용되고, 중첩 적용된다. 단,[크로우나이트]에 의한 어둠저항은 최대 2000을 넘지 못한다.)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>12</kindNum>
+      <iconName>unique_9</iconName>
+      <name><![CDATA[냉기저항]]></name>
+      <desc><![CDATA[]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>13</kindNum>
+      <iconName>unique_9</iconName>
+      <name><![CDATA[냉기저항]]></name>
+      <desc><![CDATA[]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>14</kindNum>
+      <iconName>unique_10</iconName>
+      <name><![CDATA[종족우호도 (인간)]]></name>
+      <desc><![CDATA[인간종족의 우호도를 올려준다. 5성 한명당 10만큼, 6성 한명당 20만큼 올려준다. 병사가 시간의 상점에 있어도 적용되고, 최대 400이상 증가하지 않는다. ( 종족우호도가 올라가면, 해당 종족으로 환생시 우호도만큼 환생훈장버프가 증가한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>15</kindNum>
+      <iconName>unique_11</iconName>
+      <name><![CDATA[종족우호도 (엘프)]]></name>
+      <desc><![CDATA[엘프종족의 우호도를 올려준다. 5성 한명당 10만큼, 6성 한명당 20만큼 올려준다. 병사가 시간의 상점에 있어도 적용되고, 최대 400이상 증가하지 않는다. ( 종족우호도가 올라가면, 해당 종족으로 환생시 우호도만큼 환생훈장버프가 증가한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>16</kindNum>
+      <iconName>unique_12</iconName>
+      <name><![CDATA[종족우호도 (언데드)]]></name>
+      <desc><![CDATA[언데드종족의 우호도를 올려준다. 5성 한명당 10만큼, 6성 한명당 20만큼 올려준다. 병사가 시간의 상점에 있어도 적용되고, 최대 400이상 증가하지 않는다. ( 종족우호도가 올라가면, 해당 종족으로 환생시 우호도만큼 환생훈장버프가 증가한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>17</kindNum>
+      <iconName>unique_13</iconName>
+      <name><![CDATA[종족우호도 (오크)]]></name>
+      <desc><![CDATA[오크종족의 우호도를 올려준다. 5성 한명당 10만큼, 6성 한명당 20만큼 올려준다. 병사가 시간의 상점에 있어도 적용되고, 최대 400이상 증가하지 않는다. ( 종족우호도가 올라가면, 해당 종족으로 환생시 우호도만큼 환생훈장버프가 증가한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>18</kindNum>
+      <iconName>unique_14</iconName>
+      <name><![CDATA[수정 폭파]]></name>
+      <desc><![CDATA[적 수정에 대한 공격력과 치명타 확률이 크게 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>19</kindNum>
+      <iconName>unique_15</iconName>
+      <name><![CDATA[대쉬]]></name>
+      <desc><![CDATA[첫번째 공격목표에게 빠르게 순간이동( 대쉬 ) 한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>20</kindNum>
+      <iconName>unique_16</iconName>
+      <name><![CDATA[바람의날개]]></name>
+      <desc><![CDATA[2배속, 3배속, 5배속 버프의 효율을 올려준다. 5성 한명당 0.05, 6성 한명당 0.1씩 올려준다. 예를 들어, 윙나이트 5성 4명, 6성 3명인 경우, 2배속은 2.5배속, 3배속은 3.5배속, 5배속은 5.5배속이 된다. 단, 윙나이트가 팀에 속해 있어야 하고, 시간의 상점에 있는 경우에는 적용이 안된다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>21</kindNum>
+      <iconName>unique_17</iconName>
+      <name><![CDATA[액티브스킬 강화]]></name>
+      <desc><![CDATA[천지폭렬, 바벨탑, 천검의 효율을 20스테이지 만큼 올려준다. ( 누적적용되며, 시간의 상점에 있으면 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>22</kindNum>
+      <iconName>unique_17</iconName>
+      <name><![CDATA[액티브스킬 강화]]></name>
+      <desc><![CDATA[천지폭렬, 바벨탑, 천검의 효율을 40스테이지 만큼 올려준다. ( 누적적용되며, 시간의 상점에 있으면 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>23</kindNum>
+      <iconName>unique_18</iconName>
+      <name><![CDATA[종족강화 (인간&오크)]]></name>
+      <desc><![CDATA[인간병사의 능력치(공격력/방어력/체력)를 10레벨, 오크병사의 능력치를 5레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>24</kindNum>
+      <iconName>unique_18</iconName>
+      <name><![CDATA[종족강화 (인간&오크)]]></name>
+      <desc><![CDATA[인간병사의 능력치(공격력/방어력/체력)를 20레벨, 오크병사의 능력치를 10레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>25</kindNum>
+      <iconName>unique_19</iconName>
+      <name><![CDATA[종족강화 (엘프&인간)]]></name>
+      <desc><![CDATA[엘프병사의 능력치(공격력/방어력/체력)를 7레벨, 인간병사의 능력치를 4레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>26</kindNum>
+      <iconName>unique_19</iconName>
+      <name><![CDATA[종족강화 (엘프&인간)]]></name>
+      <desc><![CDATA[엘프병사의 능력치(공격력/방어력/체력)를 15레벨, 인간병사의 능력치를 8레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>27</kindNum>
+      <iconName>unique_20</iconName>
+      <name><![CDATA[종족강화 (언데드&엘프)]]></name>
+      <desc><![CDATA[언데드병사의 능력치(공격력/방어력/체력)를 10레벨, 엘프병사의 능력치를 5레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>28</kindNum>
+      <iconName>unique_20</iconName>
+      <name><![CDATA[종족강화 (언데드&엘프)]]></name>
+      <desc><![CDATA[언데드병사의 능력치(공격력/방어력/체력)를 20레벨, 엘프병사의 능력치를 10레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>29</kindNum>
+      <iconName>unique_21</iconName>
+      <name><![CDATA[종족강화 (오크&언데드)]]></name>
+      <desc><![CDATA[오크병사의 능력치(공격력/방어력/체력)를 7레벨, 언데드병사의 능력치를 4레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>30</kindNum>
+      <iconName>unique_21</iconName>
+      <name><![CDATA[종족강화 (오크&언데드)]]></name>
+      <desc><![CDATA[오크병사의 능력치(공격력/방어력/체력)를 15레벨, 언데드병사의 능력치를 8레벨만큼 증가시킨다. ( [ 종족강화 ]는 스테이지에만 적용되고, 누적적용되지만, 병사의 능력치는 +150레벨 이상 증가할 수 없다. 시간의 상점에 있을 경우 적용되지 않는다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>31</kindNum>
+      <iconName>unique_22</iconName>
+      <name><![CDATA[차원의 결속 1 (언데드와 엘프)]]></name>
+      <desc><![CDATA[차원의 전투에서 언데드병사와 엘프병사의 공격력, 체력, 방어력을 5% 증가시킨다. ( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>32</kindNum>
+      <iconName>unique_22</iconName>
+      <name><![CDATA[차원의 결속 1 (언데드와 엘프)]]></name>
+      <desc><![CDATA[차원의 전투에서 언데드병사와 엘프병사의 공격력, 체력, 방어력을 10% 증가시킨다. ( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>33</kindNum>
+      <iconName>unique_23</iconName>
+      <name><![CDATA[차원의 결속 1 (인간과 오크)]]></name>
+      <desc><![CDATA[차원의 전투에서 인간병사와 오크병사의 공격력, 체력, 방어력을 5% 증가시킨다.( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>34</kindNum>
+      <iconName>unique_23</iconName>
+      <name><![CDATA[차원의 결속 1 (인간과 오크)]]></name>
+      <desc><![CDATA[차원의 전투에서 인간병사와 오크병사의 공격력, 체력, 방어력을 10% 증가시킨다.( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>35</kindNum>
+      <iconName>unique_24</iconName>
+      <name><![CDATA[차원의 결속 2 (엘프와 인간)]]></name>
+      <desc><![CDATA[차원의 전투에서 엘프병사와 인간병사의 공격속도, 이동속도, 치명타데미지를 5% 증가시킨다. ( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>36</kindNum>
+      <iconName>unique_24</iconName>
+      <name><![CDATA[차원의 결속 2 (엘프와 인간)]]></name>
+      <desc><![CDATA[차원의 전투에서 엘프병사와 인간병사의 공격속도, 이동속도, 치명타데미지를 10% 증가시킨다. ( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>37</kindNum>
+      <iconName>unique_25</iconName>
+      <name><![CDATA[차원의 결속 2 (오크와 언데드)]]></name>
+      <desc><![CDATA[차원의 전투에서 오크병사와 언데드병사의 공격속도, 이동속도, 치명타데미지를 5% 증가시킨다. ( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>38</kindNum>
+      <iconName>unique_25</iconName>
+      <name><![CDATA[차원의 결속 2 (오크와 언데드)]]></name>
+      <desc><![CDATA[차원의 전투에서 오크병사와 언데드병사의 공격속도, 이동속도, 치명타데미지를 10% 증가시킨다. ( 차원의 결속은 최대 150%를 넘을 수 없고, 시간의 상점에 있어도 누적적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>39</kindNum>
+      <iconName>unique_31</iconName>
+      <name><![CDATA[냉정 1]]></name>
+      <desc><![CDATA[레이드 스킬의 쿨타임을 1% 감소시켜준다. ( 냉정은 누적적용되지만, 최대 40%를 넘을 수 없다. 병사가 시간의 상점에 있어도 적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>40</kindNum>
+      <iconName>unique_31</iconName>
+      <name><![CDATA[냉정 1]]></name>
+      <desc><![CDATA[레이드 스킬의 쿨타임을 3% 감소시켜준다. ( 냉정은 누적적용되지만, 최대 40%를 넘을 수 없다. 병사가 시간의 상점에 있어도 적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>41</kindNum>
+      <iconName>unique_26</iconName>
+      <name><![CDATA[냉정 2]]></name>
+      <desc><![CDATA[차원의 전투 스킬의 쿨타임을 1% 감소시켜준다. ( 냉정2는 누적적용되지만, 최대 40%를 넘을 수 없다. 병사가 시간의 상점에 있어도 적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>42</kindNum>
+      <iconName>unique_26</iconName>
+      <name><![CDATA[냉정 2]]></name>
+      <desc><![CDATA[차원의 전투 스킬의 쿨타임을 3% 감소시켜준다. ( 냉정2는 누적적용되지만, 최대 40%를 넘을 수 없다. 병사가 시간의 상점에 있어도 적용된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>43</kindNum>
+      <iconName>unique_27</iconName>
+      <name><![CDATA[영혼의 휴식 한계돌파]]></name>
+      <desc><![CDATA[영혼의 휴식 효율을 0.3% 올려준다. ( 병사가 시간의 상점에 있더라도 적용되고, 최대 10%까지 증가할 수 있다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>44</kindNum>
+      <iconName>unique_27</iconName>
+      <name><![CDATA[영혼의 휴식 한계돌파]]></name>
+      <desc><![CDATA[영혼의 휴식 효율을 0.7% 올려준다. ( 병사가 시간의 상점에 있더라도 적용되고, 최대 10%까지 증가할 수 있다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>45</kindNum>
+      <iconName>unique_29</iconName>
+      <name><![CDATA[엘프의비술 1]]></name>
+      <desc><![CDATA[엘프의 비술 발동확률이 2% 증가한다. (누적적용됨)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>46</kindNum>
+      <iconName>unique_29</iconName>
+      <name><![CDATA[엘프의비술 1]]></name>
+      <desc><![CDATA[엘프의 비술 발동확률이 5% 증가한다. (누적적용됨)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>47</kindNum>
+      <iconName>unique_30</iconName>
+      <name><![CDATA[엘프의비술 2]]></name>
+      <desc><![CDATA[팀에 편성시 엘프의 비술 발동확률이 2% 증가한다. ( 단, 히포그리프에 의한 엘프의 비술은 최대 30%를 넘지 못한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>48</kindNum>
+      <iconName>unique_30</iconName>
+      <name><![CDATA[엘프의비술 2]]></name>
+      <desc><![CDATA[팀에 편성시 엘프의 비술 발동확률이 5% 증가한다. ( 단, 히포그리프에 의한 엘프의 비술은 최대 30%를 넘지 못한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>49</kindNum>
+      <iconName>unique_28</iconName>
+      <name><![CDATA[고대 숲의 전설]]></name>
+      <desc><![CDATA[엘프의 비술이 발동할 경우, 일정 확률로 스테이지를 2단계씩 넘어간다. ( 5성 한명당 2%씩, 6성 한명당 5%씩 누적적용되고, 오직 팀에 있을 경우에만 적용된다. ( 시간의 상점에 있을 경우에는 적용되지 않고, 최대 50%를 넘지 못한다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>50</kindNum>
+      <iconName>unique_32</iconName>
+      <name><![CDATA[내면의 열정]]></name>
+      <desc><![CDATA[모든 병사의 능력치(공격/방어/체력)를 2레벨만큼 증가시킨다. ( [내면의 열정]은 스테이지에만 적용된다. [내면의 열정]은 누적적용되지만, 병사의 능력치는 +100레벨 이상 증가할 수 없다. 병사가 시간의 상점에 있어도 활성화 된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>51</kindNum>
+      <iconName>unique_32</iconName>
+      <name><![CDATA[내면의 열정]]></name>
+      <desc><![CDATA[모든 병사의 능력치(공격/방어/체력)를 5레벨만큼 증가시킨다. ( [내면의 열정]은 스테이지에만 적용된다. [내면의 열정]은 누적적용되지만, 병사의 능력치는 +100레벨 이상 증가할 수 없다. 병사가 시간의 상점에 있어도 활성화 된다. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>52</kindNum>
+      <iconName>unique_33</iconName>
+      <name><![CDATA[영혼의 각성]]></name>
+      <desc><![CDATA[모든 병사의 가능한 최대레벨업이 5만큼 증가한다. ( [영혼의 각성]은 누적적용 되지만, 병사의 최대레벨업은 +100 이상은 증가할 수 없다. 시간의상점에서도 활성화 됨. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>53</kindNum>
+      <iconName>unique_33</iconName>
+      <name><![CDATA[영혼의 각성]]></name>
+      <desc><![CDATA[모든 병사의 가능한 최대레벨업이 10만큼 증가한다. ( [영혼의 각성]은 누적적용 되지만, 병사의 최대레벨업은 +100 이상은 증가할 수 없다. 시간의상점에서도 활성화 됨. )]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>54</kindNum>
+      <iconName>unique_34</iconName>
+      <name><![CDATA[대형유닛]]></name>
+      <desc><![CDATA[블로우, 넉백 공격에 영향을 적게 받고, 얼림/속박의 지속시간이 짧다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>55</kindNum>
+      <iconName>unique_35</iconName>
+      <name><![CDATA[지상면역]]></name>
+      <desc><![CDATA[몸이 지상에서 약간 떠있기 때문에, 땅바닥에서 공격하는 드루이드의 덩쿨공격에 영향을 받지 않는다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>56</kindNum>
+      <iconName>unique_36</iconName>
+      <name><![CDATA[교관(인간)]]></name>
+      <desc><![CDATA[인간 길드병사의 생산속도를 증가시킨다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>57</kindNum>
+      <iconName>unique_37</iconName>
+      <name><![CDATA[교관(엘프)]]></name>
+      <desc><![CDATA[엘프 길드병사의 생산속도를 증가시킨다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>58</kindNum>
+      <iconName>unique_38</iconName>
+      <name><![CDATA[교관(언데드)]]></name>
+      <desc><![CDATA[언데드 길드병사의 생산속도를 증가시킨다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>59</kindNum>
+      <iconName>unique_39</iconName>
+      <name><![CDATA[교관(오크)]]></name>
+      <desc><![CDATA[오크 길드병사의 생산속도를 증가시킨다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>60</kindNum>
+      <iconName>unique_40</iconName>
+      <name><![CDATA[환생훈장 증가]]></name>
+      <desc><![CDATA[환생시 획득하는 훈장이 2% 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>61</kindNum>
+      <iconName>unique_40</iconName>
+      <name><![CDATA[환생훈장 증가]]></name>
+      <desc><![CDATA[환생시 획득하는 훈장이 5% 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>62</kindNum>
+      <iconName>unique_40</iconName>
+      <name><![CDATA[환생훈장 증가]]></name>
+      <desc><![CDATA[환생시 획득하는 훈장이 10% 증가한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>63</kindNum>
+      <iconName>unique_43</iconName>
+      <name><![CDATA[오프라인 행군 속도 증가]]></name>
+      <desc><![CDATA[오프라인 행군 속도를 5% 증가시켜준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>64</kindNum>
+      <iconName>unique_43</iconName>
+      <name><![CDATA[오프라인 행군 속도 증가]]></name>
+      <desc><![CDATA[오프라인 행군 속도를 7% 증가시켜준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>65</kindNum>
+      <iconName>unique_43</iconName>
+      <name><![CDATA[오프라인 행군 속도 증가]]></name>
+      <desc><![CDATA[오프라인 행군 속도를 15% 증가시켜준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>66</kindNum>
+      <iconName>unique_43</iconName>
+      <name><![CDATA[오프라인 행군 속도 증가]]></name>
+      <desc><![CDATA[오프라인 행군 속도를 20% 증가시켜준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>67</kindNum>
+      <iconName>unique_43</iconName>
+      <name><![CDATA[오프라인 행군 속도 증가]]></name>
+      <desc><![CDATA[오프라인 행군 속도를 30% 증가시켜준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>68</kindNum>
+      <iconName>unique_44</iconName>
+      <name><![CDATA[지원공격]]></name>
+      <desc><![CDATA[데리고 다니는 독수리가 적을 공격한다. 적은 뒤로 넉백당하고, 일정시간동안 기절한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>69</kindNum>
+      <iconName>unique_44</iconName>
+      <name><![CDATA[지원공격]]></name>
+      <desc><![CDATA[데리고 다니는 두마리의 독수리가 적을 공격한다. 적은 뒤로 넉백당하고, 일정시간동안 기절한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>70</kindNum>
+      <iconName>unique_45</iconName>
+      <name><![CDATA[인간의 비술]]></name>
+      <desc><![CDATA[인간의 비술 발동시, 5%의 확률로 10배의 골드를 준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>71</kindNum>
+      <iconName>unique_45</iconName>
+      <name><![CDATA[인간의 비술]]></name>
+      <desc><![CDATA[인간의 비술 발동시, 15%의 확률로 10배의 골드를 준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>72</kindNum>
+      <iconName>unique_46</iconName>
+      <name><![CDATA[골드 획득]]></name>
+      <desc><![CDATA[이동하면서 골드를 뿌려준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>73</kindNum>
+      <iconName>unique_47</iconName>
+      <name><![CDATA[환생 시작층 증가]]></name>
+      <desc><![CDATA[환생시, 현재 층의 2%에 해당하는 층에서 환생한다. (누적 적용됨)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>74</kindNum>
+      <iconName>unique_47</iconName>
+      <name><![CDATA[환생 시작층 증가]]></name>
+      <desc><![CDATA[환생시, 현재 층의 5%에 해당하는 층에서 환생한다. (누적 적용됨)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>75</kindNum>
+      <iconName>unique_48</iconName>
+      <name><![CDATA[신의 축복]]></name>
+      <desc><![CDATA[2%의 확률로 시나리오 10층 단위마다 2분간 게임 속도를 5배 증가시켜준다. (발동확률은 누적 적용됨)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>76</kindNum>
+      <iconName>unique_48</iconName>
+      <name><![CDATA[신의 축복]]></name>
+      <desc><![CDATA[5%의 확률로 시나리오 10층 단위마다 2분간 게임 속도를 5배 증가시켜준다. (발동확률은 누적 적용됨)]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>77</kindNum>
+      <iconName>unique_49</iconName>
+      <name><![CDATA[앤트의 역습]]></name>
+      <desc><![CDATA[넉백 공격을 받으면, 데미지의 99%를 방어하는 보호막을 시전한다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>78</kindNum>
+      <iconName>unique_43</iconName>
+      <name><![CDATA[오프라인 행군 속도 증가]]></name>
+      <desc><![CDATA[오프라인 행군 속도를 10% 증가시켜준다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>79</kindNum>
+      <iconName>unique_34</iconName>
+      <name><![CDATA[대형유닛]]></name>
+      <desc><![CDATA[얼림/속박의 지속시간이 짧다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>80</kindNum>
+      <iconName>unique_50</iconName>
+      <name><![CDATA[감속저항]]></name>
+      <desc><![CDATA[절대 느려지지 않는다.]]></desc>
+    </uniqueSkill>
+    <uniqueSkill>
+      <kindNum>81</kindNum>
+      <iconName>unique_51</iconName>
+      <name><![CDATA[은신(투명화)]]></name>
+      <desc><![CDATA[자신의 몸을 투명하게 은폐(클로킹)하여, 조용히 적진으로 들어가 기지를 파괴한다.]]></desc>
+    </uniqueSkill>
+  </uniqueSkillList>
+  <teamSkillList>
+    <teamSkill>
+      <kindNum>1</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 이동속도와 공격속도를 2% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>2</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 이동속도와 공격속도를 5% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>3</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 치명타 확률을 5% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>4</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 치명타 공격력을 5% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>5</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 이동속도를 2% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>6</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 공격속도를 2% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>7</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 치명타 확률을 10% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>8</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 치명타 공격력을 10% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>9</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 이동속도를 5% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>10</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 공격속도를 5% 올려준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>11</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 포함된 공중유닛 한마리당 모든 병사의 이동속도가 0.3% 증가한다. 단, 길드전의 경우 0.03% 증가. ( 공중유닛 5마리 보유시, 1.5% 이동속도증가. ( 길드전 : 0.15% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>12</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 포함된 공중유닛 한마리당 모든 병사의 이동속도가 0.7% 증가한다. 단, 길드전의 경우 0.07% 증가. ( 공중유닛 5마리 보유시, 3.5% 이동속도증가. ( 길드전 : 0.35% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>13</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 포함된 지상유닛 한마리당 모든 병사의 이동속도가 0.4% 증가한다. 단, 길드전의 경우 0.04% 증가. ( 지상유닛 5마리 보유시, 2% 이동속도증가. ( 길드전 : 0.2% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>14</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 포함된 지상유닛 한마리당 모든 병사의 이동속도가 0.8% 증가한다. 단, 길드전의 경우 0.08% 증가. ( 지상유닛 5마리 보유시, 4% 이동속도증가. ( 길드전 : 0.4% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>15</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 속한 언데드 병사 한마리당 모든 병사의 이동속도가 0.3% 증가한다. 단, 길드전의 경우 0.03% 증가. ( 언데드 병사 5마리 보유시, 1.5% 이동속도 증가. ( 길드전 : 0.15% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>16</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 속한 언데드 병사 한마리당 원거리 병사의 공격범위가 0.1% 증가한다. 단, 길드전의 경우 0.01% 증가. ( 언데드 병사 8마리 보유시, 0.8% 공격범위 증가. ( 길드전 : 0.08% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>17</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 속한 언데드 병사 한마리당 모든 병사의 이동속도가 0.7% 증가한다. 단, 길드전의 경우 0.07% 증가. ( 언데드 병사 5마리 보유시, 3.5% 이동속도 증가. ( 길드전 : 0.35% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>18</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[팀에 속한 언데드 병사 한마리당 원거리 병사의 공격범위가 0.3% 증가한다. 단, 길드전의 경우 0.03% 증가. ( 언데드 병사 8마리 보유시, 2.4% 공격범위 증가. ( 길드전 : 0.24% 증가 ) )]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>19</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 체력과 방어력을 2% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>20</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 체력과 방어력을 5% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>21</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 공격거리와 공격속도를 2% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>22</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 공격거리와 공격속도를 5% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>23</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 치명타 데미지와 치명타 확률을 2% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>24</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 치명타 데미지와 치명타 확률을 5% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>25</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 이동속도과 공격속도를 2% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>26</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[모든 병사의 이동속도과 공격속도를 5% 증가시켜준다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>27</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간과 엘프의 이동속도, 공격속도 및 공격거리를 2% 증가시킨다]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>28</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간과 엘프의 이동속도, 공격속도 및 공격거리를 4% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>29</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프와 인간 병사의 이동속도와 공격속도를 2% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>30</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프와 인간 병사의 이동속도와 공격속도를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>31</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크와 언데드의 이동속도와 공격속도를 2% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>32</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크와 언데드의 이동속도와 공격속도를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>33</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크와 언데드의 이동속도, 공격속도 및 공격거리를 2% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>34</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크와 언데드의 이동속도, 공격속도 및 공격거리를 4% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>35</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사의 이동속도와 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>36</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사의 이동속도와 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>37</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 이동속도와 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>38</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 이동속도와 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>39</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사의 이동속도와 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>40</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사의 이동속도와 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>41</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사의 이동속도와 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>42</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사의 이동속도와 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>43</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간 병사의 이동속도를 3%, 공격거리를 4% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>44</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간 병사의 이동속도를 6%, 공격거리를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>45</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 이동속도를 3%, 공격거리를 4% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>46</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 이동속도를 6%, 공격거리를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>47</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드 병사의 이동속도를 3%, 공격거리를 4% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>48</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드 병사의 이동속도를 6%, 공격거리를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>49</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크 병사의 이동속도를 3%, 공격속도를 4% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>50</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크 병사의 이동속도를 6%, 공격속도를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>51</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사와 오크병사의 이동속도를 2%, 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>52</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사와 오크병사의 이동속도를 5%, 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>53</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사와 인간병사의 이동속도를 2%, 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>54</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사와 인간병사의 이동속도를 5%, 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>55</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사와 엘프병사의 이동속도를 2%, 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>56</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사와 엘프병사의 이동속도를 5%, 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>57</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사와 언데드병사의 이동속도를 2%, 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>58</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사와 언데드병사의 이동속도를 5%, 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>59</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사의 이동속도와 치명타 데미지를 5% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>60</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사의 이동속도와 치명타 데미지를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>61</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 공격속도와 이동속도를 5% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>62</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 공격속도와 이동속도를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>63</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사의 이동속도를 3%, 공격거리를 5% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>64</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사의 이동속도를 6%, 공격거리를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>65</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사의 이동속도를 5%, 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>66</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사의 이동속도를 7%, 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>67</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사의 이동속도와 치명타데미지를 5% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>68</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[인간병사의 이동속도와 치명타데미지를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>69</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 이동속도를 5%, 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>70</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[엘프병사의 이동속도를 7%, 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>71</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사의 이동속도를 3%, 공격거리를 4% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>72</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[언데드병사의 이동속도를 6%, 공격거리를 7% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>73</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사의 이동속도를 5%, 공격거리를 3% 증가시킨다.]]></desc>
+    </teamSkill>
+    <teamSkill>
+      <kindNum>74</kindNum>
+      <iconName>team_1</iconName>
+      <desc><![CDATA[오크병사의 이동속도를 7%, 공격거리를 6% 증가시킨다.]]></desc>
+    </teamSkill>
+  </teamSkillList>
+  <eventSkillList>
+    <eventSkill>
+      <kindNum>1</kindNum>
+      <iconName>event_1</iconName>
+      <type>1</type>
+      <desc><![CDATA[처음 등장시 자기 자신의 이동속도와 공격속도를 증가시키는 버프를 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>2</kindNum>
+      <iconName>event_1</iconName>
+      <type>1</type>
+      <desc><![CDATA[처음 등장시, 적군 가까이에서 등장하고, 자신의 이동속도와 공격속도를 증가시키는 버프를 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>3</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[공격을 당하면, 일정확률로 물리면역 방어막을 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>4</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[자신이 공격을 당하면, 일정확률로 물리공격과 마법공격을 99% 방어하는 보호막을 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>5</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[공격을 당하면, 일정확률로 짧은 시간동안 자신의 몸을 투명화해서, 원거리 공격을 100% 회피하고, 일정 확률로 멀리있는 원거리 유닛으로 즉시 이동한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>6</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[공격을 당할때마다, 일정확률로 물리면역 보호막을 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>7</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[공격을 당하면 일정확률로 1%의 데미지만 받는 보호막을 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>8</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면 그 자리에서 다시 부활한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>9</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면, 그자리에서 체력의 60%를 회복하여, 다시 부활한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>10</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면, 그자리에서 체력의 80%를 회복하여, 다시 부활한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>11</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면서, 다수의 적들에게 저주를 건다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>12</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면, 일정 확률로 50%의 체력을 가지고, 그 자리에서 즉시 부활한다. 확률에 따라 여러 번 계속해서 부활할 수도 있다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>13</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면, 일정 확률로 60%의 체력을 가지고, 그 자리에서 즉시 부활한다. 확률에 따라 여러 번 계속해서 부활할 수도 있다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>14</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면, 몸속에 있는 한기가 뿜어져나와 아래에 있는 적들을 얼려버린다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>15</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면 체력의 60%로 부활한다. 5성은 1번, 6성은 2번, 1차초월은 3번, 2차초월은 4번, 3차초월은 5번까지 부활한다. ( 스테이지에서 부활할 때마다 체력, 공격력, 방어력이 250%씩 증가한다. 3초월시 5번째 부활을 하면, 공격력, 방어력, 체력이 100배 정도 증가해서 더 높은 스테이지까지 올라갈 수 있다. )]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>16</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면 체력의 60%로 부활한다. 5성은 1번, 6성은 2번, 1차초월은 3번, 2차초월은 4번, 3차초월은 5번까지 부활한다. ( 스테이지에서 부활할 때마다 체력, 공격력, 방어력이 250%씩 증가한다. 3초월시 5번째 부활을 하면, 공격력, 방어력, 체력이 100배 정도 증가해서 더 높은 스테이지까지 올라갈 수 있다. )]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>17</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면 20% 확률로, 에어보드가 적 기지를 향해 날아가 폭발하며, 적기지와 보스에게 데미지의 100배의 피해를 준다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>18</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽으면 30% 확률로, 에어보드가 적 기지를 향해 날아가 폭발하며, 적기지와 보스에게 데미지의 100배의 피해를 준다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>19</kindNum>
+      <iconName>event_4</iconName>
+      <type>4</type>
+      <desc><![CDATA[체력이 20%이하인 경우, 10%의 데미지만 받는다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>20</kindNum>
+      <iconName>event_4</iconName>
+      <type>4</type>
+      <desc><![CDATA[체력이 30%이하인 경우,70%확률로 적의 공격을 회피합니다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>21</kindNum>
+      <iconName>event_4</iconName>
+      <type>4</type>
+      <desc><![CDATA[체력이 20%이하인 경우, 10%의 데미지만 받는다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>22</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[공격을 받으면 일정확률로 마법공격 면역이 된다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>23</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[공격을 당할때마다, 일정확률로 스킬을 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>24</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[적에게 공격당하면, 일정확률로 몸을 투명화시켜, 원거리 공격을 모두 회피한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>25</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[최초 공격은 뒤로 물러나면서 100% 회피한다. ( 단, 은폐가 풀린다 )]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>26</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽는 순간 발키리 버프를 시전한다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>27</kindNum>
+      <iconName>event_3</iconName>
+      <type>3</type>
+      <desc><![CDATA[죽는 순간 주위의 적들을 일정 시간동안 얼린다.]]></desc>
+    </eventSkill>
+    <eventSkill>
+      <kindNum>28</kindNum>
+      <iconName>event_2</iconName>
+      <type>2</type>
+      <desc><![CDATA[공격당할 때마다 낮은 확률로 데미지를 99% 흡수하는 보호막을 시전한다.]]></desc>
+    </eventSkill>
+  </eventSkillList>
+</main>
