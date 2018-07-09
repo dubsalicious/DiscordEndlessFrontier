@@ -19,7 +19,7 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Crow Knight",
-"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed and attack power by 10%.\r\n- Increases the movement speed and attack power of all soldiers by 5% and attack distance by 6%.\r\n- [Breaking the limit of Undead seal]: Undead friendliness from seals can be increased by 150%",
+"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed and attack power by 10%.\r\n- Increases the movement speed and attack power of all soldiers by 5% and attack distance by 6%.\r\n- Greatly increased critical chance and critical damage against enemy crystal.\r\n- Every Crow Knight increases Darkness Resistance by 75 and every Senior Crow Knight increases Darkness Resistance by 150. Also, the maximum value of Darkness Resistance from Crow Knight increases from 2000 to 4000. \r\n- [Breaking the limit of Undead seal]: Undead friendliness from seals can be increased by 150%",
 "inline": false
 },
 {
