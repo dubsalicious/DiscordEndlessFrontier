@@ -19,7 +19,7 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Rangda",
-"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed and attack power by 10%.\r\n- Increases the movement speed and attack distance of all soldiers by 5% and attack power by 8%.\r\n[Breaking the limit of Orc seal]: Orc friendliness from seals can be increased by 150%.",
+"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed and attack power by 10%.\r\n- Increases the movement speed and attack distance of all soldiers by 5% and attack power by 8%.\r\n- Greatly increased critical chance and critical damage against enemy crystal.\r\n- [Breaking the limit of Orc seal]: Orc friendliness from seals can be increased by 150%.",
 "inline": false
 },
 {
