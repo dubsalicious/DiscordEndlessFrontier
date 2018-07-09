@@ -19,7 +19,7 @@
 },
 {
 "name": "Awakens the hidden ability of Senior Elf Sage",
-"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed by 7% and attack distance by 10%.\r\n- Increases all soldiers' attack distance by 7% and movement speed by 8%.\r\n- [Breaking the limit of Elf seal]: Elf friendliness from seals can be increased by 150%",
+"value": "-Increases the basic speed of the game by 7%.\r\n- Increases your movement speed by 7% and attack distance by 10%.\r\n- Increases all soldiers' attack distance by 7% and movement speed by 8%.\r\n- Greatly increased critical chance and critical damage against enemy crystal.\r\n- [Breaking the limit of Elf seal]: Elf friendliness from seals can be increased by 150%",
 "inline": false
 },
 {
