@@ -20,4 +20,5 @@ If it's about the game use `#ef_general`, anything else can go in `#offtopic`.
 
 After some help? 
 
+Check `#resources` for a compilation of guides and useful links about almost every aspect of the game.
 Ask any questions you have in `#ask_anything`, someone is normally around to help. We've also got a bunch of guides, type `!commands` in `#commands` for a full list.
