@@ -2,7 +2,7 @@
   "title": "#175 : Thor's Hammer",
   "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
   "footer": {
-    "text": "See !pet thor | !artset 48 | !books | !artbook"
+    "text": "See !pet thor | !artset 47 | !books | !artbook"
   },
   "fields": [
     {
