@@ -16,7 +16,7 @@ Trans 1
     {
       "name": "Ability 2",
       "value": "Decrease Quest Time
-`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`"
+`Base: 1.6a%`, `+20: 3a%`, `+50: 5.1a%`
 Trans 1
 `Base: 2.20a%`, `+20: 14.20a%`, `+50: 32.20a%`, `+100: 84.20a%`, `+140: 604.20a%`",
       "inline": false
