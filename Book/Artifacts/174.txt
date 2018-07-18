@@ -2,7 +2,7 @@
   "title": "#174 : Odin's spear",
   "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
   "footer": {
-    "text": "See !pet odin | !artset 48 | !books | !artbook"
+    "text": "See !pet odin | !artset 47 | !books | !artbook"
   },
   "fields": [
     {
