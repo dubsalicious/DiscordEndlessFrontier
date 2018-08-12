@@ -1,42 +1,37 @@
 .acr "!pet chichi" {
-  "plaintext":"%user% typed `!pet chichi`", 
+  "plaintext":"%user% typed !pet chichi",
   "title": "Chichi",
-  "description": "Elementalist's Pet",
+  "description": "Elementalist Pet",
   "footer": {
     "text": "See !unit elementalist | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599822430044161/UI_PET113.png",
-  "fields": [
-    {
-      "name": "Skill 1",
-      "value": "Medal Buff  +`5`, `10`, `10`, `10`, `10`%",
-      "inline": false
-    },
-    {
-      "name": "Skill 2 - Unlocks at Rank 3",
-      "value": "Increase HP of Elf units in Outland Battle +`12`, `16`, `21`%",
-      "inline": false
-    },
-    {
-      "name": "Skill 3 (Elementalist's Hidden Special Ability) - Unlocks at Rank 5",
-      "value": "- After appearing, increases attack speed and movement speed of all friendly soldiers for a short period of time and casts a shield that immunes soldiers to magic attacks.\r\n- Increases all units’ attack speed, attack damage and critical strike chance by 4%\r\n- Even if Elementalist is in the shop, Tribe Enhancement is applied. TE cap is increased for elf to a maximum amount of 250.\r\n- Increases amount of Nature Resistance per Elementalist to 75 per 5* and 150 per 6* unit. Maximum value of Nature Resistance is increased from 2000 to 4000.\r\n- Gold level limit of Elementalist is increased (Senior - 0, T1 - 20, T2 - 40, T3 - 60).\r\n- When included in team Elementalist increases Medal buff by 50% More (T1 - 15%, T2 - 30%, T3 - 45%). These buffs are halved in the Time Shop.",
-      "inline": false
-    },
-    {
-      "name": "Skill 3 Gold Level Max",
-      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
-      "inline": false
-    },
-    {
-      "name": "Spirit Highlands",
-      "value": "`12-1 KLV 90`\r\n`22-5 KLV 170`\r\n`24-10 KLVL 188`\r\n`24-16 KLVL 192`",
-      "inline": true
-    },	
-    {
-      "name": "Pet points",
-      "value": "`4`, `8`, `12`, `16`, `20`",
-      "inline": true
-    }
-  ],
-  "color": 10554123
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/113.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase additional medals obtained 5, 10, 10, 10, 10",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase HP of Elf units in Outland Battle. 0, 0, 12, 16, 21",
+  "inline": false
+},
+{
+"name": "Awakens the hidden ability of Senior Elementalist",
+"value": "- At its first appearance, it increases the attack speed and movement speed of all ally units, and casts a shield that temporarily grants immunity against magical attacks.\r\n- Increases attack power, attack range and critical strike rate of all units by 4%.\r\n- Increases nature resistance by 75 for each Elementalist, and 150 nature resistance for each Senior Elementalist. Also increases max nature resistance through Elementalists from 2,000 to 4,000.\r\n- [Tribe Fortification] is applied even when Elementalist is in Time Shop, and can be increased up to 250 for elf units.",
+"inline": false
+},
+{
+  "name": "Spirit Highlands",
+  "value": "12-1\r\n22-5\r\n24-10\r\n25-16\r\n",
+  "inline": true
+},
+{
+  "name": "Pet points",
+  "value": "4, 8, 12, 16, 20",
+  "inline": true
+}
+],
+"color": 10554123
 }
