@@ -9,12 +9,12 @@
 "fields": [
 {
   "name": "Skill 1",
-  "value": "Increase additional medals obtained 5, 10, 10, 10, 10",
+  "value": "Increase additional medals obtained `5`, `10`, `10`, `10`, `10`",
   "inline": false
 },
 {
   "name": "Skill 2",
-  "value": "Increase HP of Orc units in Outland Battle. 0, 0, 12, 16, 21",
+  "value": "Increase HP of Orc units in Outland Battle. `0`, `0`, `12`, `16`, `21`",
   "inline": false
 },
 {
@@ -24,12 +24,12 @@
 },
 {
   "name": "Spirit Highlands",
-  "value": "12-11\r\n23-5\r\n25-10\r\n26-6\r\n",
+  "value": "`12-11`\r\n`23-5`\r\n`25-10`\r\n`26-6`\r\n",
   "inline": true
 },
 {
   "name": "Pet points",
-  "value": "4, 8, 12, 16, 20",
+  "value": "`4`, `8`, `12`, `16`, `20`",
   "inline": true
 }
 ],
