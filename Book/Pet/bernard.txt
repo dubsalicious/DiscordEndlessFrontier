@@ -9,12 +9,12 @@
 "fields": [
 {
   "name": "Skill 1",
-  "value": "Increase additional medals obtained 5, 10, 10, 10, 10",
+  "value": "Increase additional medals obtained `5`, `10`, `10`, `10`, `10`",
   "inline": false
 },
 {
   "name": "Skill 2",
-  "value": "Increase HP of Human units in Outland Battle. 0, 0, 12, 16, 21",
+  "value": "Increase HP of Human units in Outland Battle. `0`, `0`, `12`, `16`, `21`",
   "inline": false
 },
 {
@@ -24,12 +24,12 @@
 },
 {
   "name": "Spirit Highlands",
-  "value": "11-16\r\n21-15\r\n23-20\r\n25-11\r\n",
+  "value": "`11-16`\r\n`21-15`\r\n`23-20`\r\n`25-11`\r\n",
   "inline": true
 },
 {
   "name": "Pet points",
-  "value": "4, 8, 12, 16, 20",
+  "value": "`4`, `8`, `12`, `16`, `20`",
   "inline": true
 }
 ],
