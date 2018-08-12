@@ -1,42 +1,37 @@
 .acr "!pet bernard" {
-  "plaintext":"%user% typed `!pet bernard`", 
+  "plaintext":"%user% typed !pet bernard",
   "title": "Bernard",
-  "description": "Cleric's Pet",
+  "description": "Cleric Pet",
   "footer": {
     "text": "See !unit cleric | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/350599821058637844/UI_PET112.png",
-  "fields": [
-    {
-      "name": "Skill 1",
-      "value": "Medal Buff  +`5`, `10`, `10`, `10`, `10`%",
-      "inline": false
-    },
-    {
-      "name": "Skill 2 - Unlocks at Rank 3",
-      "value": "Increase HP of Human units in Outland Battle +`12`, `16`, `21`%",
-      "inline": false
-    },
-    {
-      "name": "Skill 3 (Cleric's Hidden Special Ability) - Unlocks at Rank 5",
-      "value": "After appearing, increases attack speed and movement speed of all friendly soldiers for a short period of time and casts a shield that immunes soldiers to physical attacks.\r\n- Increases game speed by 4% and movement speed by 7%.\r\n- Increases all units’ movement speed, attack power and critical damage by 4%\r\n- Even if Cleric is in the shop, Tribe Enhancement is applied. TE cap for human is increased to a maximum amount of 250.\r\n- The maximum value of Innervate#2 buff can be increased to 50%.\r\n- Gold level limit of Cleric is increased (Senior - 0, T1 - 20, T2 - 40, T3 - 60).\r\n- When included in team Cleric increases Medal buff by 50% More (T1 - 15%, T2 - 30%, T3 - 45%). These buffs are halved in the Time Shop.",
-      "inline": false
-    },
-    {
-      "name": "Skill 3 Gold Level Max",
-      "value": "`Senior +0`, `T1 +20`, `T2 +40`, `T3 +60`",
-      "inline": false
-    },
-    {
-      "name": "Spirit Highlands",
-      "value": "`11-16 KLV 88`\r\n`21-15 KLV 166`\r\n`23-20 KLVL 184`\r\n`24-11 KLVL 190`",
-      "inline": true
-    },	
-    {
-      "name": "Pet points",
-      "value": "`4`, `8`, `12`, `16`, `20`",
-      "inline": true
-    }
-  ],
-  "color": 10554123
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/112.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase additional medals obtained 5, 10, 10, 10, 10",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase HP of Human units in Outland Battle. 0, 0, 12, 16, 21",
+  "inline": false
+},
+{
+"name": "Awakens the hidden ability of Senior Cleric",
+"value": "- At its first appearance, it increases the attack speed and movement speed of all ally units, and casts a shield that temporarily grants immunity against physical attacks.\r\n- Increases game speed by 4% and increases its movement speed by 7%.\r\n- Increases all unit’s movement speed, attack power and critical damage by 4%.\r\n- [Tribe Fortification] is applied even when Cleric is in Time Shop, and can be increased up to 250 for human units.\r\n- Increases the maximum value of [Innervate 2] to 50%. Thus, reducing skill cool time (Outland Battle) by up to 50%.",
+"inline": false
+},
+{
+  "name": "Spirit Highlands",
+  "value": "11-16\r\n21-15\r\n23-20\r\n25-11\r\n",
+  "inline": true
+},
+{
+  "name": "Pet points",
+  "value": "4, 8, 12, 16, 20",
+  "inline": true
+}
+],
+"color": 10554123
 }
