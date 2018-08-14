@@ -40,7 +40,9 @@ Medusa
 ```
 Priest (5) 
 Dark elf (5)
-Dark Spirit (as many as needed)
+Abyss Mage
+Crow Knight
+Dark Spirit
 Lich (Filler)
 Succubus (Filler)
 Fairy (Filler)
