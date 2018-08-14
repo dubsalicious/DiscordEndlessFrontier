@@ -1,4 +1,5 @@
 .acr "!undeadbuilds" You used the command `!undeadbuilds`. This page contains some example builds that have provded successful for other players.
+__**Early\Mid Game Builds**__
 
 **Example Core 2 Builds**
 First 2 units are core, followed by supports.
@@ -18,3 +19,10 @@ Dark Elf    Dark Spirit   Dark Elf (9)           Fairy
  - Dark Spirit supports make your team faster, but Dark Elf supports make your team go further due to tribe friendliness.
  - Supports should only have a minority of medals and generally aim for good breakpoints that benefit the whole team.
  - Please see this page on reddit for more information on breakpoints - <http://bit.ly/2lvOGKK>
+
+__**Late Game Build**__
+Crow Knight as core, Abyss as half-core. This is a "base" build. Adjust accordingly to tablets you have. It's generally worth to start swapping past 3\* tablets for ap and crit, but in some cases even 2\* tablet will be enough. 
+```
+Crow Knight   Abyss Mage   Abyss Mage(3)   Fairy(2)   Crow Knight(5)
+```
+To sucessfully run it over orc, you need Chesher, Cerbero and Raven in addition to core pets.
