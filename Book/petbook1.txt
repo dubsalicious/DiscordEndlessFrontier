@@ -6,21 +6,22 @@
 {
 "name": "=============== Spirit Highlands ==============",
 "value": "```scheme
-[Human]     [Elf]       [Undead]    [Orc]
-mambo       joe         mummy       piggy
-potang      uni         Joker       snork
-phoenic     indy        grim reaper woola
-magic lamp  tinkey      sleepy      totem
-icy         squirrel    moon        boom boom
-griffy      leo         devil
-mir         nimbus      jingger     rapty
-winky       bunny       cora        wakong
-e-77        windy       dark snake  seahorse
-sarah       oscar       black       juda
-rena        hippong     osma        saul
-bernard     chichi      chesher     bamba
-cat knight  mori        cerbero     octopa
-athos       grizzle     raven       leyak```",
+[Human]      [Elf]       [Undead]    [Orc]
+mambo        joe         mummy       piggy
+potang       uni         Joker       snork
+phoenic      indy        grim reaper woola
+magic lamp   tinkey      sleepy      totem
+icy          squirrel    moon        boom boom
+griffy       leo         devil
+mir          nimbus      jingger     rapty
+winky        bunny       cora        wakong
+e-77         windy       dark snake  seahorse
+sarah        oscar       black       juda
+rena         hippong     osma        saul
+bernard      chichi      chesher     bamba
+cat knight   mori        cerbero     octopa
+athos        grizzle     raven       leyak
+little hawk  foxy        shadow      snow bear```",
 "inline": false
 },
 {
