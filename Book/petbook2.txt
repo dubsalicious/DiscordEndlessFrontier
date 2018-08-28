@@ -26,7 +26,7 @@ poseidon    hephaistos  hermes      hera
 "name": "======== Nordic Gods =========",
 "value": "```scheme
 loki        freya       odin       thor
-vernandi    skuld       urd        skadi
+verdandi    skuld       urd        skadi
 freyr       baldur      tyr        heimdall
 ```",
 "inline": false
