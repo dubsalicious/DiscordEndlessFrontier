@@ -9,30 +9,27 @@
 "fields": [
 {
   "name": "Skill 1",
-  "value": "Increases the Tribe Friendliness for Elf 30, 60, 90, 120, 150",
+  "value": "Increases the Tribe Friendliness for Elf `30%`, `60%`, `90%`, `120%`, `150%`",
   "inline": false
 },
 {
   "name": "Skill 2",
-  "value": "Increase attack power of Elf units in Outland Battle. 0, 0, 4, 7, 14",
+  "value": "Increase attack power of Elf units in Outland Battle. `0%`, `0%`, `4%`, `7%`, `14%`",
   "inline": false
 },
 {
 "name": "Awakens the hidden ability of Senior Windwalker",
-"value": "- At its first appearance, it increases the Attack speed and movement speed of all ally units, and casts a shield that temporarily grants immunity against physical attacks.
-- Increases basic game speed by 8% and increases its attack speed and movement speed by 10%.
-- Increases attack range, movement speed and critical damage of all units by 7%.
-- Tribe Friendliness for Elf can be increased up to 600 by Windwalker.",
+"value": "- At its first appearance, it increases the Attack speed and movement speed of all ally units, and casts a shield that temporarily grants immunity against physical attacks.\r\n- Increases basic game speed by 8% and increases its attack speed and movement speed by 10%.\r\n- Increases attack range, movement speed and critical damage of all units by 7%.\r\n- Tribe Friendliness for Elf can be increased up to 600 by Windwalker.",
 "inline": false
 },
 {
   "name": "Spirit Highlands",
-  "value": "13-1\r\n24-5\r\n",
+  "value": "13-1\r\n24-5\r\n26-10\r\n27-16\r\n",
   "inline": true
 },
 {
   "name": "Pet points",
-  "value": "4, 8, 12, 16, 20",
+  "value": "`4`, `8`, `12`, `16`, `20`",
   "inline": true
 }
 ],
