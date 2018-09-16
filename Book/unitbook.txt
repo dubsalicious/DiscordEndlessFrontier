@@ -110,7 +110,7 @@ blade master
 frost demon
 siren
 rangda
-war bear rider
+warbear rider
 ```"
     }
   ],
