@@ -30,6 +30,7 @@ flame spirit
 cleric
 winged knight
 musketress
+crimson rider
 ```"
     },
     {
@@ -56,6 +57,7 @@ hippogriff
 elementalist
 windwalker
 elf sage
+astral captain
 ```"
     },
     {
@@ -82,6 +84,7 @@ dark spirit
 dark elf
 abyss mage
 crow knight
+shadow knight
 ```"
     },
     {
@@ -107,6 +110,7 @@ blade master
 frost demon
 siren
 rangda
+war bear rider
 ```"
     }
   ],
