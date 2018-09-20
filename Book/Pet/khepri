@@ -1,7 +1,7 @@
 .acr "!pet khepri" {
   "plaintext":"%user% typed `!pet khepri`",
   "title": "Khepri",
-  "description": "ME_-1 Pet",
+  "description": "Egyptian Pet",
   "footer": {
     "text": "See !books | !petbook"
   },
