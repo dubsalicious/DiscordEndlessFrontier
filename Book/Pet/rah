@@ -1,0 +1,32 @@
+.acr "!pet rah" {
+  "plaintext":"%user% typed `!pet rah`",
+  "title": "Rah",
+  "description": "Egyptian Pet",
+  "footer": {
+    "text": "See !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/172.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase Artifact Limit Break `2`, `4`, `6`, `8`, `10`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase additional medals obtained `0`, `0`, `110`, `150`, `200`",
+  "inline": false
+},
+{
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "Helm of the Sun",
+  "inline": false
+},
+{
+  "name": "Pet points",
+  "value": "`7`, `14`, `21`, `28`, `35`",
+  "inline": true
+}
+],
+"color": 10554123
+}
