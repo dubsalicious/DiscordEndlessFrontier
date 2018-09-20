@@ -43,10 +43,11 @@ heliffin    horn-boar   twin skulls  dread  amaymon```",
 {
 "name": "======== Event&Shop =========",
 "value": "```scheme
-red         blue        green       purple
-celeste     h-reaper    christy     toby
-hallokin    cookoo      nills       rudolph
-lime        jindo
+red          blue         green        purple
+celeste      h-reaper     christy      toby
+hallokin     cookoo       nills        rudolph
+lime         jindo        lunar        scarecrow
+lesser panda panda
 flame sorceress  forest sorceress  dark sorceress
 ```",
 "inline": false
