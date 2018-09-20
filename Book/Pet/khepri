@@ -1,7 +1,7 @@
 .acr "!pet khepri" {
   "plaintext":"%user% typed `!pet khepri`",
   "title": "Khepri",
-  "description": "ME_-1 Pet",
+  "description": "Egyptian Pet",
   "footer": {
     "text": "See !books | !petbook"
   },
@@ -17,3 +17,16 @@
   "value": "Increase HP of all units in Guild Raid `0`, `0`, `10`, `20`, `30`",
   "inline": false
 },
+{
+      "name": "Artifact - Unlocks at Rank 5",
+      "value": "The Sword of the Sun",
+      "inline": false
+    },
+    {
+      "name": "Pet points",
+      "value": "`7`, `14`, `21`, `28`, `35`",
+      "inline": true
+    }
+  ],
+  "color": 10554123
+}
