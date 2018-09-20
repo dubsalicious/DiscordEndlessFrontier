@@ -1,0 +1,19 @@
+.acr "!pet khepri" {
+  "plaintext":"%user% typed `!pet khepri`",
+  "title": "Khepri",
+  "description": "ME_-1 Pet",
+  "footer": {
+    "text": "See !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/171.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase quest gold buff `54000`, `144000`, `540000`, `1440000`, `2700000`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase HP of all units in Guild Raid `0`, `0`, `10`, `20`, `30`",
+  "inline": false
+},
