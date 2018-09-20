@@ -1,0 +1,32 @@
+.acr "!pet lunar" {
+  "plaintext":"%user% typed `!pet lunar`",
+  "title": "Lunar",
+  "description": "Event Pet",
+  "footer": {
+    "text": "See !books | !petbook"
+  },
+"thumbnail": "http://www.endlessfrontierdata.com/images/pets/195.png",
+"fields": [
+{
+  "name": "Skill 1",
+  "value": "Increase additional medals obtained `5`, `10`, `10`, `20`, `20`",
+  "inline": false
+},
+{
+  "name": "Skill 2",
+  "value": "Increase additional medals obtained `0`, `0`, `20`, `40`, `70`",
+  "inline": false
+},
+{
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "Goddess Necklace of the Moon",
+  "inline": false
+},
+{
+  "name": "Pet points",
+  "value": "`4`, `8`, `12`, `16`, `20`",
+  "inline": true
+}
+],
+"color": 10554123
+}
