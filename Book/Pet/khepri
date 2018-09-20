@@ -1,7 +1,7 @@
 .acr "!pet khepri" {
   "plaintext":"%user% typed `!pet khepri`",
   "title": "Khepri",
-  "description": "Egyptian Pet",
+  "description": "ME_-1 Pet",
   "footer": {
     "text": "See !books | !petbook"
   },
@@ -18,15 +18,15 @@
   "inline": false
 },
 {
-      "name": "Artifact - Unlocks at Rank 5",
-      "value": "The Sword of the Sun",
-      "inline": false
-    },
-    {
-      "name": "Pet points",
-      "value": "`7`, `14`, `21`, `28`, `35`",
-      "inline": true
-    }
-  ],
-  "color": 10554123
+  "name": "Artifact - Unlocks at Rank 5",
+  "value": "The Sword of the Sun",
+  "inline": false
+},
+{
+  "name": "Pet points",
+  "value": "`7`, `14`, `21`, `28`, `35`",
+  "inline": true
+}
+],
+"color": 10554123
 }
