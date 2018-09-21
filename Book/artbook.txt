@@ -42,26 +42,8 @@
       "inline": false
     },
     {
-      "name": "5-star Artifact Sets",
-      "value": "`#8` Sea Dragon's Arms Set
-`#7` Dark Knight's Arms Set
-`#6` Ancient High Priest's Garment Set
-`#5` Necromancer's Spirit Set
-`#4` Ghost of Snow Mountain's Battle Uniform Set
-`#3` Bone Wyvern's Arms Set
-`#35` Ancient Battle Secret Book Set
-`#34` Underground Guild's Assassin Set
-`#2` Oath of Heaven Set
-`#24` Great General's Arms Set
-`#23` Temple Battlemage's Weapon Set
-`#22` Master's Lion Hide Set
-`#1` Sword of Spirit of Dark and Light Set
-",
-      "inline": false
-    },
-    {
-      "name": "1, 2, 3 and 4 star Artifact Sets",
-      "value": "`#21` `#20` `#19` `#33` `#32` `#31` `#30` `#29` `#28` `#27` `#26` `#25` ",
+      "name": "1, 2, 3, 4 and 5 star Artifact Sets",
+      "value": "`#21` `#20` `#19` `#33` `#32` `#31` `#30` `#29` `#28` `#27` `#26` `#25` `#1` `#2` `#3` `#4` `#5` `#6` `#7` `#8` `#22` `#23` `#24` `#34` `#35`",
       "inline": false
     },
   ],
