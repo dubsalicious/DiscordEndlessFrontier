@@ -7,7 +7,9 @@
   "fields": [
     {
       "name": "7-star Artifact Sets",
-      "value": "`#51` Legendary Treasures of Forest set
+      "value": "`#57` Ancient Claw set
+`#56` Moon Goddess set
+`#51` Legendary Treasures of Forest set
 `#50` Hell Lord's Weapons set
 `#49` Weapons of Ancient Mythology Set
 `#48` Treasures of Gods Set
