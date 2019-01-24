@@ -40,13 +40,15 @@ WM - Wind Mage
 ```
 *Five Star*
 ```
-AL - Aladdin
+AC - Astral Captain
+Ala - Aladdin
 Alch - Alchemist
 AM - Abyss Mage
 BD, Drummer - Battle Drummer
 BF - Big Foot
 BM - Blade Master
 BU - Bomb Unit
+CHR - Crimson Hawk Rider
 Cleric - Cleric
 Crow - Crow Knight
 DA - Dark Archer
@@ -73,15 +75,16 @@ INC - Incubus
 IS - Ice Spirit
 IW - Ice Wizard
 Lich - Lich
-Med, Dusa, MoM - Medusa
+MoM - Medusa
 Naga - Naga
 NoD - Dark Ninja
 Pilot - Pilot
 Priest - Priest
 Rangda - Rangda
-Raptor, RR - Raptor Rider
+RR - Raptor Rider
 Sage - Elf Sage
 SD - Sword Dancer
+SK - Shadow Knight
 Siren - Siren
 Sorc - Sorcerer
 SP - Steam Punk
@@ -90,10 +93,10 @@ Sylph - Sylphid
 Tress - Musketress
 UK - Unicorn Knight
 Valk - Valkyrie
+Warbear - Warbear Rider
 Wiva - Windwalker
 WK - Winged Knight
 WR - Wolf Rider
 WW - Wolf Warrior
 Wyvern - Wyvern Rider
 ```
-For localised unit names, consult <http://bit.ly/eftotmegasheet> abbriviation list

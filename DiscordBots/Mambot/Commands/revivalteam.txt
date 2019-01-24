@@ -2,26 +2,37 @@
 
 The revival team allows a different squad to be used to provide revival buffs. This squad does *NOT* replace the main team in anyway, it is just used for those buffs. 
 
-__**When to Unlock**__
+__**Dark Archer**__ 
 
-Initially the units mentioned in this guide can be in the main team. Once stronger supports have been found, the revival team should be unlocked to move units like Dark Archers out of the main team.
+The initial goal for the revival team is to maximise the Dark Archer revival buff at 60%:
+```
+Revival Team, 5* DA       - 2.5%
+Revival Team, 6* DA       - 5.0%
+Time Shop, 5* Moon, 5* DA - 1.0%
+Time Shop, 5* Moon, 6* DA - 2.5%
+```
+Initially 12 Senior (6\*) Dark Archers in the revival team are needed. Once Moon reaches 5\* Dark Archers can be removed from the Revival Team, as long as the Revival Team + Time Shop total makes 60%.
 
-__**Priorities**__ *Highest priority first*
+Spaces in the Revival Team should be made using the units listed in the following section. The final goal is 12 T3 Shadow Knights with Shadow at 5\*.
 
-This is a very simple guide aimed to just give some idea of what units are generally prioritized. All units should be seniored at least. Generally trans level is ignored for simplicity in this guide. 
+__**Unit Medal Buffs**__
 
-`Dark Archer       - `Start at 5% of stage revived at. If any spare trans tickets :t_trans:, may be worth going to T1.
-`T2/T3 6* Units    - `For additional Medal Bonus, likely only the Core 2 units in early game
-`Battle Drummer    - `Provide a higher medal buff than standard 6* units.
-`Guild Instructors - `Provide a higher medal buff than standard 6* units (DAd, Raptor Rider, Goku, HBX)
+*Don't forget to add the Transcend Bonus onto the passive to get the total buff for an individual unit*.
 
-A more detailed list can be found on the 2nd Datasheet Revival Team tab <http://bit.ly/efsheet2>.
-
-__**Very Late Game**__ *Only included for reference*
-
-Moon and Boom Boom at 5* change the revival team meta. With 24 Sr Dark Archers in the time shop, the revival team benefits most from Battle Drummers.
-
-__**Additional References**__
-
- - 2nd Datasheet, Revival Team tab -  <http://bit.ly/efsheet2>.
- - Reddit Guide - <https://www.reddit.com/r/EndlessFrontier/comments/5c5bc3/revival_team_setup_guide>
+**Units with Passive**
+```
+Shadow Knight  (+Pet) -  +70% Medals 
+Battle Drummer (+Pet) -  +40% Medals
+Shadow Knight         -  +30% Medals
+Battle Drummer        -  +10% Medals
+Guild Instructors     -  + 5% Medals (DAd, Raptor Rider, Goku, HBX)
+```
+**Transcend Bonus**
+```
+T1            5.0%
+T1 + Pet 5*   7.5%
+T2           10.0%
+T2 + Pet 5*  15.0%
+T3           15.0%
+T3 + Pet 5*  22.5%
+```
