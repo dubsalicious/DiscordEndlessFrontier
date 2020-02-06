@@ -1,4 +1,0 @@
-.acr "!unit aladdin" {"plaintext":"%user% typed `!unit aladdin`", "title":"Senior Aladdin","description":"★★★★★★ | Floating Unit | :ap::uh::um::ta::hn: Gen 2","footer":{"text":"See !pet magic lamp | !unitskill aladdin | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386072733908993/UI_UNIT_ICONS0105.png","fields":[{"name":"Abilities","value":"```+ General Attack : Attacks an enemy by flinging a large golden coin ( Range, air available )
-+ Skill Attack : Knocks back and stuns the enemies in front by summoning Genie of the Magic Lamp ( Knock-back Attack )
-+ Special Ability 1 : Scatters golds while moving 
-+ Special Ability 2 : When operating Human's Secret Skill, the amount of gold given increases by 10 times by 15% possibility.```"},],"color":15843890}

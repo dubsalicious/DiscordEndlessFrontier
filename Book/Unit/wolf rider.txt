@@ -1,3 +1,0 @@
-.acr "!unit wolf rider" {"plaintext":"%user% typed `!unit wolf rider`", "title":"Senior Wolf Rider","description":"★★★★★★ | Ground Unit | :ap::uo::um:","footer":{"text":"See !pet woola | !unitskill wolf rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385940684767232/UI_UNIT_ICONS0078.png","fields":[{"name":"Abilities","value":"```+General Attack : Splash damage the target and neighboring units, HP recovers gradually for each attack
-+Skill Attack : Summon Wolf Spirits that attack and stun enemies. Units casting spells near the Wolf Spirits recieve large movement and attack speed buffs
-+Special Ability : None```"},],"color":15843890}

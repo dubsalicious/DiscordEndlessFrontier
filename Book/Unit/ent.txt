@@ -1,3 +1,0 @@
-.acr "!unit ent" {"plaintext":"%user% typed `!unit ent`", "title":"Senior Ent","description":"★★★★★★ | Ground Unit | :ap::ue::un:","footer":{"text":"See !pet joe | !unitskill ent | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385715064635392/UI_UNIT_ICONS0034.png","fields":[{"name":"Abilities","value":"```+General  Attack: Damage all ( surrounding ) enemies and has a chance to stun.
-+Skill Attack: Blow attack a number of enemies and restore your HP. Either cast a shield immune to magical attacks or a shield immune to physical attacks in a random order.
-+Special Ability: Immune to knock back, when attacked with knock back, cast a shield which protects against 99% of the damage```"},],"color":15843890}

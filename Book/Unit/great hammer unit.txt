@@ -1,3 +1,0 @@
-.acr "!unit great hammer unit" {"plaintext":"%user% typed `!unit great hammer unit`", "title":"Senior Great Hammer Unit","description":"★★★★ | Ground Unit | :ap::uu::um:","footer":{"text":"See !unitskill great hammer unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385772673531904/UI_UNIT_ICONS0050.png","fields":[{"name":"Abilities","value":"```+General Attack : Melee Physical Attack
-+Skill Attack : With 2 times enhanced attack power, strike enemies to stun and splash damage surrounding units. Splash damaged enemies will be stunned on certain possibilities
-+Special Ability : When you die, 80% of your HP will be revived on the spot, born again, never be passed out (Immune to Stun)```"},],"color":15843890}

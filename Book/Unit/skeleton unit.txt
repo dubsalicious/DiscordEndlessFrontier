@@ -1,3 +1,0 @@
-.acr "!unit skeleton unit" {"plaintext":"%user% typed `!unit skeleton unit`", "title":"Senior Skeleton Unit","description":"★★ | Ground Unit | :ap::uu::um:","footer":{"text":"See !unitskill skeleton unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385735826309120/UI_UNIT_ICONS0042.png","fields":[{"name":"Abilities","value":"```+General Attack : Melee Physical Attack
-+Skill Attack : None
-+Special Ability : When you die, you may revive on the spot and continue to fight```"},],"color":15843890}

@@ -1,0 +1,58 @@
+**Welcome to the Endless Frontier Discord Server!**
+
+**Information Channels**
+```
+#announcements     Game and Server announcements.
+
+#about             This channel!
+
+#rules             Rules for the server.
+
+#korean_info       The latest information from Korea.
+```
+**General**
+```
+#ef_general        General game discussion, mainly for newer players.
+
+#off-topic         Anything not game related (keep SFW).
+
+#reddit            Feed from the subreddit.
+```
+**Endless Frontier**
+```
+#midgame          Later game discussion.
+
+#share            Share pictures/images about the game.
+
+#ask_anything     Ask anything about the game.
+
+#outland_battle   Chat about builds and setups for Outland Battle.
+
+#theorycraft      Restricted Channel - Advanced level discussion. Should not be used for basic queries.
+
+#endgame_sh       Restricted Channel - Solutions for the tougher Spirit Highlands levels.
+
+#hardmode_sh      Solutions for Spirit Highlands hard mode. Read only unless new stages are available.
+
+#resources        Useful links to community resources. 
+
+#suggestions      Restricted Channel - Opens every few months normally to crowd source game suggestions.
+
+```
+**Endless Airships**
+```
+#airship_general        General discussion about the Airships mechanic.
+
+#airship_ask_anything   Ask questions about the Airships systems.
+
+#airship theorycraft    For advanced discussions about Airships.
+```
+**Bot Commands**
+```
+#commands          Send commands to the bots for roles and guides, !commands and !help in the channel for more info.
+
+#book              Detailed information about all units, pets and artifacts in the game. Use `!books` for an index.
+```
+**Server Specific Channels**
+
+Every server has its own general, Tower of Trial and Guild Recruitment channel. Type `.iam Server #` (replacing the # with your server number) in #commands to see them. Additionally use `.iam Server Korea` to see the Korean chat channels.

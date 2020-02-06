@@ -1,4 +1,0 @@
-.acr "!unit hoyden goku" {"plaintext":"%user% typed `!unit hoyden goku`", "title":"Senior Hoyden Goku","description":"★★★★★★ | Ground Unit | :ap::ue::uf::hn: Gen 4","footer":{"text":"See !pet nimbus | !unitskill hoyden goku | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386147027484676/UI_UNIT_ICONS0119.png","fields":[{"name":"Abilities","value":"```+ General Attack : Attacks and knocks a number of enemy units back with wind wave. Air units get knock back, but never get damaged. (Knock back) 
-+ Skill Attack : Moves in a fast speed and attacks a number of enemy units.
-+ Special Ability 1 : Increases the production speed of Elf guild unit.
-+ Special Ability 2 : Increases medals earned at the time of revival by 5%.```"},],"color":15843890}

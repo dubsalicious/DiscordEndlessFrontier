@@ -1,0 +1,37 @@
+Datamining
+==========
+
+More organised central location for datamining. Github or something? Use #contributors for central chat area?
+
+
+Guides
+=====
+
+Lombardi need editing?
+
+Guild - Overview of war, raid and invasion.
+  Guild War
+  Guild Raid
+  Guild Invasion
+Outland Battle
+World Boss
+Pleb Overview 
+Tower of Trial
+Artifacts - How to get them, artifact trans, etc.
+Revival Team
+Pet Guide
+  Unit Passive Skill Guide - How many of each unit needed (with and without pet). Priorities?
+Airships
+  Explore
+  Team Setup
+  PvP
+  Aerostone Farming?
+Daily Activities - All tickets for things, roulette, airships, daily quests, etc
+
+--------------------------------------------
+
+Calculators and Tools
+=====================
+
+efdata
+other things. Maybe linked into the guides?

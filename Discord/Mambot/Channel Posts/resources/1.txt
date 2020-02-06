@@ -1,0 +1,298 @@
+Beginner Resources
+
+**New player handbook - Lombardi#1492**
+```Comprehensive guide for players just starting out```
+<http://bit.ly/LombardiNPH>
+**----------------------------------------**
+
+
+**Team comp progression - SxeSpanky#6337**
+```Explanation of shifts in meta as pet progression is made```
+<https://cdn.discordapp.com/attachments/642106635573264424/670745977623150592/H17Meta.png>
+**----------------------------------------**
+
+
+**Unit name abbreviations - mostnormal#8324**
+```Abbreviations used commonly for units in this discord server and many guides
+For a better list which also has translations in many languages, use the ToT Megasheet -> 
+http://bit.ly/ToTMegasheet (clickable link in section 3 of this channel)```
+<http://bit.ly/EFshortlist>
+**----------------------------------------**
+
+
+**Reddit revival team setup guide - L1TD/CheezyBob**
+```Basic overview of revival team```
+<https://www.reddit.com/r/EndlessFrontier/wiki/guides/revivalteamguide>
+**----------------------------------------**
+
+################################################
+
+General Game
+
+**Medal level calculator - Elisty#9613**
+```Shows trend of medal level per revive ```
+<http://bit.ly/MedalLvCalc>
+**----------------------------------------**
+
+
+**Unit Selection Ticket Ranking - CheezyBob#7777**
+```Priority of units when using unit selection tickets```
+<https://www.reddit.com/r/EndlessFrontier/wiki/guides/unit_selection_ticket>
+**----------------------------------------**
+
+
+**Omnihelper - dzed#8117**
+```Time shop medal bonus & skill push calculator, artifact set builder```
+<http://bit.ly/OmniHelper>
+**----------------------------------------**
+
+
+**Endgame TS Units - CheezyBob#7777**
+```Units needed to max time shop buffs```
+<https://imgur.com/a/HC8Ny5Z>
+**----------------------------------------**
+
+
+**Medal cost/gain curve - mortr#4714**
+```Raw data and chart for medal gained over stages and medal cost to enhance units```
+<http://bit.ly/MedalData>
+**----------------------------------------**
+
+
+**Max Stage Calc - IanManta#9595**
+```Calculate the max Stage you should be able to get to```
+<http://bit.ly/MaxStageCalcv2>
+**----------------------------------------**
+
+
+**EF Farming Tool - Crypto2557#1651**
+```See how long it will take you to get a Pet to 5*. Check how many of each Unit you need to cap its bonus```
+<https://crypto2557.github.io/>
+**----------------------------------------**
+
+#####################################################
+
+ToT
+
+**ToT megasheet - Splasssshy#1373**
+```Solutions for ToT Stages up to Stage 36. Also has Unit Abbreviations```
+<http://bit.ly/ToTMegasheet>
+
+**If you have Solutions to add, please join the following Discord Server:** <https://discord.gg/AzMaDj2>
+**----------------------------------------**
+
+###############################################
+
+Outland Battle
+
+
+**Reddit OB Guide (possibly outdated) - Amoramune**
+```General Information about Outland Battle and best Units to use```
+<http://bit.ly/OBGuideReddit>
+**----------------------------------------**
+
+
+**OB Pleb Ranking - AlphoSuave & GobbleDix**
+```Ranking of plebs that can be utilised in Outland Battle```
+<http://bit.ly/OBPlebRanking>
+**----------------------------------------**
+
+
+**OB Info - BJgobbleDix#8761**
+```Contains nearly all the Info you want about OB. You can also track your Outland Battle Progress. Shows you gained frags and resources. Added Functionality for soon to be released Hardmode.```
+<http://bit.ly/OBTracker>
+**----------------------------------------**
+
+######################################################
+
+Pet/SH
+
+**Pet Charts - anjunabe#8632**
+```Pets sorted based on the buff they give and  the amount based on their Star Rating. Also where you can get them```
+<https://docs.google.com/document/d/1x2e16xvNOoWcy_f2zJ_IRGJE7ErRqczPkk0abRH_p90/>
+**----------------------------------------**
+
+
+**Endless Frontier Data - Pets - dubs#6542**
+```Information about all Pets and the Skills they get depending on their level```
+<https://www.endlessfrontierdata.com/pets>
+**----------------------------------------**
+
+
+**God Pet List - Striker#6163**
+```Stats and Skills of the God Pets. Sorted by Set```
+<http://bit.ly/GodPetList2>
+**----------------------------------------**
+
+
+**How to Pet - HarroweD#2091**
+```What you need to know about Pets```
+<http://bit.ly/HarroweD>
+**----------------------------------------**
+
+
+**Raid Pet Progress Tracker - Yisug#0739**
+```Track your and you Guilds Raid Pet Progress```
+<https://docs.google.com/spreadsheets/d/13I_jp7A_ev_4Oxx4gfzyCn_UqIUVyS2zeceDP-uulyc/>
+**----------------------------------------**
+
+
+**SH/SHH 3* Guide - Capoutski#7585**
+```Solutions to 3* every SH/SHH Stage```
+<https://docs.google.com/spreadsheets/d/1Usi0E4Ch42G1PQTT8kWxW5ekoN94AJTc54HtR5E953A>
+**----------------------------------------**
+
+############################################################
+
+Airships
+
+**Airship Guide - Magic#7761 or Penta** 
+```
+Everything basic you need to know about Airship.
+```
+<http://bit.ly/AirshipGuide>
+<http://bit.ly/AirshipGuide2>
+**----------------------------------------**
+
+
+**Airship Data Sheet - Efreet#0416**
+```
+All the raw Data about Airships.
+```
+<http://bit.ly/AirshipDataSheet>
+**----------------------------------------**
+
+
+**Airship Fleet Builder - dzed#8117**
+```
+Helpful Tool to plan your Fleet or play around with different setups to see with which stats you will end up with. (Create a copy to use it)
+
+Last Update: May 31 (v1.06)
+```
+<http://bit.ly/AirshipFleetBuilder>
+**----------------------------------------**
+
+
+**Tablets Calculator - mpnico#2382** 
+```
+Calculator for Tablets/Seals based on Tribe. 
+```
+<https://docs.google.com/spreadsheets/d/11FaJRw3ZEe333DAjppjMxRhhmAjrzfxnBxSnFHsOZX8/edit?usp=sharing>
+**----------------------------------------**
+
+
+**Airship Progression Guide - Godz#7476** 
+```
+Guide on Airship Progression. How to build your team and plan for 3-4* Ships
+```
+<http://bit.ly/AirshipProgressionGuide>
+**----------------------------------------**
+
+
+**Friendliness Seal Chart - XPrecision#1812** 
+```
+Chart showing the needed seal amount depending on pet level
+```
+<http://bit.ly/SealsFriendliness>
+**----------------------------------------**
+
+
+**Tablets Helper - Arch#3263** 
+```
+Tablets Helper
+```
+<https://cdn.discordapp.com/attachments/468912317057466370/498143328681066496/Seals_to_Unlock_Art_Limit_v2_1.xlsx>
+**----------------------------------------**
+
+
+**Seal Droprate - Yisug#0739** 
+```
+Seal Droprate based on Fuel Consumption
+```
+<https://docs.google.com/spreadsheets/d/18r8FlK0ruPxOxtDGsJCuDzJCNZ0nfW8gYzjhc-tnh6Y>
+**----------------------------------------**
+
+
+**Friendliness Rewards - Perp#1396** 
+```
+Rewards you get for certain amounts of Friendliness
+```
+<https://cdn.discordapp.com/attachments/324929133916192769/644239171505881099/unknown.png>
+**----------------------------------------**
+
+##########################################################
+
+Guild
+
+
+**Raid info - knox#8341**
+```Information about all the bosses, their Stats and how many Frags they give```
+<https://docs.google.com/spreadsheets/d/1_Da1wMWjkevUBRAU1OnBRnp8TZmVc9Hayx70bOH25XQ/edit#gid=0>
+**----------------------------------------**
+
+
+**Raid Damage Summary - Trogdor#3928**
+```Statistics and Data about Raid damage depending on KL. Please fill out the form which is linked in the doc, so we get more data to work with```
+<http://bit.ly/RaidDamageSummary>
+**----------------------------------------**
+
+
+**Raid Team Setups - Blasian#0001**
+```Team Setup, Which skills and how to use them and Pets to set as main pet during Raid```
+<https://cdn.discordapp.com/attachments/464043566696628224/499415951272574996/H12_Raid_Setup.png>
+**----------------------------------------**
+
+#################################################
+
+Artifacts
+
+
+**Art Guide - Iimi#7168**
+```Everything you need to know about Artifacts and what to do with them```
+<https://docs.google.com/document/d/1AHEhspi0oGuvEWo8CTyEafrqR9CGdp5KhrkXw1jWcPs/>
+**----------------------------------------**
+
+
+
+**Art builds - Magic#7761**
+```Comprehensive Artifact builds```
+<http://bit.ly/efmagicarts>
+**----------------------------------------**
+
+
+**Art builds - Elisty#9613**
+```Key Artifact builds```
+<http://bit.ly/Elistyarts>
+**----------------------------------------**
+
+
+**Endless Frontier Data - Artifacts - dubs#6542**
+```Basic Information about all the available Artifacts. Lets you see stats of Arts for a trans and enhancement level you can define yourself```
+<https://www.endlessfrontierdata.com/artifacts.php>
+**----------------------------------------**
+
+
+**Artifact Set Bonus Enhancement - anjunabe#8632**
+```Artifact Set Bonus and how it changes when enhanced and the Cost to do so```
+7\*: <https://cdn.discordapp.com/attachments/191289619285803008/602771489535688705/unknown.png>
+8\*: <https://cdn.discordapp.com/attachments/191289619285803008/602771539053772810/unknown.png>
+**----------------------------------------**
+
+#######################################################
+
+Theory
+
+
+**10x Attack power efficiency - Elisty#9613**
+<http://bit.ly/10xAttackPower>
+**----------------------------------------**
+
+
+**Undead Tablets Build Comparison - Elisty#9613**
+<https://cdn.discordapp.com/attachments/462715886424424489/500948179466977290/Screenshot_20181014-162813_Sheets.jpg>
+**----------------------------------------**
+
+
+
+
+**_**

@@ -1,4 +1,0 @@
-.acr "!unit hot-blooded xuanzang" {"plaintext":"%user% typed `!unit hot-blooded xuanzang`", "title":"Senior Hot-Blooded Xuanzang","description":"★★★★★★ | Ground Unit | :ap::uh::um::ta::hn: Gen 4","footer":{"text":"See !pet mir | !unitskill hot-blooded xuanzang | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386137657540609/UI_UNIT_ICONS0117.png","fields":[{"name":"Abilities","value":"```+ General Attack : Fires electricity bolts under a spell, attacks and stuns three enemy units. (Damage decreases every time electricity bolts rebound.)
-+ Skill Attack : Attacks enemy units and stuns them by summoning a number of punches.
-+ Special Ability 1 : Increases the production speed of Human guild unit.
-+ Special Ability 2 : Increases medals earned at the time of revival by 5%.```"},],"color":15843890}

@@ -1,8 +1,0 @@
-.acr "!unit sorcerer" {"plaintext":"%user% typed `!unit sorcerer`", "title":"Senior Sorcerer","description":"★★★★★★ | Ground Unit | :am::uo::uf::ta::dc::hn: Gen 3","footer":{"text":"See !pet totem | !unitskill sorcerer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386051384770570/UI_UNIT_ICONS0101.png","fields":[{"name":"Abilities","value":"```+ General Attack : Fires a power ball infused with nature, knocks back and stuns the enemy for a certain amount of time.
-+ Skill Attack : Randomly summons a totem among three totems. 
-  * Red Totem : Friendly units around the totem become immune to stun for a certain amount of time.
-  * Blue Totem : Friendly units around the totem become immune to frost for a certain amount of time.
-  * Green Totem : Friendly units around the totem become immune to knock-back for a certain amount of time.
-+ Special Ability 1 : increases the basic speed of the game by 5% ( If double-speed applied, the game speed increases by 2.1 times, Cumulative )
-+ Special Ability 2 : increase the movement and attack speed of all units by 5%
-+ Special Ability 3 : increase offline march speed by 15%```"},],"color":15843890}

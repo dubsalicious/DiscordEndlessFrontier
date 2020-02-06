@@ -1,8 +1,0 @@
-.acr "!unit battle drummer" {"plaintext":"%user% typed `!unit battle drummer`", "title":"Senior Battle Drummer","description":"★★★★★★ | Ground Unit | :ap::uo::um::ta::hn: Gen 2","footer":{"text":"See !pet boom boom | !unitskill battle drummer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386061509820416/UI_UNIT_ICONS0103.png","fields":[{"name":"Abilities","value":"```+ General Attack : None
-+ Skill Attack : None
-+ Special Ability 1 : increase the basic speed of the game by 5% ( If double speed applied, the game speed increases by 2.1 times, Cumulative )
-+ Special Ability 2 : increase the critical strike chance of all units by 10%
-+ Special Ability 3 : increase Critical Damage of all units by 10%
-+ Special Ability 4 : increase movement speed of all units by 5%
-+ Special Ability 5 : increase attack speed of all units by 5%
-+ Special Ability 6 : increase medals earned at the time of revival by 10%```"},],"color":15843890}

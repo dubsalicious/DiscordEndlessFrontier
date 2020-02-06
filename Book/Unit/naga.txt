@@ -1,7 +1,0 @@
-.acr "!unit naga" {"plaintext":"%user% typed `!unit naga`", "title":"Senior Naga","description":"★★★★★★ | Ground Unit | :ap::uo::uf::ta::dc::hn: Gen 6","footer":{"text":"See !pet seahorse | !unitskill naga | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386289080172545/UI_UNIT_ICONS0141.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Attacks enemies with multiple arrows, slowing their movement speed.
-+ Skill Attack: Summons ice pillars to trap multiple enemies in an ice prison.
-+ Special Ability 1: Increases movement, attack speed and attack range of Orc and Undead by 4%.
-+ Special Ability 2: Cloaks the unit to stealthily infiltrate the enemy base to destroy it.
-+ Special Ability 3: Increases the basic speed of the game by 5%.
-+ Special Ability 4:  First attack is dodged 100% by taking a step back. (Cloak will be removed)
-+ Inner Passion: Increases all abilities (attack/defense/HP) of units by 5 levels. ([Inner passion] can only be used in stages. [Inner passion] is accrued when applied, but the unit abilities cannot increase to more than +100 level. This is activated even when units are in the Time Shop.)```"},],"color":15843890}

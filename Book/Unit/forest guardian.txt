@@ -1,5 +1,0 @@
-.acr "!unit forest guardian" {"plaintext":"%user% typed `!unit forest guardian`", "title":"Senior Forest Guardian","description":"★★★★★★ | Ground Unit | :am::ue::uf::ta::hn: Gen 3","footer":{"text":"See !pet leo | !unitskill forest guardian | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386113502543872/UI_UNIT_ICONS0113.png","fields":[{"name":"Abilities","value":"```+ General Attack : Attacks more than two enemies at one time with four magic arrows.
-+ Skill Attack : Attacks several enemies at the same time with many arrows.
-+ Special Ability 1 : increase the basic speed of the game by 5% ( If double speed applied, the game speed increases by 2.1 times, Cumulative )
-+ Special Ability 2 : Increase the movement speed of each ground unit in the team by 0.8%. In case of guild war, increases by 0.08%. ( If possessing 5 ground units, increases the movement speed by 4%. ( Guild war : increases by 0.4% ) )
-+ Special Ability 3 : increase offline marching speed by 20%```"},],"color":15843890}

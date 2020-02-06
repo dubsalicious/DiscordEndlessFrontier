@@ -1,3 +1,0 @@
-.acr "!unit green eagle" {"plaintext":"%user% typed `!unit green eagle`", "title":"Senior Green Eagle","description":"★★★★ | Air Unit | :ap::ue::un::ta:","footer":{"text":"See !unitskill green eagle | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385700938350595/UI_UNIT_ICONS0030.png","fields":[{"name":"Abilities","value":"```+General Attack : Damage enemies with a Wind Attack and push them back
-+Skill Attack : Cast Wind Attacks 4 consecutive times which will push enemies back
-+Special Ability : None```"},],"color":15843890}

@@ -1,6 +1,0 @@
-.acr "!unit steam punk" {"plaintext":"%user% typed `!unit steam punk`", "title":"Senior Steam Punk","description":"★★★★★★ | Ground Unit | :am::uh::un::ta::hn: Gen 6","footer":{"text":"See !pet e-77 | !unitskill steam punk | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386261037187072/UI_UNIT_ICONS0135.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Repeated attack that has a chance to stun enemies. 
-+ Skill Attack: Launches multiple missiles that stun and damage surrounding units.
-+ Special Ability 1: These are very heavy, made with solid steel. (Categorized as large units such as Golem and Big Foot. Large Units: Reduced impact from blow and knock-back attacks and short duration for freeze/ensnare.)
-+ Special Ability 2: Increases human and elf's movement speed, attack speed, and attack range by 4%.
-+ Special Ability 3: Increases the basic speed of the game by 5%.
-+ Inner Passion: Increases all abilities (attack/defense/HP) of units by 5 levels. ([Inner passion] can only be used in stages. [Inner passion] is accrued when applied, but the unit abilities cannot increase to more than +100 level. This is activated even when units are in the Time Shop.)```"},],"color":15843890}

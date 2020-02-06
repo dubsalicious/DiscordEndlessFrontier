@@ -1,4 +1,0 @@
-.acr "!unit raptor rider" {"plaintext":"%user% typed `!unit raptor rider`", "title":"Senior Raptor Rider","description":"★★★★★★ | Ground Unit | :ap::uo::um::ta::hn: Gen 4","footer":{"text":"See !pet rapty | !unitskill raptor rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386163620282370/UI_UNIT_ICONS0123.png","fields":[{"name":"Abilities","value":"```+ General Attack : Attacks enemy units by throwing a number of spears, and knocks them back. (Knock back)
-+ Skill Attack : Makes the enemy units slow by throwing a number of ice spears, and has a chance to freeze them.
-+ Special Ability 1 : Increases the production speed of Orc guild unit.
-+ Special Ability 2 : Increases medals earned at the time of revival by 5%.```"},],"color":15843890}

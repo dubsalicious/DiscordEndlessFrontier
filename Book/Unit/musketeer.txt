@@ -1,3 +1,0 @@
-.acr "!unit musketeer" {"plaintext":"%user% typed `!unit musketeer`", "title":"Senior Musketeer","description":"★★★★ | Ground Unit | :ap::uh::um::ta::dc:","footer":{"text":"See !unitskill musketeer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385628544532480/UI_UNIT_ICONS0008.png","fields":[{"name":"Abilities","value":"```+General Attack : Using a ranged physical attack, stun the enemy for a certain amount of time with a low possibility 
-+Skill Attack : Using a bullet that has 3.5 times stronger attack power than the basic attack, attack enemies twice and stun them for a certain amount of time
-+Special Ability : None```"},],"color":15843890}

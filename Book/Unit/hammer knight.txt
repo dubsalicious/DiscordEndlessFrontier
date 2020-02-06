@@ -1,4 +1,0 @@
-.acr "!unit hammer knight" {"plaintext":"%user% typed `!unit hammer knight`", "title":"Senior Hammer Knight","description":"★★★★ | Ground Unit | :am::uh::um:","footer":{"text":"See !unitskill hammer knight | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385636165582848/UI_UNIT_ICONS0010.png","fields":[{"name":"Abilities","value":"```+General Attack : Melee Magical Attack
-+Skill Attack : Strike the target with double damage and stun the target for a certain amount of time. 
-At the same time, splash damage approaching enemies and stun them on certain possibilities.
-+Special Ability : When being attacked, cast a defense shield immune to physical attacks randomly.```"},],"color":15843890}

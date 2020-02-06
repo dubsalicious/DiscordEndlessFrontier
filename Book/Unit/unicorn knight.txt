@@ -1,3 +1,0 @@
-.acr "!unit unicorn knight" {"plaintext":"%user% typed `!unit unicorn knight`", "title":"Senior Unicorn Knight","description":"★★★★★★ | Ground Unit | :ap::ue::un::ta::dc:","footer":{"text":"See !pet uni | !unitskill unicorn knight | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385728490602496/UI_UNIT_ICONS0038.png","fields":[{"name":"Abilities","value":"```+General Attack : Attack enemies with several arrows at a time
-+Skill Attack : Attack enemies with a great number of arrows
-+Special Ability : None```"},],"color":15843890}

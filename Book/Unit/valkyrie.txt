@@ -1,8 +1,0 @@
-.acr "!unit valkyrie" {"plaintext":"%user% typed `!unit valkyrie`", "title":"Senior Valkyrie","description":"★★★★★★ | Ground Unit | :ap::uh::uf::ta::dc::hn: Gen 7","footer":{"text":"See !pet sarah | !unitskill valkyrie | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386297171247106/UI_UNIT_ICONS0143.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Throw several axes to attack and stun multiple enemies for a short period.
-+ Skill Attack: Casts powerful Valkyrie buff that raises attack, movement, and attack speed of nearby units for a short period. 
-(Units have a 50% chance to receive Valkyrie buff, and the buffed stats increase whenever Valkyrie transcends.)
-+ Special Ability 1: Casts Valkyrie buff when killed.
-+ Special Ability 2: Raises the basic speed of game by 8%.
-+ Special Ability 3: Increases movement speed and attack range of human units by 6%.
-+ Special Ability 4: Immune to paralysis.
-+ Innervate: Reduces raid skill cool-time by 3%. (Innervate can be stacked, but cannot exceed 40%. Also applies when units are in Time Shop.)```"},],"color":15843890}

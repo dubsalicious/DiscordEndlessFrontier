@@ -1,4 +1,0 @@
-.acr "!unit golem" {"plaintext":"%user% typed `!unit golem`", "title":"Senior Golem","description":"★★★★★★ | Ground Unit | :ap::uh::un:","footer":{"text":"See !pet mambo | !unitskill golem | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385654398222336/UI_UNIT_ICONS0014.png","fields":[{"name":"Abilities","value":"```+General Attack : Splash damage enemies that are close to the target, the target will be 100% stunned, surrounding units will be randomly stunned
-+Skill Attack : Cast an immune to physical attacks shield, stun the target with 100% chance while dealing double damage. Surrounding enemies will be randomly stunned
-+Special Ability 1 : Never pass out (Immune to stun)
-+Special Ability 2 : While being attacked, a shield defending 99% of physical and magical attack is casted on certain possibilities```"},],"color":15843890}

@@ -1,3 +1,0 @@
-.acr "!unit infantry" {"plaintext":"%user% typed `!unit infantry`", "title":"Senior Infantry","description":"★★ | Ground Unit | :ap::uh::um:","footer":{"text":"See !unitskill infantry | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385608545959938/UI_UNIT_ICONS0002.png","fields":[{"name":"Abilities","value":"```+General Attack : Melee Physical Attack
-+Skill Attack : Strike enemies with 2 times enhanced attack power and stun them for a certain amount of time
-+Special Ability : None```"},],"color":15843890}

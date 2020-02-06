@@ -1,6 +1,0 @@
-.acr "!unit griffin rider" {"plaintext":"%user% typed `!unit griffin rider`", "title":"Senior Griffin Rider","description":"★★★★★★ | Air Unit | :ap::uh::um::ta::hn: Gen 3","footer":{"text":"See !pet griffy | !unitskill griffin rider | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386102513336325/UI_UNIT_ICONS0111.png","fields":[{"name":"Abilities","value":"```+ General Attack : Throws two long spears. knocks back and stuns the enemy for a while.
-+ Skill Attack : Throws several spears with two times damage, knocks back and stuns the enemy for a while. 
-+ Special Ability 1 : Increase the movement speed of each air unit in the team by 0.7%. In case of guild war, increases by 0.07%. ( If possessing 5 air units, increases the movement speed by 3.5%. ( Guild war : increases by 0.35% ) ) 
-+ Special Ability 2 : increase offline marching speed by 15%
-+ Special Ability 3 : Makes oneself invisible at a regular rate and avoids all range attacks when attacked by enemies.
-+ Special Ability 4 : Attacks only the enemies that can operate range air attack. ( + Disregards the skill that makes air units see oneself, among the skills of close units )```"},],"color":15843890}

@@ -1,4 +1,0 @@
-.acr "!unit poison archer" {"plaintext":"%user% typed `!unit poison archer`", "title":"Senior Poison Archer","description":"★★★★ | Ground Unit | :am::ue::um::ta:","footer":{"text":"See !unitskill poison archer | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385687008935936/UI_UNIT_ICONS0026.png","fields":[{"name":"Abilities","value":"```+General Attack : The enemy attacked by a ranged magical attack will be poisoned, their movement and attack speed will be slowed down for a short amount of time
-+Skill Attack : Attack enemies with 1.5 timesenhanced damage and poison them to make their movement and attack time slow for a certain amount of time. 
-Skill Attack casts poisoned cloud and makes the target units and their surrounding units slow in movement and attack. 
-+Special Ability : None```"},],"color":15843890}

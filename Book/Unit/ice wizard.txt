@@ -1,3 +1,0 @@
-.acr "!unit ice wizard" {"plaintext":"%user% typed `!unit ice wizard`", "title":"Senior Ice Wizard","description":"★★★★★★ | Ground Unit | :am::uo::uf:","footer":{"text":"See !pet snork | !unitskill ice wizard | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385889006616576/UI_UNIT_ICONS0076.png","fields":[{"name":"Abilities","value":"```+General Attack : Summon an ice prison that damages and freezes enemies for a short time.
-+Skill Attack : Summon a blizzard that damages enemies with a chance to freeze.
-+Special Ability : Chance to instantly cast abilities when taking damage.```"},],"color":15843890}

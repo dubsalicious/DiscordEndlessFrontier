@@ -1,3 +1,0 @@
-.acr "!unit wind mage" {"plaintext":"%user% typed `!unit wind mage`", "title":"Senior Wind Mage","description":"★★★★★ | Ground Unit | :am::ue::uf::ta:","footer":{"text":"See !unitskill wind mage | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385708492161024/UI_UNIT_ICONS0032.png","fields":[{"name":"Abilities","value":"```+General Attack : Using a Wind Blade, damage enemies and push them back
-+Skill Attack : By summoning a Tornado, damage a number of enemies and push them back
-+Special Ability : None```"},],"color":15843890}

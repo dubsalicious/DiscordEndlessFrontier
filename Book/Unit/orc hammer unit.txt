@@ -1,3 +1,0 @@
-.acr "!unit orc hammer unit" {"plaintext":"%user% typed `!unit orc hammer unit`", "title":"Senior Orc Hammer Unit","description":"★★★★ | Ground Unit | :ap::uo::um:","footer":{"text":"See !unitskill orc hammer unit | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309385866839851008/UI_UNIT_ICONS0072.png","fields":[{"name":"Abilities","value":"```+General Attack : Melee Physical Attack
-+Skill Attack : Summon a phantom that enemies will attack first
-+Special Ability : None```"},],"color":15843890}

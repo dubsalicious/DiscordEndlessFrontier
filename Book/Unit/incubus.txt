@@ -1,6 +1,0 @@
-.acr "!unit incubus" {"plaintext":"%user% typed `!unit incubus`", "title":"Senior Incubus","description":"★★★★★★ | Floating Unit | :am::uu::um::ta::hn: Gen 7","footer":{"text":"See !pet black | !unitskill incubus | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307202420994473986/309386316385091586/UI_UNIT_ICONS0147.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Fires several dark matter blasts to attack multiple enemies.
-+ Skill Attack: Charges towards enemies, inflicting powerful damage. Invincible while charging. 
-+ Special Ability 1: Raises the basic speed of game by 8%
-+ Special Ability 2: Increases movement speed and attack range of undead units by 6%
-+ Special Ability 3: Immune to paralysis.
-+ Innervate: Reduces raid skill cool-time by 3%. (Innervate can be stacked, but cannot exceed 40%. Also applies when units are in Time Shop.)```"},],"color":15843890}
