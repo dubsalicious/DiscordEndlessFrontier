@@ -1,46 +1,22 @@
 .acr !artifacttrans %user% typed `!artifacttrans`. This is an overview of artifact transcendence.
 
-Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts.
+Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts. Transcending 5\* artifacts is considered a waste and not covered by this guide.
+
 Upon Transcending, materials are consumed and random artifact you own is transcended. Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. You can only Transcend 1 artifact a day.
 
-Transcending 5\* artifacts is a waste and not covered by this guide.
+You require a set amount of artifacts before proceeding, for example:
 
-You need 20 6\* artifacts to begin transcending. Transcendence 1 rises limit of increasing maximum level of artifact to level 70\*\*.
+You need 20 6\* artifacts to begin transcending.
+You need 44 t1 6\* artifacts to begin transcending them to t2. 
+You need 15 7\* artifacts to begin transcending them. 
 
-You need 44 t1 6\* artifacts to begin transcending them to t2. Trancendence 2 rises limit of increasing maximum level of artifact to level 90\*\*
+Currently the limits are:
 
-You need 15 7\* artifacts to begin transcending them. Trancendence 1 rises limit of increasing maximum level of artifact to level 100 \*\*
-
-There is no ability to t2 7\* artifacts yet.
-
-__**6\* Materials**__
-
-3 units, can be changed for 100 honor (random):
-
-6\* Unit (Past honor unit, seniored)
-5\* Unit (Past honor unit)
-5\* Unit (Non-honor unit or seniored 4\* unit)
-
-300 honor to t1, 500 honor to t2.
-
-__**7\* Materials**__
-
-4 units, can be changed for 100 honor (random):
-
-6\* Unit (Past honor unit, seniored)
-5\* Unit (Past honor unit)
-5\* Unit (Past honor unit)
-6\* Unit (Non-honor unit, seniored)
-
-500 honor to t1.
+5\* - T2
+6\* - T3
+7\* - T3
+8\* - T1
 
 __**Units to consider saving**__
-Dark Archer - unless you have more than 24.
-Fairy - unless you have more than 14.
-Battle Drummer - unless you have more than 12.
-Hippogriff - unless you have more than 20.
-Priest - unless you have at least 8.
 
-**Note**, only crucial units with high game impact are listed. Base your decision on your resources and needs.
-
-\*\* Numbers are given without consideration of Skill 1 of Raid 3 Pets. To rise maximum level of artifact past 20, you have to spend honor.
+Any unit that provides a beneficial passive is recommend to preserve, but this is not always possible.

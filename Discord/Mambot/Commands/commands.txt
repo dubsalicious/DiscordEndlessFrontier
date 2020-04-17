@@ -2,9 +2,8 @@
 
 **Role Commands**
 
-`.iam Server #` Replace hash with your server, 1 to 18 for international, or korea for korea
-`.iam Stage ####` Replace hash with stage role. You can find all self-assignable roles in pinned post
-`.iamnot Stage #000`
+`.iam Server #` Replace hash with your server, 1, 6, 12, 17 or 20 for global, and korea for korea.
+`.iam Stage ####` Replace hash with stage role. You can find all self-assignable roles in pinned post.
 `.iamnot Server #`
 
 **General Help Guides** 
@@ -12,45 +11,12 @@
 `!artifact`
 `!artifacttrans`
 `!commands`
-`!gemguide`
 `!guildguide`
 `!guildraid`
-`!honorunit`
-`!links` External Guides
-`!petcombos`
-`!petguide`
-`!petlink`
+`!lombardi`
+`!pets`
 `!revivalteam`
-`!shlist1`, `!shlist2`, `!shlist3`
-`!sslink`
 `!tot`
 `!unit`
-`!unitlist`
 `!unitlevels`
-
-**Basic Team Setup Guides**
-
-`!undead`, `!undeadbuilds`
-`!elf`, `!elfbuilds`
-`!orc`, `!orcbuilds`
-`!human`, `!humanbuilds`
-
-**Revival Medals per Stage**
-
-`!stagemedal1`  for Stage 100 to 4000
-`!stagemedal2`  for Stage 4000 to 8000
-`!stagemedal3`  for Stage 8000 to 12000
-`!stagemedal4`  for Stage 12000 to 16000
-`!stagemedal5`  for Stage 16000 to 20000
-`!stagemedal6`  for Stage 20000 to 24000
-`!stagemedal7`  for Stage 24000 to 28000
-`!stagemedal8`  for Stage 28000 to 32000
-`!stagemedal9`  for Stage 32000 to 35000
-`!stagemedal10` for Stage 35000 to 38000
-`!stagemedalcalc` Basic Guide to calculating your total medal gain when reviving
-
-**Medal Enhancement Costs**
-
-`!medallevel1` Stage 100 to 4000
-`!medallevel2` Stage 4000 to 8000
-`!medallevel3` Stage 8000 to 12000
+`!unitmeta`

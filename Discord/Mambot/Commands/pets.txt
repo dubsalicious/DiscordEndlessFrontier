@@ -1,0 +1,24 @@
+.acr !pets %user% you used the command `!pets`.
+
+Pets are important as they improve the power of units, the general speed of progressing and other parts of the game. A full list of pets is available at  <https://www.endlessfrontierdata.com/pets/>, or via the bambot bot.
+
+Most, but not all pets, are coupled with either a unit, artifact or table. When the pet reaches 5\* an additional bonus is normally given. This sometimes enhances an existing units power.
+
+__**Pet Farming**__
+Pets can be farmed in a few ways:
+
+__Spirit Highlands__
+Most pets can be found here, this is now split into normal mode and hard mode. Stages are increased as the player's Knight Level increases. It is recommended to keep unlocking as many stages as possible. Crypto provides an excellent resource for the priority to farm the unlocked stages <https://crypto2557.github.io/pets/>.
+
+Additional tickets in the Spirit Highlands can be purchased in the shop and unlocked using friendliness.
+
+__Guild Raids__
+Guilds can open multiple raids per day. Taking down the bosses within this raid provide pet fragments for the entire guild.
+
+__Various Shops__
+There are 2 shops within the pets tab that can be used to purchase pets:
+
+Shop - Use gems, guild coins, honor coins and raid coins to purchase fragments.
+Secret Shop - Use surplus fragments of other pets to purchase fragments.
+
+Additionally various pets can be purchased for real money in the general game shop.

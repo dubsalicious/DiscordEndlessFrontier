@@ -1,0 +1,52 @@
+.acr "!guildraid" %user% typed `!guildraid`. This is an overview of guild raids.
+
+**Basic Overview**
+
+There are 5 Guild Raids, consisting of several raid bosses. It is possible to open up to 5 raids per day, a maximum of 2 of each kind, no more than 3 simultaneously. 
+Raids may be opened by Elder, Co-Leader or Leader guild ranks.
+
+There are currently 5 raids:
+```
+No. Name                           Tiers
+1   Ancient Ruins                  1-5, 6-8, 9-11
+    Skole, Harping, Gnome, Belial, Sahara (9+)
+    
+2   Burning Earth                  1-5, 6-8, 9-11
+    Lavark, Furion, Hellyme, Bahat, Surtr (9+)
+    
+3   Swamp of Death                 1-5, 6-8
+    Tarad, Neru, Gordon, Beel
+    
+4   Fortress of Hell Lord          1-5, 6-8
+    Heliffin, Horn-Boar, Twin Skulls, Dread, Amaymon
+    
+5   Ancient Frozen Civilization    1-5, 6-8
+    Ursha, Peruru, Everes, Skaka, Levthan
+``` 
+Higher tiered raids provide different pets:
+
+1-5 - Basic pet.
+6-8 - Senior pet.
+9-11 - Extreme pet, and normally an additional pet.
+
+Additionally members receive :ef_gc:, :ef_gem: and Raid Coins. 
+
+**Damage and Teams**
+
+Most important attribute, that affects both damage and hp of troops during Guild Raid, is Knightage Level of attacker. Most raids require an additional resistance gathered from pets and unit passive skills.
+
+**Team Setup**
+For spells, initially it is important to have heal for survivability. If this is not an issue, add in fast/damage sword. However the 5th bosses on raids generally require at least 1 heal due to a super ability.
+
+Example teams for guild raid:
+
+Ground bosses
+```
+succubus           valkyrie     fairy             valkyrie     fairy
+skeleton warrior   musketeer    heavy elf archer  firebird     elf warrior
+```
+Flying bosses
+```
+fairy              valkyrie     succubus          valkyrie     fairy
+heavy elf archer   musketeer    warlock           firebird     poison archer
+```

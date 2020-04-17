@@ -1,0 +1,28 @@
+.acr "!unit" %user% typed `!unit`. This provides an overview of how to purchase all units.
+
+Most units can be bought with :ef_medal:, the __**exceptions**__ are the 8 following units:
+
+Available from __Honor Shop__ for :ef_hc: 4400 
+```
+Flame Sibyl       Human
+Mystic Archer     Elf 
+Skeleton General  Undead
+Frozen Witch      Orc
+```
+
+Available from __Unit Shop__  for :ef_gem: 5700
+
+```
+Fire Range        Human
+Forest Knight     Elf
+Devil Mage        Undead
+Storm Warrior     Orc 
+```
+
+When the next units are released they will be in the honor shop. The current honor units become available for gems and the current gem units become available for medals.
+
+**Any 5-star unit without exception can appear in 5-star Voucher**
+
+Additionally the guild shop provides some units on a monthly cycle for :ef_gc: 4400.
+
+**7\* Units require their paired pet at least at 1\* and are acquired by senioring the relevant 5\* unit twice**. More information here <https://cdn.discordapp.com/attachments/677592829119168512/692286207924895744/Evolving_7_Star_Units.png>

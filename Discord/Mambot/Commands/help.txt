@@ -1,7 +1,9 @@
-.acr "!help" %user% typed `!help`. For a full list of available commands use `!commands`, you can also see descriptions of the commands in the #about channel.
+.acr "!help" %user% typed `!help`. For a full list of available commands use `!commands`.
 
-We recommend first adding a server role (`.iam Server #`) and a stage role (`.iam Stage #000`). This gives you access to a few extra channels.
+Some refernce pointss are below:
 
-For help about the game in general, including understanding any of the content of the commands here, head over to #ef_ask_anything.
+For general Information about the Game -> Lombardi New Player Handbook https://bit.ly/lombardief
 
-Enjoy!
+For all your Questions about Pets -> How to Pet by Harrowed http://bit.ly/HarroweD
+
+Additional Information check the #resources channel.

@@ -1,7 +1,4 @@
-.acr "!guildguide" %user% typed `!guildguide`. This is a basic overview of the guild system.
-
-Joining a Guild provides number of benefits to player, such as increased medal gain and special pets that are unobtainable othervise. It is recommended to join active guild ASAP.
-
+.acr "!guildguide" %user% typed `!guildguide`. This is a basic overview of the guild system. It is recommended to join active guild ASAP.
 
 __**Guild Barracks**__
 
@@ -18,7 +15,7 @@ Guild barracks unlocks are *not* lost upon leaving or changing guild.
 
 **Training**
 
-Instructors allow support units to train to higher levels. Additional tiers are unlocked by the highest trans level instructor available:
+Instructors allow support units to train to higher levels:
 ```
 Basic   5\* Instructor
 Sr      6\* Sr Instructor
@@ -39,6 +36,6 @@ Guild Wars are pvp battles versus other guilds with consistent seasonal ranking 
 
 Guild Raids are pve battles versus Raid Bosses which provide currency rewards and fragments of pets unobtainable otherwise. For more information, see `!guildraid`
 
-**Additional links**
+**Guild Invasion**
 
-Guilds Generally <https://www.reddit.com/r/EndlessFrontier/comments/50c8q1/how_to_guild_a_beginners_guide/>
+Guild Invasion involves members fighting 1 vs 1 against Raid Bosses. If the boss is not killed, another member can resume the fight. Points are awarded based on the difficulty of the boss. Guilds are ranked on these points. See `!guildinvasion`.
