@@ -3,26 +3,25 @@
 __**Artifact Availability**__
 
 **Artifact Shop Only**
-All 1\*, 2\*, 3\*, 4\* artifacts, 18 5\* artifacts.
+All 1\*, 2\*, 3\*, 4\* artifacts and all 5\* except Secret Book 2 and Assassin's Boots which are Guild Shop Only. To make a higher level artifact appear, simply upgrade one of the lower level to +10.
 
-To make a higher level artifact appear, simply upgrade one of the lower level to +10.
-
-Please see the `A.List Tab` on the Datasheet <http://bit.ly/efsheet> for more details.
-
-**Guild Shop Only**
-Two 5-star artifact are Guild Shop only (Secret Book 2 & Assassin's Boots).
+**Artifact Tickets**
+Artifact Tickets are able to provide all 6\* artifacts and are the recommended way to get artifacts as plenty are provided through achievements and login bonuses.
 
 **Honor Shop**
-The remaining 5-star and all 6-star artifacts can be obtained from the Honor Chest (5,000 <:hc:232967258769457152>).
-*5-star Artifacts from the Artifact Shop __can't appear__ in Honor Chests.*
+There is a 5,000 <:hc:232967258769457152> package to purchase 5\* and 6\* artifacts. **It is generally considered a waste** as artifacts are easily obtained other ways.
+
+**Pets**
+7\* and 8\* artifacts are unlocked by completing certain pets to 5\*.
 
 **Guild Shop Artifact Rotation**
 Every week (Monday @ 00:00 UTC), there is a new set of 6-star and 5-star artifacts.
-Each 6-star artifact cost 11,000 <:gc:233662366905008129>  and 5-star costs 4,000 <:gc:233662366905008129> 
-Please see the `Guild Shop Tab` on the 2nd sheet <http://bit.ly/efsheet2> for more specific information.
+Each 6-star artifact cost 11,000 <:gc:233662366905008129>  and 5-star costs 4,000 <:gc:233662366905008129>.
 
 __**Artifact Transing**__
-5\* and 6\* artifacts can be transcended to improve their stats greatly. It requires 20 artifacts of the same level to become available. It is a very expensive process and transcends a random artifact of the requested level. See `!artifacttrans` for more information.
+5\* and higher artifacts can be transcended to improve their stats greatly. It requires  See `!artifacttrans` for more information.
 
 __**Artifact Builds and Info**__
-Magic#7761 has provided a useful spreadsheet here - <http://bit.ly/efmagicarts>
+Yurrix Builder - <https://docs.google.com/spreadsheets/d/1_9kVUtVg8Cv5CU7Vi5wZMi92bXS3KW1P-2A_04W9Uw0/edit#gid=1078920255>
+SxeSpanky Art Calculator - <https://docs.google.com/spreadsheets/d/1bGGwHCNDZQlnfO5s-bXroQvMo9WPMKiBWPjCSMsH4PI/edit?usp=sharing>
+Ikokjyan Midgame Builds - <https://docs.google.com/spreadsheets/d/1g-yAX4uF3SJYluJDi10HQFXurIJPMXgdWWRvtLxcuKg/edit#gid=484419195>

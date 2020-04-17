@@ -19,11 +19,11 @@ Some stages additionally provide bonus, red stars. These are treated as normal s
 **Team Setup**
 
 The team relies on units from the time shop and NOT the guild barracks. As such generally take the higher transcended units available. A good general team to aim for it:
-
+```
 Shadow Knight    Skeleton Warrior (unless flying then Warlock)
 War Bear Rider   Orc Wing
 Valkyrie         Musketeer
 High Fairy       High Elf Archer
 High Fairy       Poison Archer
-
+```
 For spells it is down to preference, 3 heals for survivability can be popular, but some put in 1 or 2 fast swords in place of the heals.

@@ -1,22 +1,32 @@
-.acr !artifacttrans %user% typed `!artifacttrans`. This is an overview of artifact transcendence.
+.acr !artifacttrans %user% typed `!artifacttrans`. This is an overview of artifact transcendence. Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts. Transcending 5\* artifacts is considered a waste. Transcending requires a selection of units which are consumed. A random artifact is then transcended.
 
-Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts. Transcending 5\* artifacts is considered a waste and not covered by this guide.
+Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. 
 
-Upon Transcending, materials are consumed and random artifact you own is transcended. Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. You can only Transcend 1 artifact a day.
+__**Restrictions**__
 
-You require a set amount of artifacts before proceeding, for example:
+There is a limit to how many artifacts can be transcended per day, this varies by artifact grade, but is generally only 1 or 2. Additionally, you require a set amount of artifacts before proceeding, for example:
 
-You need 20 6\* artifacts to begin transcending.
-You need 44 t1 6\* artifacts to begin transcending them to t2. 
-You need 15 7\* artifacts to begin transcending them. 
+You need 20 6\* T0 artifacts to begin transcending.
+You need 44 6\* T1 artifacts to begin transcending.
+You need 15 7\* artifacts to begin transcending.
+You need 15 8\* artifacts to begin transcending.
 
 Currently the limits are:
 
 5\* - T2
 6\* - T3
 7\* - T3
-8\* - T1
+8\* - T2
 
 __**Units to consider saving**__
 
 Any unit that provides a beneficial passive is recommend to preserve, but this is not always possible.
+
+__**Artifact Max Levels**__
+The base maximum level of artifacts is dependent on their grade and transcend level. This is then improved by other mechanics.
+```
+6★ T0: 50 | 7★ T0: 50  | 8★ T0: 50   | 9★ T0: 50
+6★ T1: 70 | 7★ T1: 100 | 8★ T1: 130  | 9★ T1: 160?
+6★ T2: 90 | 7★ T2: 120 | 8★ T2: 150
+6★ T3: 95 | 7★ T3: 125
+```
