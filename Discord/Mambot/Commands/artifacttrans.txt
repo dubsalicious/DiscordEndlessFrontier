@@ -3,7 +3,6 @@
 Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. 
 
 __**Restrictions**__
-
 There is a limit to how many artifacts can be transcended per day, this varies by artifact grade, but is generally only 1 or 2. Additionally, you require a set amount of artifacts before proceeding, for example:
 
 You need 20 6\* T0 artifacts to begin transcending.
@@ -19,7 +18,6 @@ Currently the limits are:
 8\* - T2
 
 __**Units to consider saving**__
-
 Any unit that provides a beneficial passive is recommend to preserve, but this is not always possible.
 
 __**Artifact Max Levels**__

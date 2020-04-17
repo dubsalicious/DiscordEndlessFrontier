@@ -9,15 +9,14 @@ Mystic Archer     Elf
 Skeleton General  Undead
 Frozen Witch      Orc
 ```
-
 Available from __Unit Shop__  for :ef_gem: 5700
-
 ```
 Fire Range        Human
 Forest Knight     Elf
 Devil Mage        Undead
 Storm Warrior     Orc 
 ```
+**It is probably unwise for new players to purchase units from the above list until they have a good enough understanding of the game to realise what is valuable**.
 
 When the next units are released they will be in the honor shop. The current honor units become available for gems and the current gem units become available for medals.
 
@@ -25,4 +24,4 @@ When the next units are released they will be in the honor shop. The current hon
 
 Additionally the guild shop provides some units on a monthly cycle for :ef_gc: 4400.
 
-**7\* Units require their paired pet at least at 1\* and are acquired by senioring the relevant 5\* unit twice**. More information here <https://cdn.discordapp.com/attachments/677592829119168512/692286207924895744/Evolving_7_Star_Units.png>
+**7\* Units require their paired pet at least at 1\* and are acquired by evolving the relevant 5\* unit twice**. More information here <https://cdn.discordapp.com/attachments/677592829119168512/692286207924895744/Evolving_7_Star_Units.png>

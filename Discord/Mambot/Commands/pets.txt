@@ -15,6 +15,9 @@ Additional tickets in the Spirit Highlands can be purchased in the shop and unlo
 __Guild Raids__
 Guilds can open multiple raids per day. Taking down the bosses within this raid provide pet fragments for the entire guild.
 
+__World Boss__
+Participate in fights with all players on your server against raid bosses. Limited to earlier bosses. Useful for catching up with fragments.
+
 __Various Shops__
 There are 2 shops within the pets tab that can be used to purchase pets:
 

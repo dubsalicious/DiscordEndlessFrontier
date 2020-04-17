@@ -1,4 +1,4 @@
-.acr "!guildguide" %user% typed `!guildguide`. This is a basic overview of the guild system. It is recommended to join active guild ASAP.
+.acr "!guilds" %user% typed `!guilds`. This is a basic overview of the guild system. It is recommended to join active guild ASAP.
 
 __**Guild Barracks**__
 
@@ -14,7 +14,6 @@ Orc     Raptor Rider      Orc Fighter  Orc Hunter      Frost Mage     Orc Wing
 Guild barracks unlocks are *not* lost upon leaving or changing guild.
 
 **Training**
-
 Instructors allow support units to train to higher levels:
 ```
 Basic   5\* Instructor
@@ -29,13 +28,10 @@ Multiple instructors improve the rate at which units are trained.
 __**Guild Battles**__
 
 **Guild Wars**
-
 Guild Wars are pvp battles versus other guilds with consistent seasonal ranking across server. For more information, see `!guildwar`
 
 **Guild Raids**
-
 Guild Raids are pve battles versus Raid Bosses which provide currency rewards and fragments of pets unobtainable otherwise. For more information, see `!guildraid`
 
 **Guild Invasion**
-
 Guild Invasion involves members fighting 1 vs 1 against Raid Bosses. If the boss is not killed, another member can resume the fight. Points are awarded based on the difficulty of the boss. Guilds are ranked on these points. See `!guildinvasion`.

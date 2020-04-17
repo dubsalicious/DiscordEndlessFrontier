@@ -1,7 +1,6 @@
 .acr "!guildinvasion" %user% typed `!guildinvasion`. This is an overview of guild invasion
 
 **Overview**
-
 Guild Invasion runs over a period of 4 days, with every guild member receiving 2 tickets per day. It consists of a map of enemies that must be explored by clearing the tiles. Each tile is rated for a level. The higher the level, the more difficult the stage. Generally players are able to clear stages around their own knight level, this varies based on pets unlocked.
 
 Additionally, stages also provide stars. Each star increases overall score by 1%. Generally stars are assigned based on their level:
@@ -17,7 +16,6 @@ Once a stage has been cleared it can be enhanced and cleared up to 3 more times.
 Some stages additionally provide bonus, red stars. These are treated as normal stars.
 
 **Team Setup**
-
 The team relies on units from the time shop and NOT the guild barracks. As such generally take the higher transcended units available. A good general team to aim for it:
 ```
 Shadow Knight    Skeleton Warrior (unless flying then Warlock)

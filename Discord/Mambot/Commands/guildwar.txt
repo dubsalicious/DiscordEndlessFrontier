@@ -19,19 +19,19 @@ Guild ranking           Additional Medals acquired
 For a full list of medal bonuses, consult ingame tooltip.
 
 **Defending and Attacking**
-Attacker can chose who to attack, among people who have at least 1 flag remaining, select up to 5 Heros for attack and troops from barracks to support them, similar to guild raid.
-Despite the result, defender recieves 10 minute immunity from attacks to replenish his troops. If attacker wins, defender's flag is taken. If defender wins, no change in flags occure.
+Players have 2 flags that can be taken by attackers and can select a team of 5 units, plus plebs, to attack with. These plebs come from the Guild barracks. Any player attacked gets 10 minutes of immunity from attack.
 
-Defending is automated. Upon being attacked, your Defense Team will spawn, supported by the lowest available group of 40 barracks units of corresponding tribe.
+Upon being attacked, your Defense Team will spawn, supported by the lowest available group of 40 barracks units of corresponding tribe.
 
-Similar to raid, troops stats mainly defined by Knightage Levels of defender and attacker.
+Unit strength is determined by KLVL.
 
-Example defence team:
+Defence Team
 ```
-Golem         Druid       Valkyrie       Naga       Dark Admiral    
-```
+Sword Dancer  Frost Demon   Golem    Dark Ninja     Frost Demon
 
-Example attack team:
 ```
-Sword Dancer  Dark Ninja  Wyvern Rider  Steampunk   Battle Drummer
+Attack Team (ensure the 1 unit out also has a ranged/cloak detecting plen like elf archer or frost mage.)
+```
+Sword Dancer  Dark Ninja  Wyvern Rider  Steampunk         Battle Drummer
+Frost Demon   Golem       Dark Ninja    Astral Captain    Frost Demon
 ```

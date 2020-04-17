@@ -42,11 +42,11 @@ Example teams for guild raid:
 
 Ground bosses
 ```
-succubus           valkyrie     fairy             valkyrie     fairy
+shadow knight      valkyrie     fairy             valkyrie     fairy
 skeleton warrior   musketeer    heavy elf archer  firebird     elf warrior
 ```
 Flying bosses
 ```
-fairy              valkyrie     succubus          valkyrie     fairy
+fairy              valkyrie     shadow knigh      valkyrie     fairy
 heavy elf archer   musketeer    warlock           firebird     poison archer
 ```
