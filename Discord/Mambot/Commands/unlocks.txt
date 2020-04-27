@@ -1,0 +1,27 @@
+.acr !unlocks There are various mechanics that unlock at different stages. Generally this is at specific revival stages. There is the odd exception.
+```
+Unlock                  Stage   KLVL
+====================================
+Spirit Highlands (Easy)   200   3
+Dungeons Complete Now     250  ~3
+Daily Quest              1000   11
+Spirit Rest              2000   21
+Airships                 3000   31
+Warp                     3000   31
+Unit Mass Purchase       3000   31
+Auto-Skill               5000   51
+Change Tribe             5000   51
+ToT Complete Now         5000   51
+OB Complete Now          5000   51
+Spirit Highlands (Hard)  5000   51
+Quest Auto-Manage       10000  101
+Revival Team Auto       10000  101
+Recover Artifact Honor  10000  101*
+Enhance Artifact Set    10000  101
+
+*May Require Artifact Shop to be fully emptied
+
+Unlock                  Requirement
+======================================
+Pet Secret Shop         400 Pet Points
+```

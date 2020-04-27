@@ -1,0 +1,11 @@
+.acr !gamespeed __**GS required for each Outland Distortion**__
+
+KL100+ = KL + **100**
+KL400+ = KL + **120**
+KL500+ = KL + **150**
+KL600+ = KL + **190**
+KL700+ = KL + **240**
+KL800+ = KL + **300**
+KL900+ = KL + **370**
+
+__**Add 10 if Raging Dash passive is maxed (from Salamander Rider)**__
