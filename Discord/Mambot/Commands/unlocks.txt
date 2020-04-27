@@ -2,13 +2,13 @@
 ```
 Unlock                  Stage   KLVL
 ====================================
+Unit Mass Purchase        100   2
 Spirit Highlands (Easy)   200   3
 Dungeons Complete Now     250  ~3
 Daily Quest              1000   11
 Spirit Rest              2000   21
 Airships                 3000   31
 Warp                     3000   31
-Unit Mass Purchase       3000   31
 Auto-Skill               5000   51
 Change Tribe             5000   51
 ToT Complete Now         5000   51
