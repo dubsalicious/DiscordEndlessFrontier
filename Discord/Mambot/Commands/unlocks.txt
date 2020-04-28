@@ -16,6 +16,7 @@ OB Complete Now          5000   51
 Spirit Highlands (Hard)  5000   51
 Quest Auto-Manage       10000  101
 Revival Team Auto       10000  101
+Team Swap               10000  101
 Recover Artifact Honor  10000  101*
 Enhance Artifact Set    10000  101
 
