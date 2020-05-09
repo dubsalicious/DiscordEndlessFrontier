@@ -1,0 +1,4 @@
+.acr "!airships" %user% you used the command `!airships`.
+
+This is a must read for all newbies who require help for Airships
+<https://bit.ly/ikokjyanAirshipProgressionGuide>
