@@ -1,3 +1,3 @@
 .acr "!unitmeta" %user% typed `!unitmeta`. This provides an overview of how the stage pushing meta evolves over time and is provided in the form of the image below.
 
-https://media.discordapp.net/attachments/655898784081117204/700693334129246268/H17Meta.png?width=1292&height=742
+https://cdn.discordapp.com/attachments/677592829119168512/713694627688874014/H17MetaUpdated.png
