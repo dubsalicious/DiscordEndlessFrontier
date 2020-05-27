@@ -1,0 +1,13 @@
+.acr "!spanks" %user% you used the command `!spanks`.
+
+__**SxeSpanky's Pleb Data Damage Simulator**__
+Allows you to map the plebs you should be using for Outland Battles/Raids/Invasion. Details regarding plebs attack included as well.
+<https://bit.ly/PlebTracker>
+
+__**SxeSpanky's All Pets MegaSheet**__
+A database of all pets in order of their buffs
+<https://bit.ly/PetsMegaSheet>
+
+__**SxeSpanky's Airship Seal Tracker**__
+Helpful tool to determine what stages you should be farming for the day based on your seal amounts
+<https://bit.ly/AirshipSealTracker>
