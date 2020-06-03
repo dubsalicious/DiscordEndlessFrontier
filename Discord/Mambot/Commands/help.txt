@@ -1,4 +1,6 @@
-.acr "!help" %user% typed `!help`. For a full list of available commands use `!commands`.
+Trigger: !help
+
+Content:
 
 There are a couple of excellent beginner guides that are worth reading. The 2nd one is outdated and both will have overlapping information, but they are worth a read.
 Please read the **ikokjyan's Newbie Guide** first and cover the missing information from Lombardi's NPH.
