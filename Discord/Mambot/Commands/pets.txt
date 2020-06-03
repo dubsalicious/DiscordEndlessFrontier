@@ -1,4 +1,6 @@
-.acr !pets %user% you used the command `!pets`.
+Trigger: !pets
+
+Content:
 
 Pets are important as they improve the power of units, the general speed of progressing and other parts of the game. A full list of pets is available at  <https://www.endlessfrontierdata.com/pets/>, or via the bambot bot.
 
