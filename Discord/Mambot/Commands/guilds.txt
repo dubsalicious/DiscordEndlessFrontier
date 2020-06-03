@@ -1,4 +1,8 @@
-.acr "!guilds" %user% typed `!guilds`. This is a basic overview of the guild system. It is recommended to join active guild ASAP.
+Trigger: !guilds
+
+Content:
+
+This is a basic overview of the guild system. It is recommended to join active guild ASAP.
 
 __**Guild Barracks**__
 
