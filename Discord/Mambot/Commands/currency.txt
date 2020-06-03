@@ -1,0 +1,16 @@
+Trigger: !currency
+
+Content:
+
+**EF Currencies**
+
+:ef_gold: Gold
+:ef_gem: Gems
+:ef_hc: Honor Coins
+:ef_rc: Raid Coins
+:ef_gc: Guild Coins
+:ef_ac: Airship Arena Coins
+:ef_as: Aerostones
+:ef_fuel: Airship Fuel
+:t_trans: 6* Unit Trans Ticket
+:t_trans7: 7* Unit Trans Ticket
