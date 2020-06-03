@@ -1,3 +1,7 @@
-.acr "!raidArts" %user% you used the command `!raidArts`.
+Trigger: !raidarts
+
+Content:
+
+Raid Pets & Artifacts
 
 https://bit.ly/RaidArts
