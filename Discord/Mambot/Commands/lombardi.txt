@@ -1,2 +1,0 @@
-.acr "!lombardi" Please read `Lombardi New Player Handbook` <https://bit.ly/lombardief>
-Don't forget to check `!commands` and `!help` in #commands
