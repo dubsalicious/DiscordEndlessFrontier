@@ -1,0 +1,11 @@
+Trigger: !artbuilds
+
+Content: 
+
+**__Artifact Builds and Info__**
+__Yurrix Builder__ - <https://docs.google.com/spreadsheets/d/1_9kVUtVg8Cv5CU7Vi5wZMi92bXS3KW1P-2A_04W9Uw0/edit#gid=1078920255>
+__SxeSpanky Art Calculator__ - <https://docs.google.com/spreadsheets/d/1bGGwHCNDZQlnfO5s-bXroQvMo9WPMKiBWPjCSMsH4PI/edit?usp=sharing>
+__Ikokjyan Midgame Builds__ - 
+<https://docs.google.com/spreadsheets/d/1g-yAX4uF3SJYluJDi10HQFXurIJPMXgdWWRvtLxcuKg/edit#gid=484419195>
+
+*For general Artifact Information, use the command !artifact in the channel #commands*
