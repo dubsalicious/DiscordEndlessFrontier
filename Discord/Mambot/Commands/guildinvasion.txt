@@ -1,4 +1,8 @@
-.acr "!guildinvasion" %user% typed `!guildinvasion`. This is an overview of guild invasion
+Trigger: !guildinvasion
+
+Content:
+
+This is an overview of guild invasion
 
 **Overview**
 Guild Invasion runs over a period of 4 days, with every guild member receiving 2 tickets per day. It consists of a map of enemies that must be explored by clearing the tiles. Each tile is rated for a level. The higher the level, the more difficult the stage. Generally players are able to clear stages around their own knight level, this varies based on pets unlocked.
