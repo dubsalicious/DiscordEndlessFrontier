@@ -1,4 +1,8 @@
-.acr !unlocks There are various mechanics that unlock at different stages. Generally this is at specific revival stages. There is the odd exception.
+Trigger: !unlocks
+
+Content:
+
+There are various mechanics that unlock at different stages. Generally this is at specific revival stages. There is the odd exception.
 ```
 Unlock                  Stage   KLVL
 ====================================
