@@ -1,4 +1,6 @@
-.acr "!guildraid" %user% typed `!guildraid`. This is an overview of guild raids.
+Trigger: !guildraid
+
+Content:
 
 **Basic Overview**
 
