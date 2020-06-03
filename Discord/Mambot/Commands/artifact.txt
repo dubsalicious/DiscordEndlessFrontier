@@ -1,4 +1,6 @@
-.acr "!artifact" %user% you used the command `!artifact`.
+Trigger: !artifact
+
+Content:
 
 __**Artifact Availability**__
 
