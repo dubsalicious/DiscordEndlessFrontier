@@ -1,0 +1,20 @@
+Trigger: !roles
+
+Content:
+
+ **__For guild application and ToT help__**
+You need to get a server role (1/6/12/17/20)
+To check your server: go to options in the game and check the number in the top-right between '(' and ')' - my info
+Go to #commands  and key in `.iam server xx` **xx** is your server number
+
+Then apply at your respective channels:
+#s1_guild_recruitment 
+#s6_guild_recruitment 
+#s12_guild_recruitment 
+#s17_guild_recruitment 
+#s20_guild_recruitment 
+
+**__To do before asking questions (KL100 and above)__**
+Set your Knight Level Role by going to #commands and typing `.iam KL xx`
+For example, if you are KL 420 (Ingame: Number next to your current Knight Portrait), you would type `.iam KL 400`
+For an Overview of available roles, please refer to the pinned Message in #commands
