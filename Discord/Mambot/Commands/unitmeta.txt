@@ -1,3 +1,7 @@
-.acr "!unitmeta" %user% typed `!unitmeta`. This provides an overview of how the stage pushing meta evolves over time and is provided in the form of the image below.
+Trigger: !unitmeta
+
+Content:
+
+This provides an overview of how the stage pushing meta evolves over time and is provided in the form of the image below.
 
 https://cdn.discordapp.com/attachments/677592829119168512/713694627688874014/H17MetaUpdated.png

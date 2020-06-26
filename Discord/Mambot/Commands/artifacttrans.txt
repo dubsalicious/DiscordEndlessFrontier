@@ -1,4 +1,8 @@
-.acr !artifacttrans %user% typed `!artifacttrans`. This is an overview of artifact transcendence. Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts. Transcending 5\* artifacts is considered a waste. Transcending requires a selection of units which are consumed. A random artifact is then transcended.
+Trigger: !artifacttrans
+
+Content:
+
+This is an overview of artifact transcendence. Artifact Transcendence significantly increases the power of 5\*/6\*/7\* artifacts. Transcending 5\* artifacts is considered a waste. Transcending requires a selection of units which are consumed. A random artifact is then transcended.
 
 Bonuses and maximum level of artifact are increased, as well as set bonus if you have enough transcended artifacts inside a set. 
 

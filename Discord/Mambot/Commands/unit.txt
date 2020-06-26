@@ -1,4 +1,8 @@
-.acr "!unit" %user% typed `!unit`. This provides an overview of how to purchase all units.
+Trigger: !unit
+
+Content:
+
+This provides an overview of how to purchase all units.
 
 Most units can be bought with :ef_medal:, the __**exceptions**__ are the 8 following units:
 

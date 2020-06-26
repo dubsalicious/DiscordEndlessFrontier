@@ -1,0 +1,8 @@
+Trigger: !endlessfarming
+
+Content:
+
+__**For Pet Farming Priority (SH/SHH/SS/etc), Unit Selection Ticket Priority and Time Shop Buff tracking**__
+Farming Priority is read from left to right, top row to bottom row
+
+Crypto's Endless Farming Tracker: <https://endlessfarming.com/>

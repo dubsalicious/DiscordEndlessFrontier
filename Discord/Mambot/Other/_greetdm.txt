@@ -1,8 +1,10 @@
-.greetdmmsg Hello, %user%, welcome to the Endless Frontier discord server! 
+Greet DM
+
+Hello {{.User.Username}}, welcome to the Endless Frontier discord server! 
 
 __**Server Rules**__
 
-Make sure to read through the Rules Channel `#rules`. Make sure to learn about the Support Channel and the warning System.
+Make sure to read through the Rules Channel `#rules`. Make sure to learn about the Ticket and Warning System.
 
 __**Server Usage Guide**__
 
@@ -10,9 +12,9 @@ __**Server Usage Guide**__
 
 Grant yourself a server role using `.iam Server #` in `#commands`. This will make some server specific channels for your server appear.
 
-*Stage Roles*
+*Knight Level Roles*
 
-You can set yourself a role corresponding to your highest Stage reached in the Game by using .iam Stage # in `#commands`. Check for available Stage roles in channel `#commands`. For example, if your highest Stage is 5750, you would type `.iam Stage 5000`.
+You can set yourself a role corresponding to your highest Knight Level reached in the Game by using .iam KL # in `#commands`. For available Stage roles, check the pinned message in channel `#commands`. For example, if your Knight Level is 245 type `.iam KL 200`
 
 *Want to chat to other players?*
 
@@ -20,6 +22,6 @@ If it's about the game use `#ef_general`, anything else can go in `#offtopic`.
 
 *After some help?*
 
-Check `#resources` for a compilation of guides and useful links about almost every aspect of the game.
+Check the `Endless Resources` Channel Category for channels about different parts of the game. In those you can find guides and useful links about almost every aspect of the game.
 Ask any questions you have in `#ask_anything`, someone is normally around to help. We've also got a bunch of guides, type `!commands` in `#commands` for a full list.
 Don't forget to check `#book` for detailed info about pets, artifacts, units and more.

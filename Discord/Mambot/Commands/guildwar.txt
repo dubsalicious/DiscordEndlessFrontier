@@ -1,4 +1,6 @@
-.acr "!guildwar" %user% typed `!guildwar`. This is an overview of guild wars.
+Trigger: !guildwar
+
+Content:
 
 **Overview**
 

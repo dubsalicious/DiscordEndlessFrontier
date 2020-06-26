@@ -1,22 +1,18 @@
-.acr "!commands" %user% typed `!commands`. This is a list of available commands, more detailed descriptions of the commands can be found in #about.
+Trigger: !commands
 
-**Role Commands**
+Content:
 
+This is a list of available commands.
+
+**__Role Commands__**
 `.iam Server #` Replace hash with your server, 1, 6, 12, 17 or 20 for global, and korea for korea.
-`.iam Stage ####` Replace hash with stage role. You can find all self-assignable roles in pinned post.
-`.iamnot Server #`
+`.iam KL ##` Replace hash with stage role. You can find all self-assignable roles in pinned post.
+`.iam Guild Leader` If you are Guild Leader and want to be pinged in Guild Recruitment Channels
+> To be used in channel #commands
 
-**General Help Guides** 
-
-`!artifact`
-`!artifacttrans`
-`!commands`
-`!guildguide`
-`!guildraid`
-`!lombardi`
-`!pets`
-`!revivalteam`
-`!tot`
-`!unit`
-`!unitlevels`
-`!unitmeta`
+**__General Help Guides__**
+`!artifact` ,   `!artifacttrans` ,   `!artbuilds`,  `!airshipmeta`,
+`!guildraid`,   `!currency`,   `!gamespeed`,   `!guildinvasion`,
+`!guilds`,   `!guildwar`,   `!help`,   `!pets`,
+`!raidarts`,   `!roles`,   `!unit`,   `!unitlevels`,
+`!unitmeta`,   `!unlocks`,   `!crypto`,   `!commands`

@@ -1,4 +1,8 @@
-.acr !gamespeed __**GS required for each Outland Distortion**__
+Trigger: !gamespeed
+
+Content:
+
+__**GS required for each Outland Distortion**__
 
 KL100+ = KL + **100**
 KL400+ = KL + **120**

@@ -1,0 +1,6 @@
+Trigger: !airshipmeta
+
+Content:
+
+This is a must read for all newbies who require help for Airships
+<https://bit.ly/ikokjyanAirshipProgressionGuide>
