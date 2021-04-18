@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<result>SUCCESS</result>
+	<shipSkillList>
+		<shipSkill>
+			<kindNum>1</kindNum>
+			<code>ATT_H</code>
+			<desc>인간 비공정 공격력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>2</kindNum>
+			<code>ATT_E</code>
+			<desc>엘프 비공정 공격력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>3</kindNum>
+			<code>ATT_U</code>
+			<desc>언데드 비공정 공격력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>4</kindNum>
+			<code>ATT_O</code>
+			<desc>오크 비공정 공격력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>5</kindNum>
+			<code>ATT_A</code>
+			<desc>모든 비공정 공격력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>6</kindNum>
+			<code>HP_H</code>
+			<desc>인간 비공정 내구도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>7</kindNum>
+			<code>HP_E</code>
+			<desc>엘프 비공정 내구도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>8</kindNum>
+			<code>HP_U</code>
+			<desc>언데드 비공정 내구도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>9</kindNum>
+			<code>HP_O</code>
+			<desc>오크 비공정 내구도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>10</kindNum>
+			<code>HP_A</code>
+			<desc>모든 비공정 내구도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>11</kindNum>
+			<code>SAIL_H</code>
+			<desc>인간 비공정 항해술 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>12</kindNum>
+			<code>SAIL_E</code>
+			<desc>엘프 비공정 항해술 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>13</kindNum>
+			<code>SAIL_U</code>
+			<desc>언데드 비공정 항해술 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>14</kindNum>
+			<code>SAIL_O</code>
+			<desc>오크 비공정 항해술 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>15</kindNum>
+			<code>SAIL_A</code>
+			<desc>모든 비공정 항해술 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>16</kindNum>
+			<code>ENE_H</code>
+			<desc>인간 비공정 에너지 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>17</kindNum>
+			<code>ENE_E</code>
+			<desc>엘프 비공정 에너지 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>18</kindNum>
+			<code>ENE_U</code>
+			<desc>언데드 비공정 에너지 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>19</kindNum>
+			<code>ENE_O</code>
+			<desc>오크 비공정 에너지 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>20</kindNum>
+			<code>ENE_A</code>
+			<desc>모든 비공정 에너지 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>21</kindNum>
+			<code>LUC_H</code>
+			<desc>인간 비공정 행운 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>22</kindNum>
+			<code>LUC_E</code>
+			<desc>엘프 비공정 행운 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>23</kindNum>
+			<code>LUC_U</code>
+			<desc>언데드 비공정 행운 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>24</kindNum>
+			<code>LUC_O</code>
+			<desc>오크 비공정 행운 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>25</kindNum>
+			<code>LUC_A</code>
+			<desc>모든 비공정 행운 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>26</kindNum>
+			<code>SEA_H</code>
+			<desc>인간 비공정 탐색 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>27</kindNum>
+			<code>SEA_E</code>
+			<desc>엘프 비공정 탐색 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>28</kindNum>
+			<code>SEA_U</code>
+			<desc>언데드 비공정 탐색 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>29</kindNum>
+			<code>SEA_O</code>
+			<desc>오크 비공정 탐색 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>30</kindNum>
+			<code>SEA_A</code>
+			<desc>모든 비공정 탐색 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>31</kindNum>
+			<code>DEF_H</code>
+			<desc>인간 비공정 방어력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>32</kindNum>
+			<code>DEF_E</code>
+			<desc>엘프 비공정 방어력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>33</kindNum>
+			<code>DEF_U</code>
+			<desc>언데드 비공정 방어력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>34</kindNum>
+			<code>DEF_O</code>
+			<desc>오크 비공정 방어력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>35</kindNum>
+			<code>DEF_A</code>
+			<desc>모든 비공정 방어력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>36</kindNum>
+			<code>ASPD_H</code>
+			<desc>인간 비공정 공격속도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>37</kindNum>
+			<code>ASPD_E</code>
+			<desc>엘프 비공정 공격속도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>38</kindNum>
+			<code>ASPD_U</code>
+			<desc>언데드 비공정 공격속도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>39</kindNum>
+			<code>ASPD_O</code>
+			<desc>오크 비공정 공격속도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>40</kindNum>
+			<code>ASPD_A</code>
+			<desc>모든 비공정 공격속도 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>41</kindNum>
+			<code>REC_H</code>
+			<desc>인간 비공정 회복력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>42</kindNum>
+			<code>REC_E</code>
+			<desc>엘프 비공정 회복력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>43</kindNum>
+			<code>REC_U</code>
+			<desc>언데드 비공정 회복력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>44</kindNum>
+			<code>REC_O</code>
+			<desc>오크 비공정 회복력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>45</kindNum>
+			<code>REC_A</code>
+			<desc>모든 비공정 회복력 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>46</kindNum>
+			<code>ESD_H</code>
+			<desc>인간 비공정 에너지 소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>47</kindNum>
+			<code>ESD_E</code>
+			<desc>엘프 비공정 에너지 소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>48</kindNum>
+			<code>ESD_U</code>
+			<desc>언데드 비공정 에너지 소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>49</kindNum>
+			<code>ESD_O</code>
+			<desc>오크 비공정 에너지 소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>50</kindNum>
+			<code>ESD_A</code>
+			<desc>모든 비공정 에너지 소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>51</kindNum>
+			<code>CAP_H</code>
+			<desc>인간 비공정 적재량 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>52</kindNum>
+			<code>CAP_E</code>
+			<desc>엘프 비공정 적재량 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>53</kindNum>
+			<code>CAP_U</code>
+			<desc>언데드 비공정 적재량 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>54</kindNum>
+			<code>CAP_O</code>
+			<desc>오크 비공정 적재량 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>55</kindNum>
+			<code>CAP_A</code>
+			<desc>모든 비공정 적재량 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>56</kindNum>
+			<code>MAE_H</code>
+			<desc>인간 비공정 마나생산 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>57</kindNum>
+			<code>MAE_E</code>
+			<desc>엘프 비공정 마나생산 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>58</kindNum>
+			<code>MAE_U</code>
+			<desc>언데드 비공정 마나생산 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>59</kindNum>
+			<code>MAE_O</code>
+			<desc>오크 비공정 마나생산 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>60</kindNum>
+			<code>MAE_A</code>
+			<desc>모든 비공정 마나생산 증가</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>61</kindNum>
+			<code>MAD_H</code>
+			<desc>인간 비공정 마나소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>62</kindNum>
+			<code>MAD_E</code>
+			<desc>엘프 비공정 마나소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>63</kindNum>
+			<code>MAD_U</code>
+			<desc>언데드 비공정 마나소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>64</kindNum>
+			<code>MAD_O</code>
+			<desc>오크 비공정 마나소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>65</kindNum>
+			<code>MAD_A</code>
+			<desc>모든 비공정 마나소비 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>66</kindNum>
+			<code>RSTFIRE_H</code>
+			<desc>인간 비공정 메테오 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>67</kindNum>
+			<code>RSTFIRE_E</code>
+			<desc>엘프 비공정 메테오 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>68</kindNum>
+			<code>RSTFIRE_U</code>
+			<desc>언데드 비공정 메테오 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>69</kindNum>
+			<code>RSTFIRE_O</code>
+			<desc>오크 비공정 메테오 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>70</kindNum>
+			<code>RSTFIRE_A</code>
+			<desc>모든 비공정 메테오 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>71</kindNum>
+			<code>RSTLIGHTENING_H</code>
+			<desc>인간 비공정 번개 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>72</kindNum>
+			<code>RSTLIGHTENING_E</code>
+			<desc>엘프 비공정 번개 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>73</kindNum>
+			<code>RSTLIGHTENING_U</code>
+			<desc>언데드 비공정 번개 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>74</kindNum>
+			<code>RSTLIGHTENING_O</code>
+			<desc>오크 비공정 번개 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>75</kindNum>
+			<code>RSTLIGHTENING_A</code>
+			<desc>모든 비공정 번개 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>76</kindNum>
+			<code>RSTPOISON_H</code>
+			<desc>인간 비공정 독무 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>77</kindNum>
+			<code>RSTPOISON_E</code>
+			<desc>엘프 비공정 독무 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>78</kindNum>
+			<code>RSTPOISON_U</code>
+			<desc>언데드 비공정 독무 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>79</kindNum>
+			<code>RSTPOISON_O</code>
+			<desc>오크 비공정 독무 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>80</kindNum>
+			<code>RSTPOISON_A</code>
+			<desc>모든 비공정 독무 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>81</kindNum>
+			<code>RSTFREEZE_H</code>
+			<desc>인간 비공정 블리자드 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>82</kindNum>
+			<code>RSTFREEZE_E</code>
+			<desc>엘프 비공정 블리자드 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>83</kindNum>
+			<code>RSTFREEZE_U</code>
+			<desc>언데드 비공정 블리자드 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>84</kindNum>
+			<code>RSTFREEZE_O</code>
+			<desc>오크 비공정 블리자드 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>85</kindNum>
+			<code>RSTFREEZE_A</code>
+			<desc>모든 비공정 블리자드 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>86</kindNum>
+			<code>RSTCURSE_H</code>
+			<desc>인간 비공정 저주 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>87</kindNum>
+			<code>RSTCURSE_E</code>
+			<desc>엘프 비공정 저주 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>88</kindNum>
+			<code>RSTCURSE_U</code>
+			<desc>언데드 비공정 저주 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>89</kindNum>
+			<code>RSTCURSE_O</code>
+			<desc>오크 비공정 저주 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>90</kindNum>
+			<code>RSTCURSE_A</code>
+			<desc>모든 비공정 저주 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>91</kindNum>
+			<code>RSTTORNADO_H</code>
+			<desc>인간 비공정 돌개바람 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>92</kindNum>
+			<code>RSTTORNADO_E</code>
+			<desc>엘프 비공정 돌개바람 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>93</kindNum>
+			<code>RSTTORNADO_U</code>
+			<desc>언데드 비공정 돌개바람 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>94</kindNum>
+			<code>RSTTORNADO_O</code>
+			<desc>오크 비공정 돌개바람 데미지 감소</desc>
+		</shipSkill>
+		<shipSkill>
+			<kindNum>95</kindNum>
+			<code>RSTTORNADO_A</code>
+			<desc>모든 비공정 돌개바람 데미지 감소</desc>
+		</shipSkill>
+	</shipSkillList>
+	<shipNormalSkillList>
+		<shipNormalSkill>
+			<kindNum>1</kindNum>
+			<code>ATTACK1</code>
+			<castType>1</castType>
+			<name>함포공격1</name>
+			<iconName>GX_ATTACK</iconName>
+			<desc>적 함선 1대를 자신 공격력의 ###%로 공격한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>2</kindNum>
+			<code>ATTACK2</code>
+			<castType>1</castType>
+			<name>함포공격2</name>
+			<iconName>GX_ATTACK</iconName>
+			<desc>적 함선 2대를 자신 공격력의 ###%로 공격한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>3</kindNum>
+			<code>ATTACK3</code>
+			<castType>1</castType>
+			<name>함포공격3</name>
+			<iconName>GX_ATTACK</iconName>
+			<desc>적 함선 3대를 자신 공격력의 ###%로 공격한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>4</kindNum>
+			<code>ATTACK4</code>
+			<castType>1</castType>
+			<name>함포공격4</name>
+			<iconName>GX_ATTACK</iconName>
+			<desc>적 함선 4대를 자신 공격력의 ###%로 공격한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>5</kindNum>
+			<code>ATTACK5</code>
+			<castType>1</castType>
+			<name>함포공격5</name>
+			<iconName>GX_ATTACK</iconName>
+			<desc>적 함선 5대를 자신 공격력의 ###%로 공격한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>6</kindNum>
+			<code>REPAIR1</code>
+			<castType>0</castType>
+			<name>수리1</name>
+			<iconName>GX_REPAIR</iconName>
+			<desc>자신의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>7</kindNum>
+			<code>REPAIR2</code>
+			<castType>0</castType>
+			<name>수리2</name>
+			<iconName>GX_REPAIR</iconName>
+			<desc>아군 비공정 2대의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>8</kindNum>
+			<code>REPAIR3</code>
+			<castType>0</castType>
+			<name>수리3</name>
+			<iconName>GX_REPAIR</iconName>
+			<desc>아군 비공정 3대의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>9</kindNum>
+			<code>REPAIR4</code>
+			<castType>0</castType>
+			<name>수리4</name>
+			<iconName>GX_REPAIR</iconName>
+			<desc>아군 비공정 4대의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>10</kindNum>
+			<code>REPAIR5</code>
+			<castType>0</castType>
+			<name>수리5</name>
+			<iconName>GX_REPAIR</iconName>
+			<desc>아군 비공정 5대의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>11</kindNum>
+			<code>ENERGYUP</code>
+			<castType>0</castType>
+			<name>에너지 획득</name>
+			<iconName>GX_ENERGY</iconName>
+			<desc>에너지를 ###부터 @@@까지 랜덤하게 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>12</kindNum>
+			<code>SHIELD1</code>
+			<castType>0</castType>
+			<name>보호막 1</name>
+			<iconName>GX_SHIELD</iconName>
+			<desc>방어막을 형성하여 공격을 무효화 시킨다 .( ###%로 방어막은 사라진다. )</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>13</kindNum>
+			<code>SHIELD2</code>
+			<castType>0</castType>
+			<name>보호막 2</name>
+			<iconName>GX_SHIELD</iconName>
+			<desc>아군 비공정 2대에 방어막을 형성하여 공격을 무효화 시킨다 .( ###%로 방어막은 사라진다. )</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>14</kindNum>
+			<code>SHIELD3</code>
+			<castType>0</castType>
+			<name>보호막 3</name>
+			<iconName>GX_SHIELD</iconName>
+			<desc>아군 비공정 3대에 방어막을 형성하여 공격을 무효화 시킨다 .( ###%로 방어막은 사라진다. )</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>15</kindNum>
+			<code>SHIELD4</code>
+			<castType>0</castType>
+			<name>보호막 4</name>
+			<iconName>GX_SHIELD</iconName>
+			<desc>아군 비공정 4대에 방어막을 형성하여 공격을 무효화 시킨다 .( ###%로 방어막은 사라진다. )</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>16</kindNum>
+			<code>SHIELD5</code>
+			<castType>0</castType>
+			<name>보호막 5</name>
+			<iconName>GX_SHIELD</iconName>
+			<desc>아군 비공정 5대에 방어막을 형성하여 공격을 무효화 시킨다 .( ###%로 방어막은 사라진다. )</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>17</kindNum>
+			<code>ASUP1</code>
+			<castType>1</castType>
+			<name>공격속도증가 1</name>
+			<iconName>GX_ATTACKSPEED</iconName>
+			<desc>5턴동안 자신의 공격속도를 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>18</kindNum>
+			<code>ASUP2</code>
+			<castType>1</castType>
+			<name>공격속도증가 2</name>
+			<iconName>GX_ATTACKSPEED</iconName>
+			<desc>5턴동안 아군 비공정 2대의 공격속도를 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>19</kindNum>
+			<code>ASUP3</code>
+			<castType>1</castType>
+			<name>공격속도증가 3</name>
+			<iconName>GX_ATTACKSPEED</iconName>
+			<desc>5턴동안 아군 비공정 3대의 공격속도를 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>20</kindNum>
+			<code>ASUP4</code>
+			<castType>1</castType>
+			<name>공격속도증가 4</name>
+			<iconName>GX_ATTACKSPEED</iconName>
+			<desc>5턴동안 아군 비공정 4대의 공격속도를 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>21</kindNum>
+			<code>ASUP5</code>
+			<castType>1</castType>
+			<name>공격속도증가 5</name>
+			<iconName>GX_ATTACKSPEED</iconName>
+			<desc>5턴동안 아군 비공정 5대의 공격속도를 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>22</kindNum>
+			<code>AKUP1</code>
+			<castType>1</castType>
+			<name>공격력증가 1</name>
+			<iconName>GX_ATTACKDAMAGE</iconName>
+			<desc>5턴동안 자신의 공격력을 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>23</kindNum>
+			<code>AKUP2</code>
+			<castType>1</castType>
+			<name>공격력증가 2</name>
+			<iconName>GX_ATTACKDAMAGE</iconName>
+			<desc>5턴동안 아군 비공정 2대의 공격력을 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>24</kindNum>
+			<code>AKUP3</code>
+			<castType>1</castType>
+			<name>공격력증가 3</name>
+			<iconName>GX_ATTACKDAMAGE</iconName>
+			<desc>5턴동안 아군 비공정 3대의 공격력을 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>25</kindNum>
+			<code>AKUP4</code>
+			<castType>1</castType>
+			<name>공격력증가 4</name>
+			<iconName>GX_ATTACKDAMAGE</iconName>
+			<desc>5턴동안 아군 비공정 4대의 공격력을 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>26</kindNum>
+			<code>AKUP5</code>
+			<castType>1</castType>
+			<name>공격력증가 5</name>
+			<iconName>GX_ATTACKDAMAGE</iconName>
+			<desc>5턴동안 아군 비공정 5대의 공격력을 ###%만큼 올려준다. </desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>27</kindNum>
+			<code>REVIVE</code>
+			<castType>0</castType>
+			<name>복구</name>
+			<iconName>GX_REVIVE</iconName>
+			<desc>파괴된 비공정 하나를 내구도 ###%로 복구한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>28</kindNum>
+			<code>SAILUP</code>
+			<castType>0</castType>
+			<name>항해도증가</name>
+			<iconName>GX_SAIL</iconName>
+			<desc>항해도를 ###부터 @@@까지 랜덤하게 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>29</kindNum>
+			<code>SAILDOWN</code>
+			<castType>0</castType>
+			<name>항해도감소</name>
+			<iconName>GX_SAIL_DOWN</iconName>
+			<desc>항해도를 ###부터 @@@까지 랜덤하게 낮춘다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>30</kindNum>
+			<code>CLOCKING1</code>
+			<castType>1</castType>
+			<name>은폐 1</name>
+			<iconName>GX_CLOAKING</iconName>
+			<desc>5턴동안 자신을 은폐시켜, 회피도를 ###% 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>31</kindNum>
+			<code>CLOCKING2</code>
+			<castType>1</castType>
+			<name>은폐 2</name>
+			<iconName>GX_CLOAKING</iconName>
+			<desc>4턴동안 아군 비공정 2대를 은폐시켜, 회피도를 ###% 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>32</kindNum>
+			<code>CLOCKING3</code>
+			<castType>1</castType>
+			<name>은폐 3</name>
+			<iconName>GX_CLOAKING</iconName>
+			<desc>4턴동안 아군 비공정 3대를 은폐시켜, 회피도를 ###% 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>33</kindNum>
+			<code>CLOCKING4</code>
+			<castType>1</castType>
+			<name>은폐 4</name>
+			<iconName>GX_CLOAKING</iconName>
+			<desc>3턴동안 아군 비공정 4대를 은폐시켜, 회피도를 ###% 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>34</kindNum>
+			<code>CLOCKING5</code>
+			<castType>1</castType>
+			<name>은폐 5</name>
+			<iconName>GX_CLOAKING</iconName>
+			<desc>3턴동안 아군 비공정 5대를 은폐시켜, 회피도를 ###% 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>35</kindNum>
+			<code>LIGHTENING1</code>
+			<castType>1</castType>
+			<name>전격 1</name>
+			<iconName>GX_LIGHTENING</iconName>
+			<desc>적 함선들을 ###%의 확률로 1턴동안 불능상태로 만든다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>36</kindNum>
+			<code>LIGHTENING2</code>
+			<castType>1</castType>
+			<name>전격 2</name>
+			<iconName>GX_LIGHTENING</iconName>
+			<desc>적 함선들을 ###%의 확률로 2턴동안 불능상태로 만든다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>37</kindNum>
+			<code>LIGHTENING3</code>
+			<castType>1</castType>
+			<name>전격 3</name>
+			<iconName>GX_LIGHTENING</iconName>
+			<desc>적 함선들을 ###%의 확률로 2턴동안 불능상태로 만든다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>38</kindNum>
+			<code>LIGHTENING4</code>
+			<castType>1</castType>
+			<name>전격 4</name>
+			<iconName>GX_LIGHTENING</iconName>
+			<desc>적 함선들을 ###%의 확률로 3턴동안 불능상태로 만든다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>39</kindNum>
+			<code>LIGHTENING5</code>
+			<castType>1</castType>
+			<name>전격 5</name>
+			<iconName>GX_LIGHTENING</iconName>
+			<desc>적 함선들을 ###%의 확률로 3턴동안 불능상태로 만든다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>40</kindNum>
+			<code>ENERGYCOSTDOWN</code>
+			<castType>0</castType>
+			<name>에너지소비 감소</name>
+			<iconName>GX_ENERGYCOSTDOWN</iconName>
+			<desc>에너지 소비를 ###부터 @@@까지 랜덤하게 줄여준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>41</kindNum>
+			<code>LUCKUP</code>
+			<castType>0</castType>
+			<name>행운력 증가</name>
+			<iconName>GX_CLOVER</iconName>
+			<desc>행운을 ###부터 @@@까지 랜덤하게 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>42</kindNum>
+			<code>SEARCHUP</code>
+			<castType>0</castType>
+			<name>탐색능력 증가</name>
+			<iconName>GX_SEARCH</iconName>
+			<desc>탐색능력을 ###부터 @@@까지 랜덤하게 올려준다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>43</kindNum>
+			<code>CURSE1</code>
+			<castType>1</castType>
+			<name>저주 1</name>
+			<iconName>GX_CURSE</iconName>
+			<desc>5턴동안 적 함선 1대의 공격속도를 하락시키고, 적중도를 ###% 하락시킨다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>44</kindNum>
+			<code>CURSE2</code>
+			<castType>1</castType>
+			<name>저주 2</name>
+			<iconName>GX_CURSE</iconName>
+			<desc>4턴동안 적 함선 2대의 공격속도를 하락시키고, 적중도를 ###% 하락시킨다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>45</kindNum>
+			<code>CURSE3</code>
+			<castType>1</castType>
+			<name>저주 3</name>
+			<iconName>GX_CURSE</iconName>
+			<desc>4턴동안 적 함선 3대의 공격속도를 하락시키고, 적중도를 ###% 하락시킨다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>46</kindNum>
+			<code>CURSE4</code>
+			<castType>1</castType>
+			<name>저주 4</name>
+			<iconName>GX_CURSE</iconName>
+			<desc>3턴동안 적 함선 4대의 공격속도를 하락시키고, 적중도를 ###% 하락시킨다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>47</kindNum>
+			<code>CURSE5</code>
+			<castType>1</castType>
+			<name>저주 5</name>
+			<iconName>GX_CURSE</iconName>
+			<desc>3턴동안 적 함선 5대의 공격속도를 하락시키고, 적중도를 ###% 하락시킨다</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>48</kindNum>
+			<code>POISON1</code>
+			<castType>1</castType>
+			<name>독무 1</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 1대의 공격속도를 하락시키고, 탐색능력을 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>49</kindNum>
+			<code>POISON2</code>
+			<castType>1</castType>
+			<name>독무 2</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 2대의 공격속도를 하락시키고, 탐색능력을 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>50</kindNum>
+			<code>POISON3</code>
+			<castType>1</castType>
+			<name>독무 3</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 3대의 공격속도를 하락시키고, 탐색능력을 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>51</kindNum>
+			<code>POISON4</code>
+			<castType>1</castType>
+			<name>독무 4</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 4대의 공격속도를 하락시키고, 탐색능력을 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>52</kindNum>
+			<code>POISON5</code>
+			<castType>1</castType>
+			<name>독무 5</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 5대의 공격속도를 하락시키고, 탐색능력을 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>53</kindNum>
+			<code>FIREBALL1</code>
+			<castType>1</castType>
+			<name>파이어볼 1</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 1대의 공격속도를 하락시키고, 수송능력 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>54</kindNum>
+			<code>FIREBALL2</code>
+			<castType>1</castType>
+			<name>파이어볼 2</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 2대의 공격속도를 하락시키고, 수송능력 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>55</kindNum>
+			<code>FIREBALL3</code>
+			<castType>1</castType>
+			<name>파이어볼 3</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 3대의 공격속도를 하락시키고, 수송능력 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>56</kindNum>
+			<code>FIREBALL4</code>
+			<castType>1</castType>
+			<name>파이어볼 4</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 4대의 공격속도를 하락시키고, 수송능력 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>57</kindNum>
+			<code>FIREBALL5</code>
+			<castType>1</castType>
+			<name>파이어볼 5</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 5대의 공격속도를 하락시키고, 수송능력 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>58</kindNum>
+			<code>ICEPRISON1</code>
+			<castType>1</castType>
+			<name>아이스볼 1</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 1대의 공격속도를 하락시키고, 에너지를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>59</kindNum>
+			<code>ICEPRISON2</code>
+			<castType>1</castType>
+			<name>아이스볼 2</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 2대의 공격속도를 하락시키고, 에너지를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>60</kindNum>
+			<code>ICEPRISON3</code>
+			<castType>1</castType>
+			<name>아이스볼 3</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 3대의 공격속도를 하락시키고, 에너지를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>61</kindNum>
+			<code>ICEPRISON4</code>
+			<castType>1</castType>
+			<name>아이스볼 4</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 4대의 공격속도를 하락시키고, 에너지를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>62</kindNum>
+			<code>ICEPRISON5</code>
+			<castType>1</castType>
+			<name>아이스볼 5</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 5대의 공격속도를 하락시키고, 에너지를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>63</kindNum>
+			<code>JUNGLE1</code>
+			<castType>1</castType>
+			<name>넝쿨 1</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 1대의 공격속도를 하락시키고, 항해도를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>64</kindNum>
+			<code>JUNGLE2</code>
+			<castType>1</castType>
+			<name>넝쿨 2</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 2대의 공격속도를 하락시키고, 항해도를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>65</kindNum>
+			<code>JUNGLE3</code>
+			<castType>1</castType>
+			<name>넝쿨 3</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 3대의 공격속도를 하락시키고, 항해도를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>66</kindNum>
+			<code>JUNGLE4</code>
+			<castType>1</castType>
+			<name>넝쿨 4</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 4대의 공격속도를 하락시키고, 항해도를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>67</kindNum>
+			<code>JUNGLE5</code>
+			<castType>1</castType>
+			<name>넝쿨 5</name>
+			<iconName>X</iconName>
+			<desc>일정시간동안 적 함선 5대의 공격속도를 하락시키고, 항해도를 떨어뜨린다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>68</kindNum>
+			<code>REMOVEFIRE</code>
+			<castType>0</castType>
+			<name>불 끄기</name>
+			<iconName>GX_RMFIRE</iconName>
+			<desc>아군 전체의 불타는 효과를 제거하고, 각 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>69</kindNum>
+			<code>REMOVELIGHTENING</code>
+			<castType>0</castType>
+			<name>번개 제거</name>
+			<iconName>GX_RMLIGHTENING</iconName>
+			<desc>아군 전체의 라이트닝 효과를 제거하고, 각 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>70</kindNum>
+			<code>REMOVEPOISON</code>
+			<castType>0</castType>
+			<name>독 제거</name>
+			<iconName>GX_RMPOISON</iconName>
+			<desc>아군 전체의 독무를 제거하고, 각 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>71</kindNum>
+			<code>REMOVETREE</code>
+			<castType>0</castType>
+			<name>덩굴 제거</name>
+			<iconName>GX_RMTREE</iconName>
+			<desc>아군 전체의 덩굴 효과를 제거하고, 각 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>72</kindNum>
+			<code>REMOVEFREEZE</code>
+			<castType>0</castType>
+			<name>얼음 제거</name>
+			<iconName>GX_RMFREEZE</iconName>
+			<desc>아군 전체의 얼림 효과를 제거하고, 각 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>73</kindNum>
+			<code>REMOVECURSE</code>
+			<castType>0</castType>
+			<name>저주 제거</name>
+			<iconName>GX_RMCURSE</iconName>
+			<desc>아군 전체의 저주를 제거하고, 각 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>74</kindNum>
+			<code>REMOVESHIELD</code>
+			<castType>0</castType>
+			<name>보호막 제거</name>
+			<iconName>GX_RMSHIELD</iconName>
+			<desc>적군 전체의 보호막을 제거하고, 아군 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>75</kindNum>
+			<code>REMOVECLOAKING</code>
+			<castType>0</castType>
+			<name>은폐 제거</name>
+			<iconName>GX_RMCLOAKING</iconName>
+			<desc>적군 전체의 은폐효과를 제거하고, 아군 비공정의 내구도를 회복력의 ###%만큼 수리한다.</desc>
+		</shipNormalSkill>
+		<shipNormalSkill>
+			<kindNum>76</kindNum>
+			<code>CAPACITYUP</code>
+			<castType>0</castType>
+			<name>적재량 증가</name>
+			<iconName>GX_CAPACITY</iconName>
+			<desc>적재량을 ###만큼 올려준다.</desc>
+		</shipNormalSkill>
+	</shipNormalSkillList>
+	<shipNsCostList>
+		<shipNsCost>
+			<grade>1</grade>
+			<maxEnhance>10</maxEnhance>
+			<gem>100|0|100|0|100|0|100|0|100|0</gem>
+			<coin>0|100|0|100|0|100|0|100|0|100</coin>
+		</shipNsCost>
+		<shipNsCost>
+			<grade>2</grade>
+			<maxEnhance>10</maxEnhance>
+			<gem>200|0|200|0|200|0|200|0|200|0|200|0</gem>
+			<coin>0|200|0|200|0|200|0|200|0|200|0|200</coin>
+		</shipNsCost>
+		<shipNsCost>
+			<grade>3</grade>
+			<maxEnhance>10</maxEnhance>
+			<gem>300|0|300|0|300|0|300|0|300|0|300|0|300|0</gem>
+			<coin>0|300|0|300|0|300|0|300|0|300|0|300|0|300</coin>
+		</shipNsCost>
+		<shipNsCost>
+			<grade>4</grade>
+			<maxEnhance>10</maxEnhance>
+			<gem>400|0|400|0|400|0|400|0|400|0|400|0|400|0|400|0|500</gem>
+			<coin>0|400|0|400|0|400|0|400|0|400|0|400|0|400|0|400|0</coin>
+		</shipNsCost>
+		<shipNsCost>
+			<grade>5</grade>
+			<maxEnhance>10</maxEnhance>
+			<gem>500|0|500|0|500|0|500|0|500|0|500|0|500|0|500|0|500|0|500|0</gem>
+			<coin>0|500|0|500|0|500|0|500|0|500|0|500|0|500|0|500|0|500|0|500</coin>
+		</shipNsCost>
+	</shipNsCostList>
+	<shipNsLevelUpNumList>
+		<shipNsLevelUpNum>
+			<level>1</level>
+			<numNsLevelUp>5|4|3</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>2</level>
+			<numNsLevelUp>8|6|4</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>3</level>
+			<numNsLevelUp>11|9|7</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>4</level>
+			<numNsLevelUp>12|10|9|7</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>5</level>
+			<numNsLevelUp>14|12|11|10</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>6</level>
+			<numNsLevelUp>16|14|13|12</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>7</level>
+			<numNsLevelUp>16|14|14|12|10</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>8</level>
+			<numNsLevelUp>18|16|16|14|12</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>9</level>
+			<numNsLevelUp>20|18|18|16|14</numNsLevelUp>
+		</shipNsLevelUpNum>
+		<shipNsLevelUpNum>
+			<level>10</level>
+			<numNsLevelUp>22|20|20|18|16</numNsLevelUp>
+		</shipNsLevelUpNum>
+	</shipNsLevelUpNumList>
+</main>

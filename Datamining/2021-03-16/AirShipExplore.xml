@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<result>SUCCESS</result>
+	<shipExploreList>
+		<shipExplore>
+			<kindNum>1</kindNum>
+			<name>차원의 틈새 감시</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>2</kindNum>
+			<name>만만한 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>3</kindNum>
+			<name>사나운 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>4</kindNum>
+			<name>수정 원석 채굴</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>5</kindNum>
+			<name>쎄보이는 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>6</kindNum>
+			<name>강력한 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>7</kindNum>
+			<name>이계 종족의 침략 방어</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>8</kindNum>
+			<name>차원의 수정 보급</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>9</kindNum>
+			<name>적 수정 채굴지 파괴</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>10</kindNum>
+			<name>거대 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>11</kindNum>
+			<name>초거대 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>12</kindNum>
+			<name>음모의 흑마법사 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>13</kindNum>
+			<name>이계의 흑마법사 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>14</kindNum>
+			<name>차원 전쟁의 배후 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>15</kindNum>
+			<name>이계의 군단 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>16</kindNum>
+			<name>이계의 군단장 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>17</kindNum>
+			<name>이계의 마왕 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>18</kindNum>
+			<name>차원간 평화 사절단 파견</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>19</kindNum>
+			<name>1차 차원간 평화협상</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>20</kindNum>
+			<name>2차 차원간 평화협상</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>21</kindNum>
+			<name>정예 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>22</kindNum>
+			<name>E-772 차원의 멸망 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>23</kindNum>
+			<name>황금 기사단의 존재 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>24</kindNum>
+			<name>고대 파괴신 부활 저지</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>25</kindNum>
+			<name>차원수 대침공 방어</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>26</kindNum>
+			<name>제1차 차원 대전 준비</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>27</kindNum>
+			<name>차원수 10억 마리 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>28</kindNum>
+			<name>차원수 50억 마리 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>29</kindNum>
+			<name>지휘관 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>30</kindNum>
+			<name>신의 기사단장 구출</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>31</kindNum>
+			<name>소행성급 차원수 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>32</kindNum>
+			<name>차원수 100억마리 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>33</kindNum>
+			<name>고대 파괴신 부활! 결전 준비</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>34</kindNum>
+			<name>고대 파괴신 처치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>35</kindNum>
+			<name>전쟁 복구하기</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>36</kindNum>
+			<name>고대 초월 문명 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>37</kindNum>
+			<name>차원수 섬멸하기</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>38</kindNum>
+			<name>미발견 고대 병기고 탐사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>39</kindNum>
+			<name>고대행성 파괴 유물 발견</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>40</kindNum>
+			<name>고대 최종병기 아마겟돈 발굴</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>41</kindNum>
+			<name>차원수 행성 탐사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>42</kindNum>
+			<name>비공정 물자 운송</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>43</kindNum>
+			<name>고고학자 호위</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>44</kindNum>
+			<name>해독제 보급</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>45</kindNum>
+			<name>거대 깃털 수집</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>46</kindNum>
+			<name>불타는 바위 제거</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>47</kindNum>
+			<name>습격 방어</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>48</kindNum>
+			<name>오아시스 탐색</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>49</kindNum>
+			<name>검은 바위 제거</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>50</kindNum>
+			<name>마법진 파괴</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>51</kindNum>
+			<name>거대 갑옷 운송</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>52</kindNum>
+			<name>실종자 수색</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>53</kindNum>
+			<name>거대 몬스터의 난동</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>54</kindNum>
+			<name>거대 그물 설치</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>55</kindNum>
+			<name>이름없는 조각상 파괴</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>56</kindNum>
+			<name>단단한 껍질 운송</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>57</kindNum>
+			<name>비행 몬스터의 습격</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>58</kindNum>
+			<name>악마 소환 저지</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>59</kindNum>
+			<name>거대 둥지 제거</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>60</kindNum>
+			<name>블랙 드래곤의 뼈 운송</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>61</kindNum>
+			<name>고대 유적지 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>62</kindNum>
+			<name>얼음 보호막 제거</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>63</kindNum>
+			<name>얼음숲의 열매</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>64</kindNum>
+			<name>얼음 동굴</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>65</kindNum>
+			<name>설산 구조</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>66</kindNum>
+			<name>어둠의 성 정찰</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>67</kindNum>
+			<name>차원의 틈 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>68</kindNum>
+			<name>몬스터 포획</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>69</kindNum>
+			<name>차원의 수정 실험</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>70</kindNum>
+			<name>침략 방어 훈련</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>71</kindNum>
+			<name>차원의 수정 보급</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>72</kindNum>
+			<name>몬스터 관찰</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>73</kindNum>
+			<name>모의 훈련</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>74</kindNum>
+			<name>조사단 파견</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>75</kindNum>
+			<name>임시 주둔지 건설</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>76</kindNum>
+			<name>사절단 호위</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>77</kindNum>
+			<name>잊혀진 기사단 조사</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>78</kindNum>
+			<name>어둠의 교단 토벌</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>79</kindNum>
+			<name>기습 작전 수행</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>80</kindNum>
+			<name>차원 이동</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>81</kindNum>
+			<name>거대 몬스터의 습격</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>82</kindNum>
+			<name>구출작전</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>83</kindNum>
+			<name>소행성 탈출</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>84</kindNum>
+			<name>차원의 문 수리</name>
+		</shipExplore>
+		<shipExplore>
+			<kindNum>85</kindNum>
+			<name>고대 무기 테스트</name>
+		</shipExplore>
+	</shipExploreList>
+	<shipExploreRewardList>
+		<shipExploreReward>
+			<kindNum>1</kindNum>
+			<tribe>1</tribe>
+			<mainType>1</mainType>
+			<subType>1</subType>
+			<reward>1|2|3</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>2</kindNum>
+			<tribe>1</tribe>
+			<mainType>1</mainType>
+			<subType>2</subType>
+			<reward>4|5|6</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>3</kindNum>
+			<tribe>1</tribe>
+			<mainType>1</mainType>
+			<subType>3</subType>
+			<reward>7|8|9</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>4</kindNum>
+			<tribe>1</tribe>
+			<mainType>2</mainType>
+			<subType>1</subType>
+			<reward>37|42|45|48</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>5</kindNum>
+			<tribe>1</tribe>
+			<mainType>2</mainType>
+			<subType>2</subType>
+			<reward>52|56|60</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>6</kindNum>
+			<tribe>1</tribe>
+			<mainType>2</mainType>
+			<subType>3</subType>
+			<reward>64|68|72</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>7</kindNum>
+			<tribe>1</tribe>
+			<mainType>3</mainType>
+			<subType>1</subType>
+			<reward>76|80|84</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>8</kindNum>
+			<tribe>1</tribe>
+			<mainType>3</mainType>
+			<subType>2</subType>
+			<reward>88|92</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>9</kindNum>
+			<tribe>1</tribe>
+			<mainType>3</mainType>
+			<subType>3</subType>
+			<reward>96|100</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>10</kindNum>
+			<tribe>1</tribe>
+			<mainType>4</mainType>
+			<subType>1</subType>
+			<reward>104</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>11</kindNum>
+			<tribe>1</tribe>
+			<mainType>4</mainType>
+			<subType>2</subType>
+			<reward>104</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>12</kindNum>
+			<tribe>1</tribe>
+			<mainType>4</mainType>
+			<subType>3</subType>
+			<reward>104</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>13</kindNum>
+			<tribe>2</tribe>
+			<mainType>1</mainType>
+			<subType>1</subType>
+			<reward>10|11|12</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>14</kindNum>
+			<tribe>2</tribe>
+			<mainType>1</mainType>
+			<subType>2</subType>
+			<reward>13|14|15</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>15</kindNum>
+			<tribe>2</tribe>
+			<mainType>1</mainType>
+			<subType>3</subType>
+			<reward>16|17|18</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>16</kindNum>
+			<tribe>2</tribe>
+			<mainType>2</mainType>
+			<subType>1</subType>
+			<reward>38|43|46|49</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>17</kindNum>
+			<tribe>2</tribe>
+			<mainType>2</mainType>
+			<subType>2</subType>
+			<reward>53|57|61</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>18</kindNum>
+			<tribe>2</tribe>
+			<mainType>2</mainType>
+			<subType>3</subType>
+			<reward>65|69|73</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>19</kindNum>
+			<tribe>2</tribe>
+			<mainType>3</mainType>
+			<subType>1</subType>
+			<reward>77|81|85</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>20</kindNum>
+			<tribe>2</tribe>
+			<mainType>3</mainType>
+			<subType>2</subType>
+			<reward>89|93</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>21</kindNum>
+			<tribe>2</tribe>
+			<mainType>3</mainType>
+			<subType>3</subType>
+			<reward>97|101</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>22</kindNum>
+			<tribe>2</tribe>
+			<mainType>4</mainType>
+			<subType>1</subType>
+			<reward>105</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>23</kindNum>
+			<tribe>2</tribe>
+			<mainType>4</mainType>
+			<subType>2</subType>
+			<reward>105</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>24</kindNum>
+			<tribe>2</tribe>
+			<mainType>4</mainType>
+			<subType>3</subType>
+			<reward>105</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>25</kindNum>
+			<tribe>3</tribe>
+			<mainType>1</mainType>
+			<subType>1</subType>
+			<reward>19|20|21</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>26</kindNum>
+			<tribe>3</tribe>
+			<mainType>1</mainType>
+			<subType>2</subType>
+			<reward>22|23|24</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>27</kindNum>
+			<tribe>3</tribe>
+			<mainType>1</mainType>
+			<subType>3</subType>
+			<reward>25|26|27</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>28</kindNum>
+			<tribe>3</tribe>
+			<mainType>2</mainType>
+			<subType>1</subType>
+			<reward>39|44|47|50</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>29</kindNum>
+			<tribe>3</tribe>
+			<mainType>2</mainType>
+			<subType>2</subType>
+			<reward>54|58|62</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>30</kindNum>
+			<tribe>3</tribe>
+			<mainType>2</mainType>
+			<subType>3</subType>
+			<reward>66|70|74</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>31</kindNum>
+			<tribe>3</tribe>
+			<mainType>3</mainType>
+			<subType>1</subType>
+			<reward>78|82|86</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>32</kindNum>
+			<tribe>3</tribe>
+			<mainType>3</mainType>
+			<subType>2</subType>
+			<reward>90|94</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>33</kindNum>
+			<tribe>3</tribe>
+			<mainType>3</mainType>
+			<subType>3</subType>
+			<reward>98|102</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>34</kindNum>
+			<tribe>3</tribe>
+			<mainType>4</mainType>
+			<subType>1</subType>
+			<reward>106</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>35</kindNum>
+			<tribe>3</tribe>
+			<mainType>4</mainType>
+			<subType>2</subType>
+			<reward>106</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>36</kindNum>
+			<tribe>3</tribe>
+			<mainType>4</mainType>
+			<subType>3</subType>
+			<reward>106</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>37</kindNum>
+			<tribe>4</tribe>
+			<mainType>1</mainType>
+			<subType>1</subType>
+			<reward>28|29|30</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>38</kindNum>
+			<tribe>4</tribe>
+			<mainType>1</mainType>
+			<subType>2</subType>
+			<reward>31|32|33</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>39</kindNum>
+			<tribe>4</tribe>
+			<mainType>1</mainType>
+			<subType>3</subType>
+			<reward>34|35|36</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>40</kindNum>
+			<tribe>4</tribe>
+			<mainType>2</mainType>
+			<subType>1</subType>
+			<reward>40|41|51</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>41</kindNum>
+			<tribe>4</tribe>
+			<mainType>2</mainType>
+			<subType>2</subType>
+			<reward>55|59|63</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>42</kindNum>
+			<tribe>4</tribe>
+			<mainType>2</mainType>
+			<subType>3</subType>
+			<reward>67|71|75</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>43</kindNum>
+			<tribe>4</tribe>
+			<mainType>3</mainType>
+			<subType>1</subType>
+			<reward>79|83|87</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>44</kindNum>
+			<tribe>4</tribe>
+			<mainType>3</mainType>
+			<subType>2</subType>
+			<reward>91|95</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>45</kindNum>
+			<tribe>4</tribe>
+			<mainType>3</mainType>
+			<subType>3</subType>
+			<reward>99|103</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>46</kindNum>
+			<tribe>4</tribe>
+			<mainType>4</mainType>
+			<subType>1</subType>
+			<reward>107</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>47</kindNum>
+			<tribe>4</tribe>
+			<mainType>4</mainType>
+			<subType>2</subType>
+			<reward>107</reward>
+		</shipExploreReward>
+		<shipExploreReward>
+			<kindNum>48</kindNum>
+			<tribe>4</tribe>
+			<mainType>4</mainType>
+			<subType>3</subType>
+			<reward>107</reward>
+		</shipExploreReward>
+	</shipExploreRewardList>
+	<shipExploreLevelList>
+		<shipExploreLevel>
+			<level>1</level>
+			<exp>0</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>2</level>
+			<exp>490</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>3</level>
+			<exp>1230</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>4</level>
+			<exp>2340</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>5</level>
+			<exp>4120</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>6</level>
+			<exp>6970</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>7</level>
+			<exp>11820</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>8</level>
+			<exp>20070</exp>
+		</shipExploreLevel>
+		<shipExploreLevel>
+			<level>9</level>
+			<exp>34920</exp>
+		</shipExploreLevel>
+	</shipExploreLevelList>
+</main>
